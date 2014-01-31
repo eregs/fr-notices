@@ -1905,48 +1905,6 @@
             </SUBPART>
           </REGTEXT>
           <REGTEXT PART="34" TITLE="12">
-            <AMDPAR>2. Section 34.202 is amended by redesignating paragraphs (a) through (c) as paragraphs (b) through (d), respectively, and adding a new paragraph (a) to read as follows:</AMDPAR>
-            <SECTION>
-              <SECTNO>&#xA7; 34.202</SECTNO>
-              <SUBJECT>Definitions applicable to higher-priced mortgage loans.</SUBJECT>
-              <P>(a) Consummation has the same meaning as in 12 CFR 1026.2(a)(13).</P>
-              <STARS/>
-            </SECTION>
-          </REGTEXT>
-          <REGTEXT PART="34" TITLE="12">
-            <AMDPAR>3a. Section 34.203 is amended by:</AMDPAR>
-            <AMDPAR>a. Redesignating paragraphs (a)(2), (3), and (4) as paragraphs (a)(3), (5), and (7), respectively, and republishing them;</AMDPAR>
-            <AMDPAR>b. Adding new paragraphs (a)(2) and (4) and paragraph (a)(6);</AMDPAR>
-            <AMDPAR>c. Revising paragraphs (b) introductory text and (b)(1) and (2); and</AMDPAR>
-            <AMDPAR>d. Adding paragraphs (b)(7) and (8).</AMDPAR>
-            <P>The additions and revisions read as follows:</P>
-            <SECTION>
-              <SECTNO>&#xA7; 34.203</SECTNO>
-              <SUBJECT>Appraisals for higher priced mortgage loans.</SUBJECT>
-              <P>(a)<E T="03">Definitions.</E>For purposes of this section:</P>
-              <STARS/>
-              <P>(2)<E T="03">Credit risk</E>means the financial risk that a consumer will default on a loan.<PRTPAGE P="78580"/>
-              </P>
-              <P>(3)<E T="03">Manufactured home</E>has the same meaning as in 24 CFR 3280.2.</P>
-              <P>(4)<E T="03">Manufacturer's invoice</E>means a document issued by a manufacturer and provided with a manufactured home to a retail dealer that separately details the wholesale (base) prices at the factory for specific models or series of manufactured homes and itemized options (large appliances, built-in items and equipment), plus actual itemized charges for freight from the factory to the dealer's lot or the homesite (including any rental of wheels and axles) and for any sales taxes to be paid by the dealer. The invoice may recite such prices and charges on an itemized basis or by stating an aggregate price or charge, as appropriate, for each category.</P>
-              <P>(5)<E T="03">National Registry</E>means the database of information about State certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.</P>
-              <P>(6)<E T="03">New manufactured home</E>means a manufactured home that has not been previously occupied.</P>
-              <P>(7)<E T="03">State agency</E>means a &#x201C;State appraiser certifying and licensing agency&#x201D; recognized in accordance with section 1118(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3347(b)) and any implementing regulations.</P>
-              <P>(b)<E T="03">Exemptions.</E>Unless otherwise specified, the requirements in paragraph (c) through (f) of this section do not apply to the following types of transactions:</P>
-              <P>(1) A loan that satisfies the criteria of a qualified mortgage as defined pursuant to 15 U.S.C. 1639c.</P>
-              <P>(2) An extension of credit for which the amount of credit extended is equal to or less than the applicable threshold amount, which is adjusted every year to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as applicable, and published in the OCC official interpretations to this paragraph (b)(2).</P>
-              <STARS/>
-              <P>(7) An extension of credit that is a refinancing secured by a first lien, with refinancing defined as in 12 CFR 1026.20(a) (except that the creditor need not be the original creditor or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:</P>
-              <P>(i) Either&#x2014;</P>
-              <P>(A) The credit risk of the refinancing is retained by the person that held the credit risk of the existing obligation and there is no commitment, at consummation, to transfer the credit risk to another person; or</P>
-              <P>(B) The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;</P>
-              <P>(ii) The regular periodic payments under the refinance loan do not&#x2014;</P>
-              <P>(A) Cause the principal balance to increase;</P>
-              <P>(B) Allow the consumer to defer repayment of principal; or</P>
-              <P>(C) Result in a balloon payment, as defined in 12 CFR 1026.18(s)(5)(i); and</P>
-              <P>(iii) The proceeds from the refinancing are used solely to satisfy the existing obligation and to pay amounts attributed solely to the costs of the refinancing; and</P>
-              <P>(8) A transaction secured in whole or in part by a manufactured home.</P>
-            </SECTION>
             <AMDPAR>3b. Effective July 18, 2015, in &#xA7; 34.203, newly added paragraph (b)(8) is revised to read as follows:</AMDPAR>
             <SECTION>
               <SECTNO>&#xA7; 34.203</SECTNO>
@@ -1963,60 +1921,13 @@
             </SECTION>
           </REGTEXT>
           <REGTEXT PART="34" TITLE="12">
-            <AMDPAR>4. In Appendix A to Subpart G, republish the introductory text and revise paragraph 7 to read as follows:</AMDPAR>
-            <HD SOURCE="HD1">Appendix A to Subpart G&#x2014;Higher-Priced Mortgage Loan Appraisal Safe Harbor Review</HD>
-            <EXTRACT>
-              <P>To qualify for the safe harbor provided in &#xA7; 34.203(c)(2), a creditor must confirm that the written appraisal:</P>
-              <STARS/>
-              <P>7. Indicates that a physical property visit of the interior of the property was performed, as applicable.</P>
-              <STARS/>
-            </EXTRACT>
-            <HD SOURCE="HD1">Appendix C to Subpart G&#x2014;OCC Interpretations</HD>
-          </REGTEXT>
-          <REGTEXT PART="34" TITLE="12">
             <AMDPAR>5. In Appendix C to Subpart G:</AMDPAR>
-            <AMDPAR>a. Under the &#xA7; 34.203(b) entry, add paragraph 1 and add an entry for &#xA7; 34.203(b)(1);</AMDPAR>
-            <AMDPAR>c. Revise the &#xA7; 34.203(b)(2) entry;</AMDPAR>
-            <AMDPAR>d. Add paragraph 2 to the &#xA7; 34.203(b)(4) entry;</AMDPAR>
-            <AMDPAR>e. Add an entry for &#xA7; 34.203(b)(7);</AMDPAR>
             <AMDPAR>f. Effective July 18, 2015, add an entry for &#xA7; 34.203(b)(8); and</AMDPAR>
             <AMDPAR>g. In the &#xA7; 34.203(f)(2) entry, remove paragraph 2, redesignate paragraph 3 as paragraph 2, and revise it.</AMDPAR>
             <P>The additions and revisions read as follows:</P>
             <EXTRACT>
               <HD SOURCE="HD1">Section 34.203&#x2014;Appraisals for Higher-Priced Mortgage Loans</HD>
               <STARS/>
-              <HD SOURCE="HD3">34.203(b)Exemptions</HD>
-              <P>1.<E T="03">Compliance with title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA).</E>Section 34.203(b) provides exemptions solely from the requirements of &#xA7; 34.203(c) through (f). Institutions subject to the requirements of FIRREA and its implementing regulations that make a loan qualifying for an exemption under &#xA7; 34.203(b) must still comply with appraisal and evaluation requirements under FIRREA and its implementing regulations.</P>
-              <HD SOURCE="HD3">34.203(b)(1)Exemptions</HD>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(1)</HD>
-              <P>1.<E T="03">Qualified mortgage criteria.</E>Under &#xA7; 34.203(b)(1), a loan is exempt from the appraisal requirements of &#xA7; 34.203 if either:</P>
-              <P>i. The loan is&#x2014;(1) subject to the ability-to-repay requirements of the Consumer Financial Protection Bureau (Bureau) in 12 CFR 1026.43 as a &#x201C;covered transaction&#x201D; (defined in 12 CFR 1026.43(b)(1)) and (2) a qualified mortgage pursuant to the Bureau's rules or, for loans insured, guaranteed, or administered by the U.S. Department of Housing and Urban Development (HUD), U.S. Department of Veterans Affairs (VA), U.S. Department of Agriculture (USDA), or Rural Housing Service (RHS), a qualified mortgage pursuant to applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's definition of a qualified mortgage applies to those loans); or</P>
-
-              <P>ii. The loan is&#x2014;(1) not subject to the Bureau's ability-to-repay requirements in 12 CFR 1026.43 as a &#x201C;covered transaction&#x201D; (defined in 12 CFR 1026.43(b)(1)), but (2)<PRTPAGE P="78581"/>meets the criteria for a qualified mortgage in the Bureau's rules or, for loans insured, guaranteed, or administered by HUD, VA, USDA, or RHS, meets the criteria for a qualified mortgage in the applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's criteria for a qualified mortgage applies to those loans). To explain further, loans enumerated in 12 CFR 1026.43(a) are not &#x201C;covered transactions&#x201D; under the Bureau's ability-to-repay requirements in 12 CFR 1026.43, and thus cannot be qualified mortgages (entitled to a rebuttable presumption or safe harbor of compliance with the ability-to-repay requirements of 12 CFR 1026.43,<E T="03">see, e.g.,</E>12 CFR 1026.43(e)(1)). These include an extension of credit made pursuant to a program administered by a Housing Finance Agency, as defined under 24 CFR 266.5, or pursuant to a program authorized by sections 101 and 109 of the Emergency Economic Stabilization Act of 2008.<E T="03">See</E>12 CFR 1026.43(a)(3)(iv) and (vi). They also include extensions of credit made by a creditor identified in 12 CFR 1026.43(a)(3)(v). However, these loans are eligible for the exemption in &#xA7; 34.203(b)(1) if they meet the Bureau's qualified mortgage criteria in 12 CFR 1026.43(e)(2), (4), (5), or (6) or 12 CFR 1026.43(f) (including limits on when loans must be consummated) or, for loans that are insured, guaranteed, or administered by HUD, VA, USDA, or RHS, in applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's criteria for a qualified mortgage applies to those loans). For example, assume that HUD has prescribed rules to define loans insured under its programs that are qualified mortgages and those rules are in effect. Assume further that a creditor designated as a Community Development Financial Institution, as defined under 12 CFR 1805.104(h), originates a loan insured by the Federal Housing Administration, which is a part of HUD. The loan is not a &#x201C;covered transaction&#x201D; and thus is not a qualified mortgage.<E T="03">See</E>12 CFR 1026.43(a)(3)(v)(A) and (b)(1). Nonetheless, the transaction is eligible for an exemption from the appraisal requirements of &#xA7; 34.203(b)(1) if it meets the qualified mortgage criteria in HUD's rules. Nothing in &#xA7; 34.203(b)(1) alters the definition of a qualified mortgage under regulations of the Bureau, HUD, VA, USDA, or RHS.</P>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(2)</HD>
-              <P>1.<E T="03">Threshold amount.</E>For purposes of &#xA7; 34.203(b)(2), the threshold amount in effect during a particular one-year period is the amount stated below for that period. The threshold amount is adjusted effective January 1 of every year by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Every year, this comment will be amended to provide the threshold amount for the upcoming one-year period after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</P>
-              <P>i. From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</P>
-              <P>2.<E T="03">Qualifying for exemption&#x2014;in general.</E>A transaction is exempt under &#xA7; 34.203(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.</P>
-              <P>3.<E T="03">Qualifying for exemption&#x2014;subsequent changes.</E>A transaction does not meet the condition for an exemption under &#xA7; 34.203(b)(2) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a &#xA7; 34.203(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of &#xA7; 34.203 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of &#xA7; 34.203 applies.<E T="03">See</E>&#xA7; 34.203(b) and &#xA7; 34.203(d)(7).</P>
-              <STARS/>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(4)</HD>
-              <STARS/>
-              <P>2.<E T="03">Financing initial construction.</E>The exemption for construction loans in &#xA7; 34.203(b)(4) applies to temporary financing of the construction of a dwelling that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of manufactured homes that have not been or are in the process of being built when the financing obtained by the consumer at that time is permanent.<E T="03">See</E>&#xA7; 34.203(b)(8).</P>
-              <STARS/>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(7)</HD>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(7)(i)(A)</HD>
-              <P>1.<E T="03">Same credit risk holder.</E>The requirement that the holder of the credit risk on the existing obligation and the refinancing be the same applies to situations in which an entity bears the financial responsibility for the default of a loan by either holding the loan in its portfolio or guaranteeing payments of principal and any interest to investors in a mortgage-backed security in which the loan is pooled.<E T="03">See</E>&#xA7; 34.203(a)(2) (defining &#x201C;credit risk&#x201D;). For example, a credit risk holder could be a bank that bears the credit risk on the existing obligation by holding the loan in the bank's portfolio. Another example of a credit risk holder would be a government-sponsored enterprise that bears the risk of default on a loan by guaranteeing the payment of principal and any interest on a loan to investors in a mortgage-backed security. The holder of credit risk under &#xA7; 34.203(b)(7)(i)(A) does not mean individual investors in a mortgage-backed security or providers of private mortgage insurance.</P>
-              <P>2.<E T="03">Same credit risk holder&#x2014;illustrations.</E>
-              </P>
-              <P>Illustrations of the credit risk holder of the existing obligation continuing to be the credit risk holder of the refinancing include, but are not limited to, the following:</P>
-              <P>i. The existing obligation is held in the portfolio of a bank, thus the bank holds the credit risk. The bank arranges to refinance the loan and also will hold the refinancing in its portfolio. If the refinancing otherwise meets the requirements for an exemption under &#xA7; 34.203(b)(7), the transaction will qualify for the exemption because the credit risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the bank arranged to refinance the loan directly or indirectly, such as through the servicer or subservicer on the existing obligation.</P>
-              <P>ii. The existing obligation is held in the portfolio of a government-sponsored enterprise (GSE), thus the GSE holds the credit risk. The existing obligation is then refinanced by the servicer of the loan and immediately transferred to the GSE. The GSE pools the refinancing in a mortgage-backed security guaranteed by the GSE, thus the GSE holds the credit risk on the refinance loan. If the refinance transaction otherwise meets the requirements for an exemption under &#xA7; 34.203(b)(7), the transaction will qualify for the exemption because the credit risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the existing obligation was refinanced by the servicer or subservicer on the existing obligation (acting as a &#x201C;creditor&#x201D; under 12 CFR 1026.2(a)(17)) or by a different creditor.</P>
-              <P>3.<E T="03">Forward commitments.</E>A creditor may make a mortgage loan that will be sold or otherwise transferred pursuant to an agreement that has been entered into at or before the time the transaction is consummated. Such an agreement is sometimes known as a &#x201C;forward commitment.&#x201D; A refinance loan does not satisfy the requirement of &#xA7; 34.203(b)(7)(i)(A) if the loan will be acquired pursuant to a forward commitment, such that the credit risk on the refinance loan will transfer to a person who did not hold the credit risk on the existing obligation.</P>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(7)(ii)</HD>
-              <P>1.<E T="03">Regular periodic payments.</E>Under &#xA7; 34.203(b)(7)(ii), the regular periodic payments on the refinance loan must not: Result in an increase of the principal balance (negative amortization); allow the consumer to defer repayment of principal (<E T="03">see</E>12 CFR 1026.43, and the Official Staff Interpretations to the Bureau's Regulation Z, comment 43(e)(2)(i)-2); or result in a balloon payment. Thus, the terms of the legal obligation must require the consumer to make payments of principal and interest on a monthly or other periodic basis that will repay the loan amount over the loan term. Except for payments resulting from any interest rate changes after consummation in an adjustable-rate or step-rate mortgage, the periodic<PRTPAGE P="78582"/>payments must be substantially equal. For an explanation of the term &#x201C;substantially equal,&#x201D;<E T="03">see</E>12 CFR 1026.43, the Official Staff Interpretations to the Bureau's Regulation Z, comment 43(c)(5)(i)-4. In addition, a single-payment transaction is not a refinancing meeting the requirements of &#xA7; 34.203(b)(7) because it does not require &#x201C;regular periodic payments.&#x201D;</P>
-              <HD SOURCE="HD3">Paragraph 34.203(b)(7)(iii)</HD>
-              <P>1.<E T="03">Permissible use of proceeds.</E>The exemption for a refinancing under &#xA7; 34.203(b)(7) is available only if the proceeds from the refinancing are used exclusively for the existing obligation and amounts attributed solely to the costs of the refinancing. The existing obligation includes the unpaid principal balance of the existing first lien loan, any earned unpaid finance charges, and any other lawful charges related to the existing loan. For guidance on the meaning of refinancing costs,<E T="03">see</E>12 CFR 1026.23, the Official Staff Interpretations to the Bureau's Regulations Z, comment 23(f)-4. If the proceeds of a refinancing are used for other purposes, such as to pay off other liens or to provide additional cash to the consumer for discretionary spending, the transaction does not qualify for the exemption for a refinancing under &#xA7; 34.203(b)(7) from the appraisal requirements in &#xA7; 34.203.</P>
-              <HD SOURCE="HD3">For applications received on or after July 18, 2015</HD>
               <HD SOURCE="HD3">Paragraph 34.203(b)(8)</HD>
               <HD SOURCE="HD3">Paragraph 34.203(b)(8)(i)</HD>
               <P>1.<E T="03">Secured by new manufactured home and land&#x2014;physical visit of the interior.</E>A transaction secured by a new manufactured home and land is subject to the requirements of &#xA7; 34.203(c) through (f) except for the requirement in &#xA7; 34.203(c)(1) that the appraiser conduct a physical inspection of the interior of the property. Thus, for example, a creditor of a loan secured by a new manufactured home and land could comply with &#xA7; 34.203(c)(1) by obtaining an appraisal conducted by a state-certified or -licensed appraiser based on plans and specifications for the new manufactured home and an inspection of the land on which the property will be sited, as well as any other information necessary for the appraiser to complete the appraisal assignment in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements of FIRREA and any implementing regulations.</P>
@@ -2050,46 +1961,6 @@
             </AUTH>
           </REGTEXT>
           <REGTEXT PART="226" TITLE="12">
-            <AMDPAR>7a. Section 226.43 is amended by:</AMDPAR>
-            <AMDPAR>a. Revising paragraphs (a)(2) through (6);</AMDPAR>
-            <AMDPAR>b. Adding paragraphs (a)(7) through (10);</AMDPAR>
-            <AMDPAR>c. Revising paragraphs (b) introductory text, (b)(1) and (2) and (b)(5);</AMDPAR>
-            <AMDPAR>d. Adding paragraphs (b)(7) and (8).</AMDPAR>
-            <P>The revisions and additions read as follows:</P>
-            <SECTION>
-              <SECTNO>&#xA7; 226.43</SECTNO>
-              <SUBJECT>Appraisals for higher-priced mortgage loans.</SUBJECT>
-              <P>(a) * * *</P>
-              <P>(2)<E T="03">Consummation</E>has the same meaning as in 12 CFR 1026.2(a)(13).</P>
-              <P>(3)<E T="03">Creditor</E>has the same meaning as in 12 CFR 1026.2(a)(17).</P>
-              <P>(4)<E T="03">Credit risk</E>means the financial risk that a consumer will default on a loan.</P>
-              <P>(5)<E T="03">Higher-priced mortgage loan</E>has the same meaning as in 12 CFR 1026.35(a)(1).</P>
-              <P>(6)<E T="03">Manufactured home</E>has the same meaning as in 24 CFR 3280.2.</P>
-              <P>(7)<E T="03">Manufacturer's invoice</E>means a document issued by a manufacturer and provided with a manufactured home to a retail dealer that separately details the wholesale (base) prices at the factory for specific models or series of manufactured homes and itemized options (large appliances, built-in items and equipment), plus actual itemized charges for freight from the factory to the dealer's lot or the homesite (including any rental of wheels and axles) and for any sales taxes to be paid by the dealer. The invoice may recite such prices and charges on an itemized basis or by stating an aggregate price or charge, as appropriate, for each category.</P>
-              <P>(8)<E T="03">National Registry</E>means the database of information about State certified and licensed appraisers maintained by the Appraisal Subcommittee of the Federal Financial Institutions Examination Council.<PRTPAGE P="78583"/>
-              </P>
-              <P>(9)<E T="03">New manufactured home</E>means a manufactured home that has not been previously occupied.</P>
-              <P>(10)<E T="03">State agency</E>means a &#x201C;State appraiser certifying and licensing agency&#x201D; recognized in accordance with section 1118(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3347(b)) and any implementing regulations.</P>
-              <P>(b)<E T="03">Exemptions.</E>Unless otherwise specified, the requirements in paragraphs (c) through (f) of this section do not apply to the following types of transactions:</P>
-              <P>(1) A loan that satisfies the criteria of a qualified mortgage as defined pursuant to 15 U.S.C. 1639c;</P>
-              <P>(2) An extension of credit for which the amount of credit extended is equal to or less than the applicable threshold amount, which is adjusted every year to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as applicable, and published in the official staff commentary to this paragraph (b)(2);</P>
-              <STARS/>
-              <P>(5) A loan with a maturity of 12 months or less, if the purpose of the loan is a &#x201C;bridge&#x201D; loan connected with the acquisition of a dwelling intended to become the consumer's principal dwelling.</P>
-              <STARS/>
-              <P>(7) An extension of credit that is a refinancing secured by a first lien, with refinancing defined as in 12 CFR 1026.20(a) (except that the creditor need not be the original creditor or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:</P>
-              <P>(i) Either&#x2014;</P>
-              <P>(A) The credit risk of the refinancing is retained by the person that held the credit risk of the existing obligation and there is no commitment, at consummation, to transfer the credit risk to another person; or</P>
-              <P>(B) The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;</P>
-              <P>(ii) The regular periodic payments under the refinance loan do not&#x2014;</P>
-              <P>(A) Cause the principal balance to increase;</P>
-              <P>(B) Allow the consumer to defer repayment of principal; or</P>
-              <P>(C) Result in a balloon payment, as defined in 12 CFR 1026.18(s)(5)(i); and</P>
-              <P>(iii) The proceeds from the refinancing are used only to satisfy the existing obligation and to pay amounts attributed solely to the costs of the refinancing; and</P>
-              <P>(8) A transaction secured in whole or in part by a manufactured home.</P>
-              <STARS/>
-            </SECTION>
-          </REGTEXT>
-          <REGTEXT PART="226" TITLE="12">
             <AMDPAR>7b. Effective July 18, 2015, &#xA7; 226.43(b)(8) is revised to read as follows:</AMDPAR>
             <SECTION>
               <SECTNO>&#xA7; 226.43</SECTNO>
@@ -2106,23 +1977,8 @@
             </SECTION>
           </REGTEXT>
           <REGTEXT PART="226" TITLE="12">
-            <AMDPAR>8. In Appendix N to part 226, the introductory text is republished and paragraph 7 is revised to read as follows:</AMDPAR>
-            <HD SOURCE="HD1">Appendix N to Part 226&#x2014;Higher-Priced Mortgage Loan Appraisal Safe Harbor Review</HD>
-            <EXTRACT>
-              <P>To qualify for the safe harbor provided in &#xA7; 226.43(c)(2), a creditor must confirm that the written appraisal:</P>
-              <STARS/>
-              <P>7. Indicates that a physical property visit of the interior of the property was performed, as applicable.</P>
-              <STARS/>
-            </EXTRACT>
-          </REGTEXT>
-          <REGTEXT PART="226" TITLE="12">
             <AMDPAR>9. In Supplement I to part 226, under<E T="03">Section 226.43&#x2014;Appraisals for Higher-Priced Mortgage Loans:</E>
             </AMDPAR>
-            <AMDPAR>a. Under the entry for 43(b), paragraph 1 is added;</AMDPAR>
-            <AMDPAR>b. A 43(b)(1) entry is added.</AMDPAR>
-            <AMDPAR>c. The 43(b)(2) entry is revised.</AMDPAR>
-            <AMDPAR>d. Under the 43(b)(4) entry, paragraph 2 is added.</AMDPAR>
-            <AMDPAR>e. A 43(b)(7) entry is added.</AMDPAR>
             <AMDPAR>f. Effective July 18, 2015, a 43(b)(8) entry is added.</AMDPAR>
             <AMDPAR>g. Under entry 43(f)(2), paragraph 2 is removed and paragraph 3 is redesignated as paragraph 2 and revised.</AMDPAR>
             <P>The additions and revisions read as follows:</P>
@@ -2131,36 +1987,6 @@
             <EXTRACT>
               <HD SOURCE="HD1">Section 226.43&#x2014;Appraisals for Higher-Priced Mortgage Loans</HD>
               <STARS/>
-              <HD SOURCE="HD3">43(b) Exemptions</HD>
-              <P>1.<E T="03">Compliance with title XI of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (FIRREA).</E>Section 226.43(b) provides exemptions solely from the requirements of &#xA7; 226.43(c) through (f). Institutions subject to the requirements of FIRREA and its implementing regulations that make a loan qualifying for an exemption under &#xA7; 226.43(b) must still comply with appraisal and evaluation requirements under FIRREA and its implementing regulations.</P>
-              <HD SOURCE="HD3">Paragraph 43(b)(1)</HD>
-              <P>1.<E T="03">Qualified mortgage criteria.</E>Under &#xA7; 226.43(b)(1), a loan is exempt from the appraisal requirements of &#xA7; 226.43 if either:</P>
-              <P>i. The loan is&#x2014;(1) subject to the ability-to-repay requirements of the Bureau of Consumer Financial Protection (Bureau) in 12 CFR 1026.43 as a &#x201C;covered transaction&#x201D; (defined in 12 CFR 1026.43(b)(1)) and (2) a qualified mortgage pursuant to the Bureau's rules or, for loans insured, guaranteed, or administered by the U.S. Department of Housing and Urban Development (HUD), U.S. Department of Veterans Affairs (VA), U.S. Department of Agriculture (USDA), or Rural Housing Service (RHS), a qualified mortgage pursuant to applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's definition of a qualified mortgage applies to those loans); or</P>
-
-              <P>ii. The loan is&#x2014;(1) not subject to the Bureau's ability-to-repay requirements in 12 CFR 1026.43 as a &#x201C;covered transaction&#x201D; (defined in 12 CFR 1026.43(b)(1)), but (2) meets the criteria for a qualified mortgage in the Bureau's rules or, for loans insured, guaranteed, or administered by HUD, VA, USDA, or RHS, meets the criteria for a qualified mortgage in the applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's criteria for a qualified mortgage applies to those loans). To explain further, loans enumerated in 12 CFR 1026.43(a) are not &#x201C;covered transactions&#x201D; under the Bureau's ability-to-repay requirements in 12 CFR 1026.43, and thus cannot be qualified mortgages (entitled to a rebuttable presumption or safe harbor of compliance with the ability-to-repay requirements of 12 CFR 1026.43,<E T="03">see, e.g.,</E>12 CFR 1026.43(e)(1)). These include an extension of credit made pursuant to a program administered by a Housing Finance Agency, as defined under 24 CFR 266.5, or pursuant to a program<PRTPAGE P="78584"/>authorized by sections 101 and 109 of the Emergency Economic Stabilization Act of 2008.<E T="03">See</E>12 CFR 1026.43(a)(3)(iv) and (vi). They also include extensions of credit made by a creditor identified in 12 CFR 1026.43(a)(3)(v). However, these loans are eligible for the exemption in &#xA7; 226.43(b)(1) if they meet the Bureau's qualified mortgage criteria in &#xA7; 1026.43(e)(2), (4), (5), or (6) or &#xA7; 1026.43(f) (including limits on when loans must be consummated) or, for loans that are insured, guaranteed, or administered by HUD, VA, USDA, or RHS, in applicable rules prescribed by those agencies (but only once such rules are in effect; otherwise, the Bureau's criteria for a qualified mortgage applies to those loans). For example, assume that HUD has prescribed rules to define loans insured under its programs that are qualified mortgages and those rules are in effect. Assume further that a creditor designated as a Community Development Financial Institution, as defined under 12 CFR 1805.104(h), originates a loan insured by the Federal Housing Administration, which is a part of HUD. The loan is not a &#x201C;covered transaction&#x201D; and thus is not a qualified mortgage.<E T="03">See</E>12 CFR 1026.43(a)(3)(v)(A) and (b)(1). Nonetheless, the transaction is eligible for an exemption from the appraisal requirements of &#xA7; 226.43 if it meets the qualified mortgage criteria in HUD's rules. Nothing in &#xA7; 226.43(b)(1) alters the definition of a qualified mortgage under regulations of the Bureau, HUD, VA, USDA, or RHS.</P>
-              <HD SOURCE="HD3">Paragraph 43(b)(2)</HD>
-              <P>1.<E T="03">Threshold amount.</E>For purposes of &#xA7; 226.43(b)(2), the threshold amount in effect during a particular one-year period is the amount stated below for that period. The threshold amount is adjusted effective January 1 of every year by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1. Every year, this comment will be amended to provide the threshold amount for the upcoming one-year period after the annual percentage change in the CPI-W that was in effect on June 1 becomes available. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.</P>
-              <P>i. From January 18, 2014, through December 31, 2014, the threshold amount is $25,000.</P>
-              <P>2.<E T="03">Qualifying for exemption&#x2014;in general.</E>A transaction is exempt under &#xA7; 226.43(b)(2) if the creditor makes an extension of credit at consummation that is equal to or below the threshold amount in effect at the time of consummation.</P>
-              <P>3.<E T="03">Qualifying for exemption&#x2014;subsequent changes.</E>A transaction does not meet the condition for an exemption under &#xA7; 226.43(b)(2) merely because it is used to satisfy and replace an existing exempt loan, unless the amount of the new extension of credit is equal to or less than the applicable threshold amount. For example, assume a closed-end loan that qualified for a &#xA7; 226.43(b)(2) exemption at consummation in year one is refinanced in year ten and that the new loan amount is greater than the threshold amount in effect in year ten. In these circumstances, the creditor must comply with all of the applicable requirements of &#xA7; 226.43 with respect to the year ten transaction if the original loan is satisfied and replaced by the new loan, unless another exemption from the requirements of &#xA7; 226.43 applies.<E T="03">See</E>&#xA7; 226.43(b) and (d)(7).</P>
-              <STARS/>
-              <HD SOURCE="HD3">Paragraph 43(b)(4)</HD>
-              <STARS/>
-              <P>2.<E T="03">Financing initial construction.</E>The exemption for construction loans in &#xA7; 226.43(b)(4) applies to temporary financing of the construction of a dwelling that will be replaced by permanent financing once construction is complete. The exemption does not apply, for example, to loans to finance the purchase of manufactured homes that have not been or are in the process of being built when the financing obtained by the consumer at that time is permanent.<E T="03">See</E>&#xA7; 226.43(b)(8).</P>
-              <HD SOURCE="HD3">Paragraph 43(b)(7)(i)(A)</HD>
-              <P>1.<E T="03">Same credit risk holder.</E>The requirement that the holder of the credit risk on the existing obligation and the refinancing be the same applies to situations in which an entity bears the financial responsibility for the default of a loan by either holding the loan in its portfolio or guaranteeing payments of principal and any interest to investors in a mortgage-backed security in which the loan is pooled.<E T="03">See</E>&#xA7; 226.43(a)(4) (defining &#x201C;credit risk&#x201D;). For example, a credit risk holder could be a bank that bears the credit risk on the existing obligation by holding the loan in the bank's portfolio. Another example of a credit risk holder would be a government-sponsored enterprise that bears the risk of default on a loan by guaranteeing the payment of principal and any interest on a loan to investors in a mortgage-backed security. The holder of credit risk under &#xA7; 226.43(b)(7)(i)(A) does not mean individual investors in a mortgage-backed security or providers of private mortgage insurance.</P>
-              <P>2.<E T="03">Same credit risk holder&#x2014;illustrations.</E>
-              </P>
-              <P>Illustrations of the credit risk holder of the existing obligation continuing to be the credit risk holder of the refinancing include, but are not limited to, the following:</P>
-              <P>i. The existing obligation is held in the portfolio of a bank, thus the bank holds the credit risk. The bank arranges to refinance the loan and also will hold the refinancing in its portfolio. If the refinancing otherwise meets the requirements for an exemption under &#xA7; 226.43(b)(7), the transaction will qualify for the exemption because the credit risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the bank arranged to refinance the loan directly or indirectly, such as through the servicer or subservicer on the existing obligation.</P>
-              <P>ii. The existing obligation is held in the portfolio of a government-sponsored enterprise (GSE), thus the GSE holds the credit risk. The existing obligation is then refinanced by the servicer of the loan and immediately transferred to the GSE. The GSE pools the refinancing in a mortgage-backed security guaranteed by the GSE, thus the GSE holds the credit risk on the refinance loan. If the refinance transaction otherwise meets the requirements for an exemption under &#xA7; 226.43(b)(7), the transaction will qualify for the exemption because the credit risk holder is the same for the existing obligation and the refinance transaction. In this case, the exemption would apply regardless of whether the existing obligation was refinanced by the servicer or subservicer on the existing obligation (acting as a &#x201C;creditor&#x201D; under &#xA7; 1026.2(a)(17)) or by a different creditor.</P>
-              <P>3.<E T="03">Forward commitments.</E>A creditor may make a mortgage loan that will be sold or otherwise transferred pursuant to an agreement that has been entered into at or before the time the transaction is consummated. Such an agreement is sometimes known as a &#x201C;forward commitment.&#x201D; A refinance loan does not satisfy the requirement of &#xA7; 226.43(b)(7)(i)(A) if the loan will be acquired pursuant to a forward commitment, such that the credit risk on the refinance loan will transfer to a person who did not hold the credit risk on the existing obligation.</P>
-              <HD SOURCE="HD3">Paragraph 43(b)(7)</HD>
-              <HD SOURCE="HD3">Paragraph 43(b)(7)(ii)</HD>
-              <P>1.<E T="03">Regular periodic payments.</E>Under &#xA7; 226.43(b)(7)(ii), the regular periodic payments on the refinance loan must not: result in an increase of the principal balance (negative amortization); allow the consumer to defer repayment of principal (<E T="03">see</E>12 CFR 1026.43 and the Official Staff Interpretations to the Bureau's Regulation Z, comment 43(e)(2)(i)-2); or result in a balloon payment. Thus, the terms of the legal obligation must require the consumer to make payments of principal and interest on a monthly or other periodic basis that will repay the loan amount over the loan term. Except for payments resulting from any interest rate changes after consummation in an adjustable-rate or step-rate mortgage, the periodic payments must be substantially equal. For an explanation of the term &#x201C;substantially equal,&#x201D; see 12 CFR 1026.43 and the Official Staff Interpretations to the Bureau's Regulation Z, comment 43(c)(5)(i)-4. In addition, a single-payment transaction is not a refinancing meeting the requirements of &#xA7; 226.43(b)(7) because it does not require &#x201C;regular periodic payments.&#x201D;</P>
-              <HD SOURCE="HD3">Paragraph 43(b)(7)(iii)</HD>
-              <P>1.<E T="03">Permissible use of proceeds.</E>The exemption for a refinancing under &#xA7; 226.43(b)(7) is available only if the proceeds from the refinancing are used exclusively for the existing obligation and amounts attributed solely to the costs of the refinancing. The existing obligation includes the unpaid principal balance of the existing first lien loan, any earned unpaid finance charges, and any other lawful charges related to the existing loan. For guidance on the meaning of refinancing costs, see 12 CFR<PRTPAGE P="78585"/>1026.23, the Official Staff Interpretations to the Bureau's Regulations Z, comment 23(f)-4. If the proceeds of a refinancing are used for other purposes, such as to pay off other liens or to provide additional cash to the consumer for discretionary spending, the transaction does not qualify for the exemption for a refinancing under &#xA7; 226.43(b)(7) from the appraisal requirements in &#xA7; 226.43.</P>
-              <HD SOURCE="HD3">For applications received on or after July 18, 2015</HD>
               <HD SOURCE="HD3">Paragraph 43(b)(8)</HD>
               <HD SOURCE="HD3">Paragraph 43(b)(8)(i)</HD>
               <P>1.<E T="03">Secured by new manufactured home and land&#x2014;physical visit of the interior.</E>A transaction secured by a new manufactured home and land is subject to the requirements of &#xA7; 226.43(c) through (f) except for the requirement in &#xA7; 226.43(c)(1) that the appraiser conduct a physical inspection of the interior of the property. Thus, for example, a creditor of a loan secured by a new manufactured home and land could comply with &#xA7; 226.43(c)(1) by obtaining an appraisal conducted by a state-certified or -licensed appraiser based on plans and specifications for the new manufactured home and an inspection of the land on which the property will be sited, as well as any other information necessary for the appraiser to complete the appraisal assignment in conformity with the Uniform Standards of Professional Appraisal Practice and the requirements of FIRREA and any implementing regulations.</P>
