@@ -2730,7 +2730,8 @@
           
           <REGTEXT PART="1026" TITLE="12">
             <AMDPAR>3. Section 1026.36 is amended by:</AMDPAR>
-            <AMDPAR>D. Adding paragraphs (g)</AMDPAR>
+            <AMDPAR>D. Adding paragraph (g)</AMDPAR>
+            <AMDPAR>E. Adding paragraph (i)</AMDPAR>
             <P>The additions and revisions read as follows:</P>
             <SECTION>
               <SECTNO>&#xA7; 1026.36</SECTNO>
@@ -2744,6 +2745,11 @@
               <P>(iii) The note or loan contract; and</P>
               <P>(iv) The security instrument.</P>
               <P>(3) For purposes of this section, NMLSR ID means a number assigned by the Nationwide Mortgage Licensing System and Registry to facilitate electronic tracking and uniform identification of loan originators and public access to the employment history of, and the publicly adjudicated disciplinary and enforcement actions against, loan originators.</P>
+              <STARS/>
+              <P>(i)<E T="03">Prohibition on financing single-premium credit insurance.</E>(1) A creditor may not finance, directly or indirectly, any premiums or fees for credit insurance in connection with a consumer credit transaction secured by a dwelling (including a home equity line of credit secured by the consumer's principal dwelling). This prohibition does not apply to credit insurance for which premiums or fees are calculated and paid in full on a monthly basis.</P>
+              <P>(2) For purposes of this paragraph (i), &#x201C;credit insurance&#x201D;:</P>
+              <P>(i) Means credit life, credit disability, credit unemployment, or credit property insurance, or any other accident, loss-of-income, life, or health insurance, or any payments directly or indirectly for any debt cancellation or suspension agreement or contract, but</P>
+              <P>(ii) Excludes credit unemployment insurance for which the unemployment insurance premiums are reasonable, the creditor receives no direct or indirect compensation in connection with the unemployment insurance premiums, and the unemployment insurance premiums are paid pursuant to a separate insurance contract and are not paid to an affiliate of the creditor.</P>
             </SECTION>
           </REGTEXT>
           <REGTEXT PART="1026" TITLE="12">
