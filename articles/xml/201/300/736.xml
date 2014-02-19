@@ -3766,7 +3766,7 @@
               <P>(i) A covered transaction is consummated without a prepayment penalty; or</P>
               <P>(ii) The creditor and consumer do not consummate a covered transaction.</P>
               <P>(h)<E T="03">Evasion; open-end credit.</E>In connection with credit secured by a consumer's dwelling that does not meet the definition of open-end credit in &#xA7; 1026.2(a)(20), a creditor shall not structure the loan as an open-end plan to evade the requirements of this section.</P>
-              <P>5. Reserved appendices N, O, and P are added, and appendix Q is added to read as follows:</P>
+              <AMDPAR>5. Reserved appendices N, O, and P are added, and appendix Q is added to read as follows:</AMDPAR>
               <HD SOURCE="HD1">Appendix N to Part 1026&#x2014;[Reserved]</HD>
               <HD SOURCE="HD1">Appendix O to Part 1026&#x2014;[Reserved]</HD>
               <HD SOURCE="HD1">Appendix P to Part 1026&#x2014;[Reserved]</HD>
@@ -3814,14 +3814,14 @@
                 </P>
                 <P>a. The income of each consumer who will be obligated for the mortgage debt must be analyzed to determine whether his/her income level can be reasonably expected to continue through at least the first three years of the mortgage loan.</P>
                 <P>b. In most cases, a consumer's income is limited to salaries or wages. Income from other sources can be considered as effective, when properly verified and documented by the creditor.</P>
-                <P>
+                <NOTE>
                   <E T="04">Notes:</E>
-                </P>
-                <P>i. Effective income for consumers planning to retire during the first three-year period must include the amount of:</P>
-                <P>a. Documented retirement benefits;</P>
-                <P>b. Social Security payments; or</P>
-                <P>c. Other payments expected to be received in retirement.</P>
-                <P>ii. Creditors must not ask the consumer about possible, future maternity leave.</P>
+                  <P>i. Effective income for consumers planning to retire during the first three-year period must include the amount of:</P>
+                  <P>a. Documented retirement benefits;</P>
+                  <P>b. Social Security payments; or</P>
+                  <P>c. Other payments expected to be received in retirement.</P>
+                  <P>ii. Creditors must not ask the consumer about possible, future maternity leave.</P>
+                </NOTE>
                 <P>2.<E T="03">Overtime and Bonus Income.</E>
                 </P>
                 <P>a. Overtime and bonus income can be used to qualify the consumer if he/she has received this income for the past two years, and it will likely continue. If the employment verification states that the overtime and bonus income is unlikely to continue, it may not be used in qualifying.</P>
@@ -3835,7 +3835,9 @@
                 <P>a. Part-time and seasonal income can be used to qualify the consumer if the creditor documents that the consumer has worked the part-time job uninterrupted for the past two years, and plans to continue. Many low and moderate income families rely on part-time and seasonal income for day to day needs, and creditors should not restrict consideration of such income when qualifying these consumers.</P>
                 <P>b. Part-time income received for less than two years may be included as effective income, provided that the creditor justifies and documents that the income is likely to continue.</P>
                 <P>c. Part-time income not meeting the qualifying requirements may not be used in qualifying.</P>
-                <P>Note: For qualifying purposes, &#x201C;part-time&#x201D; income refers to employment taken to supplement the consumer's income from regular employment; part-time employment is not a primary job and it is worked less than 40 hours.</P>
+                <NOTE>
+                    <P>Note: For qualifying purposes, &#x201C;part-time&#x201D; income refers to employment taken to supplement the consumer's income from regular employment; part-time employment is not a primary job and it is worked less than 40 hours.</P>
+                </NOTE>
                 <P>5.<E T="03">Income from Seasonal Employment.</E>
                 </P>
                 <P>a. Seasonal income is considered uninterrupted, and may be used to qualify the consumer, if the creditor documents that the consumer:</P>
@@ -3858,12 +3860,12 @@
                 </P>
                 <P>i. Document the likelihood that the income will continue, and</P>
                 <P>ii. Soundly rationalize accepting the commission income.</P>
-                <P>
+                <NOTE>
                   <E T="04">Notes:</E>
-                </P>
-                <P>i. Unreimbursed business expenses must be subtracted from gross income.</P>
-                <P>ii. A commissioned consumer is one who receives more than 25 percent of his/her annual income from commissions.</P>
-                <P>iii. A tax transcript obtained directly from the IRS may be used in lieu of signed tax returns, and the cost of the transcript may be charged to the consumer.</P>
+                  <P>i. Unreimbursed business expenses must be subtracted from gross income.</P>
+                  <P>ii. A commissioned consumer is one who receives more than 25 percent of his/her annual income from commissions.</P>
+                  <P>iii. A tax transcript obtained directly from the IRS may be used in lieu of signed tax returns, and the cost of the transcript may be charged to the consumer.</P>
+                </NOTE>
                 <P>8.<E T="03">Qualifying Commission Income Earned for Less Than One Year.</E>
                 </P>
                 <P>a. Commission income earned for less than one year is not considered effective income. Exceptions may be made for situations in which the consumer's compensation was changed from salary to commission within a similar position with the same employer.</P>
@@ -3873,12 +3875,12 @@
                 <P>b. Cannot be used to offset the mortgage payment directly, even if the employer pays the servicing creditor directly.</P>
                 <P>10.<E T="03">Retirement Income.</E>Retirement income must be verified from the former employer, or from Federal tax returns. If any retirement income, such as employer pensions or 401(k)'s, will cease within the first full three years of the mortgage loan, such income may not be used in qualifying.</P>
                 <P>11.<E T="03">Social Security Income.</E>Social Security income must be verified by the Social Security Administration or on Federal tax returns. If any benefits expire within the first full three years of the loan, the income source may not be used in qualifying.</P>
-                <P>
+                <NOTE>
                   <E T="04">Notes:</E>
-                </P>
-                <P>i. The creditor must obtain a complete copy of the current awards letter.</P>
-                <P>ii. Not all Social Security income is for retirement-aged recipients; therefore, documented continuation is required.</P>
-                <P>iii. Some portion of Social Security income may be &#x201C;grossed up&#x201D; if deemed nontaxable by the IRS.</P>
+                  <P>i. The creditor must obtain a complete copy of the current awards letter.</P>
+                  <P>ii. Not all Social Security income is for retirement-aged recipients; therefore, documented continuation is required.</P>
+                  <P>iii. Some portion of Social Security income may be &#x201C;grossed up&#x201D; if deemed nontaxable by the IRS.</P>
+                </NOTE>
                 <P>12.<E T="03">Automobile Allowances and Expense Account Payments.</E>
                 </P>
                 <P>a. Only the amount by which the consumer's automobile allowance or expense account payments exceed actual expenditures may be considered income.</P>
@@ -3897,8 +3899,9 @@
                 <P>In addition to normal employment verification, a consumer employed by a family owned business is required to provide evidence that he/she is not an owner of the business, which may include:</P>
                 <P>a. Copies of signed personal tax returns, or</P>
                 <P>b. A signed copy of the corporate tax return showing ownership percentage.</P>
-                <P>
-                  <E T="04">Note:</E>A tax transcript obtained directly from the IRS may be used in lieu of signed tax returns, and the cost of the transcript may be charged to the consumer.</P>
+                <NOTE>
+                    <P><E T="04">Note:</E>A tax transcript obtained directly from the IRS may be used in lieu of signed tax returns, and the cost of the transcript may be charged to the consumer.</P>
+                </NOTE>
                 <P>
                   <E T="03">D. General Information on Self-Employed Consumers and Income Analysis.</E>
                 </P>
@@ -4004,9 +4007,11 @@
                 <P>ii. Deposit slips;</P>
                 <P>iii. Tax returns; or</P>
                 <P>iv. Court records.</P>
-                <P>Notes:</P>
-                <P>i. Periods less than 12 months may be acceptable, provided the creditor can adequately document the payer's ability and willingness to make timely payments.</P>
-                <P>ii. Child support may be &#x201C;grossed up&#x201D; under the same provisions as non-taxable income sources.</P>
+                <NOTE>
+                  <P>Notes:</P>
+                  <P>i. Periods less than 12 months may be acceptable, provided the creditor can adequately document the payer's ability and willingness to make timely payments.</P>
+                  <P>ii. Child support may be &#x201C;grossed up&#x201D; under the same provisions as non-taxable income sources.</P>
+                </NOTE>
                 <P>
                   <E T="03">B. Investment and Trust Income.</E>
                 </P>
@@ -4047,8 +4052,9 @@
                 <P>iv. Rations; and</P>
                 <P>v. Proficiency pay.</P>
                 <P>b. These types of additional pay are acceptable when analyzing a consumer's income as long as the probability of such pay to continue is verified in writing.</P>
-                <P>
-                  <E T="04">Note:</E>The tax-exempt nature of some of the above payments should also be considered.</P>
+                <NOTE>
+                    <P><E T="04">Note:</E>The tax-exempt nature of some of the above payments should also be considered.</P>
+                </NOTE>
                 <P>2.<E T="03">VA Benefits.</E>
                 </P>
                 <P>a. Direct compensation for service-related disabilities from the Department of Veterans Affairs (VA) is acceptable, provided the creditor receives documentation from the VA.</P>
@@ -4070,8 +4076,9 @@
                 <P>d. The assistance payment must be:</P>
                 <P>i. Paid directly to the servicing creditor; or</P>
                 <P>ii. Placed in an account that only the servicing creditor may access.</P>
-                <P>
-                  <E T="04">Note:</E>Assistance payments made directly to the consumer must be treated as income.</P>
+                <NOTE>
+                    <P><E T="04">Note:</E>Assistance payments made directly to the consumer must be treated as income.</P>
+                </NOTE>
                 <P>
                   <E T="03">D. Rental Income.</E>
                 </P>
@@ -4082,8 +4089,9 @@
                 <P>ii. An agreement to lease, or</P>
                 <P>iii. A rental history over the previous 24 months that is free of unexplained gaps greater than three months (such gaps could be explained by student, seasonal, or military renters, or property rehabilitation).</P>
                 <P>b. A separate schedule of real estate is not required for rental properties as long as all properties are documented on the Uniform Residential Loan Application.</P>
-                <P>
-                  <E T="04">Note:</E>The underwriting analysis may not consider rental income from any property being vacated by the consumer, except under the circumstances described below.</P>
+                <NOTE>
+                    <P><E T="04">Note:</E>The underwriting analysis may not consider rental income from any property being vacated by the consumer, except under the circumstances described below.</P>
+                </NOTE>
                 <P>2.<E T="03">Rental Income From Consumer Occupied Property.</E>
                 </P>
                 <P>a. The rent for multiple unit property where the consumer resides in one or more units and charges rent to tenants of other units may be used for qualifying purposes.</P>
@@ -4110,12 +4118,11 @@
                 <P>ii. Subtract PITI and any homeowners association dues; and</P>
                 <P>iii. Apply the resulting amount to income, if positive, or recurring debts, if negative.</P>
                 <P>7.<E T="03">Exclusion of Rental Income From Property Being Vacated by the Consumer.</E>Underwriters may not consider any rental income from a consumer's principal residence that is being vacated in favor of another principal residence, except under the conditions described below:</P>
-                <P>
+                <NOTE>
                   <E T="04">Notes:</E>
-                </P>
-
-                <P>i. This policy assures that a consumer either has sufficient income to make both mortgage payments without any rental<PRTPAGE P="6595"/>income, or has an equity position not likely to result in defaulting on the mortgage on the property being vacated.</P>
-                <P>ii. This applies solely to a principal residence being vacated in favor of another principal residence. It does not apply to existing rental properties disclosed on the loan application and confirmed by tax returns (Schedule E of form IRS 1040).</P>
+                  <P>i. This policy assures that a consumer either has sufficient income to make both mortgage payments without any rental<PRTPAGE P="6595"/>income, or has an equity position not likely to result in defaulting on the mortgage on the property being vacated.</P>
+                  <P>ii. This applies solely to a principal residence being vacated in favor of another principal residence. It does not apply to existing rental properties disclosed on the loan application and confirmed by tax returns (Schedule E of form IRS 1040).</P>
+                </NOTE>
                 <P>8.<E T="03">Policy Exceptions Regarding the Exclusion of Rental Income From a Principal Residence Being Vacated by a Consumer.</E>
                 </P>
                 <P>When a consumer vacates a principal residence in favor of another principal residence, the rental income, reduced by the appropriate vacancy factor, may be considered in the underwriting analysis under the circumstances listed in the table below.</P>
@@ -4140,7 +4147,9 @@
                 <P>c. The creditor:</P>
                 <P>i. Must document and support the amount of income grossed up for any non-taxable income source, and</P>
                 <P>ii. Should use the tax rate used to calculate the consumer's last year's income tax.</P>
-                <P>Note: If the consumer is not required to file a Federal tax return, the tax rate to use is 25 percent.</P>
+                <NOTE>
+                    <P>Note: If the consumer is not required to file a Federal tax return, the tax rate to use is 25 percent.</P>
+                </NOTE>
                 <P>3.<E T="03">Analyzing Projected Income.</E>
                 </P>
                 <P>a. Projected or hypothetical income is not acceptable for qualifying purposes. However, exceptions are permitted for income from the following sources:</P>
@@ -4175,12 +4184,15 @@
 
                 <P>b. Debts lasting less than ten months must be included if the amount of the debt affects the consumer's ability to pay the mortgage during the months immediately after loan closing, especially if the consumer will have limited or no cash assets after loan closing.<PRTPAGE P="6596"/>
                 </P>
-                <P>
-                  <E T="04">Note:</E>Monthly payments on revolving or open-ended accounts, regardless of the balance, are counted as a liability for qualifying purposes even if the account appears likely to be paid off within 10 months or less.</P>
+                <NOTE>
+                    <P><E T="04">Note:</E>Monthly payments on revolving or open-ended accounts, regardless of the balance, are counted as a liability for qualifying purposes even if the account appears likely to be paid off within 10 months or less.</P>
+                </NOTE>
                 <P>3.<E T="03">Revolving Account Monthly Payment Calculation.</E>If the credit report shows any revolving accounts with an outstanding balance but no specific minimum monthly payment, the payment must be calculated as the greater of:</P>
                 <P>a. 5 percent of the balance; or</P>
                 <P>b. $10.</P>
-                <P>Note: If the actual monthly payment is documented from the creditor or the creditor obtains a copy of the current statement reflecting the monthly payment, that amount may be used for qualifying purposes.</P>
+                <NOTE>
+                    <P>Note: If the actual monthly payment is documented from the creditor or the creditor obtains a copy of the current statement reflecting the monthly payment, that amount may be used for qualifying purposes.</P>
+                </NOTE>
                 <P>4.<E T="03">Reduction of Alimony Payment for Qualifying Ratio Calculation.</E>Since there are tax consequences of alimony payments, the creditor may choose to treat the monthly alimony obligation as a reduction from the consumer's gross income when calculating qualifying ratios, rather than treating it as a monthly obligation.</P>
                 <HD SOURCE="HD1">IV. Consumer Liabilities: Contingent Liability</HD>
                 <P>1.<E T="03">Definition: Contingent Liability.</E>A contingent liability exists when an individual is held responsible for payment of a debt if another party, jointly or severally obligated, defaults on the payment.</P>
