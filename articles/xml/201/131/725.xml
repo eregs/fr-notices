@@ -705,8 +705,9 @@
                 <P>(3)<E T="03">Expiration of additional disclosure requirements.</E>The disclosures in paragraph (h)(2) of this section:</P>
                 <P>(i) Are not required to be provided on or after January 31, 2011, with respect to in-store signage and general advertising.</P>
                 <P>(ii) Are not required to be provided on or after January 31, 2013, with respect to messages during customer service calls and Web sites.</P>
-                <HD SOURCE="HD1">Appendix A to Part 1005&#x2014;Model Disclosure Clauses and Forms</HD>
-                <EXTRACT>
+              </SECTION>
+              <APPENDIX>
+                <HD SOURCE="HED">Appendix A to Part 1005&#x2014;Model Disclosure Clauses and Forms</HD>
                   <CONTENTS>
                     <FP SOURCE="FP-2">A-1&#x2014;Model Clauses for Unsolicited Issuance (&#xA7; 1005.5(b)(2))</FP>
                     <FP SOURCE="FP-2">A-2&#x2014;Model Clauses for Initial Disclosures (&#xA7; 1005.7(b))</FP>
@@ -853,19 +854,21 @@
                   <GPH DEEP="488" SPAN="3">
                     <GID>ER27DE11.000</GID>
                   </GPH>
-                </EXTRACT>
-                <HD SOURCE="HD1">Appendix B to Part 1005&#x2014;[Reserved]</HD>
-                <HD SOURCE="HD1">Appendix C to Part 1005&#x2014;Issuance of Official Interpretations</HD>
+              </APPENDIX>
+              <APPENDIX>
+                <HD SOURCE="HED">Appendix B to Part 1005&#x2014;[Reserved]</HD>
+              </APPENDIX>
+              <APPENDIX>
+                <HD SOURCE="HED">Appendix C to Part 1005&#x2014;Issuance of Official Interpretations</HD>
                 <HD SOURCE="HD1">Official Interpretations</HD>
-                <EXTRACT>
                   <P>Pursuant to section 916(d) of the Act, the Bureau has designated the Associate Director and other officials of the Division of Research, Markets, and Regulations as officials &#x201C;duly authorized&#x201D; to issue, at their discretion, official interpretations of this part. Except in unusual circumstances, such interpretations will not be issued separately but will be incorporated in an official commentary to this part, which will be amended periodically.</P>
                   <HD SOURCE="HD1">Requests for Issuance of Official Interpretations</HD>
                   <P>A request for an official interpretation shall be in writing and addressed to the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20006. The request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents.</P>
                   <HD SOURCE="HD1">Scope of Interpretations</HD>
                   <P>No interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.</P>
-                </EXTRACT>
-                <HD SOURCE="HD1">Supplement I to Part 1005&#x2014;Official Interpretations</HD>
-                <EXTRACT>
+              </APPENDIX>
+              <APPENDIX>
+                <HD SOURCE="HED">Supplement I to Part 1005&#x2014;Official Interpretations</HD>
                   <HD SOURCE="HD1">Section 1005.2Definitions</HD>
                   <HD SOURCE="HD2">2(a) Access Device</HD>
                   <P>1.<E T="03">Examples.</E>The term &#x201C;access device&#x201D; includes debit cards, personal identification numbers (PINs), telephone transfer and telephone bill payment codes, and other means that may be used by a consumer to initiate an electronic fund transfer (EFT) to<PRTPAGE P="81038"/>or from a consumer account. The term does not include magnetic tape or other devices used internally by a financial institution to initiate electronic transfers.</P>
@@ -1476,14 +1479,11 @@
                   <HD SOURCE="HD2">20(h)(2) Additional Disclosures</HD>
                   <P>1.<E T="03">Disclosures through third parties.</E>Issuers may make the disclosures required by &#xA7; 1005.20(h)(2) through a third party, such as a retailer or merchant. For example, an issuer may have a merchant install in-store signage with the disclosures required by &#xA7; 1005.20(h)(2) on the issuer's behalf.</P>
                   <P>2.<E T="03">General advertising disclosures.</E>Section 1005.20(h)(2) does not impose an obligation on the issuer to advertise gift certificates, store gift cards, or general-use prepaid cards.</P>
-                </EXTRACT>
                 <HD SOURCE="HD1">Appendix A&#x2014;Model Disclosure Clauses and Forms</HD>
-                <EXTRACT>
                   <P>1.<E T="03">Review of forms.</E>The Bureau will not review or approve disclosure forms or statements for financial institutions. However, the Bureau has issued model clauses for institutions to use in designing their disclosures. If an institution uses these clauses accurately to reflect its service, the institution is protected from liability for failure to make disclosures in proper form.</P>
                   <P>2.<E T="03">Use of forms.</E>The appendix contains model disclosure clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of sections 1005.5(b)(2) and (b)(3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (d)(2), and 1005.18(c)(1) and (c)(2). The use of appropriate clauses in making disclosures will protect a financial institution from liability under sections 916 and 917 of the Act provided the clauses accurately reflect the institution's EFT services.</P>
                   <P>3.<E T="03">Altering the clauses.</E>Financial institutions may use clauses of their own design in conjunction with the Bureau's model clauses. The inapplicable words or portions of phrases in parentheses should be deleted. The catchlines are not part of the clauses and need not be used. Financial institutions may make alterations, substitutions, or additions in the clauses to reflect the services offered, such as technical changes (including the substitution of a trade name for the word &#x201C;card,&#x201D; deletion of inapplicable services, or substitution of lesser liability limits). Several of the model clauses include references to a telephone number and address. Where two or more of these clauses are used in a disclosure, the telephone number and address may be referenced and need not be repeated.</P>
-                </EXTRACT>
-              </SECTION>
+              </APPENDIX>
             </PART>
           </REGTEXT>
           <SIG>
