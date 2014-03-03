@@ -2661,7 +2661,6 @@
           <REGTEXT PART="1005" TITLE="12">
             <AMDPAR>7. In Supplement I to part 1005:</AMDPAR>
             <AMDPAR>a. Add new Commentary for &#xA7;&#xA7; 1005.30, 1005.31, 1005.32, 1005.33, 1005.34, 1005.35, and 1005.36.</AMDPAR>
-            <AMDPAR>b. Under Subheading Appendix A, paragraph (2)<E T="03">Use of forms</E>is revised and paragraph (4) is added.</AMDPAR>
             <P>The revisions and additions read as follows:</P>
             <HD SOURCE="HD1">Supplement I to Part 1005&#x2014;Official Interpretations</HD>
             <STARS/>
@@ -2916,24 +2915,6 @@
               <P>2.<E T="03">Cancelled preauthorized remittance transfers.</E>For preauthorized remittance transfers, the provider must assume the request to cancel applies to all future preauthorized remittance transfers, unless the sender specifically indicates that it should apply only to the next scheduled remittance transfer.</P>
               <P>3.<E T="03">Concurrent cancellation obligations.</E>A financial institution that is also a remittance transfer provider may have both stop payment obligations under &#xA7; 1005.10 and cancellation obligations under &#xA7; 1005.36. If a sender cancels a remittance transfer under &#xA7; 1005.36 with a remittance transfer provider that holds the sender's account, and the transfer is a preauthorized transfer under &#xA7; 1005.10, then the cancellation provisions of &#xA7; 1005.36 exclusively apply.</P>
             </EXTRACT>
-            <APPENDIX>
-              <HD SOURCE="HED">Appendix A&#x2014;Model Disclosure Clauses and Forms</HD>
-              <STARS/>
-              <P>2.<E T="03">Use of forms.</E>The appendix contains model disclosure clauses for optional use by financial institutions and remittance transfer providers to facilitate compliance with the disclosure requirements of sections &#xA7;&#xA7; 1005.5(b)(2) and (3), 1005.6(a), 1005.7, 1005.8(b), 1005.14(b)(1)(ii), 1005.15(d)(1) and (2), 1005.18(c)(1) and (2), 1005.31, and 1005.36. The use of appropriate clauses in making disclosures will protect a financial institution and a remittance transfer provider from liability under sections 916 and 917 of the act provided the clauses accurately reflect the institution's EFT services and the provider's remittance transfer services, respectively.</P>
-              <STARS/>
-              <P>4.<E T="03">Model forms for remittance transfers.</E>The Bureau will not review or approve disclosure forms for remittance transfer providers. However, this appendix contains 12 model forms for use in connection with remittance transfers. These model forms are intended to demonstrate several formats a remittance transfer provider may use to comply with the requirements of &#xA7; 1005.31(b). Model Forms A-30 through A-32 demonstrate how a provider could provide the required disclosures for a remittance transfer exchanged into local currency. Model Forms A-33 through A-35 demonstrate how a provider could provide the required disclosures for dollar-to-dollar remittance transfers. These forms also demonstrate disclosure of the required content, in accordance with the grouping and proximity requirements of &#xA7; 1005.31(c)(1) and (2), in both a register receipt format and an 8.5 inch by 11 inch format. Model Form A-36 provides long form model error resolution and cancellation disclosures required by &#xA7; 1005.31(b)(4), and Model Form A-37 provides short form model error resolution and cancellation disclosures required by &#xA7; 1005.31(b)(2)(iv) and (vi). Model Forms A-38 through A-41 provide language for Spanish language disclosures.</P>
-              <P>i. The model forms contain information that is not required by subpart B, such as a confirmation code and the sender's name and contact information. Additional information not required by subpart B may be presented on the model forms as permitted by &#xA7; 1005.31(c)(4). Any additional information must be presented consistent with a remittance transfer provider's obligation to provide required disclosures in a clear and conspicuous manner.</P>
-              <P>ii. Use of the model forms is optional. A remittance transfer provider may change the forms by rearranging the format or by making modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any rearrangement or modification of the format of the model forms must be consistent with the form, grouping, proximity, and other requirements of &#xA7; 1005.31(a) and (c). Providers making revisions that do not comply with this section will lose the benefit of the safe harbor for appropriate use of Model Forms A-30 to A-41.</P>
-              <P>iii. Permissible changes to the language and format of the model forms include, for example:</P>
-              <P>A. Substituting the information contained in the model forms that is intended to demonstrate how to complete the information in the model forms&#x2014;such as names, addresses, and Web sites; dates; numbers; and State-specific contact information&#x2014;with information applicable to the remittance transfer.</P>
-              <P>B. Eliminating disclosures that are not applicable to the transfer, as permitted under &#xA7; 1005.31(b).</P>
-              <P>C. Correcting or updating telephone numbers, mailing addresses, or Web site addresses that may change over time.</P>
-              <P>D. Providing the disclosures on a paper size that is different from a register receipt and 8.5 inch by 11 inch formats.</P>
-              <P>E. Adding a term substantially similar to &#x201C;estimated&#x201D; in close proximity to the specified terms in &#xA7; 1005.31(b)(1) and (2), as required under &#xA7; 1005.31(d).</P>
-              <P>F. Providing the disclosures in a foreign language, or multiple foreign languages, subject to the requirements of &#xA7; 1005.31(g).</P>
-              <P>G. Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of &#xA7; 1005.36(c).</P>
-              <P>iv. Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by &#xA7; 1005.31(c)(4).</P>
-            </APPENDIX>
           </REGTEXT>
           <SIG>
             <DATED>Dated: January 23, 2012.</DATED>
