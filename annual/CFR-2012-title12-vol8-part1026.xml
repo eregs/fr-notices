@@ -2988,7 +2988,7 @@
 
         <P>(vii) In a single advance, single payment transaction in which the term is less than a year and is <E T="03">not</E> equal to a whole number of months, the number of unit-periods in the term shall be 1, and the number of unit-periods per year shall be 365 divided by the number of days in the term.</P>
         <HD SOURCE="HD2">(6) Percentage Rate for a Fraction of a Unit-Period</HD>
-        <P>The percentage rate of finance charge for a fraction (less than 1) of a unit-period shall be equal to such fraction multiplied by the percentage rateof finance charge per unit-period.</P>
+        <P>The percentage rate of finance charge for a fraction (less than 1) of a unit-period shall be equal to such fraction multiplied by the percentage rate of finance charge per unit-period.</P>
         <GPH DEEP="394" SPAN="2">
           <PRTPAGE P="722"/>
           <GID>ER22DE11.062</GID>
@@ -3069,11 +3069,11 @@
         <FP SOURCE="FP-2">w = The number of unit-periods per year.</FP>
         <FP SOURCE="FP-2">I = wi × 100 = the nominal total annual loan cost rate.</FP>
         
-        <P>(7) <E T="03">General equation.</E> The total annual loan cost rate for a reverse mortgage transaction must be determined by first solving the following formula, which sets forth the relationship between the advances to the consumer and the amount owed to the creditor under the terms of the reverse mortgage agreement for the loan cost rate per unit-period (the loan cost rate per unit-period is then multiplied by the number of unit-periods per year toobtain the total annual loan cost rate I; that is, I = wi):</P>
+        <P>(7) <E T="03">General equation.</E> The total annual loan cost rate for a reverse mortgage transaction must be determined by first solving the following formula, which sets forth the relationship between the advances to the consumer and the amount owed to the creditor under the terms of the reverse mortgage agreement for the loan cost rate per unit-period (the loan cost rate per unit-period is then multiplied by the number of unit-periods per year to obtain the total annual loan cost rate I; that is, I = wi):</P>
         <GPH DEEP="30" SPAN="2">
           <GID>ER22DE11.073</GID>
         </GPH>
-        <P>(8) <E T="03">Solution of general equation by iteration process.</E> (i) The general equation in paragraph (b)(7) of this appendix, when applied to a simple transaction for a reverse mortgage loan of equal monthly advances of $350 each, and with a total amount owed of $14,313.08 at an assumed repaymentperiod of two years, takes the special form:</P>
+        <P>(8) <E T="03">Solution of general equation by iteration process.</E> (i) The general equation in paragraph (b)(7) of this appendix, when applied to a simple transaction for a reverse mortgage loan of equal monthly advances of $350 each, and with a total amount owed of $14,313.08 at an assumed repayment period of two years, takes the special form:</P>
         <GPH DEEP="51" SPAN="2">
           <GID>ER22DE11.074</GID>
         </GPH>
