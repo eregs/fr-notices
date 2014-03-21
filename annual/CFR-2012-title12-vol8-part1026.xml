@@ -3538,6 +3538,7 @@
         <EAR>Pt. 1026, App. M2</EAR>
         <HD SOURCE="HED">Appendix M2 to Part 1026—Sample Calculations of Repayment Disclosures</HD>
         <P>The following is an example of how to calculate the minimum payment repayment estimate, the minimum payment total cost estimate, the estimated monthly payment for repayment in 36 months, the total cost estimate for repayment in 36 months, and the savings estimate for repayment in 36 months using the guidance in Appendix M1 to this part where three annual percentage rates apply (where one of the rates is a promotional APR), the total outstanding balance is $1000, and the minimum payment formula is 2 percent of the outstanding balance or $20, whichever is greater. The following calculation is written in SAS code.</P>
+        <CODE LANGUAGE="SAS">
         <P>data one;</P>
         <FP SOURCE="FP-2">/*</FP>
         <FP SOURCE="FP-2">Note:</FP>
@@ -3622,6 +3623,7 @@
         <FP SOURCE="FP-2">put month = tbal = sumpmts = pmt01 = sumpmts36 = savtot =;</FP>
         <FP SOURCE="FP-2">put title = ` ';</FP>
         <FP SOURCE="FP-2">run;</FP>
+        </CODE>
       </APPENDIX>
       <APPENDIX>
         <EAR>Pt. 1026, Supp. I</EAR>
