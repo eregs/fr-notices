@@ -822,7 +822,7 @@
       <SECTION>
         <SECTNO>§ 1026.14</SECTNO>
         <SUBJECT>Determination of annual percentage rate.</SUBJECT>
-        <P>(a) <E T="03">General rule.</E> The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than <FR>1/8</FR>th of 1 percentage point above or below the annual percentage rate determined in accordance with this section. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:</P>
+        <P>(a) <E T="03">General rule.</E> The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than <FR>1/8th</FR>of 1 percentage point above or below the annual percentage rate determined in accordance with this section. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:</P>
         <P>(1) The error resulted from a corresponding error in a calculation tool used in good faith by the creditor; and</P>
         <P>(2) Upon discovery of the error, the creditor promptly discontinues use of that calculation tool for disclosure purposes, and notifies the Bureau in writing of the error in the calculation tool.</P>
         <P>(b) <E T="03">Annual percentage rate—in general.</E> Where one or more periodic rates may be used to compute the finance charge, the annual percentage rate(s) to be disclosed for purposes of §§ 1026.60, 1026.40, 1026.6, 1026.7(a)(4) or (b)(4), 1026.9, 1026.15, 1026.16, 1026.26, 1026.55, and 1026.56 shall be computed by multiplying each periodic rate by the number of periods in a year.</P>
@@ -3782,7 +3782,7 @@
         <HD SOURCE="HD3">2(a)(21) Periodic Rate</HD>
         <P>1. <E T="03">Basis.</E> The periodic rate may be stated as a percentage (for example, 1 and <FR>1/2</FR>% per month) or as a decimal equivalent (for example, .015 monthly). It may be based on any portion of a year the creditor chooses. Some creditors use 1/360 of an annual rate as their periodic rate. These creditors:</P>
         <P>i. May disclose a 1/360 rate as a <E T="03">daily</E> periodic rate, without further explanation, if it is in fact only applied 360 days per year. But if the creditor applies that rate for 365 days, the creditor must note that fact and, of course, disclose the true annual percentage rate.</P>
-        <P>ii. Would have to apply the rate to the balance to disclose the annual percentage rate with the degree of accuracy required in the regulation (that is, within <FR>1/8</FR>th of 1 percentage point of the rate based on the actual 365 days in the year).</P>
+        <P>ii. Would have to apply the rate to the balance to disclose the annual percentage rate with the degree of accuracy required in the regulation (that is, within <FR>1/8th</FR>of 1 percentage point of the rate based on the actual 365 days in the year).</P>
         <P>2. <E T="03">Transaction charges. Periodic rate</E> does not include initial one-time transaction charges, even if the charge is computed as a percentage of the transaction amount.</P>
         <HD SOURCE="HD3">2(a)(22) Person</HD>
         <P>1. <E T="03">Joint ventures.</E> A joint venture is an organization and is therefore a person.</P>
