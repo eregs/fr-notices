@@ -801,11 +801,6 @@
             <HD SOURCE="HD1">Appendix A to Part 1005&#x2014;Model Disclosures and Forms</HD>
             <EXTRACT>
               <STARS/>
-              <FP SOURCE="FP-1">A-30(a)&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency including a disclaimer where non-covered third-party fees and foreign taxes may apply (&#xA7; 1005.31(b)(1))</FP>
-              <FP SOURCE="FP-1">A-30(b) &#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency including a disclaimer with estimate for non-covered third-party fees (&#xA7; 1005.31(b)(1) and &#xA7; 1005.32(b)(3))</FP>
-              <FP SOURCE="FP-1">A-30(c)&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency including a disclaimer with estimate for foreign taxes (&#xA7; 1005.31(b)(1) and &#xA7; 1005.32(b)(3))</FP>
-              <FP SOURCE="FP-1">A-30(d)&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency, including a disclaimer with estimates for non-covered third-party fees and foreign taxes (&#xA7; 1005.31(b)(1) and &#xA7; 1005.32(b)(3))</FP>
-              <STARS/>
               <FP SOURCE="FP-1">A-30(a)&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (&#xA7; 1005.31(b)(1))</FP>
               <GPH DEEP="226" SPAN="1">
                 <GID>ER22MY13.242</GID>
@@ -878,10 +873,10 @@
               </GPH>
               <PRTPAGE P="30714"/>
               <FP SOURCE="FP-1">A-41&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Long)&#x2014;Spanish (&#xA7; 1005.31(b)(4))</FP>
+                <GPH DEEP="537" SPAN="3">
+                  <GID>ER22MY13.258</GID>
+                </GPH>
             </EXTRACT>
-            <GPH DEEP="537" SPAN="3">
-              <GID>ER22MY13.258</GID>
-            </GPH>
           </REGTEXT>
           <REGTEXT PART="1005" TITLE="12">
             <STARS/>
