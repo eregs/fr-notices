@@ -2143,24 +2143,7 @@
             <P>The additions and revisions read as follows:</P>
             <HD SOURCE="HD1">Appendix A to Part 1005&#x2014;Model Disclosure Clauses and Forms</HD>
             <EXTRACT>
-              <STARS/>
-              <FP SOURCE="FP-1">A-10 through A-29 [Reserved]</FP>
-              <FP SOURCE="FP-1">A-30&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (&#xA7; 1005.31(b)(1))</FP>
-              <FP SOURCE="FP-1">A-31&#x2014;Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (&#xA7; 1005.31(b)(2))</FP>
-              <FP SOURCE="FP-1">A-32&#x2014;Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (&#xA7; 1005.31(b)(3))</FP>
-              <FP SOURCE="FP-1">A-33&#x2014;Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(1))</FP>
-              <FP SOURCE="FP-1">A-34&#x2014;Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(2))</FP>
-              <FP SOURCE="FP-1">A-35&#x2014;Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(3))</FP>
-              <FP SOURCE="FP-1">A-36&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Long) (&#xA7; 1005.31(b)(4))</FP>
-              <FP SOURCE="FP-1">A-37&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#xA7; 1005.31(b)(2)(iv) and (b)(2)(vi))</FP>
-              <FP SOURCE="FP-1">A-38&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency&#x2014;Spanish (&#xA7; 1005.31(b)(1))</FP>
-              <FP SOURCE="FP-1">A-39&#x2014;Model Form for Receipts for Remittance Transfers Exchanged into Local Currency&#x2014;Spanish (&#xA7; 1005.31(b)(2))</FP>
-              <FP SOURCE="FP-1">A-40&#x2014;Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency&#x2014;Spanish (&#xA7; 1005.31(b)(3))</FP>
-              <FP SOURCE="FP-1">A-41&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Long)&#x2014;Spanish (&#xA7; 1005.31(b)(4))</FP>
-              <STARS/>
-            </EXTRACT>
             <HD SOURCE="HD1">A-30&#x2014;Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged Into Local Currency (&#xA7; 1005.31(b)(1))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2215,9 +2198,7 @@
                   <ENT>1,187.00 MXN</ENT>
                 </ROW>
               </GPOTABLE>
-            </EXTRACT>
             <HD SOURCE="HD1">A-31&#x2014;Model Form for Receipts for Remittance Transfers Exchanged Into Local Currency (&#xA7; 1005.31(b)(2))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2303,9 +2284,7 @@
               <FP SOURCE="FP-1">
                 <E T="03">www.consumerfinance.gov</E>
               </FP>
-            </EXTRACT>
             <HD SOURCE="HD1">A-32&#x2014;Model Form for Combined Disclosures for Remittance Transfers Exchanged Into Local Currency (&#xA7; 1005.31(b)(3))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2391,9 +2370,7 @@
               <FP SOURCE="FP-1">
                 <E T="03">www.consumerfinance.gov</E>
               </FP>
-            </EXTRACT>
             <HD SOURCE="HD1">A-33&#x2014;Model form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(1))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2439,9 +2416,7 @@
                   <ENT>$95.00</ENT>
                 </ROW>
               </GPOTABLE>
-            </EXTRACT>
             <HD SOURCE="HD1">A-34&#x2014;Model Form for Receipts for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(2))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2521,9 +2496,7 @@
               <FP SOURCE="FP-1">
                 <E T="03">www.consumerfinance.gov</E>
               </FP>
-            </EXTRACT>
             <HD SOURCE="HD1">A-35&#x2014;Model Form for Combined Disclosures for Dollar-to-Dollar Remittance Transfers (&#xA7; 1005.31(b)(3))</HD>
-            <EXTRACT>
               <FP SOURCE="FP-1">ABC Company</FP>
               <FP SOURCE="FP-1">1000 XYZ Avenue</FP>
               <FP SOURCE="FP-1">Anytown, Anystate 12345</FP>
@@ -2603,9 +2576,7 @@
               <FP SOURCE="FP-1">
                 <E T="03">www.consumerfinance.gov</E>
               </FP>
-            </EXTRACT>
             <HD SOURCE="HD1">A-36&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Long) (&#xA7; 1005.31(b)(4))</HD>
-            <EXTRACT>
               <P>
                 <E T="03">What to do if you think there has been an error or problem:</E>
               </P>
@@ -2625,9 +2596,7 @@
               </P>
               <P>You have the right to cancel a remittance transfer and obtain a refund of all funds paid to us, including any fees. In order to cancel, you must contact us at the [phone number or email address] above within 30 minutes of payment for the transfer.</P>
               <P>When you contact us, you must provide us with information to help us identify the transfer you wish to cancel, including the amount and location where the funds were sent. We will refund your money within three business days of your request to cancel a transfer as long as the funds have not already been picked up or deposited into a recipient's account.</P>
-            </EXTRACT>
             <HD SOURCE="HD1">A-37&#x2014;Model Form for Error Resolution and Cancellation Disclosures (Short) (&#xA7; 1005.31(b)(2)(iv) and (vi))</HD>
-            <EXTRACT>
               <P>You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180 days at [insert telephone number] or [insert Web site]. You can also contact us for a written explanation of your rights.</P>
               <P>You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or deposited.</P>
               <P>For questions or complaints about [insert name of remittance transfer provider], contact:</P>
