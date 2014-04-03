@@ -7547,49 +7547,9 @@
             </EXTRACT>
           </REGTEXT>
           <REGTEXT PART="1026" TITLE="12">
-            <AMDPAR>23. Appendix H to part 1026 is amended by revising H-13 and H-15, adding H-24 through H-29, and revising and adding their respective entries to the table of contents at the beginning of the appendix in numerical order as follows:</AMDPAR>
+            <AMDPAR>23. Appendix H to part 1026 is amended by revising H-13 and H-15, adding H-24(A) through H-24(G), H-25(A) through H-25(J), H-26, H-27(A) through H-27(C), H-28(A) through H-28(J) and H-29, and revising and adding their respective entries to the table of contents at the beginning of the appendix in numerical order as follows:</AMDPAR>
             <HD SOURCE="HD1">Appendix H to Part 1026&#x2014;Closed-End Forms and Clauses</HD>
             <EXTRACT>
-              <STARS/>
-              <FP SOURCE="FP-1">H-13Closed-End Transaction With Demand Feature Sample</FP>
-              <STARS/>
-              <FP SOURCE="FP-1">H-15Closed-End Graduated-Payment Transaction Sample</FP>
-              <STARS/>
-              <FP SOURCE="FP-1">H-24(A) Mortgage Loan Transaction Loan Estimate&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-24(B) Mortgage Loan Transaction Loan Estimate&#x2014;Fixed Rate Loan Sample</FP>
-              <FP SOURCE="FP-1">H-24(C) Mortgage Loan Transaction Loan Estimate&#x2014;Interest Only Adjustable Rate Loan Sample</FP>
-              <FP SOURCE="FP-1">H-24(D) Mortgage Loan Transaction Loan Estimate&#x2014;Refinance Sample</FP>
-              <FP SOURCE="FP-1">H-24(E) Mortgage Loan Transaction Loan Estimate&#x2014;Balloon Payment Sample</FP>
-              <FP SOURCE="FP-1">H-24(F) Mortgage Loan Transaction Loan Estimate&#x2014;Negative Amortization Sample</FP>
-              <FP SOURCE="FP-1">H-24(G) Mortgage Loan Transaction Loan Estimate&#x2014;Modification to Loan Estimate for Transaction Not Involving Seller&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-25(A) Mortgage Loan Transaction Closing Disclosure&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-25(B) Mortgage Loan Transaction Closing Disclosure&#x2014;Fixed Rate Loan Sample</FP>
-              <FP SOURCE="FP-1">H-25(C) Mortgage Loan Transaction Closing Disclosure&#x2014;Borrower Funds From Second-Lien Loan in Summaries of Transactions Sample</FP>
-              <FP SOURCE="FP-1">H-25(D) Mortgage Loan Transaction Closing Disclosure&#x2014;Borrower Satisfaction of Seller's Second-Lien Loan Outside of Closing in Summaries of Transactions Sample</FP>
-              <FP SOURCE="FP-1">H-25(E) Mortgage Loan Transaction Closing Disclosure&#x2014;Refinance Transaction Sample</FP>
-              <FP SOURCE="FP-1">H-25(F) Mortgage Loan Transaction Closing Disclosure&#x2014;Refinance Transaction Sample (amount in excess of &#xA7; 1026.19(e)(3))</FP>
-              <FP SOURCE="FP-1">H-25(G) Mortgage Loan Transaction Closing Disclosure&#x2014;Refinance Transaction With Cash From Consumer at Consummation Sample</FP>
-              <FP SOURCE="FP-1">H-25(H) Mortgage Loan Transaction Closing Disclosure&#x2014;Modification to Closing Cost Details&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-25(I) Mortgage Loan Transaction Closing Disclosure&#x2014;Modification to Closing Disclosure for Disclosure Provided to Seller&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-25(J) Mortgage Loan Transaction Closing Disclosure&#x2014;Modification to Closing Disclosure for Transaction Not Involving Seller&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-26 Mortgage Loan Transaction&#x2014;Pre-Loan Estimate Statement&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-27(A) Mortgage Loan Transaction &#x2014;Written List of Providers&#x2014;Model Form</FP>
-              <FP SOURCE="FP-1">H-27(B) Mortgage Loan Transaction&#x2014;Sample of Written List of Providers</FP>
-              <FP SOURCE="FP-1">H-27(C) Mortgage Loan Transaction&#x2014;Sample of Written List of Providers with Services You Cannot Shop For</FP>
-              <FP SOURCE="FP-1">H-28(A) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Model Form</FP>
-              <FP SOURCE="FP-1">H-28(B) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Purchase Sample</FP>
-              <FP SOURCE="FP-1">H-28(C) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Refinance Sample</FP>
-              <FP SOURCE="FP-1">H-28(D) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Balloon Payment Sample</FP>
-              <FP SOURCE="FP-1">H-28(E) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Negative Amortization Sample</FP>
-              <FP SOURCE="FP-1">H-28(F) Mortgage Loan Transaction Closing Disclosure&#x2014;Spanish Language Model Form</FP>
-              <FP SOURCE="FP-1">H-28(G) Mortgage Loan Transaction Closing Disclosure&#x2014;Spanish Language Purchase Sample</FP>
-              <FP SOURCE="FP-1">H-28(H) Mortgage Loan Transaction Closing Disclosure&#x2014;Spanish Language Refinance Sample</FP>
-              <FP SOURCE="FP-1">H-28(I) Mortgage Loan Transaction Loan Estimate&#x2014;Modification to Loan Estimate for Transaction Not Involving Seller&#x2014;Spanish Language Model Form</FP>
-              <FP SOURCE="FP-1">H-28(J) Mortgage Loan Transaction Closing Disclosure&#x2014;Modification to Closing Disclosure for Transaction Not Involving Seller&#x2014;Spanish Language Model Form</FP>
-              <FP SOURCE="FP-1">H-29 Escrow Cancellation Notice Model Form (&#xA7; 1026.20(e))</FP>
-              <STARS/>
-            </EXTRACT>
-            <PRTPAGE P="80131"/>
             <HD SOURCE="HD1">H-13&#x2014;Closed-End Transaction With Demand Feature Sample</HD>
             <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
             <GPH DEEP="350" SPAN="3">
@@ -8000,19 +7960,9 @@
               <PRTPAGE P="80223"/>
               <GID>ER31DE13.087</GID>
             </GPH>
-          </REGTEXT>
-          <PRTPAGE P="80226"/>
-          <AGENCY TYPE="S">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
-          <CFR>12 CFR Parts 1024 and 1026</CFR>
-          <DEPDOC>[Docket No. CFPB-2012-0028]</DEPDOC>
-          <RIN>RIN 3170-AA19</RIN>
-          <SUBJECT>Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth In Lending Act(Regulation Z)</SUBJECT>
-          
-          <PRTPAGE P="80227"/>
           <HD SOURCE="HD1">H-28(A) Mortgage Loan Transaction Loan Estimate&#x2014;Spanish Language Model Form</HD>
           <P>
             <E T="03">Description:</E>This is a blank model Loan Estimate that illustrates the application of the content requirements in &#xA7; 1026.37, and is translated into the Spanish language as permitted by &#xA7; 1026.37(o)(5)(ii). This form provides two variations of page one, four variations of page two, and four variations of page three, reflecting the variable content requirements in &#xA7; 1026.37.</P>
-          <REGTEXT PART="1026" TITLE="12">
             <GPH DEEP="640" SPAN="3">
               <PRTPAGE P="80228"/>
               <GID>ER31DE13.088</GID>
@@ -8319,13 +8269,24 @@
               <GID>ER31DE13.155</GID>
             </GPH>
             <PRTPAGE P="80302"/>
-            <HD SOURCE="HD1">H-29Escrow Cancellation Notice Model Form (&#xA7; 1026.20(e))</HD>
+            <HD SOURCE="HD1">H-29 Escrow Cancellation Notice Model Form (&#xA7; 1026.20(e))</HD>
             <P>
               <E T="03">Description:</E>This is a blank model form of the disclosures required by &#xA7; 1026.20(e).</P>
             <GPH DEEP="435" SPAN="3">
               <GID>ER31DE13.156</GID>
             </GPH>
             <BILCOD>BILLING CODE 4810-AM-C</BILCOD>
+            </EXTRACT>
+          </REGTEXT>
+          <PRTPAGE P="80226"/>
+          <AGENCY TYPE="S">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+          <CFR>12 CFR Parts 1024 and 1026</CFR>
+          <DEPDOC>[Docket No. CFPB-2012-0028]</DEPDOC>
+          <RIN>RIN 3170-AA19</RIN>
+          <SUBJECT>Integrated Mortgage Disclosures Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth In Lending Act(Regulation Z)</SUBJECT>
+          
+          <PRTPAGE P="80227"/>
+          <REGTEXT PART="1026" TITLE="12">
             <AMDPAR>24. In Supplement I to Part 1026:</AMDPAR>
             <AMDPAR>A. Under<E T="03">Section 1026.1&#x2014;Authority, Purpose, Coverage, Organization, Enforcement and Liability:</E>
             </AMDPAR>
