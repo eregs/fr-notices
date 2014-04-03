@@ -2801,55 +2801,34 @@
             <AMDPAR>E. Republishing H-4(E) and H-4(F).</AMDPAR>
             <P>The additions and republications read as follows:</P>
             <HD SOURCE="HD1">Appendix H to Part 1026&#x2014;Closed-End Model Forms and Clauses</HD>
-            <STARS/>
-            
             <EXTRACT>
-              <FP SOURCE="FP-1">H-4(D)(1) Adjustable-Rate Mortgage Model Form (&#xA7; 1026.20(c))</FP>
-              <FP SOURCE="FP-1">H-4(D)(2) Adjustable-Rate Mortgage Sample Form (&#xA7; 1026.20(c))</FP>
-              <FP SOURCE="FP-1">H-4(D)(3) Adjustable-Rate Mortgage Model Form (&#xA7; 1026.20(d))</FP>
-              <FP SOURCE="FP-1">H-4(D)(4) Adjustable-Rate Mortgage Sample Form (&#xA7; 1026.20(d))</FP>
-              <STARS/>
-              <FP SOURCE="FP-1">H-30(A) Sample Form of Periodic Statement (&#xA7; 1026.41)</FP>
-              <FP SOURCE="FP-1">H-30(B) Sample Form of Periodic Statement with Delinquency Box (&#xA7; 1026.41)</FP>
-              <FP SOURCE="FP-1">H-30(C) Sample Form of Periodic Statement for a Payment-Options Loan (&#xA7; 1026.41)</FP>
-              <FP SOURCE="FP-1">H-30(D) Sample Clause for Homeownership Counselor Contact Information (&#xA7; 1026.41)</FP>
-              <STARS/>
-              <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+              <HD SOURCE="HD1">H-4(D)(1) Model Form for § 1026.20(c)</HD>
               <GPH DEEP="102" SPAN="3">
-                <GID>ER14FE13.002</GID>
+                <GID>ER14FE13.003-1</GID>
               </GPH>
-              <GPH DEEP="483" SPAN="3">
-                <PRTPAGE P="11009"/>
-                <GID>ER14FE13.003</GID>
+              <HD SOURCE="HD1">H-4(D)(2) Sample Form for § 1026.20(c)</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.004-1</GID>
               </GPH>
-              <GPH DEEP="420" SPAN="3">
-                <PRTPAGE P="11010"/>
-                <GID>ER14FE13.004</GID>
+              <HD SOURCE="HD1">H-4(D)(3) Model Form for § 1026.20(d)</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.005-1</GID>
               </GPH>
-              <GPH DEEP="615" SPAN="3">
-                <PRTPAGE P="11011"/>
-                <GID>ER14FE13.005</GID>
+              <HD SOURCE="HD1">H-4(D)(4) Sample Form for § 1026.20(d)</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.006-1</GID>
               </GPH>
-              <GPH DEEP="597" SPAN="3">
-                <PRTPAGE P="11012"/>
-                <GID>ER14FE13.006</GID>
+              <HD SOURCE="HD1">H-30(A) Sample Form of Periodic Statement</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.008-1</GID>
               </GPH>
-              <GPH DEEP="394" SPAN="3">
-                <PRTPAGE P="11013"/>
-                <GID>ER14FE13.007</GID>
+              <HD SOURCE="HD1">H-30(B) Sample Form of Periodic Statement with Delinquency Box</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.009-1</GID>
               </GPH>
-              <STARS/>
-              <GPH DEEP="578" SPAN="3">
-                <PRTPAGE P="11014"/>
-                <GID>ER14FE13.008</GID>
-              </GPH>
-              <GPH DEEP="600" SPAN="3">
-                <PRTPAGE P="11015"/>
-                <GID>ER14FE13.009</GID>
-              </GPH>
-              <GPH DEEP="588" SPAN="3">
-                <PRTPAGE P="11016"/>
-                <GID>ER14FE13.010</GID>
+              <HD SOURCE="HD1">H-30(C) Sample Form of Periodic Statement for a Payment-Options Loan</HD>
+              <GPH DEEP="102" SPAN="3">
+                <GID>ER14FE13.010-1</GID>
               </GPH>
               <BILCOD>BILLING CODE 4810-AM-C</BILCOD>
               <FP SOURCE="FP-1">H-30(D) Sample Clause for Homeownership Counselor Contact Information</FP>
