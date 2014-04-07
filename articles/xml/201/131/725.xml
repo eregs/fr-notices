@@ -851,8 +851,9 @@
                   <HD SOURCE="HD1">A-8&#x2014;Model Clause for Electronic Collection of Returned Item Fees (&#xA7; 1005.3(b)(3))</HD>
 
                   <P>If your payment is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee of [$____]. [If your payment<PRTPAGE P="81037"/>is returned unpaid, you authorize [us/name of person collecting the fee electronically] to make a one-time electronic fund transfer from your account to collect a fee. The fee will be determined [by]/[as follows]: [____].]</P>
-                  <GPH DEEP="488" SPAN="3">
-                    <GID>ER27DE11.000</GID>
+                  <HD SOURCE="HD1">A-9 Model Consent Form for Overdraft Services § 1005.17</HD>
+                  <GPH>
+                    <GID>ER27DE11.000-1</GID>
                   </GPH>
               </APPENDIX>
               <APPENDIX>

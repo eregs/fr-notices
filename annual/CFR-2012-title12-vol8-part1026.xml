@@ -2504,40 +2504,53 @@
         <P>[Creditor Address]</P>
         <P>[[Creditor Web address]]</P>
         <P>While we investigate, the same rules apply to the disputed amount as discussed above. After we finish our investigation, we will tell you our decision. At that point, if we think you owe an amount and you do not pay we may report you as delinquent.</P>
-        <GPH DEEP="262" SPAN="2">
-          <GID>ER22DE11.003</GID>
+        <HD SOURCE="HD1">G-5—Rescission Model Form (When Opening An Account)</HD>
+        <GPH>
+          <GID>ER22DE11.003-1</GID>
         </GPH>
-        <GPH DEEP="313" SPAN="2">
+        <HD SOURCE="HD1">G-6—Rescission Model Form (For Each Transaction)</HD>
+        <GPH>
           <PRTPAGE P="658"/>
-          <GID>ER22DE11.004</GID>
+          <GID>ER22DE11.004-1</GID>
         </GPH>
-        <GPH DEEP="315" SPAN="2">
+        <HD SOURCE="HD1">G-7—Rescission Model Form (When Increasing the Credit Limit)</HD>
+        <GPH>
           <PRTPAGE P="659"/>
-          <GID>ER22DE11.005</GID>
+          <GID>ER22DE11.005-1</GID>
         </GPH>
-        <GPH DEEP="268" SPAN="2">
+        <HD SOURCE="HD1">G-8—Rescission Model Form (When Adding a Security Interest)</HD>
+        <GPH>
           <PRTPAGE P="660"/>
-          <GID>ER22DE11.006</GID>
+          <GID>ER22DE11.006-1</GID>
         </GPH>
-        <GPH DEEP="290" SPAN="2">
+        <HD SOURCE="HD1">G-9—Rescission Model Form (When Increasing the Security)</HD>
+        <GPH>
           <PRTPAGE P="661"/>
-          <GID>ER22DE11.007</GID>
+          <GID>ER22DE11.007-1</GID>
         </GPH>
-        <GPH DEEP="460" SPAN="2">
+        <HD SOURCE="HD1">G-10(A) Applications and Solicitations Model Form (Credit Cards)</HD>
+        <GPH>
           <PRTPAGE P="662"/>
-          <GID>ER22DE11.008</GID>
+          <GID>ER22DE11.008-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-10(B) Applications and Solicitations Sample (Credit Cards)</HD>
+        <GPH>
           <PRTPAGE P="663"/>
-          <GID>ER22DE11.009</GID>
+          <GID>ER22DE11.009-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-10(C) Applications and Solicitations (Credit Cards)</HD>
+        <GPH>
           <PRTPAGE P="664"/>
-          <GID>ER22DE11.010</GID>
+          <GID>ER22DE11.010-1</GID>
         </GPH>
-        <GPH DEEP="463" SPAN="2">
+        <HD SOURCE="HD1">G-10(D) Applications and Solicitations Model Form (Charge Cards)</HD>
+        <GPH>
           <PRTPAGE P="665"/>
-          <GID>ER22DE11.011</GID>
+          <GID>ER22DE11.011-1</GID>
+        </GPH>
+        <HD SOURCE="HD1">G-10(E) Applications and Solicitations Sample (Charge Cards)</HD>
+        <GPH>
+          <GID>ER22DE11.011-2</GID>
         </GPH>
         <PRTPAGE P="666"/>
         <HD SOURCE="HD1">G-11—Applications and Solicitations Made Available to the General Public Model Clauses</HD>
@@ -2564,17 +2577,19 @@
         <HD SOURCE="HD1">G-13(B)—Change in Insurance Provider Model Form</HD>
         <P>We have changed the insurer providing the coverage for your account. The new insurer's name and address are (name and address). A copy of the new policy or certificate is attached.</P>
         <P>You may cancel the insurance for your account.</P>
-        <GPH DEEP="463" SPAN="2">
+        <HD SOURCE="HD1">G-14A -- Home Equity Sample</HD>
+        <GPH>
           <PRTPAGE P="667"/>
-          <GID>ER22DE11.012</GID>
+          <GID>ER22DE11.012-1</GID>
         </GPH>
         <GPH DEEP="332" SPAN="2">
           <PRTPAGE P="668"/>
           <GID>ER22DE11.013</GID>
         </GPH>
-        <GPH DEEP="447" SPAN="2">
+        <HD SOURCE="HD1">G-14B -- Home Equity Sample</HD>
+        <GPH>
           <PRTPAGE P="669"/>
-          <GID>ER22DE11.014</GID>
+          <GID>ER22DE11.014-1</GID>
         </GPH>
         <GPH DEEP="365" SPAN="2">
           <PRTPAGE P="670"/>
@@ -2584,9 +2599,10 @@
           <PRTPAGE P="671"/>
           <GID>ER22DE11.016</GID>
         </GPH>
-        <GPH DEEP="405" SPAN="2">
+        <HD SOURCE="HD1">G-15 -- Home Equity Model Clauses</HD>
+        <GPH>
           <PRTPAGE P="672"/>
-          <GID>ER22DE11.017</GID>
+          <GID>ER22DE11.017-1</GID>
         </GPH>
         <GPH DEEP="396" SPAN="2">
           <PRTPAGE P="673"/>
@@ -2602,49 +2618,67 @@
         <HD SOURCE="HD1">G-16(B) Debt Suspension Sample</HD>
         <P>Please enroll me in the optional [name of program], and bill my account the fee of $.83 per $100 of my month-end account balance. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.</P>
         <P>To Enroll, Initial Here. X__________</P>
-        <GPH DEEP="460" SPAN="2">
+        <HD SOURCE="HD1">G-17(A) Account-Opening Model Form</HD>
+        <GPH>
           <PRTPAGE P="675"/>
-          <GID>ER22DE11.020</GID>
+          <GID>ER22DE11.020-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-17(B) Account-Opening Sample</HD>
+        <GPH>
           <PRTPAGE P="676"/>
-          <GID>ER22DE11.021</GID>
+          <GID>ER22DE11.021-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-17(C) Account-Opening Sample</HD>
+        <GPH>
           <PRTPAGE P="677"/>
-          <GID>ER22DE11.022</GID>
+          <GID>ER22DE11.022-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-17(D) Account-Opening Sample (Line of Credit)</HD>
+        <GPH>
           <PRTPAGE P="678"/>
-          <GID>ER22DE11.023</GID>
+          <GID>ER22DE11.023-1</GID>
         </GPH>
-        <GPH DEEP="398" SPAN="2">
+        <HD SOURCE="HD1">G-18(A) Periodic Statement Transactions; Interest Charges; Fee Sample</HD>
+        <GPH>
           <PRTPAGE P="679"/>
-          <GID>ER22DE11.024</GID>
+          <GID>ER22DE11.024-1</GID>
         </GPH>
         <HD SOURCE="HD1">G-18(B)—Late Payment Fee Sample</HD>
         <P>
           <E T="03">Late Payment Warning:</E> If we do not receive your minimum payment by the date listed above, you may have to pay a $35 late fee and your APRs may be increased up to the Penalty APR of 28.99%.</P>
-        <GPH DEEP="312" SPAN="2">
+        <HD SOURCE="HD1">G-18(C)(1) Minimum Payment Warning (When Amortization Occurs and the 36-month Disclosures Are Required)</HD>
+        <GPH>
           <PRTPAGE P="680"/>
-          <GID>ER22DE11.025</GID>
+          <GID>ER22DE11.025-1</GID>
         </GPH>
-        <GPH DEEP="388" SPAN="2">
+        <HD SOURCE="HD1">G-18(C)(2) Minimum Payment Warning (When Amortization Occurs and the 36-month Disclosures Are Not Required)</HD>
+        <GPH>
+          <GID>ER22DE11.025-2</GID>
+        </GPH>
+        <HD SOURCE="HD1">G-18(C)(3) Minimum Payment Warning (When Negative or No Amortization Occurs</HD>
+        <GPH>
           <PRTPAGE P="681"/>
-          <GID>ER22DE11.026</GID>
+          <GID>ER22DE11.026-1</GID>
+        </GPH>
+        <HD SOURCE="HD1">G-18(D) Periodic Statement New Balance, Due Date, Late Payment and Minimum Payment Sample (Credit Cards)</HD>
+        <GPH>
+          <PRTPAGE P="681"/>
+          <GID>ER22DE11.026-2</GID>
         </GPH>
         <HD SOURCE="HD1">G-18(E) [Reserved]</HD>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-18(F) Periodic Statement Form</HD>
+        <GPH>
           <PRTPAGE P="682"/>
-          <GID>ER22DE11.027</GID>
+          <GID>ER22DE11.027-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <GPH>
           <PRTPAGE P="683"/>
-          <GID>ER22DE11.028</GID>
+          <GID>ER22DE11.028-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-18(G) Periodic Statement Form</HD>
+        <GPH>
           <PRTPAGE P="684"/>
-          <GID>ER22DE11.029</GID>
+          <GID>ER22DE11.029-1</GID>
         </GPH>
         <GPH DEEP="280" SPAN="2">
           <PRTPAGE P="685"/>
@@ -2652,14 +2686,29 @@
         </GPH>
         <HD SOURCE="HD1">G-18(H)—Deferred Interest Periodic Statement Clause</HD>
         <P>[You must pay your promotional balance in full by [date] to avoid paying accrued interest charges.]</P>
-        <GPH DEEP="418" SPAN="2">
+        <HD SOURCE="HD1">G-19 Checks Accessing a Credit Card Sample</HD>
+        <GPH>
           <PRTPAGE P="686"/>
-          <GID>ER22DE11.031</GID>
+          <GID>ER22DE11.031-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">G-20 Change-in-Terms Sample (Increase in Annual Percentage Rate)</HD>
+        <GPH>
+          <GID>ER22DE11.031-2</GID>
+        </GPH>
+        <HD SOURCE="H1">G-21 Change-in-Terms Sample (Increase in Fees)</HD>
+        <GPH>
           <PRTPAGE P="687"/>
-          <GID>ER22DE11.032</GID>
+          <GID>ER22DE11.032-1</GID>
         </GPH>
+        <HD SOURCE="H1">G-22 Penalty Rate Increase Sample (Payment 60 or Fewer Days Late)</HD>
+        <GPH>
+          <GID>ER22DE11.032-2</GID>
+        </GPH>
+        <HD SOURCE="H1">G-23 Penalty Rate Increase Sample (Payment More Than 60 Days Late)</HD>
+        <GPH>
+          <GID>ER22DE11.032-3</GID>
+        </GPH>
+
         <PRTPAGE P="688"/>
         <HD SOURCE="HD1">G-24—Deferred Interest Offer Clauses</HD>
         <HD SOURCE="HD2">(a) For Credit Card Accounts Under an Open-End (Not Home-Secured) Consumer Credit Plan</HD>
@@ -2731,17 +2780,50 @@
         <FP SOURCE="FP-1">H-21Private Education Loan Application and Solicitation Sample</FP>
         <FP SOURCE="FP-1">H-22Private Education Loan Approval Sample</FP>
         <FP SOURCE="FP-1">H-23Private Education Loan Final Sample</FP>
-        <GPH DEEP="413" SPAN="2">
-          <GID>ER22DE11.033</GID>
+        <HD SOURCE="HD1">H-1—Credit Sale Model Form</HD>
+        <GPH>
+          <GID>ER22DE11.033-1</GID>
         </GPH>
-        <GPH DEEP="413" SPAN="2">
+        <HD SOURCE="HD1">H-2—Loan Model Form</HD>
+        <GPH>
           <PRTPAGE P="690"/>
-          <GID>ER22DE11.034</GID>
+          <GID>ER22DE11.034-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="691"/>
-          <GID>ER22DE11.035</GID>
-        </GPH>
+        <HD SOURCE="HD1">H-3—Amount Financed Itemization Model Form</HD>
+        <P>Itemization of Amount Financed of $_________</P>
+        <P>$__________ Amount given to you directly</P>
+        <P>$__________ Amount paid on your account</P>
+        <P>Amount paid to others on your behalf</P>
+        <P>$__________ to [public officials] [credit bureau] [appraiser] [insurance company]</P>
+        <P>$__________ to (name of another creditor)</P>
+        <P>$__________ to (other)</P>
+        <P>$__________ Prepaid finance charge</P>
+        <HD SOURCE="HD1">H-4(A)—Variable-Rate Model Clauses</HD>
+        <P>The annual percentage rate may increase during the term of this transaction if:</P>
+        <P>      [the prime interest rate of      (creditor)      increases.]</P>
+        <P>      [the balance in your deposit account falls below $___________.]</P>
+        <P>      [you terminate your employment with      (employer)      .]</P>
+        <P>[The interest rate will not increase above ___________%.]</P>
+        <P>[The maximum interest rate increase at one time will be ___________%.]</P>
+        <P>[The rate will not increase more than once every      (time period)      .]</P>
+        <P>Any increase will take the form of:</P>
+        <P>      [higher payment amounts.]</P>
+        <P>      [more payments of the same amount.]</P>
+        <P>      [a larger amount due at maturity.]</P>
+        <HD SOURCE="HD2">Example based on the specific transaction</HD>
+        <P>[If the interest rate increases by ___________% in      (time period),</P>
+        <P>      [your regular payments will increase to $___________.]</P>
+        <P>      [you will have to make ___________ additional payments.]</P>
+        <P>      [your final payment will increase to $___________.]]</P>
+        <HD SOURCE="HD2">Example based on a typical transaction</HD>
+        <P>[If your load were for $___________ at ___________% for     (term)      and the rate increased to ___________% in      (time period),</P>
+        <P>      [your regular payments would increase by $___________.]</P>
+        <P>      [you would have to make ___________ additional payments.]</P>
+        <P>      [your final payment would increase by $___________.]]</P>
+        <HD SOURCE="HD1">H-4(B)—Variable-Rate Model Clauses</HD>
+        <P>Your loan contains a variable-rate feature. Disclosures about the
+        variable-rate feature have been provided to you
+        earlier.</P>
         <HD SOURCE="HD1">H-4(C)—Variable-Rate Model Clauses</HD>
         <P>This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.</P>
         <P>How Your Interest Rate and Payment Are Determined<PRTPAGE P="692"/>
@@ -2777,13 +2859,27 @@
           <PRTPAGE P="694"/>
           <GID>ER22DE11.037</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="695"/>
-          <GID>ER22DE11.038</GID>
-        </GPH>
-        <GPH DEEP="345" SPAN="2">
+        <P>Note: To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000÷$10,000=6; 6x____=$____per month.)</P>
+        <HD SOURCE="HD1">H-4(D) – Variable-Rate Model Clauses</HD>
+        <P>Your new interest rate will be ___________%, which is based on an index value of ___________%.</P>
+        <P>Your previous interest rate was ___________%, which was based on an index value of ___________%.</P>
+        <P>[The new interest rate does not reflect a change of ___________ percentage point in the index value which was not added because of ___________.]</P>
+        <P>[The new payment will be $___________.]</P>
+        <P>[Your new loan balance is $___________.]</P>
+        <P>[Your (new) (existing) payment will not be sufficient to cover the interest due and the difference will be added to the loan amount. The payment amount needed to pay your loan in full by the end of the term at the new interest rate is $___________.]</P>
+        <P>[The following interest rate adjustments have been implemented this year without changing your payment: ___________. These interest rates were based on the following index values: ___________.]</P>
+        <HD SOURCE="HD1">H-4(E) Fixed Rate Mortgage Interest Rate and Payment Summary Model Clause</HD>
+        <GPH><GID>ER22DE11.038-2</GID></GPH>
+        <HD SOURCE="HD1">H-4(F) Adjustable-Rate Mortgage or Step-Rate Mortgage Interest Rate and Payment Summary Model Clause</HD>
+        <GPH><GID>ER22DE11.038-3</GID></GPH>
+        <HD SOURCE="HD1">H-4(G) Mortgage with Negative Amortization Interest Rate and Payment Summary Model Clause</HD>
+        <GPH>
           <PRTPAGE P="696"/>
-          <GID>ER22DE11.039</GID>
+          <GID>ER22DE11.039-1</GID>
+        </GPH>
+        <HD SOURCE="HD1">H-4(H) Fixed Rate Mortgage with Interest Only Interest Rate and Payment Summary Model Clause</HD>
+        <GPH>
+          <GID>ER22DE11.039-2</GID>
         </GPH>
         <HD SOURCE="HD1">H-4(I)—Introductory Rate Model Clause</HD>
         <P>[Introductory Rate Notice</P>
@@ -2793,13 +2889,18 @@
         <P>[Final Balloon Payment due (date): $______]</P>
         <HD SOURCE="HD1">H-4(K)—“No-Guarantee-to-Refinance” Statement Model Clause</HD>
         <P>There is no guarantee that you will be able to refinance to lower your rate and payments.</P>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="697"/>
-          <GID>ER22DE11.040</GID>
-        </GPH>
-        <GPH DEEP="448" SPAN="2">
+        <HD SOURCE="HD1">H-5–Demand Feature Model Clauses</HD>
+        <P>This obligation [is payable on demand.]</P>
+        <P>          [has a demand feature.]</P>
+        <P>[All disclosures are based on an assumed maturity of one year.]</P>
+        <HD SOURCE="HD1">H-6–Assumption Policy Model Clause</HD>
+        <P>Assumption: Someone buying your house [may, subject to conditions, be allowed to] [cannot] assume the remainder of the mortgage on the original terms.</P>
+        <HD SOURCE="HD1">H-7–Required Deposit Model Clause</HD>
+        <P>The annual percentage rate does not take into account your required deposit.</P>
+        <HD SOURCE="HD1">H-8—Rescission Model Form (General)</HD>
+        <GPH>
           <PRTPAGE P="698"/>
-          <GID>ER22DE11.041</GID>
+          <GID>ER22DE11.041-1</GID>
         </GPH>
         <PRTPAGE P="699"/>
         <HD SOURCE="HD1">H-9—Rescission Model Form (Refinancing With Original Creditor)</HD>
@@ -2831,21 +2932,25 @@
         <HD SOURCE="HD3">I WISH TO CANCEL</HD>
         <FP SOURCE="FP-DASH">Consumer's Signature</FP>
         <FP SOURCE="FP-DASH">Date</FP>
-        <GPH DEEP="437" SPAN="2">
+        <HD SOURCE="HD1">H-10—Credit Sale Sample</HD>
+        <GPH>
           <PRTPAGE P="700"/>
-          <GID>ER22DE11.042</GID>
+          <GID>ER22DE11.042-1</GID>
         </GPH>
-        <GPH DEEP="311" SPAN="2">
+        <HD SOURCE="HD1">H-11—Installment Loan Sample</HD>
+        <GPH>
           <PRTPAGE P="701"/>
-          <GID>ER22DE11.043</GID>
+          <GID>ER22DE11.043-1</GID>
         </GPH>
-        <GPH DEEP="456" SPAN="2">
+        <HD SOURCE="HD1">H-12—Refinancing Sample</HD>
+        <GPH>
           <PRTPAGE P="702"/>
-          <GID>ER22DE11.044</GID>
+          <GID>ER22DE11.044-1</GID>
         </GPH>
-        <GPH DEEP="346" SPAN="2">
+        <HD SOURCE="HD1">H-13—Mortgage with Demand Feature Sample</HD>
+        <GPH>
           <PRTPAGE P="703"/>
-          <GID>ER22DE11.045</GID>
+          <GID>ER22DE11.045-1</GID>
         </GPH>
         <HD SOURCE="HD1">H-14—Variable-Rate Mortgage Sample</HD>
         <P>This disclosure describes the features of the adjustable-rate mortgage (ARM) program you are considering. Information on other ARM programs is available upon request.</P>
@@ -2884,13 +2989,15 @@
           <P>To see what your payments would have been during that period, divide your mortgage amount by $10,000; then multiply the monthly payment by that amount. (For example, in 1996 the monthly payment for a mortgage amount of $60,000 taken out in 1982 would be: $60,000÷$10,000=6; 6×$106.73=$640.38.)</P>
         </NOTE>
         <P>• You will be notified in writing 25 days before the annual payment adjustment may be made. This notice will contain information about your interest rates, payment amount and loan balance.]</P>
-        <GPH DEEP="383" SPAN="2">
+        <HD SOURCE="HD1">H-15—Graduated Payment Mortgage Sample</HD>
+        <GPH>
           <PRTPAGE P="707"/>
-          <GID>ER22DE11.048</GID>
+          <GID>ER22DE11.048-1</GID>
         </GPH>
-        <GPH DEEP="234" SPAN="2">
+        <HD SOURCE="HD1">H-16—Mortgage Sample</HD>
+        <GPH>
           <PRTPAGE P="708"/>
-          <GID>ER22DE11.049</GID>
+          <GID>ER22DE11.049-1</GID>
         </GPH>
         <HD SOURCE="HD1">H-17(A) Debt Suspension Model Clause</HD>
         <P>Please enroll me in the optional [insert name of program], and bill my account the fee of [insert charge for the initial term of coverage]. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.</P>
@@ -2900,49 +3007,55 @@
         <P>Please enroll me in the optional [name of program], and bill my account the fee of $200.00. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.</P>
         <P>To Enroll, Initial Here.</P>
         <FP SOURCE="FP-DASH">X</FP>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-18—Private Education Loan Application and Solicitation Model Form</HD>
+        <GPH>
           <PRTPAGE P="709"/>
-          <GID>ER22DE11.050</GID>
+          <GID>ER22DE11.050-1</GID>
         </GPH>
         <GPH DEEP="431" SPAN="2">
           <PRTPAGE P="710"/>
           <GID>ER22DE11.051</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-19—Private Education Loan Approval Model Form</HD>
+        <GPH>
           <PRTPAGE P="711"/>
-          <GID>ER22DE11.052</GID>
+          <GID>ER22DE11.052-1</GID>
         </GPH>
         <GPH DEEP="433" SPAN="2">
           <PRTPAGE P="712"/>
           <GID>ER22DE11.053</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-20—Private Education Loan Final Model Form</HD>
+        <GPH>
           <PRTPAGE P="713"/>
-          <GID>ER22DE11.054</GID>
+          <GID>ER22DE11.054-1</GID>
         </GPH>
         <GPH DEEP="142" SPAN="2">
           <PRTPAGE P="714"/>
           <GID>ER22DE11.055</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-21—Private Education Loan Application and Solicitation Sample</HD>
+        <GPH>
           <PRTPAGE P="715"/>
-          <GID>ER22DE11.056</GID>
+          <GID>ER22DE11.056-1</GID>
         </GPH>
         <GPH DEEP="419" SPAN="2">
           <PRTPAGE P="716"/>
           <GID>ER22DE11.057</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-22—Private Education Loan Approval Sample</HD>
+        <GPH>
           <PRTPAGE P="717"/>
-          <GID>ER22DE11.058</GID>
+          <GID>ER22DE11.058-1</GID>
         </GPH>
         <GPH DEEP="429" SPAN="2">
           <PRTPAGE P="718"/>
           <GID>ER22DE11.059</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
+        <HD SOURCE="HD1">H-23—Private Education Loan Final  Sample</HD>
+        <GPH>
           <PRTPAGE P="719"/>
-          <GID>ER22DE11.060</GID>
+          <GID>ER22DE11.060-1</GID>
         </GPH>
         <GPH DEEP="177" SPAN="2">
           <PRTPAGE P="720"/>
@@ -2959,7 +3072,7 @@
         <P>(1) Section 1026.22(a) of Regulation Z provides that the annual percentage rate for other than open-end credit transactions shall be determined in accordance with either the actuarial method or the United States Rule method. This appendix contains an explanation of the actuarial method as well as equations, instructions and examples of how this method applies to single advance and multiple advance transactions.</P>
         <P>(2) Under the actuarial method, at the end of each unit-period (or fractional unit-period) the unpaid balance of the amount financed is increased by the finance charge earned during that period and is decreased by the total payment (if any) made at the end of that period. The determination of unit-periods and fractional unit-periods shall be consistent with the definitions and rules in paragraphs (b)(3), (4) and (5) of this section and the general equation in paragraph (b)(8) of this section.</P>
         <P>(3) In contrast, under the United States Rule method, at the end of each payment period, the unpaid balance of the amount financed is increased by the finance charge earned during that payment period and is decreased by the payment made at the end of that payment period. If the payment is less than the finance charge earned, the adjustment of the unpaid balance of the amount financed is postponed until the end of the next payment period. If at that time the sum of the two payments is still less than the total earned finance charge for the two payment periods, the adjustment of the unpaid balance of the amount financed is postponed still another payment period, and so forth.</P>
-        <HD SOURCE="HD1">(B) Instructions and Equations for the Actuarial Method</HD>
+        <HD SOURCE="HD1">(b) Instructions and Equations for the Actuarial Method</HD>
         <HD SOURCE="HD2">(1) General Rule</HD>
         <P>The annual percentage rate shall be the nominal annual percentage rate determined by multiplying the unit-period rate by the number of unit-periods in a year.</P>
         <HD SOURCE="HD2">(2) Term of the Transaction</HD>
@@ -2989,46 +3102,39 @@
         <P>(vii) In a single advance, single payment transaction in which the term is less than a year and is <E T="03">not</E> equal to a whole number of months, the number of unit-periods in the term shall be 1, and the number of unit-periods per year shall be 365 divided by the number of days in the term.</P>
         <HD SOURCE="HD2">(6) Percentage Rate for a Fraction of a Unit-Period</HD>
         <P>The percentage rate of finance charge for a fraction (less than 1) of a unit-period shall be equal to such fraction multiplied by the percentage rate of finance charge per unit-period.</P>
-        <GPH DEEP="394" SPAN="2">
-          <PRTPAGE P="722"/>
-          <GID>ER22DE11.062</GID>
-        </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="723"/>
-          <GID>ER22DE11.063</GID>
-        </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="724"/>
-          <GID>ER22DE11.064</GID>
-        </GPH>
-        <GPH DEEP="460" SPAN="2">
-          <PRTPAGE P="725"/>
-          <GID>ER22DE11.065</GID>
-        </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="726"/>
-          <GID>ER22DE11.066</GID>
-        </GPH>
-        <GPH DEEP="456" SPAN="2">
-          <PRTPAGE P="727"/>
-          <GID>ER22DE11.067</GID>
-        </GPH>
-        <GPH DEEP="463" SPAN="2">
-          <PRTPAGE P="728"/>
-          <GID>ER22DE11.068</GID>
-        </GPH>
-        <GPH DEEP="431" SPAN="2">
+        <P>(7) <E T="03">Symbols.</E>  The symbols used to express the terms of a transaction in the equation set forth in paragraph (b)(8) of this section are defined as follows:</P>
+        <GPH><GID>ER22DE11.062-1</GID></GPH>
+        <P>Symbols used in the examples shown in this appendix are defined as follows:</P>
+        <GPH><GID>ER22DE11.062-2</GID></GPH>
+        <P>(8) <E T="03">General equation.</E> The following equation sets forth the relationship among the terms of a transaction:</P>
+        <GPH><GID>ER22DE11.063-1</GID></GPH>
+        <P>(9) <E T="03">Solution of general equation by iteration process.</E></P>
+        <P>(i) The general equation in paragraph (b)(8) of this section, when applied to a simple transaction in which a loan of $1000 is repaid by 36 monthly payments of $33.61 each, takes the special form:</P>
+        <GPH><GID>ER22DE11.063-2</GID></GPH>
+        <P>In this case, no further iterations are required to obtain the annual percentage rate correct to two decimal places, 12.83%.</P>
+        <P>(ii) When the iteration approach is used, it is expected that calculators or computers will be programmed to carry all available decimals throughout the calculation and that enough iterations will be performed to make virtually certain that the annual percentage rate obtained, when rounded to 2 decimals, is correct. Annual percentage rates in the examples below were obtained by using a 10 digit programmable calculator and the iteration procedure described above.</P>
+        <HD SOURCE="HD1">(c) Examples for the actuarial method.</HD>
+        <P>(1) <E T="03">Single advance transaction, with or without an odd first period, and otherwise regular.</E> The general equation in paragraph (b)(8) of this section can be put in the following special form for this type of transaction:</P>
+        <GPH><GID>ER22DE11.064-1</GID></GPH>
+        <P>(2) <E T="03">Single advance transaction, with an odd first payment, with or without an odd first period, and otherwise regular.</E> The general equation in paragraph (b)(8) of this section can be put in the following special form for this type of transaction:</P>
+        <GPH><GID>ER22DE11.065-1</GID></GPH>
+        <P>(3) <E T="03">Single advance transaction, with an odd final payment, with or without an odd first period, and otherwise regular.</E> The general equation in paragraph (b)(8) of this section can be put in the following special form for this type of transaction:</P>
+        <GPH><GID>ER22DE11.066-1</GID></GPH>
+        <P>(4) <E T="03">Single advance transaction, with an odd first payment, odd final payment, with or without an odd first period, and otherwise regular.</E> The general equation in paragraph (b)(8) of this section can be put in the following special form for this type of transaction:</P>
+        <GPH><GID>ER22DE11.066-2</GID></GPH>
+        <P>(5) <E T="03">Single advance, single payment transaction.</E> The general equation in paragraph (b)(8) of this section can be put in the special forms below for single advance, single payment transactions. Forms 1 through 3 are for the direct determination of the annual percentage rate under special conditions. Form 4 requires the use of the iteration procedure of paragraph (b)(9) of this section and can be used for all single advance, single payment transactions regardless of term.</P>
+        <GPH><GID>ER22DE11.067-1</GID></GPH>
+        <GPH><GID>ER22DE11.067-2</GID></GPH>
+        <P>(6) <E T="03">Complex single advance transaction.</E></P>
+        <GPH><GID>ER22DE11.068-1</GID></GPH>
+        <GPH>
           <PRTPAGE P="729"/>
-          <GID>ER22DE11.069</GID>
+          <GID>ER22DE11.069-1</GID>
         </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="730"/>
-          <GID>ER22DE11.070</GID>
-        </GPH>
-        <GPH DEEP="470" SPAN="2">
-          <PRTPAGE P="731"/>
-          <GID>ER22DE11.071</GID>
-        </GPH>
+        <GPH><GID>ER22DE11.070-1</GID></GPH>
+        <P>(7) <E T="03">Multiple advance transactions.</E></P>
+        <GPH><GID>ER22DE11.070-2</GID></GPH>
+        <GPH><GID>ER22DE11.071-1</GID></GPH>
       </APPENDIX>
       <APPENDIX>
         <PRTPAGE P="732"/>
