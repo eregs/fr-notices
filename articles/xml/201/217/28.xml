@@ -1911,10 +1911,11 @@
             </AUTH>
           </REGTEXT>
           <REGTEXT PART="1005" TITLE="12">
+            <AMDPAR>6. Add subpart A to read as follows:</AMDPAR>
+            <AMDPAR>2. Designate &#xA7;&#xA7; 1005.1 through 1005.20 as subpart A under the heading set forth above.</AMDPAR>
             <SUBPART>
               <HD SOURCE="HED">Subpart A&#x2014;General</HD>
             </SUBPART>
-            <AMDPAR>2. Designate &#xA7;&#xA7; 1005.1 through 1005.20 as subpart A under the heading set forth above.</AMDPAR>
           </REGTEXT>
           <REGTEXT PART="1005" TITLE="12">
             <AMDPAR>3. In &#xA7; 1005.1, revise paragraph (b) to read as follows:</AMDPAR>
