@@ -588,23 +588,24 @@
           </SECTION>
         </REGTEXT>
         <REGTEXT PART="1005" TITLE="12">
-          <AMDPAR>4. Appendix A to part 1005 is amended by revising Model Forms A-31 and A-40 to read as follows:</AMDPAR>
-          <HD SOURCE="HD1">APPENDIX A TO PART 1005&#x2014;MODEL DISCLOSURES AND FORMS</HD>
-          
-          <EXTRACT>
-            <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
-            <GPH DEEP="626" SPAN="3">
-              <PRTPAGE P="55992"/>
-              <GID>ER18SE14.015</GID>
-            </GPH>
-            <GPH DEEP="640" SPAN="3">
-              <PRTPAGE P="55993"/>
-              <GID>ER18SE14.016</GID>
-            </GPH>
-            <BILCOD>BILLING CODE 4810-AM-C</BILCOD>
-          </EXTRACT>
-          
-        </REGTEXT>
+            <AMDPAR>4.  Appendix A to part 1005 is amended as follows:</AMDPAR>
+            <AMDPAR>a. Model Forms A-31 and A-40 are revised</AMDPAR>
+            <P>The additions and revisions read as follows:</P>
+            <HD SOURCE="HD1">Appendix A to Part 1005&#x2014;Model Disclosures and Forms</HD>
+            <EXTRACT>
+              <STARS/>
+              <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+              <FP SOURCE="FP-1">A-31&#x2014;Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (&#xA7; 1005.31(b)(2))</FP>
+              <GPH DEEP="626" SPAN="3">
+                <GID>ER18SE14.015</GID>
+              </GPH>
+              <BILCOD>BILLING CODE 4810-AM-C</BILCOD>
+              <FP SOURCE="FP-1">A-40&#x2014;Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency&#x2014;Spanish (&#xA7; 1005.31(b)(3))</FP>
+              <GPH DEEP="640" SPAN="3">
+                <GID>ER18SE14.016</GID>
+              </GPH>
+            </EXTRACT>
+          </REGTEXT>
         <REGTEXT PART="1005" TITLE="12">
           <STARS/>
           <AMDPAR>5. In Supplement I to Part 1005:</AMDPAR>
@@ -628,7 +629,7 @@
           <AMDPAR>iv. Under<E T="03">Paragraph 33(c),</E>paragraph 12.i is revised.</AMDPAR>
           <P>The revisions and additions read as follows:</P>
           <HD SOURCE="HD1">Supplement I to Part 1005&#x2014;Official Interpretations</HD>
-          
+
           <EXTRACT>
             <STARS/>
             <HD SOURCE="HD2">Section 1005.30&#x2014;Remittance Transfer Definitions</HD>
@@ -678,7 +679,7 @@
             <P>i. A sender instructs a remittance transfer provider to send US$100 to a designated recipient in local currency, for which the provider charges a transfer fee of US$10 (and thus the sender pays the provider $110). The provider's correspondent imposes a fee of US$15 that it deducts from the amount of the transfer. The sender provides incorrect or insufficient information that results in non-delivery of the remittance transfer as requested. Once the provider determines that an error occurred because the sender provided incorrect or insufficient information, the provider must provide the report required by &#xA7; 1005.33(c)(1) or (d)(1) and inform the sender, pursuant to &#xA7; 1005.33(c)(1) or (d)(1), that it will refund US$95 to the sender within three business days, unless the sender chooses to apply the US$95 towards a new remittance transfer and the provider agrees. Of the $95 that is refunded to the sender, $10 reflects the refund of the provider's transfer fee, and $85 reflects the refund of the amount of funds provided by the sender in connection with the transfer which was not properly transmitted. The provider is not required to refund the US$15 fee imposed by the correspondent (unless the $15 will be refunded to the provider by the correspondent).</P>
             <STARS/>
           </EXTRACT>
-          
+
         </REGTEXT>
         <SIG>
           <DATED>Dated: August 21, 2014.</DATED>
