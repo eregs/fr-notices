@@ -1,0 +1,59 @@
+<RULE>
+        <PREAMB>
+          <PRTPAGE P="65300"/>
+          <AGENCY TYPE="S">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+          <CFR>12 CFR Part 1026</CFR>
+          <DEPDOC>[Docket No. CFPB-2014-0009]</DEPDOC>
+          <RIN>RIN 3170-AA43</RIN>
+          <SUBJECT>Amendments to the 2013 Mortgage Rules Under the Truth in Lending Act (Regulation Z)</SUBJECT>
+          <AGY>
+            <HD SOURCE="HED">AGENCY:</HD>
+            <P>Bureau of Consumer Financial Protection.</P>
+          </AGY>
+          <ACT>
+            <HD SOURCE="HED">ACTION:</HD>
+            <P>Final rule; official interpretations.</P>
+          </ACT>
+          <SUM>
+            <HD SOURCE="HED">SUMMARY:</HD>
+            <P>The Bureau of Consumer Financial Protection (Bureau) is amending certain mortgage rules issued in 2013. The final rule provides an alternative small servicer definition for nonprofit entities that meet certain requirements and amends the existing exemption from the ability-to-repay rule for nonprofit entities that meet certain requirements. The final rule also provides a cure mechanism for the points and fees limit that applies to qualified mortgages.</P>
+          </SUM>
+          <DATES>
+            <HD SOURCE="HED">DATES:</HD>
+            <P>
+              <E T="03">Effective dates:</E>Amendatory instruction 5 is effective August 1, 2015.</P>
+          </DATES>
+          <FURINF>
+            <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+            <P>Pedro De Oliveira, Counsel; William R. Corbett, Nicholas Hluchyj, and Priscilla Walton-Fein, Senior Counsels, Office of Regulations, at (202) 435-7700.</P>
+          </FURINF>
+        </PREAMB>
+        <SUPLINF>
+          <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+
+
+          <REGTEXT PART="1026" TITLE="12">
+
+            <AMDPAR>5. Effective August 1, 2015, in Supplement I to part 1026, under<E T="03">Section 1026.43</E>, subheading<E T="03">Paragraph 43(e)(3)(iv)</E>, paragraph 2 is revised to read as follows:</AMDPAR>
+            <HD SOURCE="HD1">Supplement I to Part 1026&#x2014;Official Interpretations</HD>
+            <EXTRACT>
+              <STARS/>
+              <HD SOURCE="HD1">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+              <STARS/>
+              <HD SOURCE="HD2">Section 1026.43&#x2014;Minimum Standards for Transactions Secured by a Dwelling</HD>
+              <STARS/>
+              <HD SOURCE="HD3">Paragraph 43(e)(3)(iv).</HD>
+              <STARS/>
+              <P>2.<E T="03">Relationship to RESPA tolerance cure.</E>Under Regulation X (12 CFR 1024.7(i)), if any charges at settlement exceed the charges listed on the good faith estimate of settlement costs by more than the amounts permitted under 12 CFR 1024.7(e), the loan originator may cure the tolerance violation by reimbursing the amount by which the tolerance was exceeded at settlement or within 30 calendar days after settlement. Similarly, under &#xA7; 1026.19(f)(2)(v), if amounts paid by the consumer exceed the amounts specified under &#xA7; 1026.19(e)(3)(i) or (ii), the creditor complies with &#xA7; 1026.19(e)(1)(i) if the creditor refunds the excess to the consumer no later than 60 days after consummation. The amount paid to the consumer pursuant to &#xA7; 1026.43(e)(3)(iv) may be offset by the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or &#xA7; 1026.19(f)(2)(v), to the extent that the amount paid to the consumer pursuant to 12 CFR 1024.7(i) or &#xA7; 1026.19(f)(2)(v) is being applied to fees or charges included in points and fees pursuant to &#xA7; 1026.32(b)(1). However, a creditor or assignee has not satisfied &#xA7; 1026.43(e)(3)(iii) unless the total amount described in &#xA7; 1026.43(e)(3)(iv), including any offset due to a payment made pursuant to 12 CFR 1024.7(i) or &#xA7; 1026.19(f)(2)(v), is paid to the consumer within 210 days after consummation and prior to the occurrence of any of the events in &#xA7; 1026.43(e)(3)(iii)(B)(<E T="03">1</E>) through (<E T="03">3</E>).</P>
+              <STARS/>
+            </EXTRACT>
+          </REGTEXT>
+          <SIG>
+            <DATED>Dated: October 17, 2014.</DATED>
+            <NAME>Richard Cordray,</NAME>
+            <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+          </SIG>
+        </SUPLINF>
+        <FRDOC>[FR Doc. 2014-25503 Filed 10-31-14; 8:45 am]</FRDOC>
+        <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+      </RULE>
