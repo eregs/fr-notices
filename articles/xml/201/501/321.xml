@@ -1,0 +1,596 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="8767"/>
+        <AGENCY TYPE="F">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Parts 1024 and 1026</CFR>
+        <DEPDOC>[Docket No. CFPB-2014-0028]</DEPDOC>
+        <RIN>RIN 3170-AA48</RIN>
+        <SUBJECT>Amendments to the 2013 Integrated Mortgage Disclosures Rule Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth In Lending Act (Regulation Z) and the 2013 Loan Originator Rule Under the Truth in Lending Act (Regulation Z)</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; Official Interpretations.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>This final rule modifies the 2013 TILA-RESPA Final Rule. This rule extends the timing requirement for revised disclosures when consumers lock a rate or extend a rate lock after the Loan Estimate is provided and permits certain language related to construction loans for transactions involving new construction on the Loan Estimate. This rule also amends the 2013 Loan Originator Final Rule to provide for placement of the Nationwide Mortgage Licensing System and Registry ID (NMLSR ID) on the integrated disclosures. Additionally, the Bureau is making non-substantive corrections, including citation and cross-reference updates and wording changes for clarification purposes, to various provisions of Regulations X and Z as amended or adopted by the 2013 TILA-RESPA Final Rule.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>The rule is effective August 1, 2015. The final rule applies to transactions for which the creditor or mortgage broker receives an application on or after August 1, 2015.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Jaydee DiGiovanni, Policy and Procedure Analyst; Richard Arculin and David Friend, Counsels; Office of Regulations at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P/>
+        <HD SOURCE="HD1">I. Summary of Final Rule</HD>
+        <P>In November 2013, pursuant to sections 1098 and 1100A of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act), the Bureau issued the Integrated Mortgage Disclosures under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z) (2013 TILA-RESPA Final Rule),<SU>1</SU>
+          <FTREF/>combining certain disclosures that consumers receive in connection with applying for and closing on a mortgage loan.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>78 FR 79730 (Dec. 31, 2013).</P>
+        </FTNT>
+        <P>On October 10, 2014, the Bureau proposed several amendments to Regulation Z provisions adopted by the 2013 TILA-RESPA Final Rule<SU>2</SU>
+          <FTREF/>(the proposal):</P>
+        <FTNT>
+          <P>
+            <SU>2</SU>79 FR 64336 (Oct. 29, 2014).</P>
+        </FTNT>
+        <P>&#x2022; To extend the timing requirement for creditors to provide a revised Loan Estimate to consumers when consumers lock a rate or extend a rate lock after the Loan Estimate is provided. The 2013 TILA-RESPA Final Rule requires creditors to provide a revised Loan Estimate with the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms on the date the interest rate is locked. The Bureau proposed to extend the timing requirement to the next business day after the rate is locked.</P>
+        <P>&#x2022; To provide for the placement on the Loan Estimate form of language relating to construction loans in transactions involving new construction that is required in order for creditors to redisclose estimated charges.</P>
+        <P>&#x2022; To make non-substantive corrections, including minor wording changes, corrected or updated citations and cross-references, in the regulation and commentary adopted by the 2013 TILA-RESPA Final Rule.</P>
+        <P>&#x2022; The Bureau also proposed to amend the 2013 Loan Originator Final Rule<SU>3</SU>
+          <FTREF/>to provide for placement of the NMLSR ID on the integrated disclosures.</P>
+        <FTNT>
+          <P>
+            <SU>3</SU>78 FR 11280 (Feb. 15, 2013).</P>
+        </FTNT>
+        <P>With respect to the proposal to allow creditors to redisclose the Loan Estimate one business day after the interest rate is locked, the Bureau is extending the timing requirement to three business days after the rate is locked. With respect to all other aspects of the proposal, the Bureau is adopting the amendments as proposed. The Bureau also is adopting additional, non-substantive corrections identified since the proposal was issued.</P>
+        <HD SOURCE="HD1">II. Background</HD>
+        <HD SOURCE="HD2">A. The Integrated Disclosures Rulemaking</HD>
+        <P>In July 2010, the Dodd-Frank Act was enacted. The Dodd-Frank Act transferred rulemaking authority under both TILA and RESPA to the Bureau. In addition, Dodd-Frank Act sections 1032(f), 1098, and 1100A mandated that the Bureau establish a single disclosure scheme for use by lenders or creditors in complying with the disclosure requirements of both RESPA and TILA. Section 1098(2) of the Dodd-Frank Act amended RESPA section 4(a) to require that the Bureau publish a single, integrated disclosure for mortgage loan transactions, including &#x201C;the disclosure requirements of this section and section 5, in conjunction with the disclosure requirements of [TILA]. . . .&#x201D;<SU>4</SU>
+          <FTREF/>Similarly, section 1100A(5) of the Dodd-Frank Act amended TILA section 105(b) to require that the Bureau publish a single, integrated disclosure for mortgage loan transactions, including &#x201C;the disclosure requirements of this title in conjunction with the disclosure requirements of [RESPA]. . . .&#x201D;<SU>5</SU>
+
+          <FTREF/>The Dodd-Frank Act required the Bureau to issue for public comment rules and model disclosures that integrated the<PRTPAGE P="8768"/>TILA and RESPA disclosures by July 21, 2012.<SU>6</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>4</SU>12 U.S.C. 2603(a).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>5</SU>15 U.S.C. 1604(b). The amendments to RESPA and TILA mandating a &#x201C;single, integrated disclosure&#x201D; are among numerous conforming amendments to existing Federal laws found in subtitle H of the Consumer Financial Protection Act of 2010. Subtitle C of the Consumer Financial Protection Act, &#x201C;Specific Bureau Authorities,&#x201D; codified at 12 U.S.C. chapter 53, subchapter V, part C, contains a similar provision. Specifically, section 1032(f) of the Dodd-Frank Act provides that, by July 21, 2012, the Bureau &#x201C;shall propose for public comment rules and model disclosures that combine the disclosures required under [TILA] and sections 4 and 5 of [RESPA] into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the [Board] and [HUD] carries out the same purpose.&#x201D; 12 U.S.C. 5532(f). The Bureau issued the 2012 TILA-RESPA Proposal pursuant to that mandate and the parallel mandates established by the conforming amendments to RESPA and TILA, discussed above.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>6</SU>12 U.S.C. 5532(f).</P>
+        </FTNT>
+        <P>The Bureau issued proposed integrated disclosure forms and rules for public comment on July 9, 2012 (the 2012 TILA-RESPA Proposal).<SU>7</SU>
+          <FTREF/>On December 31, 2013, more than 17 years after Congress first directed the Federal Reserve Board and the Department of Housing and Urban Development (HUD) to integrate the disclosures under TILA and RESPA, the Bureau published the 2013 TILA-RESPA Final Rule.<SU>8</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>7</SU>
+            <E T="03">See</E>Press Release,<E T="03">Consumer Financial Protection Bureau, CFPB proposes &#x201C;Know Before You Owe&#x201D; Mortgage Forms</E>(July 9, 2012),<E T="03">available at http://www.consumerfinance.gov/pressreleases/consumer-financial-protection-bureau-proposes-know-before-you-owe-mortgage-forms/;</E>CFPB Mortgage Disclosure Team, CFPB Blog,<E T="03">Know Before You Owe: Introducing our proposed mortgage disclosure forms</E>(July 9, 2012),<E T="03">available at http://www.consumerfinance.gov/blog/know-before-you-owe-introducing-our-proposed-mortgage-disclosure-forms/.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>8</SU>78 FR 79730 (Dec. 31, 2013).</P>
+        </FTNT>
+        <HD SOURCE="HD2">B. Implementation Support</HD>
+
+        <P>In early 2014, the Bureau initiated efforts to support industry implementation of the 2013 TILA-RESPA Final Rule. These on-going efforts include: (1) The publication of a plain-language compliance guide and guide to forms to help industry understand the new rules, including updates to the guides, as needed; (2) the publication of a readiness guide for institutions to evaluate their readiness and facilitate compliance with the new rules; (3) the publication of a disclosure timeline that illustrates the process and timing requirements of the new disclosure rules; (4) an ongoing series of webinars to address common interpretive questions; (5) roundtable meetings with industry, including creditors, settlement service providers, and technology vendors, to discuss implementation; (6) participation in conferences and forums; and (7) close collaboration with State and Federal regulators on implementation of the 2013 TILA-RESPA Final Rule, including coordination on consistent examination procedures. More information regarding the Bureau's TILA-RESPA implementation initiative can be found on the Bureau's regulatory implementation Web site at<E T="03">www.consumerfinance.gov/regulatory-implementation.</E>
+        </P>
+        <HD SOURCE="HD1">III. Comments</HD>
+        <P>The Bureau received 31 comments from creditors, trade associations, technology vendors, and others in response to the October 10, 2014 proposal to amend the 2013 TILA-RESPA Final Rule. Many of the comments discussed issues beyond the scope of the proposal. The Bureau discusses those comments that were responsive to the proposal in the section-by-section analysis below. This final rule does not make any changes outside the scope of the proposal, other than additional, non-substantive corrections identified since the proposal was issued.</P>
+        <HD SOURCE="HD1">IV. Legal Authority</HD>
+        <P>The Bureau is issuing this final rule pursuant to its authority under TILA, RESPA, and the Dodd-Frank Act. Section 1061 of the Dodd-Frank Act transferred to the Bureau the &#x201C;consumer financial protection functions&#x201D; previously vested in certain other Federal agencies, including the Board's consumer protection functions relating to TILA mortgage disclosures and the HUD Secretary's consumer protection functions relating to RESPA.<SU>9</SU>
+          <FTREF/>The term &#x201C;consumer financial protection function&#x201D; is defined to include &#x201C;all authority to prescribe rules or issue orders or guidelines pursuant to any Federal consumer financial law, including performing appropriate functions to promulgate and review such rules, orders, and guidelines.&#x201D;<SU>10</SU>
+          <FTREF/>Title X of the Dodd-Frank Act, including section 1061 of the Dodd-Frank Act, along with TILA, RESPA, and certain subtitles and provisions of title XIV of the Dodd-Frank Act, are Federal consumer financial laws.<SU>11</SU>
+          <FTREF/>Accordingly, the Bureau has authority to issue regulations pursuant to TILA and RESPA, including the disclosure requirements added to those statutes by title XIV of the Dodd-Frank Act, as well as title X of the Dodd-Frank Act.</P>
+        <FTNT>
+          <P>
+            <SU>9</SU>Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376, section 1061(b)(7) (2010); 12 U.S.C. 5581(b)(7).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>10</SU>12 U.S.C. 5581(a)(1).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>11</SU>Dodd-Frank Act section 1002(14), 12 U.S.C. 5481(14) (defining &#x201C;Federal consumer financial law&#x201D; to include the &#x201C;enumerated consumer laws&#x201D; and the provisions of title X of the Dodd-Frank Act); Dodd-Frank Act section 1002(12), 12 U.S.C. 5481(12) (defining &#x201C;enumerated consumer laws&#x201D; to include TILA and RESPA); Dodd-Frank Act section 1400(b), 15 U.S.C. 1601 note (defining &#x201C;enumerated consumer laws&#x201D; to include certain subtitles and provisions of Title XIV).</P>
+        </FTNT>
+        <HD SOURCE="HD2">A. The Integrated Disclosure Mandate</HD>
+        <P>Section 1032(f) of the Dodd-Frank Act requires that, &#x201C;[n]ot later than one year after the designated transfer date [of July 21, 2011], the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under [TILA] and sections 4 and 5 of [RESPA], into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the [Board] and [HUD] carries out the same purpose.&#x201D;<SU>12</SU>
+          <FTREF/>In addition, the Dodd-Frank Act amended section 105(b) of TILA and section 4(a) of RESPA to require the integration of the TILA disclosures and the disclosures required by sections 4 and 5 of RESPA.<SU>13</SU>
+          <FTREF/>The purpose of the integrated disclosure is to facilitate compliance with the disclosure requirements of TILA and RESPA and to help the consumer understand the transaction by using readily understandable language to simplify the technical nature of the disclosures.<SU>14</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>12</SU>12 U.S.C. 5532(f).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>13</SU>Section 1100A of the Dodd-Frank Act amended TILA section 105(b) to provide that the &#x201C;Bureau shall publish a single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this title in conjunction with the disclosure requirements of the Real Estate Settlement Procedures Act of 1974 that, taken together, may apply to a transaction that is subject to both or either provisions of law.&#x201D; 15 U.S.C. 1604(b). Section 1098 of the Dodd-Frank Act amended RESPA section 4(a) to require the Bureau to publish a &#x201C;single, integrated disclosure for mortgage loan transactions (including real estate settlement cost statements) which includes the disclosure requirements of this section and section 5, in conjunction with the disclosure requirements of the Truth in Lending Act that, taken together, may apply to a transaction that is subject to both or either provisions of law.&#x201D; 12 U.S.C. 2603(a).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>14</SU>
+            <E T="03">See</E>Dodd-Frank Act sections 1098, 1100A.</P>
+        </FTNT>
+        <P>Although Congress imposed this integrated disclosure requirement, it did not harmonize the underlying statutes. In particular, TILA and RESPA establish different timing requirements for disclosing mortgage credit terms and costs to consumers and require that those disclosures be provided by different parties. TILA generally requires that, within three business days of receiving the consumer's application and at least seven business days before consummation of certain mortgage transactions, creditors must provide consumers a good faith estimate of the costs of credit.<SU>15</SU>
+          <FTREF/>If the annual percentage rate that was initially disclosed becomes inaccurate, TILA requires creditors to redisclose the information at least three business days before consummation.<SU>16</SU>
+          <FTREF/>These disclosures must be provided in final form at consummation.<SU>17</SU>
+
+          <FTREF/>RESPA also requires that the creditor or broker provide consumers with a good faith estimate of settlement charges no later<PRTPAGE P="8769"/>than three business days after receiving the consumer's application. However, unlike TILA, RESPA requires that, at or before settlement, &#x201C;the person conducting the settlement&#x201D; (which may or may not be the creditor) provide the consumer with a statement that records all charges imposed upon the consumer in connection with the settlement.<SU>18</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>15</SU>TILA section 128(b)(2)(A); 15 U.S.C. 1638(b)(2)(A). This requirement applies to extensions of credit that are both secured by a dwelling and subject to RESPA.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>16</SU>TILA section 128(b)(2)(D); 15 U.S.C. 1638(b)(2)(D).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>17</SU>TILA section 128(b)(2)(B)(ii); 15 U.S.C. 1638(b)(2)(B)(ii).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>18</SU>RESPA sections 4(b), 5(c); 12 U.S.C. 2603(b), 2604(c).</P>
+        </FTNT>
+        <P>The Dodd-Frank Act did not reconcile these and other statutory differences. Therefore, to meet the Dodd-Frank Act's mandate to integrate the disclosures required by TILA and RESPA, the Bureau was required to do so. Dodd-Frank Act section 1032(f), TILA section 105(b), and RESPA section 4(a) provide the Bureau with authority to issue regulations that reconcile certain provisions of TILA and RESPA to carry out Congress' mandate to integrate the statutory disclosure requirements.</P>
+        <HD SOURCE="HD2">B. Other Rulemaking and Exception Authorities</HD>
+        <P>This rule also relies on the rulemaking and exception authorities specifically granted to the Bureau by TILA, RESPA, and the Dodd-Frank Act, including the authorities discussed below.</P>
+        <HD SOURCE="HD3">Truth in Lending Act</HD>
+        <P>
+          <E T="03">TILA section 105(a).</E>As amended by the Dodd-Frank Act, TILA section 105(a), 15 U.S.C. 1604(a), directs the Bureau to prescribe regulations to carry out the purposes of TILA and provides that such regulations may contain additional requirements, classifications, differentiations, or other provisions and may further provide for such adjustments and exceptions for all or any class of transactions that the Bureau judges are necessary or proper to effectuate the purposes of TILA, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. A purpose of TILA is &#x201C;to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit.&#x201D;<SU>19</SU>
+          <FTREF/>This stated purpose is informed by Congress' finding that &#x201C;economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit[.]&#x201D;<SU>20</SU>
+          <FTREF/>Thus, strengthened competition among financial institutions is a goal of TILA.</P>
+        <FTNT>
+          <P>
+            <SU>19</SU>TILA section 102(a); 15 U.S.C. 1601(a).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>20</SU>TILA section 102(a).</P>
+        </FTNT>
+        <P>Historically, TILA section 105(a) has served as a broad source of authority for rules that promote the informed use of credit through required disclosures and substantive regulation of certain practices. Dodd-Frank Act section 1100A clarified the Bureau's section 105(a) authority by amending that section to provide express authority to prescribe regulations that contain &#x201C;additional requirements&#x201D; that the Bureau finds are necessary or proper to effectuate the purposes of TILA, to prevent circumvention or evasion thereof, or to facilitate compliance. This amendment clarified the Bureau's authority to prescribe requirements beyond those specifically listed in the statute that meet the standards outlined in TILA section 105(a). The Dodd-Frank Act also clarified the Bureau's rulemaking authority over certain high-cost mortgages pursuant to section 105(a). As amended by the Dodd-Frank Act, TILA section 105(a) authority to make adjustments and exceptions to the requirements of TILA applies to all transactions subject to TILA, except with respect to the provisions of TILA section 129 that apply to the high-cost mortgages referred to in TILA section 103(bb), 15 U.S.C. 1602(bb).<SU>21</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>21</SU>15 U.S.C. 1639. TILA section 129 contains requirements for certain high-cost mortgages, established by the Home Ownership and Equity Protection Act (HOEPA), which are commonly called HOEPA loans.</P>
+        </FTNT>
+        <P>
+          <E T="03">TILA section 129B(e).</E>Dodd-Frank Act section 1405(a) amended TILA to add new section 129B(e), 15 U.S.C. 1639B(e). That section authorizes the Bureau to &#x201C;prohibit or condition terms, acts, or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section 129C [of TILA], necessary or proper to effectuate the purposes of this section and section 129C [of TILA], to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.&#x201D; In developing rules under TILA section 129B(e), the Bureau has considered the broad mandate of section 129B.</P>
+        <HD SOURCE="HD3">Real Estate Settlement Procedures Act</HD>
+        <P>Section 19(a) of RESPA, 12 U.S.C. 2617(a), authorizes the Bureau to prescribe such rules and regulations and to make such interpretations and grant such reasonable exemptions for classes of transactions as may be necessary to achieve the purposes of RESPA. In enacting RESPA, Congress sought &#x201C;to insure that consumers . . . are provided with greater and more timely information on the nature and costs of the settlement process and protected from unnecessarily high settlement charges caused by certain abusive practices in some areas of the country.&#x201D;<SU>22</SU>
+          <FTREF/>RESPA section 19(a) has served as a broad source of authority to prescribe disclosures and substantive requirements to carry out the purposes of RESPA.</P>
+        <FTNT>
+          <P>
+            <SU>22</SU>RESPA section 2(a); 12 U.S.C. 2601(a).</P>
+        </FTNT>
+        <P>In developing rules under RESPA section 19(a), the Bureau has considered the purposes of RESPA. One purpose of RESPA is &#x201C;to effect certain changes in the settlement process for residential real estate that will result in more effective advance disclosure to home buyers and sellers of settlement costs.&#x201D;<SU>23</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>23</SU>RESPA section 2(b); 12 U.S.C. 2601(b).</P>
+        </FTNT>
+        <HD SOURCE="HD3">Dodd-Frank Act</HD>
+        <P>
+          <E T="03">Dodd-Frank Act section 1021.</E>Section 1021(a) of the Dodd-Frank Act provides that the Bureau shall seek to implement and, where applicable, enforce Federal consumer financial law consistently for the purpose of ensuring that all consumers have access to markets for consumer financial services and that markets for consumer financial products and services are fair, transparent, and competitive.<SU>24</SU>
+
+          <FTREF/>In addition, section 1021(b) of the Dodd-Frank Act provides that the Bureau is authorized to exercise its authorities under Federal consumer financial law for the purposes of ensuring, with respect to consumer financial products and services, that, among other things: (1) Consumers are provided with timely and understandable information to make responsible decisions about financial transactions; (2) consumers are protected from unfair, deceptive, or abusive acts and practices and from discrimination; (3) outdated, unnecessary, or unduly burdensome regulations are regularly identified and addressed in order to reduce unwarranted regulatory burdens; (4) Federal consumer financial law is enforced consistently, without regard to the status of a person as a depository institution, in order to promote fair competition; and (5) markets for consumer financial products and services operate transparently and efficiently to facilitate access and<PRTPAGE P="8770"/>innovation.<SU>25</SU>
+          <FTREF/>In developing this rulemaking, the Bureau has sought to ensure that it is consistent with the purposes of Dodd-Frank Act section 1021(a) and with the objectives of Dodd-Frank Act section 1021(b), specifically including Dodd-Frank Act section 1021(b)(1) and (3).</P>
+        <FTNT>
+          <P>
+            <SU>24</SU>12 U.S.C. 5511(a).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>25</SU>12 U.S.C. 5511(b).</P>
+        </FTNT>
+        <P>
+          <E T="03">Dodd-Frank Act section 1022(b).</E>Section 1022(b)(1) of the Dodd-Frank Act authorizes the Bureau to prescribe rules &#x201C;as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions thereof.&#x201D;<SU>26</SU>
+          <FTREF/>Section 1022(b)(2) of the Dodd-Frank Act prescribes certain standards for rulemaking that the Bureau must follow in exercising its authority under section 1022(b)(1).<SU>27</SU>
+          <FTREF/>As discussed above, TILA and RESPA are Federal consumer financial laws. Accordingly, in finalizing this rule, the Bureau is exercising its authority under Dodd-Frank Act section 1022(b) to prescribe rules under TILA, RESPA, and title X of the Dodd-Frank Act that carry out the purposes and objectives and prevent evasion of those laws. See part VI for a discussion of the Bureau's standards for rulemaking under Dodd-Frank Act section 1022(b)(2).</P>
+        <FTNT>
+          <P>
+            <SU>26</SU>12 U.S.C. 5512(b)(1).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>27</SU>12 U.S.C. 5512(b)(2).</P>
+        </FTNT>
+        <P>
+          <E T="03">Dodd-Frank Act section 1032.</E>Section 1032(a) of the Dodd-Frank Act provides that the Bureau &#x201C;may prescribe rules to ensure that the features of any consumer financial product or service, both initially and over the term of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.&#x201D;<SU>28</SU>
+          <FTREF/>The authority granted to the Bureau in section 1032(a) is broad and empowers the Bureau to prescribe rules regarding the disclosure of the &#x201C;features&#x201D; of consumer financial products and services generally. Accordingly, the Bureau may prescribe rules containing disclosure requirements even if other Federal consumer financial laws do not specifically require disclosure of such features.</P>
+        <FTNT>
+          <P>
+            <SU>28</SU>12 U.S.C. 5532(a).</P>
+        </FTNT>
+        <P>Dodd-Frank Act section 1032(c) provides that, in prescribing rules pursuant to section 1032, the Bureau &#x201C;shall consider available evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.&#x201D;<SU>29</SU>
+          <FTREF/>Accordingly, in developing the 2013 TILA-RESPA Final Rule and amendments thereto under Dodd-Frank Act section 1032(a), the Bureau considered available studies, reports, and other evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services. Moreover, the Bureau has considered the evidence developed through its consumer testing of the integrated disclosures as well as prior testing done by the Board and HUD regarding TILA and RESPA disclosures. See part III of the 2013 TILA-RESPA Final Rule for a discussion of the Bureau's consumer testing.<SU>30</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>29</SU>12 U.S.C. 5532(c).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>30</SU>78 FR 79730, 79741 (Dec. 31, 2013).</P>
+        </FTNT>
+        <P>
+          <E T="03">Dodd-Frank Act section 1405(b).</E>Section 1405(b) of the Dodd-Frank Act provides that, &#x201C;[n]otwithstanding any other provision of [title XIV of the Dodd-Frank Act], in order to improve consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures, the Bureau may, by rule, exempt from or modify disclosure requirements, in whole or in part, for any class of residential mortgage loans if the Bureau determines that such exemption or modification is in the interest of consumers and in the public interest.&#x201D;<SU>31</SU>
+          <FTREF/>Section 1401 of the Dodd-Frank Act, which amends TILA section 103(cc)(5), 15 U.S.C. 1602(cc)(5), generally defines a residential mortgage loan as any consumer credit transaction that is secured by a mortgage on a dwelling or on residential real property that includes a dwelling other than an open-end credit plan or an extension of credit secured by a consumer's interest in a timeshare plan. Notably, the authority granted by section 1405(b) applies to &#x201C;disclosure requirements&#x201D; generally and is not limited to a specific statute or statutes. Accordingly, Dodd-Frank Act section 1405(b) is a broad source of authority to exempt from or modify the disclosure requirements of TILA and RESPA.</P>
+        <FTNT>
+          <P>
+            <SU>31</SU>15 U.S.C. 1601 note.</P>
+        </FTNT>
+        <P>In developing rules for residential mortgage loans under Dodd-Frank Act section 1405(b), the Bureau has considered the purposes of improving consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures and the interests of consumers and the public.</P>
+        <HD SOURCE="HD1">V. Section-by-Section Analysis</HD>
+        <HD SOURCE="HD2">A. General&#x2014;Non-Substantive Corrections</HD>
+        <P>The Bureau proposed non-substantive corrections, including citation and cross-reference updates and wording changes for clarification purposes, in Regulation X and Regulation Z. The Bureau received comments that supported these proposed changes. The Bureau is adopting as proposed the non-substantive corrections to regulatory text in &#xA7;&#xA7; 1024.5(d), 1026.37(o), and 1026.38(e); commentary to &#xA7;&#xA7; 1026.37(b), (c), and (h) and 1026.38(a) and (e); and appendix H. The Bureau also is making non-substantive clarifications to the commentary to &#xA7; 1026.38(g) for the reasons discussed in the section-by-section analysis below, as well as other, non-substantive corrections and wording clarifications to regulatory text in &#xA7; 1026.38(j) and (t).</P>
+        <HD SOURCE="HD2">B. Regulation Z</HD>
+        <HD SOURCE="HD3">Section 1026.19&#x2014;Certain Mortgage and Variable-Rate Transactions</HD>
+        <HD SOURCE="HD3">19(e) Mortgage Loans Secured By Real Property&#x2014;Early Disclosures</HD>
+        <HD SOURCE="HD3">19(e)(3) Good Faith Determination For Estimates of Closing Costs</HD>
+        <HD SOURCE="HD3">19(e)(3)(iv) Revised Estimates</HD>
+        <HD SOURCE="HD3">19(e)(3)(iv)(D) Interest Rate Dependent Charges</HD>
+        <HD SOURCE="HD3">Proposed Rule</HD>
+        <P>Pursuant to the Bureau's authority as described in the 2012 TILA-RESPA Proposal<SU>32</SU>
+          <FTREF/>and the 2013 TILA-RESPA Final Rule<SU>33</SU>
+
+          <FTREF/>, the Bureau proposed to amend &#xA7; 1026.19(e)(3)(iv)(D) to modify the timing requirement for creditors to provide a revised Loan Estimate to consumers when the interest rate is locked after the provision of the Loan Estimate. Section &#xA7; 1026.19(e)(3)(iv)(D), as adopted by the 2013 TILA-RESPA Final Rule, requires creditors to provide the revised disclosure with the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms on the date the interest rate is locked. The Bureau proposed to change the timing requirement to the next business day after the rate is locked. As discussed in detail below, this final rule amends &#xA7; 1026.19(e)(3)(iv)(D) to provide creditors with three business days, rather than one business day, to provide the revised Loan Estimate. This amendment harmonizes the timing requirement in &#xA7; 1026.19(e)(3)(iv)(D)<PRTPAGE P="8771"/>with other timing requirements for redisclosure adopted in the 2013 TILA-RESPA Final Rule and is consistent with current law and practice pursuant to &#xA7; 1024.7(f)(5), under which creditors have three business days from rate lock to provide a revised Good Faith Estimate.</P>
+        <FTNT>
+          <P>
+            <SU>32</SU>77 FR 51116, 51165-51169 (Aug. 23, 2012).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>33</SU>78 FR 79730, 79816-79822 (Dec. 31, 2013).</P>
+        </FTNT>
+
+        <P>As discussed in the proposal, the Bureau proposed to allow creditors an additional business day to provide the revised Loan Estimate because it received information suggesting that creditors may not control when a rate is locked to the same extent the Bureau believed when it issued the 2013 TILA-RESPA Final Rule. The Bureau also learned that operational challenges due to the same-day redisclosure requirement in &#xA7; 1026.19(e)(3)(iv)(D) could restrict the flexibility many creditors currently provide consumers to lock their interest rates and could result in creditors imposing time restrictions on when consumers may lock their rates (<E T="03">e.g.,</E>&#x201C;cut-off&#x201D; times). Given the potential consequences of losing the ability to reset the applicable tolerances for interest rate dependent charges pursuant to &#xA7; 1026.19(e)(3), the Bureau believes creditors could respond to the same-day timing requirement adopted by the 2013 TILA-RESPA Final Rule by limiting consumers' ability to lock rates at the time of their choice and imposing cut-off times that only allow consumers to lock interest rates on business days during preset hours. Accordingly, the Bureau reconsidered the same-day redisclosure requirement and proposed to amend &#xA7; 1026.19(e)(3)(iv)(D) and its commentary to adjust this timing requirement.</P>
+        <P>Currently, some creditors permit the consumer, or loan originator working on behalf of the consumer, to lock the interest rate unilaterally at any point during a business day or even after normal business hours. The Bureau believes this flexibility is beneficial to consumers because it allows them to lock interest rates on a date and time of their choosing, without time restrictions imposed by the creditor. The same-day redisclosure requirement could reduce consumers' ability to determine when their rates are locked, if creditors respond by either imposing cut-off times after which consumers are unable to lock their interest rates until the next business day or refusing to lock the rate contractually until the business day after the consumer requests a rate lock.</P>
+        <P>As explained in the proposal, the Bureau believes that, if creditors impose cut-off times, consumers would be limited to certain times of day that they or their representatives could lock interest rates. This could result in consumers, particularly those who are in different time zones than their creditors, missing the applicable time window to lock on a day of their choice and having to wait until the next business day to do so. Alternatively, the Bureau believes some creditors may be able to provide a revised Loan Estimate on the date that a rate lock agreement is formed if those creditors allow consumers to request the rate only at a time of the creditors' choosing and then later execute or form a binding agreement with the consumers. However, the Bureau believes this result could present other challenges to consumers. For example, consumers may be confused if they believe they are locking an interest rate at a certain time but in fact are merely requesting rates that are not contractually binding until the creditor accepts the request at some later time. Accordingly, the Bureau stated in the proposal that it believed the same-day redisclosure requirement warranted reconsideration because it could create implementation challenges to industry that may result in reduced consumer flexibility in locking or resetting floating interest rates.</P>
+        <P>The Bureau maintained, however, that the same-day redisclosure requirement could benefit consumers by allowing them to have more time to evaluate the revised Loan Estimate. The Bureau also noted that creditors should be able to provide a revised Loan Estimate based on interest rate dependent charges more quickly in comparison to other types of redisclosures because creditors may not need to obtain information from other parties, such as third-party vendors. Accordingly, the Bureau proposed a next-business-day timing requirement, on the ground that providing for redisclosure on the next business day after the rate is locked could provide consumer benefits without the operational challenges to creditors presented by a same-day redisclosure requirement.</P>
+        <P>The Bureau sought comment on whether consumers could be harmed if creditors were given until the next business day to provide a revised Loan Estimate or if consumers would benefit from the same-day requirement. Additionally, the Bureau sought comment on whether a single business day is sufficient for creditors to deliver or place in the mail a revised Loan Estimate while preventing any unintended consequences, such as restricting the timing flexibility of consumers to lock the interest rate, and whether consumers would be harmed if redisclosures were permitted more than one business day after the interest rate was locked.</P>
+        <HD SOURCE="HD3">Comments</HD>
+        <P>The Bureau received comments from industry trade associations, creditors, technology vendors, and other industry representatives addressing these proposed changes. All comments supported the proposal to relax the timing requirement, but most advocated for extending it to three business days. The Bureau received no comments that opposed the proposal or that raised concerns about extending the timing requirement beyond the next business day.</P>
+        <P>Most commenters argued that a next-business-day requirement presents many of the same operational challenges to industry as a same-day redisclosure requirement. For example, a credit union stated that one business day does not allow creditors sufficient time to address potential software issues or conduct quality control review of a revised Loan Estimate. Another industry commenter stated that it takes time to update fees and verify that the correct information is printed on the disclosures generated by older loan operating systems. A national banking trade association noted that consumers with &#x201C;self-lock&#x201D; capability commonly make mistakes in locking rates or attempt to lock through an incorrect channel, which requires creditors to verify the consumer's intent to lock the rate. Consumers also may leave an ambiguous voicemail or email that the creditor needs to verify is a rate lock request. This commenter explained that a single business day is not always enough time for a creditor both to verify the consumer's intent and also to issue a revised disclosure. Consequently, a next-business-day deadline could still result in creditors imposing cut-off times for consumers to lock interest rates.</P>
+
+        <P>Additionally, trade associations, banks, and an individual industry commenter working for a creditor stated that smaller institutions in particular may have difficulty redisclosing on the next business day after the rate lock due to staffing level constraints. Commenters noted that, in some cases, a single individual may be responsible for creating the disclosures, and staffing levels may also be affected by inclement weather, Saturday business hours, and employee training. A credit union commenter noted that the next-business-day requirement could burden small lending operations that do not have a full-time employee to prepare disclosures on Saturdays and around the holidays. Accordingly, these small<PRTPAGE P="8772"/>creditors may require additional staff to meet the next-business-day delivery requirement.</P>
+        <P>Commenters argued that expanding the timing requirement to three business days would facilitate compliance for industry and consumer understanding because it would provide consistent timing rules for redisclosures. A bank stated that the three-business-day timeframe is the standard in operating procedures and systems and is also well-established among industry professionals. Commenters noted that a next-business-day requirement for rate locks would result in different timing requirements for rate-lock-based redisclosure as opposed to other events that permit redisclosure, such as &#x201C;changed circumstances&#x201D; described in &#xA7; 1026.19(e)(3)(iv)(A). These other triggering events for redisclosure may occur around the time of a rate lock. Commenters noted that consumer confusion could result if a changed circumstance occurs on the same date that the rate is locked and the creditor needs to produce two different revised disclosures on two different dates. These commenters stated that the provision of two revised Loan Estimates to a consumer within the same week could cause confusion as to which Loan Estimate reflects the most recent and accurate information.</P>
+        <P>Finally, commenters questioned the benefit to consumers of receiving a revised Loan Estimate for rate-lock-related changes two business days earlier than is required for other redisclosure events, such as &#x201C;changed circumstances&#x201D; described in &#xA7; 1026.19(e)(3)(iv)(A). Commenters argued that allowing creditors two extra business days to provide a revised Loan Estimate does not pose risks or harms to consumers. A national banking trade association stated that consumers get little benefit from receiving the revised Loan Estimate earlier because a consumer has most likely completed the shopping process by the time the consumer requests a rate lock. These commenters generally asserted that the benefit to consumers, if any, of receiving the revised disclosure earlier does not outweigh the costs associated with the requirement to provide redisclosures by the next business day.</P>
+        <HD SOURCE="HD3">Final Rule</HD>
+        <P>The Bureau is adopting proposed &#xA7; 1026.19(e)(3)(iv)(D), modified to extend the timing requirement to no later than three business days after the date the interest rate is locked. The Bureau also is making conforming modifications to proposed comments 19(e)(3)(iv)(D)-1 and 19(e)(4)(i)-2, which provide illustrations of the timing requirement.</P>
+        <P>The Bureau considered the comments received and determined that extending the timing requirement to no later than three business days after the interest rate is locked will reduce the burden on industry and facilitate compliance without harming consumers, and also may provide benefits to consumers. The Bureau believes that creditors would experience operational challenges in providing redisclosures by the next business day that could be alleviated by extending the timing requirement for redisclosure to three business days. Moreover, extending the redisclosure deadline to three business days after the rate is locked harmonizes the timing requirement in &#xA7; 1026.19(e)(3)(iv)(D) with the other timing requirements for redisclosure. Harmonizing the redisclosure requirements could facilitate compliance and compliance monitoring and could reduce consumer confusion. Furthermore, allowing creditors to have three business days from the date the rate is locked to issue a revised disclosure would enable small creditors with limited staffing levels to prepare and review revised disclosures without the difficulties and challenges that may have arisen under the proposed rule.</P>
+
+        <P>The Bureau does not believe a risk of potential consumer harm arises in extending the period for redisclosure to three business days. While the Bureau expressed, in the preambles to the 2012 TILA-RESPA Proposal and the 2013 TILA-RESPA Final Rule, a concern about potential rent-seeking behavior through rate arbitrage (<E T="03">e.g.,</E>delaying the rate lock in order to increase the interest rate offered to the consumer or otherwise increase the spread between market interest rates and the rate offered the consumer), the Bureau also acknowledged that it had seen no evidence nor received any data or reports suggesting such a practice under the existing Regulation X disclosure practice, which employs a three-business-day deadline. The Bureau has not identified any risks to consumers&#x2014;nor were any raised by commenters in response to the Bureau's request for comment on potential risks to consumers.</P>
+        <P>Accordingly, the Bureau is adopting &#xA7; 1026.19(e)(3)(iv)(D) to state that, no later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under &#xA7; 1026.19(e)(1)(i) to the consumer with the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. The Bureau also is adopting modified versions of proposed comments 19(e)(3)(iv)(D)-1 and 19(e)(4)(i)-2 to reflect this change.</P>
+        <HD SOURCE="HD3">Section 1026.36&#x2014;Prohibited Acts or Practices and Certain Requirements for Credit Secured by a Dwelling</HD>
+        <HD SOURCE="HD3">36(g) Name and NMLSR ID on Loan Documents</HD>
+        <HD SOURCE="HD3">36(g)(2)</HD>
+        <HD SOURCE="HD3">36(g)(2)(ii)</HD>
+        <P>The Bureau proposed to amend &#xA7; 1026.36(g)(2)(ii) to conform to the requirements adopted by the 2013 Loan Originator Final Rule. Section 1026.36(g)(2) lists the specific loan documents that must contain the loan originator's name and NMLSR ID. When the Bureau issued the 2013 Loan Originator Final Rule in January 2013, it reserved &#xA7; 1026.36(g)(2)(ii) for references to the integrated disclosures the Bureau was expecting to adopt in the final rule implementing the 2012 TILA-RESPA Proposal. The disclosures referenced are those required by &#xA7; 1026.19(e) and (f) as adopted by the 2013 TILA-RESPA Final Rule.</P>
+        <P>The Bureau proposed amending &#xA7; 1026.36(g)(2)(ii) to include the disclosures described in &#xA7; 1026.19(e) and (f), as adopted by the 2013 TILA-RESPA Final Rule. The Bureau received comments from industry and trade associations in support of this proposed change and none that opposed it or suggested further modifications. Accordingly, the Bureau is adopting &#xA7; 1026.36(g)(2)(ii) as proposed.</P>
+        <HD SOURCE="HD3">Section 1026.37&#x2014;Content of Disclosure for Certain Mortgage Transactions (Loan Estimate)</HD>
+        <HD SOURCE="HD3">37(m) Other Considerations</HD>
+        <HD SOURCE="HD3">Proposed Rule</HD>
+        <P>The Bureau proposed adding &#xA7; 1026.37(m)(8) to provide for a statement notifying the consumer that a revised disclosure may be provided for a construction loan in a transaction involving new construction where the creditor reasonably expects settlement to occur more than 60 days after the provision of the initial Loan Estimate.<SU>34</SU>
+
+          <FTREF/>As explained in the proposal, &#xA7; 1026.19(e)(3)(iv)(F) provides that a creditor may issue revised disclosures at any time prior to 60 days before consummation if the original disclosure clearly and conspicuously states that a revised disclosure may be provided.<PRTPAGE P="8773"/>Except as provided by &#xA7; 1026.19(f), the creditor may not issue a revised disclosure if the original disclosure did not contain such a statement.</P>
+        <FTNT>
+          <P>
+            <SU>34</SU>Transactions covered by this provision are described in &#xA7; 1026.19(e)(3)(iv)(F) and comment 19(e)(3)(iv)(F)-1.</P>
+        </FTNT>
+        <P>The Bureau proposed to add new &#xA7; 1026.37(m)(8), under the master heading &#x201C;Additional Information About This Loan&#x201D; and the heading &#x201C;Other Considerations,&#x201D; and new comment 37(m)(8)-1 to state that placement of the language in this section of the form satisfies the &#x201C;clear and conspicuous&#x201D; standard set forth in &#xA7; 1026.19(e)(3)(iv)(F). The Bureau stated that it believes the &#xA7; 1026.19(e)(3)(iv)(F) language is appropriately placed in this part of the disclosure mandated by &#xA7; 1026.37, but sought comment on whether the language would be more appropriately placed elsewhere on the form.</P>
+        <HD SOURCE="HD3">Comments</HD>
+        <P>The Bureau received comments from trade associations, creditors, and a technology vendor. All commenters supported the proposal. Commenters generally stated that including the language concerning construction loans in transactions that involve a new construction on the Loan Estimate should facilitate construction lending. Most agreed with the proposed content and placement of the language. A few commenters made minor suggestions for additional clarity or suggested alternative placement on the form. For example, two trade associations recommended that the Bureau provide additional clarifying language on the nature of the disclosure, as well as additional clarification regarding placement on the form or provision of a sample disclosure illustrating this language on the form.</P>
+        <HD SOURCE="HD3">Final Rule</HD>
+        <P>The Bureau has considered the comments and is adopting &#xA7; 1026.37(m)(8) and comment 37(m)(8)-1 as proposed, with minor wording changes for clarification. The Bureau believes that the proposed language and its placement is appropriate and allows creditors to preserve their ability to redisclose estimates for construction loans in transactions that involve a new construction, as provided in &#xA7; 1026.19(e)(3)(iv)(F). With respect to the requests for additional clarifying language or a sample disclosure illustrating the language on the form, the Bureau does not believe that additional language or a new sample disclosure is necessary. The Bureau notes that proposed &#xA7; 1026.37(m)(8) and comment 37(m)(8)-1 contain language already promulgated under &#xA7; 1026.19(e)(3)(iv)(F) and would not require any additional consumer testing. Further, comment 37(m)(8)-1 provides that placement of the new construction language in this section of the Loan Estimate satisfies the clear and conspicuous standard set forth in &#xA7; 1026.19(e)(3)(iv)(F).</P>
+        <HD SOURCE="HD3">Section 1026.38&#x2014;Content of Disclosure for Certain Mortgage Transactions (Closing Disclosure)</HD>
+        <HD SOURCE="HD3">38(g) Closing Cost Details; Other Costs</HD>
+        <HD SOURCE="HD3">38(g)(2) Prepaids</HD>
+        <P>Section 1026.38(g)(2) requires creditors to disclose certain prepaid items disclosed on the Loan Estimate pursuant to &#xA7; 1026.37(g)(2), including prepaid interest. Neither the regulation nor the model Closing Disclosure forms in appendix H provide for disclosure of the interest rate for prepaid interest. Rather, the model forms provide that prepaid interest is to be disclosed on the Closing Disclosure as a per diem sum amount along with a range of dates, without disclosing the applicable interest rate, prescribed as: &#x201C;Prepaid Interest (___per day from _____to _____).&#x201D;</P>
+        <P>One industry commenter noted that comment 38(g)(2)-4, which describes the interest rate that should be used to calculate per diem interest, implies that the interest rate must be disclosed pursuant to &#xA7; 1026.38(g)(2). This commenter recommended that the Bureau clarify that creditors are not required to disclose an interest rate for purposes of this disclosure.</P>
+        <P>The Bureau agrees that the interest rate should not be disclosed in the prepaid interest disclosure pursuant to &#xA7; 1026.38(g)(2). Rather, creditors should disclose amounts of prepaid interest as per diem sum amounts based on the interest rate disclosed under &#xA7; 1026.38(b), which is determined by &#xA7; 1026.37(b). Accordingly, the Bureau is amending comment 38(g)(2)-4 to clarify that the comment addresses the interest rate that is used to determine amounts of prepaid interest, but does not require disclosure of the interest rate itself.</P>
+        <HD SOURCE="HD1">VI. Dodd-Frank Act Section 1022(b)(2)</HD>
+        <HD SOURCE="HD2">A. Overview</HD>
+        <P>In developing this rule, the Bureau has considered potential benefits, costs, and impacts.<SU>35</SU>
+          <FTREF/>The Bureau has consulted, or offered to consult with, the prudential regulators, the Securities and Exchange Commission, HUD, the Federal Housing Finance Agency, the Federal Trade Commission, the U.S. Department of Veterans Affairs, the U.S. Department of Agriculture, and the Department of the Treasury, including regarding consistency with any prudential, market, or systemic objectives administered by such agencies.</P>
+        <FTNT>
+          <P>
+            <SU>35</SU>Specifically, section 1022(b)(2)(A) of the Dodd-Frank Act calls for the Bureau to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.</P>
+        </FTNT>
+        <P>The Bureau is adding or amending two main provisions in this rule. First, the Bureau is amending &#xA7; 1026.19(e)(3)(iv)(D) which, as adopted by the 2013 TILA-RESPA Final Rule, requires creditors to provide a revised version of the disclosures required under paragraph &#xA7; 1026.19(e)(1)(i) to the consumer with the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms, on the date the rate is locked. As discussed in the section-by-section analysis above, the Bureau believes that this requirement, if unchanged, is likely to result in at least some creditors imposing cut-off times that only allow consumers to lock their interest rates only on business days and during preset hours due to the costs associated with providing the disclosure to the consumer on the date when the interest rate is locked. The Bureau believes that consumers are unlikely to choose creditors based on the creditors' policies regarding interest rate locks and, moreover, that consumers would be unlikely to know whether their creditors will allow interest rate locks at flexible times until the consumer actually attempts to lock the rate. Thus, consumers of creditors who will not allow locks at flexible times will experience inconvenience. Given that consumers are unlikely to know of this practice until they attempt to lock the rate, this practice is unlikely to be corrected or influenced by market competition.</P>
+        <P>Given these concerns, the Bureau proposed to relax the same-day timing requirement and give creditors until the next business day after the rate is locked to provide a revised version of the disclosures to consumers. As described in the section-by-section analysis above, in light of the comments received, the Bureau is instead finalizing an amendment to the provision that affords creditors three business days after the rate is locked to provide a revised version of the disclosures.</P>
+
+        <P>In response to the proposal, several commenters noted that the proposed next-business-day requirement presents many of the same operational challenges<PRTPAGE P="8774"/>to industry as a same-day redisclosure requirement. These commenters suggested that three business days would provide adequate time for creditors to issue revised disclosures, but that one business day would not. No commenters suggested that extending the timing requirement beyond the next business day would impact consumers adversely.</P>
+
+        <P>The Bureau is adopting proposed &#xA7; 1026.19(e)(3)(iv)(D), modified to extend the timing requirement to no later than three business days after the date the interest rate is locked. The change will harmonize the timing requirement in &#xA7; 1026.19(e)(3)(iv)(D) with the other timing requirements for redisclosure and thus may facilitate compliance and compliance monitoring and also may reduce consumer confusion. Small creditors, in particular, may find it easier to comply with a three-day redisclosure timing requirement. Finally, the Bureau believes that the next-business-day requirement might not give creditors adequate time to confirm the consumer's intentions where the consumer's attempts to lock the rate through an incorrect channel, or the communication requesting a rate lock (<E T="03">e.g.,</E>a voicemail or email left with the creditor) is ambiguous. The Bureau does not possess the data necessary to estimate the impact of the change to three full business days quantitatively.</P>
+        <P>Second, the Bureau is adding a new provision that allows for a specific statement related to construction loans in transactions involving new construction to be placed on the Loan Estimate. For these loans, the 2013 TILA-RESPA Final Rule requires that creditors include a statement on the Loan Estimate in order to preserve their ability to redisclose estimates prior to settlement. However, this language is found only in &#xA7; 1026.19(e)(3)(iv)(F), which governs timing and procedure, and no corresponding provision exists in the section that governs the content of the disclosures. Without this new provision, creditors will have lower incentives to originate these construction loans, especially if they believe that the Loan Estimate might need to be revised. Consumers either will not be able to get a commitment to fund construction loans until most of the uncertainty about the terms is resolved or creditors will price in a premium, to account for the creditor's inability to redisclose estimates after the initial 60 days.</P>
+        <P>The Bureau believes that both amendments, extending the time for rate lock redisclosure and adding language on new construction loans, provide options that a financial institution is free to undertake or not to undertake, and thus present no cost to creditors. The Bureau believes that both provisions present some benefits to creditors. The Bureau believes that the first provision could present both benefits and costs to consumers, while the second provision presents benefits to consumers.</P>
+        <HD SOURCE="HD2">B. Potential Benefits and Costs to Consumers and Covered Persons Relaxing the Same-day Redisclosure Requirement for Interest Rate Locks</HD>
+        <P>This amendment provides an option to creditors: creditors may continue to provide revised disclosures on the date the rate is locked if they so choose. Therefore, some creditors will benefit from this amendment by not having to redisclose on the date the rate is locked, while other creditors may continue to redisclose on the date the rate is locked if they so choose, and are as well off as they would have been without this amendment. All creditors will enjoy increased flexibility. No creditors will face increased costs.</P>
+        <P>Under the current rule, the Bureau believes that some creditors could continue offering flexible time periods for interest rate locks, but others, for example, might choose to impose cut-off times that only permit consumers to lock interest rates on business days and at times early in the day in order to ease their compliance costs. Other creditors might change their existing practices and allow consumers to request a rate lock at any time, but only contractually lock the interest rate on the business day after the consumer requests a rate lock, instead of on the date the rate lock is requested. Consumers of these creditors could benefit from this amendment through the increased convenience of being able to lock the interest rate at more flexible times.</P>
+        <P>Consumers of creditors that would continue to allow flexibility in locking interest rates might experience a cost from the amendment: their revised Loan Estimate may not be provided until up to three business days later. However, some of these creditors may still provide a revised Loan Estimate on the date that the interest rate is locked, for example, because they have already put in place the system to provide the redisclosures on the date the rate is locked and do not want to change their systems. If the creditor does not provide the revised Loan Estimate until up to three business days later, then the potential consumer harm is the time difference between when the consumer would receive the revised disclosures.</P>
+        <P>While the Bureau does not possess any data, and is not aware of a source to obtain data, that would enable it to report the quantitative effects of this amendment, it believes any harm to consumers from the extension of the rate-lock-redisclosure timing requirement is minor. Under current law and practice pursuant to &#xA7; 1024.7(f)(5), creditors have three business days from rate lock to redisclose, and the Bureau has not received any data or reports of consumer harm resulting from a three business day turnaround time for redisclosure.<SU>36</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>36</SU>See 77 FR 51116, 51173 (Aug. 23, 2012).</P>
+        </FTNT>
+        <HD SOURCE="HD3">Specific Language on Construction Loans' Loan Estimates</HD>
+        <P>The Bureau believes that without this new provision, creditors that ordinarily originate construction loans in transactions involving a new construction would be forced either to originate only those construction loans for which the creditor is certain that no redisclosure prior to settlement will be necessary, or to price in the risk of having to cure any amounts charged over the estimates initially provided more than 60 days before settlement, absent some other type of a redisclosure triggering event. Creditors that choose the second option, including the estimated cost of cure in their pricing, risk miscalibrating the pricing and losing consumers to less risk-averse competitors or facing unanticipated costs if they are required to cure any amounts that the consumer is charged for settlement charges that exceed the initial estimated amounts. In all events, creditors risk losing consumers to other options. Accordingly, this new provision presents benefits to the creditors that decide to originate these construction loans and presents no costs.</P>
+
+        <P>As noted above, under the current rule, a consumer who needs a construction loan may only be able to obtain a construction loan where the creditor has priced in the risk of having to cure any amounts charged over the estimates initially provided over 60 days before settlement, which would be a cost to consumers. On the other hand, without this new provision, the Loan Estimate would have provided consumers more certainty concerning loan terms and settlement costs because creditors would be limited in their ability to redisclose and change the terms or costs of the loan. Where creditors misgauged the initial Loan Estimate, consumers might be entitled to receive a cure. However, the Bureau<PRTPAGE P="8775"/>believes that these benefits to consumers are marginal, given that construction loans are inherently volatile and subject to events beyond the creditor's control. As a result, the Bureau believes that creditors barred from redisclosing a Loan Estimate provided more than 60 days prior to consummation would be less likely to originate such loans and that any increased certainty, where creditors were willing to commit to new construction loans well in advance of consummation, would come at the price of increased costs to consumers.</P>
+        <P>The Bureau does not possess any data, and is not aware of a source to obtain data, that would enable it to report the number of transactions affected or to quantify the extent of creditor and consumer benefits.</P>
+        <HD SOURCE="HD2">C. Impact on Covered Persons With No More Than $10 Billion in Assets</HD>
+        <P>The amendment regarding interest rate locks could have two particular effects on covered persons with no more than $10 billion in assets. First, covered persons with no more than $10 billion in assets are more likely to benefit from this provision to the extent that redisclosure of the Loan Estimate on the date the interest rate is locked may require software and business processes upgrade costs. Larger covered persons are more likely to originate a sufficient number of transactions to make it worth implementing these changes, as opposed to choosing to offer interest rate locks to consumers only at set times during business hours.</P>
+        <P>In addition, creditors located in more than one time zone might have to offer a shorter preset adjustment time to some customers (for example, if the location of the rate lock operation is in the Eastern Time zone), but covered persons with no more than $10 billion in assets are more likely to be located in a single time zone. From this perspective, covered persons with no more than $10 billion in assets are less likely to benefit from this amendment. The Bureau does not possess data to quantify either of the two possible aforementioned effects of the provision on covered persons with no more than $10 billion in assets.</P>
+        <P>The Bureau believes that covered persons with no more than $10 billion in assets will not be differentially affected by the new provision regarding construction loans.</P>
+        <HD SOURCE="HD2">D. Impact on Access to Credit</HD>
+        <P>The Bureau does not believe that there will be an adverse impact on access to credit resulting from either of the changes adopted by this final rule. There may be an expansion of access to credit, if the second provision facilitates the making of construction loans as the Bureau anticipates.</P>
+        <HD SOURCE="HD2">E. Impact on Rural Areas</HD>
+        <P>The Bureau believes that rural areas might benefit more than urban areas from the provision for construction loans and the amendment to the existing provision for rate lock redisclosure. Competition may drive creditors to originate construction loans despite the possible redisclosure issues and to provide interest rate locks throughout the day despite the same-day redisclosure requirement. Thus, rural areas are more likely to benefit from these two provisions, to the extent that there are fewer creditors operating in rural areas than in urban areas and to the extent that competition would affect these issues.</P>
+        <HD SOURCE="HD1">VII. Regulatory Flexibility Analysis</HD>
+        <P>The Regulatory Flexibility Act (the RFA), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996, requires each agency to consider the potential impact of its regulations on small entities, including small businesses, small governmental units, and small nonprofit organizations. The RFA defines a &#x201C;small business&#x201D; as a business that meets the size standard developed by the Small Business Administration pursuant to the Small Business Act. The RFA generally requires an agency to conduct an initial regulatory flexibility analysis (IRFA) and a final regulatory flexibility analysis (FRFA) of any rule subject to notice-and-comment rulemaking requirements, unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. The Bureau also is subject to certain additional procedures under the RFA involving the convening of a panel to consult with small business representatives prior to proposing a rule for which an IRFA is required.</P>
+        <P>An IRFA is not required for this rule because it will not have a significant economic impact on any small entities. The Bureau does not expect the rule to impose costs on covered persons. All methods of compliance under current law will remain available to small entities when these provisions become effective. Thus, a small entity that is in compliance with current law need not take any additional action.</P>
+        <P>Accordingly, the undersigned certifies that this final rule will not have a significant economic impact on a substantial number of small entities.</P>
+        <HD SOURCE="HD1">VIII. Paperwork Reduction Act</HD>
+
+        <P>Under the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3501<E T="03">et seq.</E>), Federal agencies are generally required to seek the Office of Management and Budget (OMB) approval for information collection requirements prior to implementation. The collections of information related to Regulations Z and X have been previously reviewed and approved by OMB in accordance with the PRA and assigned OMB Control Numbers 3170-0015 (Regulation Z) and 3170-0016 (Regulation X). Under the PRA, the Bureau may not conduct or sponsor and, notwithstanding any other provision of law, a person is not required to respond to an information collection unless the information collection displays a valid control number assigned by OMB.</P>
+        <P>The Bureau has determined that this final rule would not impose any new or revised information collection (recordkeeping, reporting, or disclosure) requirements on covered entities or members of the public that would constitute collections of information requiring OMB approval under the PRA.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>12 CFR Part 1024</CFR>
+          <P>Condominiums, Consumer protection, Housing, Mortgage servicing, Mortgages, Reporting and recordkeeping requirements.</P>
+          <CFR>12 CFR Part 1026</CFR>
+          <P>Advertising, Consumer protection, Credit, Credit unions, Mortgages, National banks, Recordkeeping and recordkeeping requirements, Reporting, Savings associations, Truth in lending.</P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau amends Regulation X, 12 CFR part 1024, and Regulation Z, 12 CFR part 1026, as set forth below:</P>
+        <REGTEXT PART="1024" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1024 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 5581.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1024" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart A&#x2014;General Provisions</HD>
+          </SUBPART>
+          <AMDPAR>2. Section 1024.5 is amended by revising paragraph (d) introductory text to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1024.5</SECTNO>
+            <SUBJECT>Coverage of RESPA.</SUBJECT>
+            <STARS/>
+            <PRTPAGE P="8776"/>
+            <P>(d)<E T="03">Partial exemptions for certain mortgage loans.</E>Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>
+          </PART>
+          <AMDPAR>3. The authority citation for part 1026 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+
+            <P>12 U.S.C. 2601, 2603-2605, 2607, 2609, 2617, 5511, 5512, 5532, 5581; 15 U.S.C. 1601<E T="03">et seq.</E>
+            </P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart C&#x2014;Closed-End Credit</HD>
+          </SUBPART>
+          <AMDPAR>4. Section 1026.19 is amended by revising paragraph (e)(3)(iv)(D) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.19</SECTNO>
+            <SUBJECT>Certain mortgage and variable-rate transactions.</SUBJECT>
+            <STARS/>
+            <P>(e) * * *</P>
+            <P>(3) * * *</P>
+            <P>(iv) * * *</P>
+            <P>(D)<E T="03">Interest rate dependent charges.</E>The points or lender credits change because the interest rate was not locked when the disclosures required under paragraph (e)(1)(i) of this section were provided. No later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section to the consumer with the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+          </SUBPART>
+          <AMDPAR>5. Section 1026.36 is amended by adding paragraph (g)(2)(ii) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.36</SECTNO>
+            <SUBJECT>Prohibited acts or practices and certain requirements for credit secured by a dwelling.</SUBJECT>
+            <STARS/>
+            <P>(g) * * *</P>
+            <P>(2) * * *</P>
+            <P>(ii) The disclosures required by &#xA7; 1026.19 (e) and (f);</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>6. Section 1026.37 is amended by adding paragraph (m)(8) and revising paragraph (o)(4)(i)(A) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.37</SECTNO>
+            <SUBJECT>Content of disclosures for certain mortgage transactions (Loan Estimate).</SUBJECT>
+            <STARS/>
+            <P>(m) * * *</P>
+            <P>(8)<E T="03">Construction loans.</E>In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the provision of the loan estimate, at the creditor's option, a clear and conspicuous statement that the creditor may issue a revised disclosure any time prior to 60 days before consummation, pursuant to &#xA7; 1026.19(e)(3)(iv)(F).</P>
+            <STARS/>
+            <P>(o) * * *</P>
+            <P>(4) * * *</P>
+            <P>(i) * * *</P>
+            <P>(A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per diem amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>7. Section 1026.38 is amended by revising paragraph (e)(3)(iii)(A), revising paragraph (e)(4)(ii), revising paragraph (j)(2)(iv), revising paragraph (k)(2)(v), revising paragraph (k)(2)(vi), and revising paragraph (t)(4)(ii) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.38</SECTNO>
+            <SUBJECT>Content of disclosures for certain mortgage transactions (Closing Disclosure).</SUBJECT>
+            <STARS/>
+            <P>(e) * * *</P>
+            <P>(3) * * *</P>
+            <P>(iii) * * *</P>
+            <P>(A) If the amount disclosed under paragraph (e)(3)(ii) of this section is different than the amount disclosed under paragraph (e)(3)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer paid such amounts prior to consummation of the transaction; or</P>
+            <STARS/>
+            <P>(4) * * *</P>
+            <P>(ii) Under the subheading &#x201C;Final,&#x201D; the total amount of payoffs and payments made to third parties disclosed pursuant to paragraph (t)(5)(vii)(B) of this section, to the extent known, disclosed as a negative number;</P>
+            <STARS/>
+            <P>
+              <E T="03">(j)</E>* * *</P>
+            <P>
+              <E T="03">(2)</E>* * *</P>
+            <P>(iv) The amount of any existing loans that the consumer is assuming, or any loans subject to which the consumer is taking title to the property, labeled &#x201C;Existing Loan(s) Assumed or Taken Subject to&#x201D;;</P>
+            <STARS/>
+            <P>(k) * * *</P>
+            <P>(2) * * *</P>
+            <P>(v) The amount of any loan secured by a first lien on the property that will be paid off as part of the real estate closing, labeled &#x201C;Payoff of First Mortgage Loan&#x201D;;</P>
+            <P>(vi) The amount of any loan secured by a second lien on the property that will be paid off as part of the real estate closing, labeled &#x201C;Payoff of Second Mortgage Loan&#x201D;;</P>
+            <STARS/>
+            <P>
+              <E T="03">(t)</E>* * *</P>
+            <P>
+              <E T="03">(4)</E>* * *</P>
+            <P>(ii)<E T="03">Percentages.</E>The percentage amounts required to be disclosed under paragraphs (b), (f)(1), (n), and (o)(5) of this section shall not be rounded and shall be disclosed up to two or three decimal places. The percentage amount required to be disclosed under paragraph (o)(4) of this section shall not be rounded and shall be disclosed up to three decimal places. If the amount is a whole number then the amount disclosed shall be truncated at the decimal point.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+
+          <AMDPAR>8. Appendix H to part 1026 is amended by revising the<E T="03">Description</E>in H-24(G) to read as follows.</AMDPAR>
+          <HD SOURCE="HD1">Appendix H to Part 1026&#x2014;Closed-End Forms and Clauses</HD>
+          <EXTRACT>
+            <STARS/>
+            <P>H-24(G) Mortgage Loan Transaction Loan Estimate&#x2014;Modification to Loan Estimate for Transaction Not Involving Seller&#x2014;Model Form</P>
+            <P>
+              <E T="03">Description:</E>This is a blank model Loan Estimate that illustrates the application of the content requirements in &#xA7; 1026.37, with the optional alternative tables permitted by &#xA7; 1026.37(d)(2) and (h)(2) for transactions without a seller. This form provides one variation of page one, four variations of page two, and four variations of page three, reflecting the variable content requirements in &#xA7; 1026.37.</P>
+          </EXTRACT>
+
+          <STARS/>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>9. In Supplement I to part 1026:</AMDPAR>
+          <AMDPAR>a. Under<E T="03">Section 1026.19&#x2014;Certain Mortgage and Variable-Rate Transactions:</E>
+          </AMDPAR>
+          <AMDPAR>i. Under paragraph 19(e)(3)(iv)(D), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>ii. Under paragraph 19(e)(4)(i), paragraph 2 is revised.</AMDPAR>
+          <AMDPAR>b. Under<E T="03">Section 1026.37&#x2014;Content of Disclosures for Certain Mortgage Transactions (Loan Estimate):</E>
+          </AMDPAR>
+          <AMDPAR>i. Under paragraph 37(b)(6), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>ii. Under paragraph 37(c)(2)(ii), paragraph 2 is revised.</AMDPAR>
+          <AMDPAR>ii. Under paragraph 37(c)(2)(iii), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>iii. Under paragraph 37(c)(4)(iv), paragraph 2 is revised.</AMDPAR>
+
+          <AMDPAR>iv. Under paragraph 37(h)(1)(ii), paragraph 1 is revised.<PRTPAGE P="8777"/>
+          </AMDPAR>
+          <AMDPAR>v. Under paragraph 37(m), the subheading<E T="03">37(m)(8) Construction loans</E>and paragraph 1 are added.</AMDPAR>
+          <AMDPAR>vi. Under paragraph 37(n), paragraph 2 is revised.</AMDPAR>
+          <AMDPAR>c. Under<E T="03">Section 1026.38&#x2014;Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure):</E>
+          </AMDPAR>
+          <AMDPAR>i. Under paragraph 38(a)(3)(vi), paragraph 2 is added.</AMDPAR>
+          <AMDPAR>ii. Under paragraph 38(e)(1)(iii)(A), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>iii. Under paragraph 38(e)(2)(iii)(A), paragraph 3 is added.</AMDPAR>
+          <AMDPAR>iv. Under paragraph 38(g)(2), paragraph 4 is revised.</AMDPAR>
+          <P>The revisions and additions read as follows:</P>
+          <HD SOURCE="HD1">Supplement I to Part 1026&#x2014;Official Interpretations</HD>
+          <STARS/>
+          <SUBPART>
+            <HD SOURCE="HED">Subpart C&#x2014;Closed-End Credit</HD>
+            <STARS/>
+            <HD SOURCE="HD3">Section 1026.19&#x2014;Certain Mortgage and Variable-Rate Transactions</HD>
+            <STARS/>
+            <HD SOURCE="HD3">19(e)(3)(iv)(D) Interest Rate Dependent Charges</HD>
+          </SUBPART>
+          <P>1.<E T="03">Requirements.</E>If the interest rate is not locked when the disclosures required by &#xA7; 1026.19(e)(1)(i) are provided, a valid reason for revision exists when the interest rate is subsequently locked. No later than three business days after the date the interest rate is locked, &#xA7; 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under &#xA7; 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. The following examples illustrate this requirement:</P>
+          <P>i. Assume a creditor sets the interest rate by executing a rate lock agreement with the consumer. If such an agreement exists when the original disclosures required under &#xA7; 1026.19(e)(1)(i) are provided, then the actual points and lender credits are compared to the estimated points disclosed pursuant to &#xA7; 1026.37(f)(1) and lender credits included in the original disclosures provided under &#xA7; 1026.19(e)(1)(i) for the purpose of determining good faith pursuant to &#xA7; 1026.19(e)(3)(i). If the consumer enters into a rate lock agreement with the creditor after the disclosures required under &#xA7; 1026.19(e)(1)(i) were provided, then &#xA7; 1026.19(e)(3)(iv)(D) requires the creditor to provide, no later than three business days after the date that the consumer and the creditor enter into a rate lock agreement, a revised version of the disclosures required under &#xA7; 1026.19(e)(1)(i) reflecting the revised interest rate, the points disclosed pursuant to &#xA7; 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms. Provided that the revised version of the disclosures required under &#xA7; 1026.19(e)(1)(i) reflect any revised points disclosed pursuant to &#xA7; 1026.37(f)(1) and lender credits, the actual points and lender credits are compared to the revised points and lender credits for the purpose of determining good faith pursuant to &#xA7; 1026.19(e)(3)(i).</P>
+          <STARS/>
+          <HD SOURCE="HD3">19(e)(4)(i) General Rule</HD>
+          <STARS/>
+          <P>2.<E T="03">Relationship to &#xA7; 1026.19(e)(3)(iv)(D).</E>If the reason for the revision is provided under &#xA7; 1026.19(e)(3)(iv)(D), notwithstanding the three-business-day rule set forth in &#xA7; 1026.19(e)(4)(i), &#xA7; 1026.19(e)(3)(iv)(D) requires the creditor to provide a revised version of the disclosures required under &#xA7; 1026.19(e)(1)(i) no later than three business days after the date the interest rate is locked.<E T="03">See</E>comment 19(e)(3)(iv)(D)-1.</P>
+          <STARS/>
+          <SUBPART>
+            <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+            <STARS/>
+            <HD SOURCE="HD2">Section 1026.37&#x2014;Content of Disclosures for Certain Mortgage Transactions (Loan Estimate)</HD>
+            <STARS/>
+            <HD SOURCE="HD3">37(b)(6) Adjustments After Consummation</HD>
+          </SUBPART>
+          <P>1.<E T="03">Periods not in whole years.</E>For guidance on how to disclose increases after consummation that occur after a number of months less than 24 but that do not equate to a number of whole years or within a number of days less than a week, see the guidance provided in comment 37(a)(10)-3. For increases that occur after more than 24 months, see the guidance provided in comment 37(b)(8)-1.</P>
+          <STARS/>
+          <HD SOURCE="HD3">Paragraph 37(c)(2)(ii)</HD>
+          <STARS/>
+          <P>2.<E T="03">Relationship to principal and interest disclosure.</E>The creditor discloses mortgage insurance premiums pursuant to &#xA7; 1026.37(c)(2)(ii) on the same periodic basis that payments for principal and interest are disclosed pursuant to &#xA7; 1026.37(c)(2)(i), even if mortgage insurance premiums are actually paid on some other periodic basis.</P>
+          <HD SOURCE="HD3">Paragraph 37(c)(2)(iii)</HD>
+          <P>1.<E T="03">Escrow disclosure.</E>The disclosure described in &#xA7; 1026.37(c)(2)(iii) is required only if the creditor will establish an escrow account for the payment of some or all of the charges described in &#xA7; 1026.37(c)(4)(ii). If no escrow account for the payment of some or all such charges will be established, the creditor discloses the escrow amount as &#x201C;0.&#x201D; If an escrow account is established for the payment of amounts described in &#xA7; 1026.37(c)(4)(ii), but no escrow payment is required with a particular periodic payment (such as with a final balloon payment) or range of payments, the escrow payment should be disclosed as &#x201C;&#x2014;.&#x201D;</P>
+          <STARS/>
+          <HD SOURCE="HD3">Paragraph 37(c)(4)(iv)</HD>
+          <STARS/>
+          <P>2.<E T="03">Amounts paid by the creditor using escrow account funds.</E>Section 1026.37(c)(4)(iv) requires the creditor to disclose an indication of whether the amounts disclosed pursuant to &#xA7; 1026.37(c)(4)(ii) will be paid by the creditor using escrow account funds. If the amount disclosed pursuant to &#xA7; 1026.37(c)(4)(ii) requires the creditor to disclose a description of more than one amount and only some of those amounts will be paid by the creditor using escrow account funds, the creditor may indicate that only some of those amounts will be paid using escrow account funds, such as by using the word &#x201C;some.&#x201D;</P>
+          <STARS/>
+          <HD SOURCE="HD3">37(h)(1)(ii) Closing Costs Financed</HD>
+          <P>1.<E T="03">Calculating amount.</E>The amount of closing costs financed disclosed under &#xA7; 1026.37(h)(1)(ii) is determined by subtracting the estimated total amount of payments to third parties not otherwise disclosed pursuant to &#xA7; 1026.37(f) and (g) from the total loan amount disclosed pursuant to &#xA7; 1026.37(b)(1). If the result of the calculation is a positive number, that amount is disclosed as a negative number under &#xA7; 1026.37(h)(1)(ii), but only to the extent that it does not exceed the total amount of closing costs disclosed under &#xA7; 1026.37(g)(6). If the result of the calculation is zero or negative, the amount of $0 is disclosed under &#xA7; 1026.37(h)(1)(ii).</P>
+          <STARS/>
+          <PRTPAGE P="8778"/>
+          <HD SOURCE="HD3">37(m)(8) Construction Loans</HD>
+          <P>1.<E T="03">Clear and conspicuous statement regarding redisclosure for construction loans.</E>For construction loans in transactions involving new construction, where the creditor reasonably expects the settlement date to be 60 days or more after the provision of the disclosures required under &#xA7; 1026.19(e)(1)(i), providing the statement, &#x201C;You may receive a revised Loan Estimate at any time prior to 60 days before consummation&#x201D; under the master heading &#x201C;Additional Information About This Loan&#x201D; and the heading &#x201C;Other Considerations&#x201D; pursuant to &#xA7; 1026.37(m)(8) satisfies the requirements set forth in &#xA7; 1026.19(e)(3)(iv)(F) that the statement be made clearly and conspicuously on the disclosure.</P>
+          <HD SOURCE="HD3">37(n) Signature Statement</HD>
+          <STARS/>
+          <P>2.<E T="03">Multiple consumers.</E>If there is more than one consumer who will be obligated in the transaction, the first consumer signs as the applicant and each additional consumer signs as a co-applicant. If there is not enough space under the heading &#x201C;Confirm Receipt&#x201D; to provide signature lines for every consumer in the transaction, the creditor may add additional signature pages, as needed, at the end of the form for the remaining consumers' signatures. However, the creditor is required to disclose the heading and statement required by &#xA7; 1026.37(n)(1) on such additional pages.</P>
+          <STARS/>
+          <HD SOURCE="HD3">Section 1026.38&#x2014;Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure)</HD>
+          <STARS/>
+          <HD SOURCE="HD3">38(a)(3)(vi) Property</HD>
+          <STARS/>
+          <P>2.<E T="03">Multiple properties.</E>Where more than one property secures the credit transaction, &#xA7; 1026.38(a)(3)(vi) requires disclosure of all property addresses. If the addresses of all properties securing the transaction do not fit in the space allocated on the Closing Disclosure, an additional page with the addresses of all such properties may be appended to the end of the form.</P>
+          <STARS/>
+          <HD SOURCE="HD3">Paragraph 38(e)(1)(iii)(A)</HD>
+          <P>1.<E T="03">Statements of increases or decreases.</E>Section 1026.38(e)(1)(iii)(A) requires a statement of whether the amount increased or decreased from the estimated amount. The statement, &#x201C;This amount increased,&#x201D; in which the word &#x201C;increased&#x201D; is in boldface font and is replaced with the word &#x201C;decreased&#x201D; as applicable, complies with this requirement.</P>
+          <STARS/>
+          <HD SOURCE="HD3">Paragraph 38(e)(2)(iii)(A)</HD>
+          <STARS/>
+          <P>3.<E T="03">Statements regarding excess amount and any credit to the consumer.</E>Section 1026.38(e)(2)(iii)(A) requires a statement that an increase in closing costs exceeds legal limits by the dollar amount of the excess and a statement directing the consumer to the disclosure of lender credits under &#xA7; 1026.38(h)(3) if a credit is provided under &#xA7; 1026.19(f)(2)(v). See form H-25(F) in appendix H to this part for examples of such statements.</P>
+          <STARS/>
+          <HD SOURCE="HD3">38(g)(2) Prepaids</HD>
+          <STARS/>
+          <P>4.<E T="03">Interest rate for prepaid interest.</E>The dollar amounts disclosed pursuant to &#xA7; 1026.38(g)(2) must be based on the interest rate disclosed under &#xA7; 1026.38(b), as required by &#xA7; 1026.37(b)(2).</P>
+          <STARS/>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: January 18, 2015.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2015-01321 Filed 2-18-15; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
