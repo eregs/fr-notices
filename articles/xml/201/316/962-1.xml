@@ -1,0 +1,451 @@
+<RULE>
+        <PREAMB>
+          <PRTPAGE P="44686"/>
+          <AGENCY TYPE="S">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+          <CFR>12 CFR Parts 1024 and 1026</CFR>
+          <DEPDOC>[Docket No. CFPB-2013-0010]</DEPDOC>
+          <RIN>RIN 3170-AA37</RIN>
+          <SUBJECT>Amendments to the 2013 Mortgage Rules Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)</SUBJECT>
+          <AGY>
+            <HD SOURCE="HED">AGENCY:</HD>
+            <P>Bureau of Consumer Financial Protection.</P>
+          </AGY>
+          <ACT>
+            <HD SOURCE="HED">ACTION:</HD>
+            <P>Final rule; official interpretations.</P>
+          </ACT>
+          <SUM>
+            <HD SOURCE="HED">SUMMARY:</HD>
+            <P>This rule amends some of the final mortgage rules issued by the Bureau of Consumer Financial Protection (Bureau) in January of 2013. These amendments clarify, correct, or amend provisions on the relation to State law of Regulation X's servicing provisions; implementation dates for adjustable-rate mortgage servicing; exclusions from requirements on higher-priced mortgage loans; the small servicer exemption from certain servicing rules; the use of government-sponsored enterprise and Federal agency purchase, guarantee or insurance eligibility for determining qualified mortgage status; and the determination of debt and income for purposes of originating qualified mortgages.</P>
+          </SUM>
+          <DATES>
+            <HD SOURCE="HED">DATES:</HD>
+            <P>Effective July 24, 2013. See part V, Effective Date, in<E T="02">SUPPLEMENTARY INFORMATION</E>.</P>
+          </DATES>
+          <FURINF>
+            <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+            <P>Marta Tanenhaus, Senior Counsel, Paul Ceja, Senior Counsel and Special Advisor; Joseph Devlin, Counsel; Office of Regulations, at (202) 435-7700.</P>
+          </FURINF>
+        </PREAMB>
+        <SUPLINF>
+          <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+          <P/>
+          <HD SOURCE="HD1">I. Summary of Final Rule</HD>
+          <P>In January 2013, the Bureau issued several final rules concerning mortgage markets in the United States (2013 Title XIV Final Rules), pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). Public Law 111-203, 124 Stat. 1376 (2010). On January 10, 2013, the Bureau issued the 2013 ATR Final Rule;<SU>1</SU>
+            <FTREF/>on January 17, 2013, the Bureau issued the 2013 Mortgage Servicing Final Rules;<SU>2</SU>
+            <FTREF/>and on May 16, 2013, the Bureau issued Amendments to the 2013 Escrows Final Rule.<SU>3</SU>
+            <FTREF/>This final rule makes several amendments to those rules. These amendments clarify, correct, or amend provisions on (1) the relation to State law of Regulation X's servicing provisions; (2) implementation dates for adjustable-rate mortgage disclosures; (3) exclusions from the repayment ability and prepayment penalty requirements for higher-priced mortgage loans (HPMLs); (4) the small servicer exemption from certain of the new servicing rules; (5) the use of government-sponsored enterprise (GSE) and Federal agency purchase, guarantee or insurance eligibility for determining qualified mortgage (QM) status; and (6) the determination of debt and income for purposes of originating QMs. In addition to these six revisions and clarifications, which are discussed more fully below, the Bureau is making certain technical corrections to the regulations with no substantive change intended.</P>
+          <FTNT>
+            <P>
+              <SU>1</SU>Ability-to-Repay and Qualified Mortgage Standards Under the Truth in Lending Act (Regulation Z) (2013 ATR Final Rule), 78 FR 6407 (Jan. 30, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>2</SU>Mortgage Servicing Rules Under the Real Estate Settlement Procedures Act (Regulation X) (2013 RESPA Servicing Final Rule) and Mortgage Servicing Rules Under the Truth in Lending Act (Regulation Z) (2013 TILA Servicing Final Rule) (together, 2013 Mortgage Servicing Final Rules), 78 FR 10695 (Feb. 14, 2013) (Regulation X), 78 FR 10901 (Feb. 14, 2013) (Regulation Z).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>3</SU>Amendments to the 2013 Escrows Final Rule under the Truth in Lending Act (Regulation Z), 78 FR 30739 (May 23, 2013). Those amendments revised 78 FR 4726 (Jan. 22, 2013) (2013 Escrows Final Rule).</P>
+          </FTNT>
+          <P>First, the Bureau is amending the commentary to the preemption provision of Regulation X to clarify that the regulation does not occupy the field of regulation of the practices covered by the Real Estate Settlement Procedures Act (RESPA) or Regulation X, including with respect to mortgage servicers or mortgage servicing. The rule also redesignates the Regulation X preemption provision, &#xA7; 1024.13, as &#xA7; 1024.5(c).</P>
+          <P>Second, in response to industry requests, the Bureau is providing clarification of the implementation dates for adjustable-rate mortgage provisions &#xA7; 1026.20(c) and (d) of the 2013 TILA Servicing Final Rule. This clarification is provided in the section-by-section analysis and does not revise the 2013 TILA Servicing Final Rule or its official commentary.</P>
+          <P>Third, the Bureau is revising &#xA7; 1026.35(e) of Regulation Z, as amended by the Amendments to the 2013 Escrows Final Rule,<SU>4</SU>
+            <FTREF/>to clarify that construction and bridge loans and reverse mortgages are not subject to its requirements regarding repayment abilities and prepayment penalties for HPMLs.</P>
+          <FTNT>
+            <P>
+              <SU>4</SU>78 FR 30739 (May 23, 2013).</P>
+          </FTNT>
+          <P>Fourth, the Bureau is clarifying the scope and application of the exemption for small servicers that is set forth in Regulation Z's periodic statement provision, &#xA7; 1026.41, and incorporated by cross-reference in certain provisions of Regulation X. The rule clarifies which mortgage loans to consider in determining small servicer status and the application of the small servicer exemption with regard to servicer/affiliate and master servicer/subservicer relationships. Further, the rule provides that three types of mortgage loans will not be considered in determining small servicer status: mortgage loans voluntarily serviced for an unaffiliated entity without remuneration, reverse mortgages, and mortgage loans secured by a consumer's interest in timeshare plans.</P>
+          <P>Fifth, the Bureau is revising regulatory text and an official interpretation adopted in the 2013 ATR Final Rule and adding a new official interpretation to describe qualified mortgages that are entitled to a presumption of compliance with the ability-to-repay requirements under the Dodd-Frank Act. Specifically, the Bureau is providing clarifications with regard to &#xA7; 1026.43(e)(4), which allows qualified mortgage status to certain loans that are eligible for purchase, guarantee, or insurance by the GSEs or federal agencies. Section 1026.43(e)(4)(ii)(A)-(E) is amended to make clear that matters wholly unrelated to ability to repay will not be relevant to determination of QM status under this provision. Comment 43(e)(4)-4 explains that matters wholly unrelated to ability to repay are those matters that are wholly unrelated to credit risk or the underwriting of the loan. Comment 43(e)(4)-4 also clarifies the standards a creditor must meet when relying on a written guide or an automated underwriting system to determine qualified mortgage status under &#xA7; 1026.43(e)(4). In addition, the revised comment specifies that a creditor relying on approval through an automated underwriting system to establish qualified mortgage status must also meet the conditions on approval that are generated by that same system.</P>
+
+          <P>The Bureau is also revising comment 43(e)(4)-4 to clarify that a loan meeting eligibility requirements provided in a written agreement with one of the GSEs, HUD, VA, USDA, or RHS is also eligible for purchase or guarantee by the GSEs or insured or guaranteed by the agencies for the purposes of &#xA7; 1026.43(e)(4). In addition, the comment has been clarified to provide that loans receiving individual waivers from GSEs or agencies will be considered eligible as<PRTPAGE P="44687"/>well. Thus, such loans could be qualified mortgages.</P>
+          <P>The Bureau is also issuing new comment 43(e)(4)-5, which provides that a repurchase or indemnification demand by the GSEs, HUD, VA, USDA, or RHS is not dispositive for ascertaining qualified mortgage status. The comment provides two examples to illustrate the application of this guidance.</P>
+          <P>Sixth, the Bureau is amending appendix Q of Regulation Z to facilitate compliance and ensure access to credit by assisting creditors in determining a consumer's debt-to-income ratio (DTI) for the purposes of &#xA7; 1026.43(e)(2), the primary qualified mortgage provision. The Bureau is making changes to address compliance challenges raised by stakeholders, as well as technical and wording changes for clarification purposes. The Bureau's revisions include clarifications to appendix Q on: (1) Stability of income, and the creditor requirement to evaluate the probability of the consumer's continued employment; (2) with regard to salary, wage, and other forms of consumer income, the creditor requirement to determine whether the consumer's income level can reasonably be expected to continue; (3) creditor analysis of consumer overtime and bonus income; (4) creditor analysis of consumer Social Security income; (5) requirements related to the analysis of self-employed consumer income; (6) requirements related to non-employment related consumer income, including creditor analysis of consumer trust income; and (7) creditor analysis of rental income. The Bureau is also revising the introduction to appendix Q to make clear that creditors may refer to other federal agency and GSE guidance that is in accordance with appendix Q as a resource, and to provide default rules and an optional safe harbor when appendix Q's standards do not otherwise resolve how to treat a particular type of debt or income.</P>
+          <HD SOURCE="HD1">II. Background</HD>
+          <HD SOURCE="HD2">A. Title XIV Rulemakings Under the Dodd-Frank Act</HD>
+          <P>In response to an unprecedented cycle of expansion and contraction in the mortgage market that sparked the most severe U.S. recession since the Great Depression, Congress passed the Dodd-Frank Act, which was signed into law on July 21, 2010. In the Dodd-Frank Act, Congress established the Bureau and, under sections 1061 and 1100A, generally consolidated the rulemaking authority for Federal consumer financial laws, including the Truth in Lending Act (TILA) and RESPA, in the Bureau.<SU>5</SU>
+            <FTREF/>At the same time, Congress significantly amended the statutory requirements governing mortgage practices with the intent to restrict the practices that contributed to and exacerbated the crisis. Under the statute, most of these new requirements would have taken effect automatically on January 21, 2013, if the Bureau had not issued implementing regulations by that date.<SU>6</SU>
+            <FTREF/>To avoid uncertainty and potential disruption in the national mortgage market at a time of economic vulnerability, the Bureau issued several final rules in a span of less than two weeks in January 2013 to implement these new statutory provisions and provide for an orderly transition.</P>
+          <FTNT>
+            <P>
+              <SU>5</SU>Sections 1011 and 1021 of the Dodd-Frank Act, in title X, the &#x201C;Consumer Financial Protection Act,&#x201D; Public Law 111-203, sections 1001-1100H, codified at 12 U.S.C. 5491, 5511. The Consumer Financial Protection Act is substantially codified at 12 U.S.C. 5481-5603. Section 1029 of the Dodd-Frank Act excludes from this transfer of authority, subject to certain exceptions, any rulemaking authority over a motor vehicle dealer that is predominantly engaged in the sale and servicing of motor vehicles, the leasing and servicing of motor vehicles, or both. 12 U.S.C. 5519.</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>6</SU>Dodd-Frank Act section 1400(c), 15 U.S.C. 1601 note.</P>
+          </FTNT>
+          <P>On January 10, 2013, the Bureau issued the 2013 ATR Final Rule, Escrow Requirements Under the Truth in Lending Act (Regulation Z) (2013 Escrows Final Rule),<SU>7</SU>
+            <FTREF/>and High-Cost Mortgages and Homeownership Counseling Amendments to the Truth in Lending Act (Regulation Z) and Homeownership Counseling Amendments to the Real Estate Settlement Procedures Act (Regulation X) (2013 HOEPA Final Rule).<SU>8</SU>
+            <FTREF/>On January 17, 2013, the Bureau issued the 2013 Mortgage Servicing Final Rules. On January 18, 2013, the Bureau issued Appraisals for Higher-Priced Mortgage Loans (Regulation Z)<SU>9</SU>
+            <FTREF/>(issued jointly with other agencies) and Disclosure and Delivery Requirements for Copies of Appraisals and Other Written Valuations Under the Equal Credit Opportunity Act (Regulation B) (2013 Appraisals Final Rule).<SU>10</SU>
+            <FTREF/>On January 20, 2013, the Bureau issued Loan Originator Compensation Requirements Under the Truth in Lending Act (Regulation Z) (2013 Loan Originator Final Rule).<SU>11</SU>
+            <FTREF/>Most of these rules will become effective on January 10, 2014.</P>
+          <FTNT>
+            <P>
+              <SU>7</SU>78 FR 4726 (Jan. 22, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>8</SU>78 FR 6855 (Jan. 31, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>9</SU>78 FR 10367 (Feb. 13, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>10</SU>78 FR 7215 (Jan. 31, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>11</SU>78 FR 11279 (Feb. 15, 2013).</P>
+          </FTNT>
+          <P>Concurrent with the 2013 ATR Final Rule, on January 10, 2013, the Bureau issued Proposed Amendments to the Ability-to-Repay Standards Under the Truth in Lending Act (Regulation Z) (2013 ATR Concurrent Proposal).<SU>12</SU>
+            <FTREF/>This proposal has now been made final (May 2013 ATR Final Rule).<SU>13</SU>
+            <FTREF/>The May 2013 ATR Final Rule provides exemptions for creditors with certain designations, loans pursuant to certain programs, certain nonprofit creditors, and mortgage loans made in connection with certain Federal emergency economic stabilization programs. The final rule also provides an additional definition of a qualified mortgage for certain loans made and held in portfolio by small creditors and a temporary definition of a qualified mortgage for balloon loans. Finally, the May 2013 ATR Final Rule modifies the requirements regarding the inclusion of loan originator compensation in the points and fees calculation.</P>
+          <FTNT>
+            <P>
+              <SU>12</SU>78 FR 6622 (Jan. 30, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>13</SU>78 FR 35429 (Jun. 12, 2013).</P>
+          </FTNT>
+          <HD SOURCE="HD2">B. Implementation Initiative for New Mortgage Rules</HD>
+          <P>On February 13, 2013, the Bureau announced an initiative to support implementation of its new mortgage rules (Implementation Plan),<SU>14</SU>
+            <FTREF/>under which the Bureau would work with the mortgage industry and other stakeholders to ensure that the new rules can be implemented accurately and expeditiously. The Implementation Plan included (1) coordination with other agencies; (2) publication of plain-language guides to the new rules; (3) publication of additional corrections and clarifications of the new rules, as needed; (4) publication of readiness guides for the new rules; and (5) education of consumers on the new rules.</P>
+          <FTNT>
+            <P>
+              <SU>14</SU>Consumer Financial Protection Bureau Lays Out Implementation Plan for New Mortgage Rules. Press Release. Feb. 13, 2013.</P>
+          </FTNT>
+          <P>This final rule is the third final rule providing additional revisions and clarifications of and amendments to the 2013 Title XIV Final Rules. In addition, the Bureau issued a proposed rule with further revisions and clarifications of and amendments to several of the 2013 Title XIV Final Rules on June 24, 2013. The purpose of these updates is to address important questions raised by industry, consumer groups, or other agencies. Priority for these updates is given to issues that are important to a large number of stakeholders and that critically affect mortgage companies' implementation decisions. Previously, the Bureau issued a final rule<SU>15</SU>
+
+            <FTREF/>providing corrections and clarifications of its 2013 Escrows Final Rule, and a final rule delaying the effective date for a provision related to credit insurance<PRTPAGE P="44688"/>financing in the 2013 Loan Originator Final Rule. On June 24, 2013, the Bureau issued additional proposed clarifications<SU>16</SU>
+            <FTREF/>to several of the new mortgage rules, including the servicing rules touched on here and the 2013 Loan Originator Final Rule. The Bureau expects to review the comments received and finalize that proposal later this summer. Going forward, the Bureau will continue to assess whether additional clarifications or revisions are warranted.</P>
+          <FTNT>
+            <P>
+              <SU>15</SU>78 FR 30739 (May 23, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>16</SU>78 FR 39902 (July 2, 2013).</P>
+          </FTNT>
+          <HD SOURCE="HD3">Comments on the Proposed Rule</HD>
+          <P>The Bureau received 73 comments on the proposed rule<SU>17</SU>
+            <FTREF/>on which this final rule is based. Many of these comments discussed issues that the proposed rule did not touch upon such as disparate impact in regard to fair lending enforcement, calculation methods for residual income, and whether or not the special QM provision at &#xA7; 1026.43(e)(4) should be eliminated before the rule goes into effect. The Bureau notes that it would be inconsistent with the Administrative Procedure Act (APA) to make changes outside the scope of the proposal because the other commenters and the public would not have notice and opportunity to comment. In addition, these regulatory updates are intended to focus on specific narrow implementation issues, and broader policy changes would not be appropriate as part of this process.</P>
+          <FTNT>
+            <P>
+              <SU>17</SU>78 FR 25638 (May 2, 2013).</P>
+          </FTNT>
+          <P>The Bureau has examined all comments submitted and will discuss those that were responsive to the proposal in the section-by-section analysis below.</P>
+          <HD SOURCE="HD1">III. Legal Authority</HD>
+          <P>The Bureau is issuing this final rule pursuant to its authority under RESPA, TILA, and the Dodd-Frank Act. Section 1061 of the Dodd-Frank Act transferred to the Bureau the &#x201C;consumer financial protection functions&#x201D; previously vested in certain other Federal agencies, including the Federal Reserve Board (Board). The term &#x201C;consumer financial protection function&#x201D; is defined to include &#x201C;all authority to prescribe rules or issue orders or guidelines pursuant to any Federal consumer financial law, including performing appropriate functions to promulgate and review such rules, orders, and guidelines.&#x201D;<SU>18</SU>
+            <FTREF/>Section 1061 of the Dodd-Frank Act also transferred to the Bureau all of HUD's consumer protection functions relating to RESPA.<SU>19</SU>
+            <FTREF/>Title X of the Dodd-Frank Act, including section 1061, along with RESPA, TILA, and certain subtitles and provisions of title XIV of the Dodd-Frank Act are Federal consumer financial laws.<SU>20</SU>
+            <FTREF/>
+          </P>
+          <FTNT>
+            <P>
+              <SU>18</SU>12 U.S.C. 5581(a)(1).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>19</SU>Public Law 111-203, 124 Stat. 1376, section 1061(b)(7); 12 U.S.C. 5581(b)(7).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>20</SU>Dodd-Frank Act section 1002(14), 12 U.S.C. 5481(14) (defining &#x201C;Federal consumer financial law&#x201D; to include the &#x201C;enumerated consumer laws&#x201D; and the provisions of title X of the Dodd-Frank Act); Dodd-Frank Act section 1002(12), 12 U.S.C. 5481(12) (defining &#x201C;enumerated consumer laws&#x201D; to include TILA), Dodd-Frank section 1400(b), 15 U.S.C. 1601 note (defining &#x201C;enumerated consumer laws&#x201D; to include certain subtitles and provisions of Title XIV).</P>
+          </FTNT>
+          <HD SOURCE="HD2">A. RESPA</HD>
+          <P>Section 19(a) of RESPA, 12 U.S.C. 2617(a), authorizes the Bureau to prescribe such rules and regulations, to make such interpretations, and to grant such reasonable exemptions for classes of transactions, as may be necessary to achieve the purposes of RESPA, which include its consumer protection purposes. In addition, section 6(j)(3) of RESPA, 12 U.S.C. 2605(j)(3), authorizes the Bureau to establish any requirements necessary to carry out section 6 of RESPA, and section 6(k)(1)(E) of RESPA, 12 U.S.C. 2605(k)(1)(E), authorizes the Bureau to prescribe regulations that are appropriate to carry out RESPA's consumer protection purposes. As identified in the 2013 RESPA Servicing Final Rule, the consumer protection purposes of RESPA include responding to borrower requests and complaints in a timely manner, maintaining and providing accurate information, helping borrowers avoid unwarranted or unnecessary costs and fees, and facilitating review for foreclosure avoidance options.</P>
+          <HD SOURCE="HD2">B. TILA</HD>
+          <P>Section 105(a) of TILA, 15 U.S.C. 1604(a), authorizes the Bureau to prescribe regulations to carry out the purposes of TILA. Under 105(a) such regulations may contain such additional requirements, classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for all or any class of transactions, as in the judgment of the Bureau are necessary or proper to effectuate the purposes of TILA, to prevent circumvention or evasion thereof, or to facilitate compliance therewith. A purpose of TILA is &#x201C;to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit.&#x201D; TILA section 102(a), 15 U.S.C. 1601(a). In particular, it is a purpose of TILA section 129C, as amended by the Dodd-Frank Act, to assure that consumers are offered and receive residential mortgage loans on terms that reasonably reflect their ability to repay the loans and that are understandable and not unfair, deceptive, or abusive. Section 105(f) of TILA, 15 U.S.C. 1604(f), authorizes the Bureau to exempt from all or part of TILA any class of transactions if the Bureau determines that TILA coverage does not provide a meaningful benefit to consumers in the form of useful information or protection. Accordingly, the Bureau has authority to issue regulations pursuant to title X as well as RESPA and TILA, as amended by title XIV.</P>
+          <P>In addition, to constitute a qualified mortgage a loan must meet &#x201C;any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses after payment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine are relevant and consistent with the purposes described in [TILA section 129C(b)(3)(B)(i)].&#x201D; The Dodd Frank Act also provides the Bureau with authority to prescribe regulations that revise, add to, or subtract from the criteria that define a qualified mortgage upon a finding that such regulations are necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of the ability-to-repay requirements; or are necessary and appropriate to effectuate the purposes of the ability-to-repay requirements, to prevent circumvention or evasion thereof, or to facilitate compliance with TILA sections 129B and 129C. TILA section 129C(b)(3)(B)(i), 15 U.S.C. 1639c(b)(3)(B)(i). In addition, TILA section 129C(b)(3)(A) provides the Bureau with authority to prescribe regulations to carry out the purposes of the qualified mortgage provisions, such as to ensure that responsible and affordable mortgage credit remains available to consumers in a manner consistent with the purposes of TILA section 129C. TILA section 129C(b)(3)(A), 15 U.S.C. 1639c(b)(3)(A).</P>
+          <HD SOURCE="HD2">C. The Dodd-Frank Act</HD>
+
+          <P>Section 1022(b)(1) of the Dodd-Frank Act authorizes the Bureau to prescribe rules &#x201C;as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions<PRTPAGE P="44689"/>thereof.&#x201D; 12 U.S.C. 5512(b)(1). Title X of the Dodd-Frank Act is a Federal consumer financial law. Accordingly, the Bureau is exercising its authority under the Dodd-Frank Act section 1022(b) to prescribe rules that carry out the purposes and objectives of title X, as well as of RESPA, TILA, and the enumerated subtitles and provisions of title XIV of the Dodd-Frank Act, and to prevent evasion of those laws.</P>
+          <P>The Bureau is amending certain rules finalized in January, 2013, that implement a number of Dodd-Frank Act provisions. In particular, the Bureau is clarifying or amending regulatory provisions and associated commentary adopted by the 2013 ATR Final Rule,<SU>21</SU>
+            <FTREF/>the 2013 TILA Servicing Final Rule,<SU>22</SU>
+            <FTREF/>the 2013 RESPA Servicing Final Rule,<SU>23</SU>
+            <FTREF/>and the 2013 Escrows Final Rule<SU>24</SU>
+            <FTREF/>as amended by the 2013 Amendments to the 2013 Escrows Final Rule.<SU>25</SU>
+            <FTREF/>
+          </P>
+          <FTNT>
+            <P>
+              <SU>21</SU>78 FR 6408 (Jan. 30, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>22</SU>78 FR 10902 (Feb. 14, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>23</SU>78 FR 10696 (Feb. 14, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>24</SU>78 FR 4726 (Jan. 22, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>25</SU>78 FR 30739 (May 23, 2013).</P>
+          </FTNT>
+          <HD SOURCE="HD1">IV. Section-by-Section Analysis</HD>
+          <HD SOURCE="HD2">A. Regulation X</HD>
+          <HD SOURCE="HD3">Subpart A&#x2014;General Provisions</HD>
+          <P>The Bureau proposed a technical amendment to the heading for Subpart A of Regulation X from &#x201C;Subpart A&#x2014;General&#x201D; to &#x201C;Subpart A&#x2014;General Provisions&#x201D; to conform the heading in the text of the regulation to the heading set forth in the corresponding commentary. No comments were received on this change, and it is adopted as proposed.</P>
+          <HD SOURCE="HD3">Section 1024.5Coverage of RESPA</HD>
+          <HD SOURCE="HD3">The Proposal</HD>
+          <P>The Bureau proposed to redesignate &#xA7; 1024.13 as &#xA7; 1024.5(c). Section 1024.13, &#x201C;Relation to State laws,&#x201D; sets forth rules regarding the relationship of the requirements in RESPA and Regulation X to requirements established pursuant to State law. In the 2013 RESPA Servicing Final Rule, the Bureau divided Regulation X into subparts and &#xA7; 1024.13 was located in new &#x201C;Subpart B&#x2014;Mortgage Settlement and Escrow Accounts.&#x201D; However, the provisions of &#xA7; 1024.13(a) are intended to apply with respect to all of Regulation X. Because &#xA7; 1024.13 applies for all sections of Regulation X, the Bureau proposed to redesignate &#xA7; 1024.13 as &#xA7; 1024.5(c), located within &#x201C;Subpart A&#x2014;General Provisions.&#x201D; Further, the Bureau proposed to remove and reserve &#xA7; 1024.13.</P>
+          <P>The Bureau further proposed to add commentary for proposed &#xA7; 1024.5(c) to make clear that Regulation X does not create field preemption. Since issuing the 2013 RESPA Servicing Final Rule, the Bureau had received inquiries as to whether Regulation X's mortgage servicing rules result in preemption of the field of mortgage servicing regulation. The Bureau had addressed this question in the preamble to the final rule, stating that &#x201C;the Final Servicing Rules generally do not have the effect of prohibiting State law from affording borrowers broader consumer protection relating to mortgage servicing than those conferred under the Final Servicing Rules.&#x201D;<SU>26</SU>
+            <FTREF/>The preamble further stated that, although &#x201C;in certain circumstances, the effect of specific requirements of the Final Servicing Rules is to preempt certain limited aspects of state law&#x201D; in general, &#x201C;the Bureau explicitly took into account existing standards (both State and Federal) and either built in flexibility or designed its rules to coexist with those standards.&#x201D;<SU>27</SU>
+            <FTREF/>
+          </P>
+          <FTNT>
+            <P>
+              <SU>26</SU>78 FR 10706 (Feb. 14, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>27</SU>
+              <E T="03">Id.</E>(specifically identifying the National Mortgage Settlement and the California Homeowner Bill of Rights).</P>
+          </FTNT>
+          <P>Because the Bureau continued to receive questions on this issue, the Bureau believed it was appropriate to propose commentary to clarify the scope of proposed &#xA7; 1024.5(c) and expressly address concerns about field preemption. Consistent with the preamble to the 2013 RESPA Servicing Final Rule, proposed comment 5(c)(1)-1 stated that State laws that are in conflict with the requirements of RESPA or Regulation X may be preempted by RESPA and Regulation X. Proposed comment 5(c)(1)-1 stated further that nothing in RESPA or Regulation X, including the provisions in subpart C with respect to mortgage servicers or mortgage servicing, should be construed to preempt the entire field of regulation of the covered practices. This proposed addition to the commentary was meant to clarify that RESPA and Regulation X do not effectuate field preemption of States' regulation of mortgage servicers or mortgage servicing. The comment also made clear that RESPA and Regulation X do not preempt State laws that give greater protection to consumers than do these federal laws.</P>
+          <P>The Bureau requested comment regarding the addition of the proposed commentary, including whether further clarification regarding the preemption effects of RESPA and Regulation X was necessary or appropriate.</P>
+          <HD SOURCE="HD3">Comments</HD>
+          <P>Numerous consumer and community groups provided similar comments supporting the proposed changes to the Regulation X preemption provision. These commenters supported the relocation of the preemption provision to &#xA7; 1024.5(c) in the General Provisions subpart and the addition of comment 5(c)(1)-1. Many of these consumer and community groups further suggested that the regulatory text itself be changed to replace the phrase &#x201C;settlement practices&#x201D; with language more clearly inclusive of servicing activities. Several also requested that an example be included with comment 5(c)(1)-1 showing that a state law more protective of consumers will not be preempted by Regulation X.</P>
+          <P>Two industry commenters supported the proposed changes to the Regulation X preemption provision. One trade association suggested that the Bureau should promote uniform servicing standards to help create certainty in the market. Another industry commenter stated that the current regulation covered the situation sufficiently and the proposed guidance was unnecessary.</P>
+          <P>Two trade associations stated that the Bureau was narrowing the existing preemption provision to reduce the likelihood of preemption. One opposed the idea that state laws more protective of consumers are not preempted, and so opposed the inclusion of the comment. The other stated that the preemption provision for mortgage servicing transfers functions statutorily as a general preemption of mortgage servicing.</P>
+          <P>Several industry commenters pointed out that the statute and regulation use the word &#x201C;inconsistent&#x201D; when explaining which state laws may be preempted, while the proposed comment uses the more common term &#x201C;conflict&#x201D; to describe the situation. They suggested that the comment also use the term &#x201C;inconsistent&#x201D; to avoid confusion.</P>
+          <HD SOURCE="HD3">Final Rule</HD>
+
+          <P>The relocation of the preemption provision and the guidance in proposed comment 5(c)(1)-1 were not intended to change the current preemption regime under Regulation X and the Bureau does not believe that they do so. The sentence in the regulation that consumer and community groups urged the Bureau to change simply replicates text in RESPA section 18. Therefore the Bureau does not believe that a change to that sentence would be appropriate. Comment 5(c)(1)-1 provides the<PRTPAGE P="44690"/>Bureau's official interpretation of that regulatory language. As stated in the proposal, the Bureau believes that the relocation of the preemption provision and the addition of the comment are necessary and appropriate to eliminate any confusion as to how the preemption provision operates. In addition, the Bureau believes that the comment is sufficiently clear and does not consider an example to be necessary.</P>
+          <P>The final rule adopts the amendments as proposed, but changes the word &#x201C;conflict&#x201D; in the comment to &#x201C;inconsistent&#x201D; to avoid confusion.</P>
+          <HD SOURCE="HD2">B. Regulation Z</HD>
+          <HD SOURCE="HD3">Section 1026.35Requirements for Higher-Priced Mortgage Loans</HD>
+          <HD SOURCE="HD3">35(e)Repayment Ability, Prepayment Penalties</HD>
+          <P>The Bureau is concerned that its recently published Amendments to the 2013 Escrows Final Rule<SU>28</SU>
+            <FTREF/>requiring industry to comply with certain provisions regarding repayment ability and prepayment penalties for HPMLs could be interpreted as requiring that certain transactions excluded from such requirements are now subject to those requirements. The Bureau believes that the amendments, properly understood, continue the exclusion for such transactions from the requirements. To provide certainty, the Bureau is revising &#xA7; 1026.35(e)<SU>29</SU>
+            <FTREF/>to explicitly exclude from coverage construction and bridge loans and reverse mortgages&#x2014;loans that were previously explicitly excluded from such requirements, as discussed below.</P>
+          <FTNT>
+            <P>
+              <SU>28</SU>78 FR 30739 (May 23, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>29</SU>
+              <E T="03">Id.</E>
+            </P>
+          </FTNT>
+          <P>In January 2013, the Bureau issued the 2013 Escrows Final Rule,<SU>30</SU>
+            <FTREF/>which implements certain provisions of the Dodd-Frank Act relating to escrow accounts. That final rule revised the definition of &#x201C;higher-priced mortgage loan&#x201D; in 12 CFR 1026.35(a) by removing certain exclusions from the scope of consumer credit transactions that may be HPMLs. The loans no longer excluded from the definition of HPML are: Transactions to finance the initial construction of a dwelling (construction loans); temporary or &#x201C;bridge loans&#x201D; with a terms of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months (bridge loans); and reverse mortgages subject to &#xA7; 1026.33 (reverse mortgages). The Bureau removed these exclusions from the general definition of HPML and located them directly into the individual provisions regarding appraisal, escrow, ability to repay, and prepayment penalty requirements for HPMLs.<SU>31</SU>
+            <FTREF/>
+          </P>
+          <FTNT>
+            <P>
+              <SU>30</SU>78 FR 4726 (Jan. 22, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>31</SU>
+              <E T="03">See</E>&#xA7; 1026.35(c)(2) of the 2013 TILA Appraisals Rule, 78 FR 10368 (Feb. 13, 2013) (which was adopted by the Bureau, together with several other Federal agencies, as an inter-agency rulemaking); &#xA7; 1026.35(b)(2) of the 2013 Escrows Final Rule, 78 FR 4727 (Jan. 22, 2013); &#xA7; 1026.43(a) of the 2013 ATR Final Rule, 78 FR 6408 (Jan. 30, 2013); and &#xA7; 1026.32(a) of the 2013 HOEPA Final Rule, 78 FR 6856 (Jan. 31, 2013).</P>
+          </FTNT>
+          <P>Since adopting the above-referenced rules, the Bureau adopted Amendments to the 2013 Escrows Final Rule<SU>32</SU>
+            <FTREF/>to prevent the inadvertent and temporary elimination of certain consumer protections for HPMLs concerning ability to repay and prepayment penalties that were codified in 12 CFR 1026.35(b) prior to June 1, 2013. The 2013 Escrows Final Rule took effect June 1, 2013, while the 2013 ATR and HOEPA Final Rules<SU>33</SU>
+            <FTREF/>do not take effect until January 10, 2014. Consequently, the existing ability-to-repay and prepayment penalty protections for HPMLs would have been removed, pursuant to the 2013 Escrows Final Rule, over seven months before parallel provisions would take effect. The Amendments to the 2013 Escrows Final Rule restored those protections temporarily in, and re-codified them as part of, newly created 12 CFR 1026.35(e), which took effect June 1, 2013, and will be effective through January 9, 2014.</P>
+          <FTNT>
+            <P>
+              <SU>32</SU>78 FR 30739 (May 23, 2013).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>33</SU>78 FR 6408 (Jan. 30, 2013); 78 FR 6856 (Jan. 31, 2013), respectively.</P>
+          </FTNT>
+
+          <P>The Bureau's renumbering of the ability-to-repay and prepayment penalty provisions in &#xA7; 1026.35(e) of Regulation Z, without excluding reverse mortgages and construction and bridge loans from coverage under that section, could be seen as removing these exclusions from the requirements of that temporary provision. To clarify that the Amendments to the 2013 Escrows Final Rule did not have that effect, the Bureau is revising temporary &#xA7; 1026.35(e) to explicitly exclude construction loans, bridge loans, and reverse mortgages from its requirements. The Bureau is replacing current &#xA7; 1026.35(e)(3) with new &#xA7; 1026.35(e)(3), which states that the requirements of &#xA7; 1026.35(e) do not apply to construction loans, bridge loans, and reverse mortgages. The Bureau is renumbering current &#xA7; 1026.35(e)(3), &#x201C;Sunset of requirements on repayment ability and prepayment penalties,&#x201D; as new &#xA7; 1026.35(e)(4). The general language in &#xA7; 1026.35(e) is also revised to reflect the addition of these exclusions. As noted below, the amendment to &#xA7; 1026.35(e) will apply to any transaction consummated on or after June 1, 2013, for which the creditor receives an application on or before January 9, 2014. Then, at the time &#xA7; 1026.35(e) expires, the exclusions for construction loans, bridge loans, and reverse mortgages in the 2013 ATR and HOEPA Final Rules will take effect. Thus, the revision of &#xA7; 1026.35(e) in this<PRTPAGE P="44691"/>final rule will make clear that construction loans, bridge loans, and reverse mortgages have continued and will continue to be excluded from certain HPML requirements regarding prepayment penalties and a consumer's ability to repay the loan.</P>
+          <P>
+            <E T="03">Legal authority.</E>Construction loans, bridge loans, and reverse mortgages have always been excluded from the requirements of Regulation Z regarding repayment ability and prepayment penalties. The mortgage rules referenced above that implement the Dodd-Frank Act continue to exclude such loans from their requirements, including those governing repayment ability and prepayment penalties. Thus, the revisions to &#xA7; 1026.35(e) in this final rule are merely technical changes to clarify the temporary provision's consistency with the historical and current treatment of such loans under Regulation Z.</P>
+          <P>For these reasons, the Bureau is revising temporary amendment &#xA7; 1026.35(e) to explicitly exclude construction loans, bridge loans, and reverse mortgages from its requirements regarding ability to repay and prepayment penalties for HPMLs, pursuant to its authority to provide for adjustments and exceptions under TILA section 105(a) and (f), and with reliance on the authority used by the Board in amending Regulation Z to include these requirements,<SU>34</SU>
+            <FTREF/>including TILA section 129(p). As the Board concluded before it, the Bureau does not believe subjecting these loans to the repayment ability and prepayment penalty requirements would effectuate the purposes of, or facilitate compliance with TILA and Regulation Z. Many of the characteristics of these loans make it inappropriate or unnecessary to apply the repayment ability and prepayment penalty requirements of &#xA7; 1026.35(e). For example, because the structure of reverse mortgages does not provide for repayment, the requirements related to repayment are not appropriate for such loans. The Bureau also notes that it anticipates undertaking a rulemaking to address how the Dodd-Frank Act title XIV requirements apply to reverse mortgages, and consumer protection issues in the reverse mortgage market may be addressed through such a rulemaking. Thus, the Bureau both interprets &#xA7; 1026.35(e) not to subject the affected loans to its requirements and also, pursuant to 105(a) and 105(f) of TILA, continues to exclude those loans from the requirements of &#xA7; 1026.35(e).</P>
+          <FTNT>
+            <P>
+              <SU>34</SU>73 FR 44522 (July 30, 2008).</P>
+          </FTNT>
+          <P>Notice and comment are not necessary for this revision of &#xA7; 1026.35(e), which merely makes explicit in the regulation the Bureau's continuing interpretation that certain loans have been excluded from certain legal requirements throughout the renumbering process. Moreover, the Bureau finds good cause to proceed without notice and comment. 5 U.S.C. 553(b)(B). This revision merely clarifies the operation of the rule that should already have been apparent to many market participants. Notice and comment are therefore unnecessary. In addition, the length of the notice and comment period make it impracticable to correct erroneous interpretations of a rule that is already in effect and that expires within months. For these reasons and under the authority cited above, the Bureau is expressly excluding construction and bridge loans and reverse mortgages from the ability-to-repay and prepayment penalty requirements for HPMLs under interim &#xA7; 1026.35(e).</P>
+          <HD SOURCE="HD1">V. Effective Date</HD>
+
+          <P>The amendments in this rule are effective January 10, 2014, except for the change to &#xA7; 1026.35(e). The amendment to &#xA7; 1026.35(e) is effective immediately on publication of this rule in the<E T="04">Federal Register</E>. As explained above, this amendment clarifies the Bureau's interpretation of &#xA7; 1026.35(e); it is therefore an interpretive rule, for which an immediate effective date is appropriate. In addition, the Bureau concludes that good cause exists to make the amendment effective immediately. The clarification will provide certainty to the industry and imposes no obligations with which mortgage lenders must comply.</P>
+          <P>
+            <E T="03">Applicability date.</E>The amendment to &#xA7; 1026.35(e) applies to any transaction consummated on or after June 1, 2013, and for which the creditor receives an application on or before January 9, 2014.</P>
+          <HD SOURCE="HD1">VI. Section 1022(b)(2) of the Dodd-Frank Act</HD>
+          <HD SOURCE="HD2">A. Overview</HD>
+          <P>In developing the final rule, the Bureau has considered potential benefits, costs, and impacts.<SU>57</SU>
+            <FTREF/>In addition, the Bureau has consulted, or offered to consult with, the prudential regulators, SEC, HUD, VA, USDA, FHFA, the Federal Trade Commission, and the Department of the Treasury, including regarding consistency with any prudential, market, or systemic objectives administered by such agencies.</P>
+          <FTNT>
+            <P>
+              <SU>57</SU>Specifically, section 1022(b)(2)(A) of the Dodd-Frank Act calls for the Bureau to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.</P>
+          </FTNT>
+          <P>As noted above, this rule makes amendments to some of the final mortgage rules issued by the Bureau in January of 2013.<SU>58</SU>
+            <FTREF/>These amendments clarify, correct, or amend provisions on (1) the relation to State law of Regulation X's servicing provisions; (2) implementation transition requirements for adjustable-rate mortgage disclosures; (3) the small servicer exemption from certain of the new servicing rules; (4) exclusions from the repayment ability and prepayment penalty requirements for higher-priced mortgage loans (HPMLs); (5) the use of government-sponsored enterprise (GSE) and Federal agency purchase, guarantee or insurance eligibility for determining qualified mortgage (QM) status; and (6) the determination of debt and income for purposes of originating QMs. In addition to these revisions, which are discussed more fully below, the Bureau is also making certain technical corrections to the regulations with no substantive change intended.</P>
+          <FTNT>
+            <P>
+              <SU>58</SU>For convenience, the reference to these January 2013 rules is also meant to encompass the rules issued in May 2013 that amended the January rules, including the final rule amending the 2013 Escrows Final Rule, issued on May 16, 2013.</P>
+          </FTNT>
+          <P>The analysis in this section relies on data that the Bureau has obtained and the record established by the Board and Bureau during the development of the 2013 Title XIV Final Rules. However, the Bureau notes that for some analyses, there are limited data available with which to quantify the potential costs, benefits, and impacts of this final rule. In particular, the Bureau did not receive comments specifically addressing the Section 1022 analysis in the proposed rule. Still, general economic principles together with the limited data that are available provide insight into the benefits, costs, and impacts and where relevant, the analysis provides a qualitative discussion of the benefits, costs, and impacts of the final rule.</P>
+          <HD SOURCE="HD2">B. Potential Benefits and Costs to Consumers and Covered Persons</HD>
+          <P>The Bureau believes that, compared to the baseline established by the final rules issued in January 2013,<SU>59</SU>
+            <FTREF/>the<PRTPAGE P="44716"/>primary benefit of most of the provisions of the final rule to both consumers and covered persons is an increase in clarity and precision of the regulations and an accompanying reduction in compliance costs.</P>
+          <FTNT>
+            <P>
+              <SU>59</SU>The Bureau has discretion in any rulemaking to choose an appropriate scope of analysis with respect to potential benefits and costs and an appropriate baseline.</P>
+          </FTNT>
+          <P>More specifically, the provisions that clarify: (1) That the preemption provisions in Regulation X do not preempt the field of regulation of the practices covered by RESPA and Regulation X; (2) the timing of required disclosures for adjustable-rate mortgages; and, (3) the exclusion of construction loans, bridge loans, and reverse mortgages from the requirements of the ability-to-repay and prepayment penalty provisions in &#xA7; 1026.35(e) generally conform the rules to the policies articulated by the final rules already issued. The discussion of benefits, costs, or impacts discussed in part VII of each of the January rules included consideration of each of these provisions.</P>
+          <P>The final rule also modifies the text of the Regulation Z servicing rule to clarify the scope and application of the small servicer exemption. Specifically, it clarifies the application of the small servicer exemption with regard to servicer/affiliate and master servicer/subservicer relationships and excludes mortgage loans voluntarily serviced for an unaffiliated entity without remuneration, reverse mortgage transactions, mortgage loans secured by consumers' interest in timeshare plans, from being considered when determining whether a servicer qualifies as a small servicer. In total, these changes are expected to grant the small servicer exemption to a larger number of firms. These entities should benefit from lower costs while their customers may lose some of the protections embedded in the relevant rules. The nature and magnitude of these protections and their potential costs are described in part VII of both of the 2013 Mortgage Servicing Final Rules.</P>
+          <P>The provisions that clarify and amend the definition of qualified mortgage should also add clarity to the rules and thus lower costs of compliance. These include the clarification of the test that they be eligible for purchase or guarantee by the GSEs or insured or guaranteed by the agencies, the clarification that a repurchase or indemnification demand by the GSEs, FHA, VA, USDA, or RHS is not determinative of qualified mortgage status, and the revisions clarifying that a loan meeting eligibility requirements provided in a written agreement with one of the GSEs, HUD, VA, USDA, or RHS is also eligible as are loans receiving individual waivers from GSEs or agencies.</P>
+          <P>These provisions make explicit that matters wholly unrelated to ability to repay will not be relevant to determination of QM status and that a creditor is not required to satisfy certain mandates concerning loan delivery and other requirements that are wholly unrelated to assessing a consumer's ability to repay the loan. They also clarify that loans meeting GSE or agency eligibility requirements set forth in an applicable written contract variance or individual waiver at the time of consummation are eligible for GSE or agency purchase, guarantee, or insurance under &#xA7; 1026.43(e)(4). As such, these provisions should lower the burden for these loans to be qualified mortgages. The Bureau believes that these changes provide useful guidance to industry and generally conform the rules to the policies intended by the final rules issued in January. Accordingly, the discussion of benefits, costs, or impacts discussed in part VII of each of the January rules included consideration of the effects of each of these provisions.</P>
+          <P>The amendments to appendix Q in this final rule reduce the creditor's requirements to obtain affirmative confirmation that several types of income will continue in the future. Under these amendments, creditors may assume in the absence of contrary evidence, that certain past, current, and/or ongoing conditions can be reasonably expected to continue. Other provisions clarify the types of evidence that creditors may rely on to verify income, while another expands the types of rental income that may be used in the DTI calculation. The Bureau is also revising the introduction to appendix Q to clarify that creditors may look to guidance from certain federal agencies and the GSEs in applying appendix Q so long as that guidance is in accordance with the standards in appendix Q and to provide a default rule of excluding income and including debts and an optional safe harbor for reliance on GSE or Agency guidance when appendix Q's standards do not otherwise resolve how to treat a particular type of debt or income. As noted earlier, the Bureau believes that these provisions will establish clearer requirements for assessing the debt and income of consumers while at the same time facilitating creditor compliance. More specifically, these provisions should increase the probability that certain loans are originated as qualified mortgages and receive a presumption of compliance with the ability-to-repay standards. For such loans, the costs of origination may be slightly lower as a result of the slightly decreased liability for the lender and any assignees and for possibly decreased compliance costs. Consumers may benefit from slightly increased access to credit and lower costs on the affected loans; however, these consumers will also not have the added consumer protections that accompany loans made under the general ability-to-repay provisions. A more detailed discussion of these effects is contained in the discussion of benefits, costs, and impacts in part VII of the 2013 ATR Final Rule.</P>
+          <P>The final rule is generally not expected to have a differential impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 or on consumers in rural areas. The main exception is for those depository institutions and credit unions, which by virtue of their size, are more likely to qualify for the small servicer exemption and to benefit from the reduction in compliance burden.</P>
+          <P>Given the nature of the changes made by the final rule, the Bureau does not believe that the final rule will materially reduce consumers' access to consumer products and services. Rather, the reduced burden in many of the changes in this rule should generally help to improve access to credit.</P>
+          <HD SOURCE="HD1">VII. Regulatory Flexibility Act Analysis</HD>
+          <P>The Regulatory Flexibility Act (RFA) generally requires an agency to conduct an initial regulatory flexibility analysis (IRFA) and a final regulatory flexibility analysis (FRFA) of any rule subject to notice-and-comment rulemaking requirements.<SU>60</SU>
+            <FTREF/>These analyses must &#x201C;describe the impact of the proposed rule on small entities.&#x201D;<SU>61</SU>
+            <FTREF/>An IRFA or FRFA is not required if the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities,<SU>62</SU>
+
+            <FTREF/>or if the agency considers a series of closely related rules as one rule for<PRTPAGE P="44717"/>purposes of complying with the IRFA or FRFA requirements.<SU>63</SU>
+            <FTREF/>The Bureau also is subject to certain additional procedures under the RFA involving the convening of a panel to consult with small business representatives prior to proposing a rule for which an IRFA is required.<SU>64</SU>
+            <FTREF/>
+          </P>
+          <FTNT>
+            <P>
+              <SU>60</SU>5 U.S.C. 601<E T="03">et seq.</E>
+            </P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>61</SU>5 U.S.C. 603(a). For purposes of assessing the impacts of the proposed rule on small entities, &#x201C;small entities&#x201D; is defined in the RFA to include small businesses, small nonprofit organizations, and small government jurisdictions. 5 U.S.C. 601(6). A &#x201C;small business&#x201D; is determined by application of Small Business Administration regulations and reference to the North American Industry Classification System (NAICS) classifications and size standards. 5 U.S.C. 601(3). A &#x201C;small organization&#x201D; is any &#x201C;not-for-profit enterprise which is independently owned and operated and is not dominant in its field.&#x201D; 5 U.S.C. 601(4). A &#x201C;small governmental jurisdiction&#x201D; is the government of a city, county, town, township, village, school district, or special district with a population of less than 50,000. 5 U.S.C. 601(5).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>62</SU>5 U.S.C. 605(b).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>63</SU>5 U.S.C. 605(c).</P>
+          </FTNT>
+          <FTNT>
+            <P>
+              <SU>64</SU>5 U.S.C. 609.</P>
+          </FTNT>
+
+          <P>This rulemaking is part of a series of rules that have revised and expanded the regulatory requirements for entities that originate or service mortgage loans. In January 2013, the Bureau adopted the 2013 ATR Final Rule and the 2013 Mortgage Servicing Final Rules, along with other related rules mentioned above. Part VIII of the supplementary information to each of these rules set forth the Bureau's analyses and determinations under the RFA with respect to those rules.<E T="03">See</E>78 FR 10861 (Regulation X), 78 FR 10994 (Regulation Z&#x2014;servicing), 78 FR 6575 (Regulation Z&#x2014;ATR). Because this final rule generally makes clarifying changes to conform the January rules to their intended purposes, the RFA analyses associated with those rules generally take into account the impact of the changes made by this final rule.</P>
+          <P>Because these rules qualify as &#x201C;a series of closely related rules,&#x201D; for purposes of the RFA, the Bureau relies on those analyses and determines that it has met or exceeded the IRFA and FRFA requirements.</P>
+          <P>In the alternative, the Bureau also concludes that the final rule will not have a significant impact on a substantial number of small entities. As noted, this final rule generally clarifies the existing rules. These changes will not have a material impact on small entities. In the instance of the small servicer exemption, the rule likely reduces burden for the affected firms. In addition, the changes to appendix Q will likely reduce compliance costs by increasing clarity and providing more objective standards for evaluating certain kinds of income. The changes to appendix Q should also increase the probability that certain loans are originated as qualified mortgages and receive a presumption of compliance with the ability-to-repay standards. Therefore, the undersigned certifies that the rule will not have a significant impact on a substantial number of small entities.</P>
+          <HD SOURCE="HD1">VIII. Paperwork Reduction Act</HD>
+
+          <P>This final rule amends 12 CFR 1026 (Regulation Z), which implements the Truth in Lending Act (TILA), and 12 CFR 1024 (Regulation X), which implements the Real Estate Settlement Procedures Act (RESPA). Regulations Z and X currently contain collections of information approved by OMB. The Bureau's OMB control number for Regulation Z is 3170-0015 and for Regulation X is 3170-0016. However, the Bureau has determined that this final rule will not materially alter these collections of information or impose any new recordkeeping, reporting, or disclosure requirements on the public that would constitute collections of information requiring approval under the Paperwork Reduction Act, 44 U.S.C. 3501<E T="03">et seq.</E>
+          </P>
+          <LSTSUB>
+            <HD SOURCE="HED">List of Subjects</HD>
+            <CFR>12 CFR Part 1024</CFR>
+            <P>Condominiums, Consumer protection, Housing, Mortgage servicing, Mortgages, Recordkeeping requirements, Reporting.</P>
+            <CFR>12 CFR Part 1026</CFR>
+            <P>Advertising, Consumer protection, Credit, Credit unions, Mortgages, National banks, Reporting and recordkeeping requirements, Savings associations, Truth in lending.</P>
+          </LSTSUB>
+          <HD SOURCE="HD1">Authority and Issuance</HD>
+          <P>For the reasons set forth in the preamble, the Bureau amends Regulation X, 12 CFR part 1024, as amended by the final rule published on February 14, 2013, 78 FR 10695, and Regulation Z, 12 CFR part 1026, as amended by the final rules published on January 30, 2013, 78 FR 6407 and February 14, 2013, 78 FR 10901 as set forth below:</P>
+          <REGTEXT PART="1024" TITLE="12">
+            <PART>
+              <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
+            </PART>
+            <AMDPAR>1. The authority citation for part 1024 continues to read as follows:</AMDPAR>
+            <AUTH>
+              <HD SOURCE="HED">Authority:</HD>
+              <P>12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 5581.</P>
+            </AUTH>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart A&#x2014;General Provisions</HD>
+            </SUBPART>
+          </REGTEXT>
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>2. The subpart A heading is revised to read as set forth above.</AMDPAR>
+          </REGTEXT>
+          
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>3. Section 1024.5 is amended by adding paragraph (c) to read as follows:</AMDPAR>
+            <SECTION>
+              <SECTNO>&#xA7; 1024.5</SECTNO>
+              <SUBJECT>Coverage of RESPA.</SUBJECT>
+              <STARS/>
+              <P>(c)<E T="03">Relation to State laws.</E>(1) State laws that are inconsistent with RESPA or this part are preempted to the extent of the inconsistency. However, RESPA and these regulations do not annul, alter, affect, or exempt any person subject to their provisions from complying with the laws of any State with respect to settlement practices, except to the extent of the inconsistency.</P>
+              <P>(2) Upon request by any person, the Bureau is authorized to determine if inconsistencies with State law exist; in doing so, the Bureau shall consult with appropriate Federal agencies.</P>
+              <P>(i) The Bureau may not determine that a State law or regulation is inconsistent with any provision of RESPA or this part, if the Bureau determines that such law or regulation gives greater protection to the consumer.</P>
+              <P>(ii) In determining whether provisions of State law or regulations concerning affiliated business arrangements are inconsistent with RESPA or this part, the Bureau may not construe those provisions that impose more stringent limitations on affiliated business arrangements as inconsistent with RESPA so long as they give more protection to consumers and/or competition.</P>
+
+              <P>(3) Any person may request the Bureau to determine whether an inconsistency exists by submitting to the address established by the Bureau to request an official interpretation, a copy of the State law in question, any other law or judicial or administrative opinion that implements, interprets or applies the relevant provision, and an explanation of the possible inconsistency. A determination by the Bureau that an inconsistency with State law exists will be made by publication of a notice in the<E T="04">Federal Register</E>. &#x201C;Law&#x201D; as used in this section includes regulations and any enactment which has the force and effect of law and is issued by a State or any political subdivision of a State.</P>
+              <P>(4) A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in &#xA7; 1024.33(d).</P>
+            </SECTION>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart B&#x2014;Mortgage Settlement and Escrow Accounts</HD>
+              <SECTION>
+                <SECTNO>&#xA7; 1024.13</SECTNO>
+                <SUBJECT>[Removed and Reserved]</SUBJECT>
+              </SECTION>
+            </SUBPART>
+          </REGTEXT>
+          
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>4. Section 1024.13 is removed and reserved.</AMDPAR>
+          </REGTEXT>
+          
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>5. In Supplement I to Part 1024, Subpart A is added to read as follows:</AMDPAR>
+            <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
+            <STARS/>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart A&#x2014;General Provisions</HD>
+              <SECTION>
+                <SECTNO>&#xA7; 1024.5</SECTNO>
+                <SUBJECT>Coverage of RESPA</SUBJECT>
+                <HD SOURCE="HD3">5(c) Relation to State laws.</HD>
+                <HD SOURCE="HD3">Paragraph 5(c)(1).</HD>
+                <P>1. State laws that are inconsistent with the requirements of RESPA or<PRTPAGE P="44718"/>Regulation X may be preempted by RESPA or Regulation X. State laws that give greater protection to consumers are not inconsistent with and are not preempted by RESPA or Regulation X. In addition, nothing in RESPA or Regulation X should be construed to preempt the entire field of regulation of the practices covered by RESPA or Regulation X, including the regulations in Subpart C with respect to mortgage servicers or mortgage servicing.</P>
+                <STARS/>
+              </SECTION>
+            </SUBPART>
+          </REGTEXT>
+          <REGTEXT PART="1026" TITLE="12">
+            <PART>
+              <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>
+            </PART>
+            <AMDPAR>6. The authority citation for part 1026 is revised to read as follows:</AMDPAR>
+            <AUTH>
+              <HD SOURCE="HED">Authority:</HD>
+              <P>12 U.S.C. 2601, 2603-2605, 2607, 2609, 2617, 5511, 5512, 5532, 5581; 15 U.S.C. 1601<E T="03">et seq.</E>
+              </P>
+            </AUTH>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+            </SUBPART>
+          </REGTEXT>
+          <REGTEXT PART="1025" TITLE="12">
+            <AMDPAR>7. Section 1026.35 is amended by revising paragraph (e) introductory text, redesignating paragraph (e)(3) as paragraph (e)(4), and adding new paragraph (e)(3) to read as follows:</AMDPAR>
+            <SECTION>
+              <SECTNO>&#xA7; 1026.35</SECTNO>
+              <SUBJECT>Requirements for higher-priced mortgage loans.</SUBJECT>
+              <STARS/>
+              <P>(e)<E T="03">Repayment ability, prepayment penalties.</E>Except as provided in paragraph (e)(3) of this section, higher-priced mortgage loans are subject to the following restrictions:</P>
+              <STARS/>
+              <P>(3)<E T="03">Exclusions.</E>This paragraph (e) does not apply to a transaction to finance the initial construction of a dwelling; a temporary or &#x201C;bridge&#x201D; loan with a term of twelve months or less, such as a loan to purchase a new dwelling where the consumer plans to sell a current dwelling within twelve months; or a reverse mortgage transaction subject to &#xA7; 1026.33.</P>
+              <STARS/>
+            </SECTION>
+          </REGTEXT>
+          <SIG>
+            <DATED>Dated: July 10, 2013.</DATED>
+            <NAME>Richard Cordray,</NAME>
+            <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+          </SIG>
+        </SUPLINF>
+        <FRDOC>[FR Doc. 2013-16962 Filed 7-23-13; 8:45 am]</FRDOC>
+        <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+      </RULE>
