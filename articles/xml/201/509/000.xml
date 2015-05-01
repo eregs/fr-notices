@@ -1,0 +1,230 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Part 1026</CFR>
+        <DEPDOC>[Docket No. CFPB-2015-0006]</DEPDOC>
+        <RIN>RIN 3170-AA50</RIN>
+        <SUBJECT>Submission of Credit Card Agreements Under the Truth in Lending Act (Regulation Z)</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>The Bureau of Consumer Financial Protection (Bureau) is amending Regulation Z, which implements the Truth in Lending Act, and the official interpretation to that regulation, to temporarily suspend card issuers' obligations to submit credit card agreements to the Bureau for a period of one year (<E T="03">i.e.,</E>four quarterly submissions), in order to reduce burden while the Bureau works to develop a more streamlined and automated electronic submission system. Other requirements, including card issuers' obligations to post currently-offered agreements on their own Web sites, remain unaffected.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This final rule is effective on April 17, 2015.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Thomas L. Devlin, Counsel, or Kristine M. Andreassen, Senior Counsel, Office of Regulations, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Summary of the Rule</HD>
+        <P>The Truth in Lending Act (TILA), in section 122(d), requires creditors to post agreements for open-end consumer credit card plans on the creditors' Web sites and to submit those agreements to the Bureau. 15 U.S.C. 1632(d). These provisions are implemented in &#xA7; 1026.58 of Regulation Z.<SU>1</SU>
+          <FTREF/>12 CFR 1026.58. The Bureau is finalizing amendments that it proposed in February 2015<SU>2</SU>
+
+          <FTREF/>to suspend temporarily the requirement in &#xA7; 1026.58(c) that card issuers submit credit card agreements to the Bureau for a period of one year (<E T="03">i.e.,</E>four quarterly submissions), in order to reduce burden while the Bureau works to develop a more streamlined and automated electronic submission system. Specifically, the Bureau is suspending the submissions that would otherwise have been due to the Bureau by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016. Beginning with the submission due on the first business day on or after April 30, 2016, card issuers shall resume submitting credit card agreements on a quarterly basis to the Bureau. The Bureau expects to consult with interested stakeholders before that date regarding resumption of the submission requirements and technical specifications for the new system. Other requirements under &#xA7; 1026.58, including card issuers' obligations to post currently-offered agreements on their own Web sites under &#xA7; 1026.58(d), remain unaffected.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>Section 1026.58 uses the terms card issuer (or issuer) and credit card agreement (or agreement) in lieu of the terms creditor and open-end consumer credit card plan, respectively, that are used in section 122(d) of TILA.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>80 FR 10417 (Feb. 26, 2015).</P>
+        </FTNT>
+        <HD SOURCE="HD1">II. Background</HD>
+        <HD SOURCE="HD2">A. The Statute and Regulation</HD>
+        <P>In 2009, Congress enhanced protections for credit cards in the Credit Card Accountability Responsibility and Disclosure Act (CARD Act), which it enacted to &#x201C;establish fair and transparent practices related to the extension of credit&#x201D; in the credit card market.<SU>3</SU>
+
+          <FTREF/>The Board of Governors of the Federal Reserve System (Board) generally implemented the CARD Act's provisions in subpart G of Regulation Z. Section 204 of the CARD Act added new TILA section 122(d) to require creditors to post agreements for open-end consumer credit card plans on the<PRTPAGE P="21154"/>creditors' Web sites and to submit those agreements to the Board for posting on a publicly available Web site established and maintained by the Board. 15 U.S.C. 1632(d).</P>
+        <FTNT>
+          <P>
+            <SU>3</SU>Public Law 111-24, 123 Stat. 1734 (2009).</P>
+        </FTNT>
+        <P>Specifically, TILA section 122(d)(1) requires each creditor to post its credit card agreements on its own Web site, and section 122(d)(2) requires the creditor to provide its agreements to the Bureau (formerly the Board). TILA section 122(d)(3) requires the Bureau (formerly the Board) to establish and maintain on its publicly available Web site a central repository of the agreements it receives under section 122(d)(2). The Board implemented these provisions in 12 CFR 226.58. With the adoption of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act), authority to implement TILA transferred to the Bureau<SU>4</SU>
+          <FTREF/>and the Bureau renumbered this provision in Regulation Z as &#xA7; 1026.58.<SU>5</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>4</SU>Public Law 111-203, section 1100A, 124 Stat. 2081 (2010) (codified at 15 U.S.C. 1602<E T="03">et seq.</E>).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>5</SU>76 FR 79768 (Dec. 22, 2011).</P>
+        </FTNT>
+
+        <P>While TILA section 122(d) requires that creditors provide agreements to the Bureau, it does not specify the frequency or timing for these submissions. The implementing regulations in Regulation Z provide that submission of currently-offered agreements must be made quarterly.<E T="03">See</E>&#xA7; 1026.58(c)(1). These quarterly submissions must be sent to the Bureau no later than the first business day on or after January 31, April 30, July 31, and October 31 of each year. The regulation also provides that, except in certain circumstances, card issuers must post and maintain on their publicly available Web sites the credit card agreements that the issuers are required to submit to the Bureau.<E T="03">See</E>&#xA7; 1026.58(d).</P>
+        <P>Under the current process, which has been used by the Bureau since its inception, card issuers submit agreements and agreement information to the Bureau manually via email. The Bureau believes this process may be unnecessarily cumbersome for issuers and may make issuers' own internal tracking of previously submitted agreements difficult. In addition, the current process for Bureau staff to manually review, catalog, and upload new or revised agreements to the Bureau's Web site, and to remove outdated agreements, can extend for several months after the quarterly submission deadline.<SU>6</SU>
+          <FTREF/>The Bureau is working to develop a more streamlined and automated electronic submission system which would allow issuers to upload agreements directly to the Bureau's database. The Bureau intends for its new submission system to be less burdensome and easier for issuers to use. It also intends for the new system to enable faster posting of new and revised agreements on the Bureau's Web site.</P>
+        <FTNT>
+          <P>
+
+            <SU>6</SU>The Bureau's database of credit card agreements is available at<E T="03">http://www.consumerfinance.gov/credit-cards/agreements/.</E>
+          </P>
+        </FTNT>
+
+        <P>In order to reduce the burden on card issuers of continuing to use manual submission methods while the Bureau works to design, test, and implement a more streamlined and automated electronic submission system, the Bureau is temporarily suspending issuers' obligations to submit credit card agreements to the Bureau for a period of one year (<E T="03">i.e.,</E>four quarterly submissions), as described in more detail in the section-by-section analysis below. Issuers' obligations to post currently-offered agreements on their own Web sites are unaffected.</P>
+        <P>The Bureau recognizes that its temporary suspension of the requirement that card issuers submit credit card agreements to the Bureau will temporarily reduce the access consumers, other external parties, and the Bureau itself have to a single repository of the agreements that would have been submitted during this one-year period. However, the Bureau expects that this temporary reduction will not impose significant costs on consumers, other external parties, or the Bureau itself for at least two key reasons. First, the Bureau is not modifying the requirement that card issuers post currently-offered agreements on their own Web sites in a manner that is prominent and readily accessible by the public (&#xA7; 1026.58(d)) or that card issuers make all open agreements available on their Web sites or to cardholders upon request (&#xA7; 1026.58(e)).</P>
+        <P>Second, the Bureau intends to manually compile credit card agreements from certain large card issuers' Web sites as of approximately September 2015. Given the longstanding concentration in the credit card market, the Bureau believes that uploading agreements obtained from a relatively small number of issuers' Web sites to the Bureau's own Web site is sufficient to provide the agreement terms available to the overwhelming majority of credit card consumers in the U.S. as of the mid-point of the proposed suspension period.<SU>7</SU>
+          <FTREF/>This will allow consumers to continue to use the Bureau's Web site to effectively compare agreements offered by various issuers.</P>
+        <FTNT>
+          <P>
+            <SU>7</SU>
+            <E T="03">See, e.g.,</E>CFPB,<E T="03">CARD Act Report,</E>at 13-14 (Oct. 1, 2013),<E T="03">available at http://files.consumerfinance.gov/f/201309_cfpb_card-act-report.pdf.</E>
+          </P>
+        </FTNT>
+        <P>Overall, the Bureau expects that the marginal costs to consumers and other external parties from interrupted access during the suspension period are outweighed by the anticipated benefits of increased usability of the agreements and expedited availability of agreements on the Bureau's Web site after the Bureau implements a more streamlined and automated submission system. The Bureau intends to explore potential functionality for the new system that would improve external parties' ability to use the information efficiently and effectively, such as through improved reporting capabilities. In addition, by streamlining the submission process, the Bureau intends for the new system to also reduce burden on card issuers.</P>
+        <HD SOURCE="HD2">B. Comments on the Proposed Rule</HD>
+
+        <P>On February 26, 2015, the Bureau proposed to amend &#xA7; 1026.58, the Regulation Z provision on internet availability of credit card agreements, to temporarily suspend the requirement in &#xA7; 1026.58(c) that card issuers submit credit card agreements to the Bureau for a period of one year (<E T="03">i.e.,</E>four quarterly submissions), in order to reduce burden while the Bureau works to develop a more streamlined and automated electronic submission system. The comment period closed on March 13, 2015. In response to the proposal, the Bureau received seven comments from financial institutions, credit union trade associations, and others. The Bureau discusses relevant comments in the section-by-section analysis below. Several commenters also urged the Bureau to take other actions beyond the scope of the proposal.</P>
+        <HD SOURCE="HD1">III. Legal Authority</HD>
+
+        <P>The Bureau is issuing this final rule pursuant to its authority under TILA sections 105(a) and 122(d)(5). TILA section 105(a) authorizes the Bureau to prescribe regulations to carry out the purposes of TILA. These regulations may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of transactions, that in the Bureau's judgment are necessary or proper to effectuate the purposes of TILA, facilitate compliance with TILA, or prevent circumvention or evasion of TILA. TILA section 122(d)(5) authorizes the Bureau to promulgate regulations to implement section 122(d), including, among other things, establishing exceptions to TILA sections 122(d)(1) and (2) in any case where the<PRTPAGE P="21155"/>administrative burden outweighs the benefits of increased transparency.</P>
+        <P>The Bureau is exercising its rulemaking authority pursuant to TILA sections 105(a) and 122(d)(5) to, in effect, change the period for creditors' submission of agreements to the Bureau from quarterly to annually, for a period of one year. The Bureau is also exercising its exception authority under TILA sections 105(a) and 122(d)(5) to temporarily suspend the agreement submission requirements in &#xA7; 1026.58(c), as it concludes that the burden to issuers of continuing to submit agreements under the current cumbersome, manual process while the Bureau works to develop a more streamlined and automated electronic submission system outweighs the benefits of transparency to consumers and other external parties of access to those agreements via the Bureau's Web site during the suspension period. Further, the Bureau believes that a temporary suspension will effectuate the purposes of TILA and facilitate compliance therewith.</P>
+        <HD SOURCE="HD1">IV. Section-by-Section Analysis</HD>
+        <HD SOURCE="HD2">Regulation Z</HD>
+        <HD SOURCE="HD2">Subpart G&#x2014;Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students</HD>
+        <HD SOURCE="HD3">Section 1026.58 Internet Posting of Credit Card Agreements 58(g) Temporary Suspension of Agreement Submission Requirement Proposed Rule</HD>
+        <P>As discussed above, &#xA7; 1026.58 describes how card issuers must comply with the provisions of TILA, as amended by the CARD Act, that require creditors to post agreements for open-end consumer credit card plans on the creditors' Web sites and to submit those agreements to the Bureau. Specifically, &#xA7; 1026.58(c) governs submission of agreements to the Bureau, &#xA7; 1026.58(d) governs the requirement that issuers post currently-offered agreements on the issuers' own Web sites, and &#xA7; 1026.58(e) governs the requirement that issuers make cardholder agreements for currently open accounts available to cardholders.</P>
+        <P>In the proposed rule, the Bureau proposed to add &#xA7; 1026.58(g) to &#xA7; 1026.58. The Bureau proposed, in &#xA7; 1026.58(g)(1), to temporarily suspend the quarterly credit card agreement submission requirement in &#xA7; 1026.58(c) for submissions that would otherwise be due to the Bureau by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016. The Bureau proposed to add comments 58(g)-1 and -2 to further clarify the terms of the suspension, and to explain in more detail what issuers must include in their submissions due on the first business day on or after April 30, 2016.</P>
+        <P>Section 1026.58(d) requires a card issuer to post and maintain on its publicly available Web site the credit card agreements that the issuer is required to submit to the Bureau under &#xA7; 1026.58(c). The Bureau proposed &#xA7; 1026.58(g)(2) to provide that the suspended submission requirement in proposed &#xA7; 1026.58(g)(1) would not affect card issuers' obligations to post agreements on their own Web sites as required by &#xA7; 1026.58(d) during the temporary suspension period. The Bureau proposed comment 58(g)-3 to further explain this provision and provide several examples.</P>
+        <HD SOURCE="HD2">Comments</HD>
+        <P>The Bureau solicited comment on its proposal to temporarily suspend the obligation card issuers would otherwise have had under &#xA7; 1026.58(c) to submit credit card agreements to the Bureau for the four quarterly submissions that would otherwise be due to the Bureau by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016. Commenters generally supported the proposed rule, and no commenter opposed the proposed temporary suspension. All of the trade association commenters stated that they found the current manual submission system for credit card agreements to be cumbersome. Those same commenters, along with others, agreed that issuers' continuing obligation to post currently-offered credit card agreements on their Web sites would ensure that most interested consumers could access available credit card agreements.</P>
+        <P>Trade association commenters urged that the Bureau should consult with financial institutions before finalizing new technical specifications for the submission of credit card agreements, including one commenter who supported releasing those specifications through the notice-and-comment process. The Bureau did not solicit comment regarding the technical specifications that will be associated with a new submission system; nonetheless, the Bureau expects to consult with financial institutions, trade associations, or both to test and refine the system before using it with industry generally. The Bureau does not anticipate soliciting comment regarding the technical specifications that will be associated with a new submission system.</P>
+        <P>A commenter from an academic public policy center suggested that, rather than temporarily suspending the submission requirement for a period of one year, the Bureau should remove the submission requirement entirely.<SU>8</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>8</SU>As noted above, the submission requirement was mandated by Congress's amendments to TILA in the CARD Act.</P>
+        </FTNT>
+        <P>One commenter addressed an option that the Bureau considered but ultimately did not propose, under which credit card issuers would be required, at the end of the one-year suspension period, to submit all agreements that they would have been required to submit during the suspension period. That commenter argued that the burden imposed by such a requirement would not be justified by the limited benefit resulting from a more complete database of agreements.</P>
+        <HD SOURCE="HD2">Final Rule</HD>
+        <P>The Bureau is adopting &#xA7; 1026.58(g), and the proposed commentary to that section, as proposed. As noted above, none of the comments received opposed the one-year temporary suspension, and most supported the Bureau's efforts to develop a more streamlined and efficient electronic submission system for credit card agreements. None of the comments discussed the specific language of the proposed regulatory text or commentary. After reviewing the comments received in response to the proposal, the Bureau believes that a one-year suspension represents the best balance between fulfilling the Congressional mandate in TILA section 122(d) and easing the compliance burden on credit card issuers arising from the manual submission system inherited by the Bureau while the Bureau works to develop a more streamlined and automated electronic submission system.</P>
+        <HD SOURCE="HD1">V. Effective Date</HD>
+
+        <P>The Bureau proposed to make its temporary suspension of &#xA7; 1026.58(c) effective immediately after publication of this final rule in the<E T="04">Federal Register</E>. The Bureau sought comment on the proposed effective date, including on whether a later effective date would be more appropriate. None of the comments received by the Bureau explicitly addressed the proposed effective date.</P>
+        <P>An agency must allow 30 days before a substantive rule is made effective, unless, among other things, the rule &#x201C;grants or recognizes an exemption or relieves a restriction&#x201D;<SU>9</SU>
+
+          <FTREF/>or &#x201C;as otherwise provided by the agency for good cause<PRTPAGE P="21156"/>found and published with the rule.&#x201D;<SU>10</SU>
+
+          <FTREF/>The Bureau believes that this rule recognizes an exemption from or relieves a restriction on issuers' obligations to submit credit card agreements to the Bureau, and does not create any new requirement. Accordingly, the 30-day delay in effective date does not apply and the Bureau finds good cause to make this rule effective immediately upon publication in the<E T="04">Federal Register</E>, in order to reduce burden while the Bureau works to develop a more streamlined and automated electronic submission system for credit card agreements.</P>
+        <FTNT>
+          <P>
+            <SU>9</SU>5 U.S.C. 553(d)(1).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>10</SU>5 U.S.C. 553(d)(3).</P>
+        </FTNT>
+        <HD SOURCE="HD1">VI. Section 1022(b)(2) of the Dodd-Frank Act</HD>
+        <HD SOURCE="HD2">A. Overview</HD>
+        <P>In developing this rule, the Bureau has considered potential benefits, costs, and impacts.<SU>11</SU>
+          <FTREF/>The Bureau has consulted, or offered to consult with, the prudential regulators, the Department of the Treasury, and the Federal Trade Commission, including regarding consistency with any prudential, market, or systemic objectives administered by such agencies.</P>
+        <FTNT>
+          <P>
+            <SU>11</SU>Specifically, section 1022(b)(2)(A) of the Dodd-Frank Act calls for the Bureau to consider the potential benefits and costs of a regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas.</P>
+        </FTNT>
+        <P>Pursuant to TILA section 122(d)(3), the Bureau maintains on its public Web site a repository of the consumer credit card agreements that card issuers submit pursuant to TILA section 122(d)(2), as implemented in &#xA7; 1026.58(c). The electronic folders in the repository are organized by quarter, back to the third quarter of 2011, reflecting the transfer of authority to implement TILA from the Board to the Bureau pursuant to the Dodd-Frank Act. For each quarter, the repository contains a copy of each agreement, in PDF format, that was available to consumers as of the end of that quarter. The repository also contains, for each quarter, a spreadsheet that provides certain identifying information about each agreement and the issuer thereof.</P>
+        <P>The Bureau proposed to amend &#xA7; 1026.58(g) to temporarily suspend the requirement in &#xA7; 1026.58(c) for card issuers to submit credit card agreements to the Bureau. The Bureau is finalizing the amendments to &#xA7; 1026.58(g) as proposed. Card issuers will not be required to make quarterly submissions to the Bureau for the submissions that would otherwise be due by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016. Consequently, the Bureau will not provide these agreements on its Web site. As discussed previously, however, the Bureau intends to manually compile credit card agreements from certain large card issuer Web sites as of approximately September 2015 and post those agreements on its Web site. Card issuers will resume submitting agreements on a quarterly basis to the Bureau beginning with the submission due by the first business day on or after April 30, 2016. The Bureau is not modifying the requirement that card issuers post currently-offered agreements on their own Web sites in a manner that is prominent and readily accessible by the public (&#xA7; 1026.58(d)) or that card issuers make all open agreements available on their Web sites or to cardholders upon request (&#xA7; 1026.58(e)).</P>
+        <HD SOURCE="HD2">B. Potential Benefits and Costs to Consumers and Covered Persons</HD>
+        <P>The Bureau is not aware of any significant costs to consumers that might arise from the temporary suspension of the quarterly submission requirement and the absence of these agreements on the Bureau's Web site. While the Bureau's Web site can assist consumers in comparing credit card agreements when shopping for a new card, the Bureau believes that most consumers are not likely to use the repository to identify desirable credit cards, in part because they would not know if they qualified for the cards they identified. The Bureau believes that consumers are more likely to identify a number of cards for which they qualify before comparing the terms and conditions for those cards. These terms and conditions will remain readily available to consumers on the issuers' Web sites. Similarly, a consumer who wanted to replace a lost agreement would likely find it easier to contact the issuer than to search the repository because the agreement might no longer be available to new cardholders, in which case the consumer would need to search across multiple quarters to find the agreement, and even then might lack confidence that she had found the version of the agreement that applied to her.</P>
+        <P>On the other hand, the Bureau recognizes that consumers who would qualify for almost any card on the market and who want to learn about the features of a large number of products might find the repository useful. The final rule might increase the cost to these consumers of searching for desirable credit cards. The Bureau believes that this cost would be small, however, given that the Bureau is suspending the submission requirement for just four quarters. In addition, as discussed in more detail below, the Bureau will manually collect agreements from certain large issuers' Web sites at the midpoint of the suspension period, which will mitigate this cost to consumers. The Bureau requested comment on this point but did not receive any responses. Similarly, the Bureau recognizes the possibility that entities may use the information in the repository to develop more competitive products or extract information that they could sell or otherwise provide to consumers or third parties. However, the Bureau believes that this is unlikely given that the agreements, while generally in searchable PDF format, do not contain uniform data or text fields that would provide the same type of information in fixed locations across files. The Bureau requested comment on this point as well but did not receive any responses. A commenter from an academic public policy center noted that the information that these entities need would remain on the issuers' Web sites.</P>
+        <P>The Bureau believes that the final rule will provide issuers with a minor but tangible benefit. For the third quarter of 2014, 446 issuers had 1,833 agreements in the Bureau's database. While 169 issuers had just one agreement, the median number of agreements per issuer was two and the average was four. Four issuers had over 50 agreements. In the third quarter alone, 103 issuers submitted 429 agreements; the median and mean were again two and four, respectively. Three issuers submitted over 25 agreements. All issuers will be able to suspend their submissions for four quarters, which will remove some compliance burden. The Bureau believes that the burden is small on average, although it may be higher for the entities that provide a large number of agreements.<SU>12</SU>
+          <FTREF/>The Bureau requested<PRTPAGE P="21157"/>comment on this point but did not receive any responses.</P>
+        <FTNT>
+          <P>
+            <SU>12</SU>The Bureau notes that card issuers who submit a smaller number of agreements to the Bureau, but that only submit new and amended agreements and notice of withdrawn agreements, may have higher compliance costs than issuers who resubmit each quarter all agreements that are currently available to consumers. Thus, using the number of agreements submitted each quarter does not strictly track compliance cost. However, the Bureau expects that the number of agreements submitted and compliance cost are correlated even for those who submit all available agreements each quarter because they still have to ensure they are not<PRTPAGE/>sending agreements that are no longer offered to new customers or are entirely defunct.</P>
+        </FTNT>
+        <P>As noted above, the Bureau recognizes the possibility that entities could use the information in the repository to develop more competitive products or extract information that they could sell or otherwise provide to consumers or third parties. However, as mentioned above, the Bureau believes that this is unlikely given the difficulties in using files in PDF format for this purpose. To the extent that entities are inclined to use the files in the repository to extract information, the Bureau believes that manual collection of the credit card agreements from certain large card issuer Web sites as of approximately September 2015 and posting those agreements on the Bureau Web site will mitigate the impact of the proposed rule on these entities.</P>
+        <P>A commenter from an academic public policy center argued that the submission and record repository requirements in TILA sections 122(d)(2)-(3), implemented in &#xA7; 1026.58(c), impose costs without evidence of benefits (and most likely with few benefits). This commenter recommended that the Bureau suspend the submission requirement permanently instead of temporarily. The commenter did not, however, dispute the Bureau's consideration of the benefits and costs of &#xA7; 1026.58(g) relative to the baseline defined by the current statute and implementing regulation. More generally, the Bureau seeks through this rulemaking and the associated development of a more streamlined and automated electronic submission system to increase the benefits and reduce the costs of the submission and repository requirements, and is not considering other changes at this time.</P>
+        <P>As an alternative, the Bureau considered coupling the temporary suspension with a requirement to provide the Bureau, after the suspension expired, with the agreements that they would have been required to submit if not for the suspension. Compared to the final rule, this alternative would have imposed smaller costs on consumers and provided smaller benefits to issuers. Since the costs to consumers under the final rule are small to begin with, the Bureau believes that the final rule is superior to the alternative. A commenter from an academic public policy center opposed this alternative, arguing that the additional compliance costs associated with requiring issuers to collect and submit the additional agreement was not justified by the marginal benefit to consumers.</P>
+        <HD SOURCE="HD2">C. Impact on Covered Persons With No More Than $10 Billion in Assets</HD>
+        <P>The majority of banks and credit unions that provide agreements under &#xA7; 1026.58(c) have no more than $10 billion in assets. Thus, the majority of banks and credit unions that will benefit from the final rule have no more than $10 billion in assets. On the other hand, larger banks and credit unions generally provide the Bureau with more agreements each quarter. Thus, the final rule will generally provide larger banks and credit unions with a greater reduction in burden compared to that obtained by banks and credit unions with no more than $10 billion in assets.</P>
+        <P>One trade association commenter noted the discussion of these effects in the proposal and urged the Bureau to consider the implementation and ongoing costs associated with the new process. As explained in the Background section of the proposed rule, the Bureau intends for its new submission system to be less burdensome and easier for issuers to use. Thus, the Bureau intends the new system to reduce ongoing costs to covered persons relative to the baseline. The Bureau expects that any one-time transition cost will be small and quickly recovered through lower ongoing costs.</P>
+        <HD SOURCE="HD2">D. Impact on Access to Credit</HD>
+        <P>The Bureau does not believe that there will be an adverse impact on access to credit, or any other consumer financial products or services, resulting from the final rule. The final rule imposes no direct requirements on consumer financial products or services or providers of consumer financial products or services or on the eligibility of consumers for consumer financial products or services. As discussed above, the final rule imposes at most a minor additional cost on certain consumers searching for a credit card.</P>
+        <P>As noted above, the Bureau recognizes the possibility that entities could use the information in the repository to develop more competitive products or extract information that they could sell or otherwise provide to consumers or third parties. However, the Bureau believes that this is unlikely given the difficulties in using files in PDF format for this purpose and the fact that the suspension would last for just four quarters. Thus, the final rule should not inhibit activities that would improve access to credit such as the development of more competitive credit products or products that would reduce search costs.</P>
+        <HD SOURCE="HD2">E. Impact on Consumers in Rural Areas</HD>
+        <P>The Bureau does not believe that the final rule will have a unique impact on consumers in rural areas.</P>
+        <HD SOURCE="HD1">VII. Regulatory Flexibility Analysis</HD>
+        <P>The Regulatory Flexibility Act (RFA), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996, requires each agency to consider the potential impact of its regulations on small entities, including small businesses, small governmental units, and small nonprofit organizations. The RFA defines a &#x201C;small business&#x201D; as a business that meets the size standard developed by the Small Business Administration pursuant to the Small Business Act.</P>
+        <P>The RFA generally requires an agency to conduct an initial regulatory flexibility analysis (IRFA) and a final regulatory flexibility analysis (FRFA) of any rule subject to notice-and-comment rulemaking requirements, unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. The Bureau also is subject to certain additional procedures under the RFA involving the convening of a panel to consult with small business representatives prior to proposing a rule for which an IRFA is required.</P>
+        <P>Neither an IRFA nor a FRFA is required for this rule because it will not have a significant economic impact on a substantial number of small entities. The Bureau does not expect the rule to impose costs on small entities. As discussed above, the Bureau believes that the rule will cause a small reduction in costs on all issuers, including small entity issuers, who would otherwise be required to submit agreements to the Bureau.</P>
+        <P>Accordingly, the undersigned certifies that the final rule will not have a significant economic impact on a substantial number of small entities.</P>
+        <HD SOURCE="HD1">VIII. Paperwork Reduction Act Analysis</HD>
+
+        <P>Under the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3501<E T="03">et seq.</E>), Federal agencies are generally required to seek the Office of Management and Budget (OMB) approval for information collection requirements prior to implementation. This final rule will amend Regulation Z, 12 CFR part 1026. The collections of information affected by this final rule have been previously reviewed and approved by OMB in accordance with the PRA and assigned OMB Control Number 3170-0052. Under the PRA, the Bureau may not conduct or sponsor and,<PRTPAGE P="21158"/>notwithstanding any other provision of law, a person is not required to respond to an information collection unless the information collection displays a valid control number assigned by OMB. The Bureau has determined that this final rule will not impose any new recordkeeping, reporting, or disclosure requirements on covered entities or members of the public that would constitute collections of information requiring approval under the PRA.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects in 12 CFR Part 1026</HD>
+          <P>Advertising, Consumer protection, Credit, Credit unions, Mortgages, National banks, Reporting and recordkeeping requirements, Savings associations, Truth in lending.</P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau amends 12 CFR part 1026, as follows:</P>
+        <REGTEXT PART="1026" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1026 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+
+            <P>12 U.S.C. 2601, 2603-2605, 2607, 2609, 2617, 5511, 5512, 5532, 5581; 15 U.S.C. 1601<E T="03">et seq.</E>
+            </P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart G&#x2014;Special Rules Applicable to Credit Card Accounts and Open-End Credit Offered to College Students</HD>
+          </SUBPART>
+          <AMDPAR>2. Section 1026.58 is amended by adding paragraph (g) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.58</SECTNO>
+            <SUBJECT>Internet posting of credit card agreements.</SUBJECT>
+            <STARS/>
+            <P>(g)<E T="03">Temporary suspension of agreement submission requirement</E>&#x2014;(1)<E T="03">Quarterly submissions.</E>The quarterly submission requirement in paragraph (c) of this section is suspended for the submissions that would otherwise be due to the Bureau by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016.</P>
+            <P>(2)<E T="03">Posting of agreements offered to the public.</E>Nothing in paragraph (g)(1) of this section shall affect the agreement posting requirements in paragraph (d) of this section.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>3. In Supplement I to Part 1026, under Section 1026.58&#x2014;Internet Posting of Credit Card Agreements, paragraph 58(g) is added to read as follows:</AMDPAR>
+          <HD SOURCE="HD1">Supplement I to Part 1026&#x2014;Official Interpretations</HD>
+          <STARS/>
+          <EXTRACT>
+            <HD SOURCE="HD2">Section 1026.58&#x2014;Internet Posting of Credit Card Agreements</HD>
+            <STARS/>
+            <HD SOURCE="HD3">58(g) Temporary Suspension of Agreement Submission Requirement</HD>
+            <P>1.<E T="03">Suspended quarterly submission requirement.</E>Pursuant to &#xA7; 1026.58(g)(1), card issuers are not required to make quarterly submissions to the Bureau, as otherwise required by &#xA7; 1026.58(c), for the submissions that would otherwise be due by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016. Specifically, a card issuer is not required to submit information about the issuer and its agreements pursuant to &#xA7; 1026.58(c)(1)(i), new credit card agreements pursuant to &#xA7; 1026.58(c)(1)(ii), amended agreements pursuant to &#xA7; 1026.58(c)(1)(iii) and (c)(3), or notification of withdrawn agreements pursuant to &#xA7; 1026.58(c)(1)(iv) and (c)(4) through (7) for those four quarters.</P>
+            <P>2.<E T="03">Resuming submission of credit card agreements to the Bureau.</E>Beginning with the submission due on the first business day on or after April 30, 2016, card issuers shall resume submitting credit card agreements on a quarterly basis to the Bureau pursuant to &#xA7; 1026.58(c). A card issuer shall submit agreements for the prior calendar quarter (that is, the calendar quarter ending March 31, 2016), as specified in &#xA7; 1026.58(c)(1)(ii) through (iv) and (c)(3) through (7), to the Bureau no later than the first business day on or after April 30, 2016.</P>
+            <P>i. Specifically, the submission due on the first business day on or after April 30, 2016 shall contain, as applicable:</P>
+            <P>A. Identifying information about the card issuer and the agreements submitted, including the issuer's name, address, and identifying number (such as an RSSD ID number or tax identification number), pursuant to &#xA7; 1026.58(c)(1)(i);</P>
+            <P>B. The credit card agreements that the card issuer offered to the public as of the last business day of the calendar quarter ending March 31, 2016 that the card issuer had not previously submitted to the Bureau as of the first business day on or after January 31, 2015, pursuant to &#xA7; 1026.58(c)(1)(ii);</P>
+            <P>C. Any credit card agreement previously submitted to the Bureau that was amended since the last business day of the calendar quarter ending December 31, 2014 and that the card issuer offered to the public as of the last business day of the calendar quarter ending March 31, 2016, pursuant to &#xA7; 1026.58(c)(1)(iii) and (c)(3); and</P>
+            <P>D. Notification regarding any credit card agreement previously submitted to the Bureau that the issuer is withdrawing, pursuant to &#xA7; 1026.58(c)(1)(iv) and (c)(4) through (7).</P>
+
+            <P>ii. In lieu of the submission described in comment 58(g)-2.i.B through D, &#xA7; 1026.58(c)(1) permits a card issuer to submit to the Bureau a complete, updated set of the credit card agreements the card issuer offered to the public as of the calendar quarter ending March 31, 2016.<E T="03">See</E>comment 58(c)(1)-3.</P>
+            <P>3.<E T="03">Continuing obligation to post agreements on a card issuer's own Web site.</E>Section 1026.58(d) requires a card issuer to post and maintain on its publicly available Web site the credit card agreements that the issuer is required to submit to the Bureau under &#xA7; 1026.58(c). Pursuant to &#xA7; 1026.58(g)(2), during the temporary suspension period set forth in &#xA7; 1026.58(g)(1), a card issuer shall continue to post its agreements to its own publicly available Web site as required by &#xA7; 1026.58(d) using the agreements it would have otherwise submitted to the Bureau under &#xA7; 1026.58(c). For example, for purposes of &#xA7; 1026.58(d)(4), a card issuer must continue to update the agreements posted on its own Web site at least as frequently as the quarterly schedule required for submission of agreements to the Bureau set forth in &#xA7; 1026.58(c)(1), notwithstanding the temporary suspension of submission requirements in &#xA7; 1026.58(g)(1). Similarly, for purposes of &#xA7; 1026.58(d)(2), agreements posted by a card issuer on its own Web site must continue to conform to the form and content requirements set forth in &#xA7; 1026.58(c)(8).</P>
+            <STARS/>
+          </EXTRACT>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: April 13, 2015.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2015-09000 Filed 4-15-15; 4:15 pm]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
