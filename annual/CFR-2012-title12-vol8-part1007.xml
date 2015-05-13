@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>S.A.F.E. MORTGAGE LICENSING ACT-FEDERAL REGISTRATION OF RESIDENTIAL MORTGAGE LOAN ORIGINATORS (REGULATION G)</TITLE>
+    <GRANULENUM>1007</GRANULENUM>
+    <HEADING>PART 1007</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1007</EAR>
+    <HD SOURCE="HED">PART 1007—S.A.F.E. MORTGAGE LICENSING ACT—FEDERAL REGISTRATION OF RESIDENTIAL MORTGAGE LOAN ORIGINATORS (REGULATION G)</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>1007.101</SECTNO>
+      <SUBJECT>Authority, purpose, and scope of this part.</SUBJECT>
+      <SECTNO>1007.102</SECTNO>
+      <SUBJECT>Definitions applicable to this part.</SUBJECT>
+      <SECTNO>1007.103</SECTNO>
+      <SUBJECT>Registration of mortgage loan originators.</SUBJECT>
+      <SECTNO>1007.104</SECTNO>
+      <SUBJECT>Policies and procedures.</SUBJECT>
+      <SECTNO>1007.105</SECTNO>
+      <SUBJECT>Use of unique identifier.</SUBJECT>
+      <APP>Appendix A to Part 1007—Examples of Mortgage Loan Originator Activities</APP>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5101-5116; 15 U.S.C. 1604(a), 1639b; Pub. L. 111-203, 124 Stat. 1376.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 78487, Dec. 19, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 1007.101</SECTNO>
+      <SUBJECT>Authority, purpose, and scope.</SUBJECT>
+      <P>(a) <E T="03">Authority.</E> This part, known as Regulation G, is issued by the Bureau of Consumer Financial Protection pursuant to the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 <E T="03">et seq.</E>), 12 U.S.C. 5512, 5581, 15 U.S.C. 1604(a), 1639b.</P>
+      <P>(b) <E T="03">Purpose.</E> This part implements the S.A.F.E. Act's Federal registration requirement for mortgage loan originators. The S.A.F.E. Act provides that the objectives of this registration include aggregating and improving the flow of information to and between regulators; providing increased accountability and tracking of mortgage loan originators; enhancing consumer protections; supporting anti-fraud measures; and providing consumers with easily accessible information at no charge regarding the employment history of, and publicly adjudicated disciplinary and enforcement actions against, mortgage loan originators.</P>
+      <P>(c) <E T="03">Scope</E>—(1) <E T="03">In general.</E> This part applies to:</P>
+      <P>(i) National banks, Federal branches and agencies of foreign banks, their operating subsidiaries (collectively referred to in this part as national banks), and their employees who act as mortgage loan originators;</P>
+      <P>(ii) Member banks of the Federal Reserve System; their respective subsidiaries that are not functionally regulated within the meaning of section 5(c)(5) of the Bank Holding Company Act, as amended (12 U.S.C. 1844(c)(5)); branches and agencies of foreign banks; commercial lending companies owned or controlled by foreign banks (collectively referred to in this part as member banks); and their employees who act as mortgage loan originators;</P>
+
+      <P>(iii) Insured state nonmember banks (including state-licensed insured <PRTPAGE P="236"/>branches of foreign banks), their subsidiaries (except brokers, dealers, persons providing insurance, investment companies, and investment advisers) (collectively referred to in this part as insured state nonmember banks), and employees of such banks or subsidiaries who act as mortgage loan originators;</P>
+      <P>(iv) Savings associations, their operating subsidiaries (collectively referred to in this part as savings associations), and their employees who act as mortgage loan originators;</P>
+      <P>(v) Farm Credit System lending institutions that actually originate residential mortgage loans pursuant to sections 1.9(3), 1.11 or 2.4(a) and (b) of the Farm Credit Act of 1971 (collectively referred to in this part as Farm Credit System institutions), and their employees who act as mortgage loan originators; and</P>
+      <P>(vi) Any federally insured credit union and its employees, including volunteers, who act as mortgage loan originators. This part also applies to non-federally insured credit unions and their employees, including volunteers, who act as mortgage loan originators, subject to the conditions in paragraph (c)(3) of this section.</P>
+      <P>(2) <E T="03">De minimis exception.</E> (i) This part and the requirements of 12 U.S.C. 5103(a)(1)(A) and (2) of the S.A.F.E. Act do not apply to any employee of a national bank, member bank, insured state nonmember bank, savings association, Farm Credit System institution, or credit union who has never been registered or licensed through the Registry as a mortgage loan originator if during the past 12 months the employee acted as a mortgage loan originator for 5 or fewer residential mortgage loans.</P>
+      <P>(ii) Prior to engaging in mortgage loan origination activity that exceeds the exception limit in paragraph (c)(2)(i) of this section, an employee must register with the Registry pursuant to this part.</P>
+      <P>(iii) <E T="03">Evasion.</E> National banks, member banks, insured state nonmember banks, savings associations, Farm Credit System institutions, and credit unions are prohibited from engaging in any act or practice to evade the limits of the <E T="03">de minimis</E> exception set forth in paragraph (c)(2)(i) of this section.</P>
+      <P>(3) <E T="03">For non-federally insured credit unions.</E> A non-federally insured credit union in a state identified on the National Credit Union Administration's Web site (NCUA.gov) as one where the appropriate state supervisory authority has executed a Memorandum of Understanding (MOU) with the National Credit Union Administration may register under this rule provided that any Nationwide Mortgage Licensing System and Registry listing of the non-federally insured credit union and its employees contains a clear and conspicuous statement that the non-federally insured credit union is not insured by the National Credit Union Share Insurance Fund, and the state supervisory authority where the non-federally insured credit union is located maintains an agreement with the National Credit Union Administration for this registration process and oversight. If the state supervisory authority where the non-federally insured credit union is located fails to maintain such an agreement, the non-federally insured credit union and its employees in that state may not register or maintain registration under the Federal system. They instead must use the appropriate state licensing and registration system, or if the state does not have such a system, the licensing and registration system established by the Bureau for mortgage loan originators and their employees.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1007.102</SECTNO>
+      <SUBJECT>Definitions applicable to this part.</SUBJECT>
+      <P>For purposes of this part, the following definitions apply:</P>
+      <P>
+        <E T="03">Administrative or clerical tasks</E> means the receipt, collection, and distribution of information common for the processing or underwriting of a loan in the residential mortgage industry and communication with a consumer to obtain information necessary for the processing or underwriting of a residential mortgage loan.</P>
+      <P>
+        <E T="03">Annual renewal period</E> means November 1 through December 31 of each year.</P>
+      <P>
+        <E T="03">Bureau</E> means the Bureau of Consumer Financial Protection.<PRTPAGE P="237"/>
+      </P>
+      <P>
+        <E T="03">Covered financial institution</E> means any national bank, member bank, insured state nonmember bank, savings association, Farm Credit System institution, or federally insured credit union as any such term is defined in § 1007.101(c)(1). Covered financial institution also includes a non-federally insured credit union that registers subject to the conditions of § 1007.101(c)(3).</P>
+      <P>
+        <E T="03">Mortgage loan originator</E> means</P>
+      <P>(1) An individual who:</P>
+      <P>(i) Takes a residential mortgage loan application; and</P>
+      <P>(ii) Offers or negotiates terms of a residential mortgage loan for compensation or gain.</P>
+      <P>(2)(i) The term <E T="03">mortgage loan originator</E> does not include:</P>
+      <P>(A) An individual who performs purely administrative or clerical tasks on behalf of an individual who is described as a mortgage loan originator in this section;</P>
+      <P>(B) An individual who only performs real estate brokerage activities (as defined in 12 U.S.C. 5102(4)(D)) and is licensed or registered as a real estate broker in accordance with applicable state law, unless the individual is compensated by a lender, a mortgage broker, or other mortgage loan originator or by any agent of such lender, mortgage broker, or other mortgage loan originator, and meets the definition of mortgage loan originator in this section; or</P>
+      <P>(C) An individual or entity solely involved in extensions of credit related to timeshare plans, as that term is defined in 11 U.S.C. 101(53D).</P>
+      <P>(ii) Examples of activities that would, and would not, result in an employee meeting the definition of mortgage loan originator are provided in appendix A to this part.</P>
+      <P>
+        <E T="03">Nationwide Mortgage Licensing System and Registry</E> or <E T="03">Registry</E> means the system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the state licensing and registration of state-licensed mortgage loan originators and the registration of mortgage loan originators pursuant to 12 U.S.C. 5107.</P>
+      <P>
+        <E T="03">Registered mortgage loan originator</E> or <E T="03">registrant</E> means any individual who:</P>
+      <P>(1) Meets the definition of mortgage loan originator and is an employee of a covered financial institution; and</P>
+      <P>(2) Is registered pursuant to this part with, and maintains a unique identifier through, the Registry.</P>
+      <P>
+        <E T="03">Residential mortgage loan</E> means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 103(v) of the Truth in Lending Act, 15 U.S.C. 1602(v)) or residential real estate upon which is constructed or intended to be constructed a dwelling, and includes refinancings, reverse mortgages, home equity lines of credit and other first and additional lien loans that meet the qualifications listed in this definition. This definition does not amend or supersede 12 CFR 613.3030(c) with respect to Farm Credit System institutions.</P>
+      <P>
+        <E T="03">Unique identifier</E> means a number or other identifier that:</P>
+      <P>(1) Permanently identifies a registered mortgage loan originator;</P>
+      <P>(2) Is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Bureau to facilitate:</P>
+      <P>(i) Electronic tracking of mortgage loan originators; and</P>
+      <P>(ii) Uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against mortgage loan originators; and</P>
+      <P>(3) Must not be used for purposes other than those set forth under the S.A.F.E. Act.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1007.103</SECTNO>
+      <SUBJECT>Registration of mortgage loan originators.</SUBJECT>
+      <P>(a) <E T="03">Registration requirement</E>—(1) <E T="03">Employee registration.</E> Each employee of a covered financial institution who acts as a mortgage loan originator must register with the Registry, obtain a unique identifier, and maintain this registration in accordance with the requirements of this part. Any such employee who is not in compliance with the registration and unique identifier requirements set forth in this part is in violation of the S.A.F.E. Act and this part.<PRTPAGE P="238"/>
+      </P>
+      <P>(2) <E T="03">Covered financial institution requirement</E>—(i) <E T="03">In general.</E> A covered financial institution that employs one or more individuals who act as a residential mortgage loan originator must require each such employee to register with the Registry, maintain this registration, and obtain a unique identifier in accordance with the requirements of this part.</P>
+      <P>(ii) <E T="03">Prohibition.</E> A covered financial institution must not permit an employee who is subject to the registration requirements of this part to act as a mortgage loan originator for the covered financial institution unless such employee is registered with the Registry pursuant to this part.</P>
+      <P>(3) [Reserved]</P>
+      <P>(4) <E T="03">Employees previously registered or licensed through the Registry</E>—(i) <E T="03">In general.</E> If an employee of a covered financial institution was registered or licensed through, and obtained a unique identifier from, the Registry and has maintained this registration or license before the employee becomes subject to this part at the current covered financial institution, then the registration requirements of the S.A.F.E. Act and this part are deemed to be met, provided that:</P>
+      <P>(A) The employment information in paragraphs (d)(1)(i)(C) and (d)(1)(ii) of this section is updated and the requirements of paragraph (d)(2) of this section are met;</P>
+      <P>(B) New fingerprints of the employee are submitted to the Registry for a background check, as required by paragraph (d)(1)(ix) of this section, unless the employee has fingerprints on file with the Registry that are less than 3 years old;</P>
+      <P>(C) The covered financial institution information required in paragraphs (e)(1)(i) (to the extent the covered financial institution has not previously met these requirements) and (e)(2)(i) of this section is submitted to the Registry; and</P>
+      <P>(D) The registration is maintained pursuant to paragraphs (b) and (e)(1)(ii) of this section, as of the date that the employee becomes subject to this part.</P>
+      <P>(ii) <E T="03">Rule for certain acquisitions, mergers, or reorganizations.</E> When registered or licensed mortgage loan originators become covered financial institution employees as a result of an acquisition, consolidation, merger, or reorganization, only the requirements of paragraphs (a)(4)(i)(A), (C), and (D) of this section must be met, and these requirements must be met within 60 days from the effective date of the acquisition, merger, or reorganization.</P>
+      <P>(b) <E T="03">Maintaining registration.</E> (1) A mortgage loan originator who is registered with the Registry pursuant to paragraph (a) of this section must:</P>
+      <P>(i) Except as provided in paragraph (b)(3) of this section, renew the registration during the annual renewal period, confirming the responses set forth in paragraphs (d)(1)(i) through (viii) of this section remain accurate and complete, and updating this information, as appropriate; and</P>
+      <P>(ii) Update the registration within 30 days of any of the following events:</P>
+      <P>(A) A change in the name of the registrant;</P>
+      <P>(B) The registrant ceases to be an employee of the covered financial institution; or</P>
+      <P>(C) The information required under paragraphs (d)(1)(iii) through (viii) of this section becomes inaccurate, incomplete, or out-of-date.</P>
+      <P>(2) A registered mortgage loan originator must maintain his or her registration, unless the individual is no longer engaged in the activity of a mortgage loan originator.</P>
+      <P>(3) The annual registration renewal requirement set forth in paragraph (b)(1) of this section does not apply to a registered mortgage loan originator who has completed his or her registration with the Registry pursuant to paragraph (a)(1) of this section less than 6 months prior to the end of the annual renewal period.</P>
+      <P>(c) <E T="03">Effective dates</E>—(1) <E T="03">Registration.</E> A registration pursuant to paragraph (a)(1) of this section is effective on the date the Registry transmits notification to the registrant that the registrant is registered.</P>
+      <P>(2) <E T="03">Renewals or updates.</E> A renewal or update pursuant to paragraph (b) of this section is effective on the date the Registry transmits notification to the registrant that the registration has been renewed or updated.<PRTPAGE P="239"/>
+      </P>
+      <P>(d) <E T="03">Required employee information</E>—(1) <E T="03">In general.</E> For purposes of the registration required by this section, a covered financial institution must require each employee who is a mortgage loan originator to submit to the Registry, or must submit on behalf of the employee, the following categories of information, to the extent this information is collected by the Registry:</P>
+      <P>(i) Identifying information, including the employee's:</P>
+      <P>(A) Name and any other names used;</P>
+      <P>(B) Home address and contact information;</P>
+      <P>(C) Principal business location address and business contact information;</P>
+      <P>(D) Social security number;</P>
+      <P>(E) Gender; and</P>
+      <P>(F) Date and place of birth;</P>
+      <P>(ii) Financial services-related employment history for the 10 years prior to the date of registration or renewal, including the date the employee became an employee of the covered financial institution;</P>
+      <P>(iii) Convictions of any criminal offense involving dishonesty, breach of trust, or money laundering against the employee or organizations controlled by the employee, or agreements to enter into a pretrial diversion or similar program in connection with the prosecution for such offense(s);</P>
+      <P>(iv) Civil judicial actions against the employee in connection with financial services-related activities, dismissals with settlements, or judicial findings that the employee violated financial services-related statutes or regulations, except for actions dismissed without a settlement agreement;</P>
+      <P>(v) Actions or orders by a state or Federal regulatory agency or foreign financial regulatory authority that:</P>
+      <P>(A) Found the employee to have made a false statement or omission or been dishonest, unfair or unethical; to have been involved in a violation of a financial services-related regulation or statute; or to have been a cause of a financial services-related business having its authorization to do business denied, suspended, revoked, or restricted;</P>
+      <P>(B) Are entered against the employee in connection with a financial services-related activity;</P>
+      <P>(C) Denied, suspended, or revoked the employee's registration or license to engage in a financial services-related activity; disciplined the employee or otherwise by order prevented the employee from associating with a financial services-related business or restricted the employee's activities; or</P>
+      <P>(D) Barred the employee from association with an entity or its officers regulated by the agency or authority or from engaging in a financial services-related business;</P>
+      <P>(vi) Final orders issued by a state or Federal regulatory agency or foreign financial regulatory authority based on violations of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct;</P>
+      <P>(vii) Revocation or suspension of the employee's authorization to act as an attorney, accountant, or state or Federal contractor;</P>
+      <P>(viii) Customer-initiated financial services-related arbitration or civil action against the employee that required action, including settlements, or which resulted in a judgment; and</P>
+      <P>(ix) Fingerprints of the employee, in digital form if practicable, and any appropriate identifying information for submission to the Federal Bureau of Investigation and any governmental agency or entity authorized to receive such information in connection with a state and national criminal history background check; however, fingerprints provided to the Registry that are less than 3 years old may be used to satisfy this requirement.</P>
+      <P>(2) <E T="03">Employee authorizations and attestation.</E> An employee registering as a mortgage loan originator or renewing or updating his or her registration under this part, and not the employing covered financial institution or other employees of the covered financial institution, must:</P>
+      <P>(i) Authorize the Registry and the employing institution to obtain information related to sanctions or findings in any administrative, civil, or criminal action, to which the employee is a party, made by any governmental jurisdiction;</P>
+
+      <P>(ii) Attest to the correctness of all information required by paragraph (d) of this section, whether submitted by <PRTPAGE P="240"/>the employee or on behalf of the employee by the employing covered financial institution; and</P>
+      <P>(iii) Authorize the Registry to make available to the public information required by paragraphs (d)(1)(i)(A) and (C), and (d)(1)(ii) through (viii) of this section.</P>
+      <P>(3) <E T="03">Submission of information.</E> A covered financial institution may identify one or more employees of the covered financial institution who may submit the information required by paragraph (d)(1) of this section to the Registry on behalf of the covered financial institution's employees provided that this individual, and any employee delegated such authority, does not act as a mortgage loan originator, consistent with paragraph (e)(1)(i)(F) of this section. In addition, a covered financial institution may submit to the Registry some or all of the information required by paragraphs (d)(1) and (e)(2) of this section for multiple employees in bulk through batch processing in a format to be specified by the Registry, to the extent such batch processing is made available by the Registry.</P>
+      <P>(e) <E T="03">Required covered financial institution information.</E> A covered financial institution must submit the following categories of information to the Registry:</P>
+      <P>(1) <E T="03">Covered financial institution record.</E> (i) In connection with the registration of one or more mortgage loan originators:</P>
+      <P>(A) Name, main office address, and business contact information;</P>
+      <P>(B) Internal Revenue Service Employer Tax Identification Number (EIN);</P>
+      <P>(C) Research Statistics Supervision and Discount (RSSD) number, as issued by the Board of Governors of the Federal Reserve System;</P>
+      <P>(D) Identification of its primary Federal regulator;</P>
+      <P>(E) Name(s) and contact information of the individual(s) with authority to act as the covered financial institution's primary point of contact for the Registry;</P>
+      <P>(F) Name(s) and contact information of the individual(s) with authority to enter the information required by paragraphs (d)(1) and (e) of this section to the Registry and who may delegate this authority to other individuals. For the purpose of providing information required by paragraph (e) of this section, this individual and their delegates must not act as mortgage loan originators unless the covered financial institution has 10 or fewer full time or equivalent employees and is not a subsidiary; and</P>
+      <P>(G) If a subsidiary of a national bank, member bank, savings association, or insured state nonmember bank, indication that it is a subsidiary and the RSSD number of the parent institution; if an operating subsidiary of an agricultural credit association, indication that it is a subsidiary, and the RSSD number of the parent agricultural credit association.</P>
+      <P>(ii) <E T="03">Attestation.</E> The individual(s) identified in paragraphs (e)(1)(i)(E) and (F) of this section must comply with Registry protocols to verify their identity and must attest that they have the authority to enter data on behalf of the covered financial institution, that the information provided to the Registry pursuant to this paragraph (e) is correct, and that the covered financial institution will keep the information required by this paragraph (e) current and will file accurate supplementary information on a timely basis.</P>
+      <P>(iii) A covered financial institution must update the information required by this paragraph (e) of this section within 30 days of the date that this information becomes inaccurate.</P>
+      <P>(iv) A covered financial institution must renew the information required by paragraph (e) of this section on an annual basis.</P>
+      <P>(2) <E T="03">Employee information.</E> In connection with the registration of each employee who acts as a mortgage loan originator:</P>
+      <P>(i) After the information required by paragraph (d) of this section has been submitted to the Registry, confirmation that it employs the registrant; and</P>
+      <P>(ii) Within 30 days of the date the registrant ceases to be an employee of the covered financial institution, notification that it no longer employs the registrant and the date the registrant ceased being an employee.</P>
+    </SECTION>
+    <SECTION>
+      <PRTPAGE P="241"/>
+      <SECTNO>§ 1007.104</SECTNO>
+      <SUBJECT>Policies and procedures.</SUBJECT>
+      <P>A covered financial institution that employs one or more mortgage loan originators must adopt and follow written policies and procedures designed to assure compliance with this part. These policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the covered financial institution, and apply only to those employees acting within the scope of their employment at the covered financial institution. At a minimum, these policies and procedures must:</P>
+      <P>(a) Establish a process for identifying which employees of the covered financial institution are required to be registered mortgage loan originators;</P>
+      <P>(b) Require that all employees of the covered financial institution who are mortgage loan originators be informed of the registration requirements of the S.A.F.E. Act and this part and be instructed on how to comply with such requirements and procedures;</P>
+      <P>(c) Establish procedures to comply with the unique identifier requirements in § 1007.105;</P>
+      <P>(d) Establish reasonable procedures for confirming the adequacy and accuracy of employee registrations, including updates and renewals, by comparisons with its own records;</P>
+      <P>(e) Establish reasonable procedures and tracking systems for monitoring compliance with registration and renewal requirements and procedures;</P>
+      <P>(f) Provide for independent testing for compliance with this part to be conducted at least annually by covered financial institution personnel or by an outside party;</P>
+      <P>(g) Provide for appropriate action in the case of any employee who fails to comply with the registration requirements of the S.A.F.E. Act, this part, or the covered financial institution's related policies and procedures, including prohibiting such employees from acting as mortgage loan originators or other appropriate disciplinary actions;</P>
+      <P>(h) Establish a process for reviewing employee criminal history background reports received pursuant to this part, taking appropriate action consistent with applicable Federal law, including section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829), section 206 of the Federal Credit Union Act (12 U.S.C. 1786(i)), and section 5.65(d) of the Farm Credit Act of 1971, as amended (12 U.S.C. 2277a-14(d)), and implementing regulations with respect to these reports, and maintaining records of these reports and actions taken with respect to applicable employees; and</P>
+      <P>(i) Establish procedures designed to ensure that any third party with which the covered financial institution has arrangements related to mortgage loan origination has policies and procedures to comply with the S.A.F.E. Act, including appropriate licensing and/or registration of individuals acting as mortgage loan originators.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1007.105</SECTNO>
+      <SUBJECT>Use of unique identifier.</SUBJECT>
+      <P>(a) The covered financial institution shall make the unique identifier(s) of its registered mortgage loan originator(s) available to consumers in a manner and method practicable to the institution.</P>
+      <P>(b) A registered mortgage loan originator shall provide his or her unique identifier to a consumer:</P>
+      <P>(1) Upon request;</P>
+      <P>(2) Before acting as a mortgage loan originator; and</P>
+      <P>(3) Through the originator's initial written communication with a consumer, if any, whether on paper or electronically.</P>
+    </SECTION>
+    <APPENDIX>
+      <EAR>Pt. 1007, App. A</EAR>
+      <HD SOURCE="HED">Appendix A to Part 1007—Examples of Mortgage Loan Originator Activities</HD>
+      <P>This appendix provides examples to aid in the understanding of activities that would cause an employee of a covered financial institution to fall within or outside the definition of mortgage loan originator. The examples in this Appendix are not all-inclusive. They illustrate only the issue described and do not illustrate any other issues that may arise under this part. For purposes of the examples below, the term “loan” refers to a residential mortgage loan.</P>
+      <P>(a) <E T="03">Taking a loan application.</E> The following examples illustrate when an employee takes, or does not take, a loan application.</P>
+
+      <P>(1) Taking an application includes: receiving information provided in connection with a request for a loan to be used to determine whether the consumer qualifies for a loan, even if the employee:<PRTPAGE P="242"/>
+      </P>
+      <P>(i) Has received the consumer's information indirectly in order to make an offer or negotiate a loan;</P>
+      <P>(ii) Is not responsible for verifying information;</P>
+      <P>(iii) Is inputting information into an online application or other automated system on behalf of the consumer; or</P>
+      <P>(iv) Is not engaged in approval of the loan, including determining whether the consumer qualifies for the loan.</P>
+      <P>(2) Taking an application does not include any of the following activities performed solely or in combination:</P>
+      <P>(i) Contacting a consumer to verify the information in the loan application by obtaining documentation, such as tax returns or payroll receipts;</P>
+      <P>(ii) Receiving a loan application through the mail and forwarding it, without review, to loan approval personnel;</P>
+      <P>(iii) Assisting a consumer who is filling out an application by clarifying what type of information is necessary for the application or otherwise explaining the qualifications or criteria necessary to obtain a loan product;</P>
+      <P>(iv) Describing the steps that a consumer would need to take to provide information to be used to determine whether the consumer qualifies for a loan or otherwise explaining the loan application process;</P>
+      <P>(v) In response to an inquiry regarding a prequalified offer that a consumer has received from a covered financial institution, collecting only basic identifying information about the consumer and forwarding the consumer to a mortgage loan originator; or</P>
+      <P>(vi) Receiving information in connection with a modification to the terms of an existing loan to a borrower as part of the covered financial institution's loss mitigation efforts when the borrower is reasonably likely to default.</P>
+      <P>(b) <E T="03">Offering or negotiating terms of a loan.</E> The following examples are designed to illustrate when an employee offers or negotiates terms of a loan, and conversely, what does not constitute offering or negotiating terms of a loan.</P>
+      <P>(1) Offering or negotiating the terms of a loan includes:</P>
+      <P>(i) Presenting a loan offer to a consumer for acceptance, either verbally or in writing, including, but not limited to, providing a disclosure of the loan terms after application under the Truth in Lending Act, even if:</P>
+      <P>(A) Further verification of information is necessary;</P>
+      <P>(B) The offer is conditional;</P>
+      <P>(C) Other individuals must complete the loan process; or</P>
+      <P>(D) Only the rate approved by the covered financial institution's loan approval mechanism function for a specific loan product is communicated without authority to negotiate the rate.</P>
+      <P>(ii) Responding to a consumer's request for a lower rate or lower points on a pending loan application by presenting to the consumer a revised loan offer, either verbally or in writing, that includes a lower interest rate or lower points than the original offer.</P>
+      <P>(2) Offering or negotiating terms of a loan does not include solely or in combination:</P>
+
+      <P>(i) Providing general explanations or descriptions in response to consumer queries regarding qualification for a specific loan product, such as explaining loan terminology (<E T="03">e.g.,</E> debt-to-income ratio); lending policies (<E T="03">e.g.,</E> the loan-to-value ratio policy of the covered financial institution); or product-related services;</P>
+      <P>(ii) In response to a consumer's request, informing a consumer of the loan rates that are publicly available, such as on the covered financial institution's Web site, for specific types of loan products without communicating to the consumer whether qualifications are met for that loan product;</P>
+      <P>(iii) Collecting information about a consumer in order to provide the consumer with information on loan products for which the consumer generally may qualify, without presenting a specific loan offer to the consumer for acceptance, either verbally or in writing;</P>
+      <P>(iv) Arranging the loan closing or other aspects of the loan process, including communicating with a consumer about those arrangements, provided that communication with the consumer only verifies loan terms already offered or negotiated;</P>
+      <P>(v) Providing a consumer with information unrelated to loan terms, such as the best days of the month for scheduling loan closings at the covered financial institution;</P>
+      <P>(vi) Making an underwriting decision about whether the consumer qualifies for a loan;</P>
+      <P>(vii) Explaining or describing the steps or process that a consumer would need to take in order to obtain a loan offer, including qualifications or criteria that would need to be met without providing guidance specific to that consumer's circumstances; or</P>
+      <P>(viii) Communicating on behalf of a mortgage loan originator that a written offer, including disclosures provided pursuant to the Truth in Lending Act, has been sent to a consumer without providing any details of that offer.</P>
+      <P>(c) <E T="03">Offering or negotiating a loan for compensation or gain.</E> The following examples illustrate when an employee does or does not offer or negotiate terms of a loan “for compensation or gain.”</P>
+
+      <P>(1) Offering or negotiating terms of a loan for compensation or gain includes engaging in any of the activities in paragraph (b)(1) of this appendix in the course of carrying out employment duties, even if the employee does not receive a referral fee or commission or other special compensation for the loan.<PRTPAGE P="243"/>
+      </P>
+      <P>(2) Offering or negotiating terms of a loan for compensation or gain does not include engaging in a seller-financed transaction for the employee's personal property that does not involve the covered financial institution.</P>
+    </APPENDIX>
+  </PART>
+</CFRGRANULE>

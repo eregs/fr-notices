@@ -1,0 +1,513 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>S.A.F.E. MORTGAGE LICENSING ACT-STATE COMPLIANCE AND BUREAU REGISTRATION SYSTEM (REGULATION H)</TITLE>
+    <GRANULENUM>1008</GRANULENUM>
+    <HEADING>PART 1008</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1008</EAR>
+    <HD SOURCE="HED">PART 1008—S.A.F.E. MORTGAGE LICENSING ACT—STATE COMPLIANCE AND BUREAU REGISTRATION SYSTEM (REGULATION H)</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>1008.1</SECTNO>
+      <SUBJECT>Purpose.</SUBJECT>
+      <SECTNO>1008.3</SECTNO>
+      <SUBJECT>Confidentiality of information.</SUBJECT>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart A—General</HD>
+        <SECTNO>1008.20</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <SECTNO>1008.23</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart B—Determination of State Compliance With the S.A.F.E. Act</HD>
+        <SECTNO>1008.101</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <SECTNO>1008.103</SECTNO>
+        <SUBJECT>Individuals required to be licensed by states.</SUBJECT>
+        <SECTNO>1008.105</SECTNO>
+        <SUBJECT>Minimum loan originator license requirements.</SUBJECT>
+        <SECTNO>1008.107</SECTNO>
+        <SUBJECT>Minimum annual license renewal requirements.</SUBJECT>
+        <SECTNO>1008.109</SECTNO>
+        <SUBJECT>Effective date of state requirements imposed on individuals.</SUBJECT>
+        <SECTNO>1008.111</SECTNO>
+        <SUBJECT>Other minimum requirements for state licensing systems.</SUBJECT>
+        <SECTNO>1008.113</SECTNO>
+        <SUBJECT>Performance standards.</SUBJECT>
+        <SECTNO>1008.115</SECTNO>
+        <SUBJECT>Determination of noncompliance.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart C—The Bureau's Loan Originator Licensing System and Nationwide Mortgage Licensing and Registry System</HD>
+        <SECTNO>1008.201</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <SECTNO>1008.203</SECTNO>
+        <SUBJECT>The Bureau's establishment of loan originator licensing system.</SUBJECT>
+        <SECTNO>1008.205</SECTNO>
+        <SUBJECT>The Bureau's establishment of nationwide mortgage licensing system and registry.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart D—Minimum Requirements for Administration of the NMLSR</HD>
+        <SECTNO>1008.301</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <SECTNO>1008.303</SECTNO>
+        <SUBJECT>Financial reporting.</SUBJECT>
+        <SECTNO>1008.305</SECTNO>
+        <SUBJECT>Data security.</SUBJECT>
+        <SECTNO>1008.307</SECTNO>
+        <SUBJECT>Fees.</SUBJECT>
+        <SECTNO>1008.309</SECTNO>
+        <SUBJECT>Absence of liability for good-faith administration.</SUBJECT>
+      </SUBPART>
+      <SUBPART>
+        <HD SOURCE="HED">Subpart E—Enforcement of the Bureau's Licensing System</HD>
+        <SECTNO>1008.401</SECTNO>
+        <SUBJECT>Bureau's authority to examine loan originator records.</SUBJECT>
+        <SECTNO>1008.403</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <SECTNO>1008.405</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+        <APP>Appendix A to Part 1008—Examples of Mortgage Loan Originator Activities</APP>
+        <APP>Appendix B to Part 1008—Engaging in the Business of a Loan Originator: Commercial Context and Habitualness</APP>
+        <APP>Appendix C to Part 1008—Independent Contractors and Loan Processor and Underwriter Activities That Require a State Mortgage Loan Originator License</APP>
+        <APP>Appendix D to Part 1008—Attorneys: Circumstances That Require a State Mortgage Loan Originator License</APP>
+      </SUBPART>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5101-5116; Pub. L. 111-203, 124 Stat. 1376.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 78487, Dec. 19, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 1008.1</SECTNO>
+      <SUBJECT>Purpose.</SUBJECT>
+      <P>(a) <E T="03">Authority.</E> This part, known as Regulation H, is issued by the Bureau of Consumer Financial Protection to implement the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 <E T="03">et seq.</E>).</P>
+      <P>(b) <E T="03">Purpose.</E> The purpose of this part is to enhance consumer protection and reduce fraud by directing states to adopt minimum uniform standards for the licensing and registration of residential mortgage loan originators and to participate in a nationwide mortgage licensing system and registry database of residential mortgage loan originators. Under the S.A.F.E. Act, if the Bureau determines that a state's loan origination licensing system does not meet the minimum requirements of the S.A.F.E. Act, the Bureau is charged with establishing and implementing a system for all loan originators in that state. Additionally, if at any time the Bureau determines that the nationwide mortgage licensing system and registry is failing to meet the S.A.F.E. Act's requirements, the Bureau is charged with establishing and maintaining a licensing and registry database for loan originators.</P>
+      <P>(c) <E T="03">Organization.</E> The regulation is divided into subparts and appendices as follows:</P>
+      <P>(1) Subpart A establishes the definitions applicable to this part.</P>
+
+      <P>(2) Subpart B provides the minimum standards that a state must meet in licensing loan originators, including <PRTPAGE P="244"/>standards for whom a state must require to be licensed, and sets forth the Bureau's procedure for determining a state's compliance with the minimum standards.</P>
+      <P>(3) Subpart C provides the requirements that the Bureau will apply in any state that the Bureau determines has not established a licensing and registration system in compliance with the minimum standards of the S.A.F.E. Act.</P>
+      <P>(4) Subpart D provides minimum requirements for the administration of the Nationwide Mortgage Licensing System and Registry.</P>
+      <P>(5) Subpart E clarifies the Bureau's enforcement authority in states in which it operates a state licensing system.</P>
+      <P>(6) Appendices A through D set forth examples to aid in the understanding and application of the regulations.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1008.3</SECTNO>
+      <SUBJECT>Confidentiality of information.</SUBJECT>
+      <P>(a) Except as otherwise provided in this part, any requirement under Federal or state law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under this part, and any privilege arising under Federal or state law (including the rules of any Federal or state court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all state and Federal regulatory officials with mortgage industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and state laws.</P>
+      <P>(b) Information or material that is subject to a privilege or confidentiality under paragraph (a) of this section shall not be subject to:</P>
+      <P>(1) Disclosure under any Federal or state law governing the disclosure to the public of information held by an officer or an agency of the Federal Government or the respective state; or</P>
+      <P>(2) Subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or by the Director with respect to such information or material, the person to whom such information or material pertains, waives, in whole or in part, in the discretion of such person, that privilege.</P>
+      <P>(c) Any state law, including any state open record law, relating to the disclosure of confidential supervisory information or any information or material described in paragraph (a) of this section that is inconsistent with paragraph (a), shall be superseded by the requirements of such provision to the extent that state law provides less confidentiality or a weaker privilege.</P>
+      <P>(d) This section shall not apply with respect to the information or material relating to the employment history of, and any publicly adjudicated disciplinary and enforcement action against, any loan originator that is included in the Nationwide Mortgage Licensing System and Registry for access by the public.</P>
+    </SECTION>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart A—General</HD>
+      <SECTION>
+        <SECTNO>§ 1008.20</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <P>This subpart provides the definitions applicable to this part, and other general requirements applicable to this part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.23</SECTNO>
+        <SUBJECT>Definitions.</SUBJECT>
+        <P>Terms that are defined in the S.A.F.E. Act and used in this part have the same meaning as in the S.A.F.E. Act, unless otherwise provided in this section.</P>
+        <P>
+          <E T="03">Administrative or clerical tasks</E> means the receipt, collection, and distribution of information common for the processing or underwriting of a loan in the mortgage industry and communication with a consumer to obtain information necessary for the processing or underwriting of a residential mortgage loan.</P>
+        <P>
+          <E T="03">American Association of Residential Mortgage Regulators (AARMR)</E> is the national association of executives and employees of the various states who are charged with the responsibility for administration and regulation of residential mortgage lending, servicing, and brokering, and dedicated to the goals described at <E T="03">www.aarmr.org.</E>
+          <PRTPAGE P="245"/>
+        </P>
+        <P>
+          <E T="03">Application</E> means a request, in any form, for an offer (or a response to a solicitation of an offer) of residential mortgage loan terms, and the information about the borrower or prospective borrower that is customary or necessary in a decision on whether to make such an offer.</P>
+        <P>
+          <E T="03">Bureau</E> means the Bureau of Consumer Financial Protection.</P>
+        <P>
+          <E T="03">Clerical or support duties:</E>
+        </P>
+        <P>(1) Include:</P>
+        <P>(i) The receipt, collection, distribution, and analysis of information common for the processing or underwriting of a residential mortgage loan; and</P>
+        <P>(ii) Communicating with a consumer to obtain the information necessary for the processing or underwriting of a loan, to the extent that such communication does not include offering or negotiating loan rates or terms, or counseling consumers about residential mortgage loan rates or terms; and</P>
+        <P>(2) Does not include:</P>
+        <P>(i) Taking a residential mortgage loan application; or</P>
+        <P>(ii) Offering or negotiating terms of a residential mortgage loan.</P>
+        <P>
+          <E T="03">Conference of State Bank Supervisors (CSBS)</E> is the national organization composed of state bank supervisors dedicated to maintaining the state banking system and state regulation of financial services in accordance with the CSBS statement of principles described at <E T="03">www.csbs.org.</E>
+        </P>
+        <P>
+          <E T="03">Director</E> means the Director of the Bureau of Consumer Financial Protection.</P>
+        <P>
+          <E T="03">Employee</E> means an individual:</P>
+        <P>(1) Whose manner and means of performance of work are subject to the right of control of, or are controlled by, a person, and</P>
+        <P>(2) Whose compensation for Federal income tax purposes is reported, or required to be reported, on a W-2 form issued by the controlling person.</P>
+        <P>
+          <E T="03">Farm Credit Administration</E> means the independent Federal agency, authorized by the Farm Credit Act of 1971, that examines and regulates the Farm Credit System.</P>
+        <P>
+          <E T="03">For compensation or gain.</E> See § 1008.103(c)(2)(ii).</P>
+        <P>
+          <E T="03">Independent contractor</E> means an individual who performs his or her duties other than at the direction of and subject to the supervision and instruction of an individual who is licensed and registered in accordance with § 1008.103(a), or is not required to be licensed, in accordance with § 1008.103(e)(5), (6), or (7).</P>
+        <P>
+          <E T="03">Loan originator.</E> See § 1008.103.</P>
+        <P>
+          <E T="03">Loan processor or underwriter,</E> for purposes of this part, means an individual who, with respect to the origination of a residential mortgage loan, performs clerical or support duties at the direction of and subject to the supervision and instruction of:</P>
+        <P>(1) A state-licensed loan originator; or</P>
+        <P>(2) A registered loan originator.</P>
+        <P>
+          <E T="03">Nationwide Mortgage Licensing System and Registry or NMLSR</E> means the mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the licensing and registration of loan originators and the registration of registered loan originators or any system established by the Director, as provided in subpart D of this part.</P>
+        <P>
+          <E T="03">Nontraditional mortgage product</E> means any mortgage product other than a 30-year fixed-rate mortgage.</P>
+        <P>
+          <E T="03">Origination of a residential mortgage loan, for purposes of the definition of loan processor or underwriter,</E> means all residential mortgage loan-related activities from the taking of a residential mortgage loan application through the completion of all required loan closing documents and funding of the residential mortgage loan.</P>
+        <P>
+          <E T="03">Real estate brokerage activities</E> mean any activity that involves offering or providing real estate brokerage services to the public including—</P>
+        <P>(1) Acting as a real estate agent or real estate broker for a buyer, seller, lessor, or lessee of real property;</P>
+        <P>(2) Bringing together parties interested in the sale, purchase, lease, rental, or exchange of real property;</P>
+
+        <P>(3) Negotiating, on behalf of any party, any portion of a contract relating to the sale, purchase, lease, rental, or exchange of real property (other than in connection with providing financing with respect to any such transaction);<PRTPAGE P="246"/>
+        </P>
+        <P>(4) Engaging in any activity for which a person engaged in the activity is required to be registered as a real estate agent or real estate broker under any applicable law; and</P>
+        <P>(5) Offering to engage in any activity, or act in any capacity, described in paragraphs (1), (2), (3), or (4) of this definition.</P>
+        <P>
+          <E T="03">Residential mortgage loan</E> means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 103(w) of the Truth in Lending Act) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).</P>
+        <P>
+          <E T="03">State</E> means any state of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</P>
+        <P>
+          <E T="03">Unique identifier</E> means a number or other identifier that:</P>
+        <P>(1) Permanently identifies a loan originator;</P>
+        <P>(2) Is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Bureau to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against loan originators; and</P>
+        <P>(3) Shall not be used for purposes other than those set forth under the S.A.F.E. Act.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart B—Determination of State Compliance With the S.A.F.E. Act</HD>
+      <SECTION>
+        <SECTNO>§ 1008.101</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <P>This subpart describes the minimum standards of the S.A.F.E. Act that apply to a state's licensing and registering of loan originators. This subpart also provides the procedures that the Bureau follows to determine that a state does not have in place a system for licensing and registering mortgage loan originators that complies with the minimum standards. Upon making such a determination, the Bureau will impose the requirements and exercise the enforcement authorities described in subparts C and E of this part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.103</SECTNO>
+        <SUBJECT>Individuals required to be licensed by states.</SUBJECT>
+        <P>(a) Except as provided in paragraph (e) of this section, in order to operate a S.A.F.E.-compliant program, a state must prohibit an individual from engaging in the business of a loan originator with respect to any dwelling or residential real estate in the state, unless the individual first:</P>
+        <P>(1) Registers as a loan originator through and obtains a unique identifier from the NMLSR, and</P>
+        <P>(2) Obtains and maintains a valid loan originator license from the state.</P>
+        <P>(b) An individual engages in the business of a loan originator if the individual, in a commercial context and habitually or repeatedly:</P>
+        <P>(1)(i) Takes a residential mortgage loan application; and</P>
+        <P>(ii) Offers or negotiates terms of a residential mortgage loan for compensation or gain; or</P>
+        <P>(2) Represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such individual can or will perform the activities described in paragraph (b)(1) of this section.</P>
+        <P>(c)(1) An individual “takes a residential mortgage loan application” if the individual receives a residential mortgage loan application for the purpose of facilitating a decision whether to extend an offer of residential mortgage loan terms to a borrower or prospective borrower (or to accept the terms offered by a borrower or prospective borrower in response to a solicitation), whether the application is received directly or indirectly from the borrower or prospective borrower.</P>
+        <P>(2) An individual “offers or negotiates terms of a residential mortgage loan for compensation or gain” if the individual:</P>
+        <P>(i)(A) Presents for consideration by a borrower or prospective borrower particular residential mortgage loan terms;</P>
+
+        <P>(B) Communicates directly or indirectly with a borrower, or prospective <PRTPAGE P="247"/>borrower for the purpose of reaching a mutual understanding about prospective residential mortgage loan terms; or</P>
+        <P>(C) Recommends, refers, or steers a borrower or prospective borrower to a particular lender or set of residential mortgage loan terms, in accordance with a duty to or incentive from any person other than the borrower or prospective borrower; and</P>
+        <P>(ii) Receives or expects to receive payment of money or anything of value in connection with the activities described in paragraph (c)(2)(i) of this section or as a result of any residential mortgage loan terms entered into as a result of such activities.</P>
+        <P>(d)(1) Except as provided in paragraph (e) of this section, a state must prohibit an individual who is an independent contractor from engaging in residential mortgage loan origination activities as a loan processor or underwriter with respect to any dwelling or residential real estate in the state, unless the individual first:</P>
+        <P>(i) Registers as a loan originator through and obtains a unique identifier from the NMLSR, and</P>
+        <P>(ii) Obtains and maintains a valid loan originator license from the state.</P>
+        <P>(2) An individual “engage[s] in residential mortgage loan origination activities as a loan processor or underwriter” if, with respect to a residential mortgage loan application, the individual performs clerical or support duties.</P>
+        <P>(e) A state is not required to impose the prohibitions required under paragraphs (a) and (d) of this section on the following individuals:</P>
+        <P>(1) An individual who performs only real estate brokerage activities and is licensed or registered in accordance with applicable state law, unless the individual is compensated directly or indirectly by a lender, mortgage broker, or other loan originator or by an agent of such lender, mortgage broker, or other loan originator;</P>
+        <P>(2) An individual who is involved only in extensions of credit relating to timeshare plans, as that term is defined in 11 U.S.C. 101(53D);</P>
+        <P>(3) An individual who performs only clerical or support duties and:</P>
+        <P>(i) Who does so at the direction of and subject to the supervision and instruction of an individual who:</P>
+        <P>(A) Is licensed and registered in accordance with paragraph (a) of this section, or</P>
+        <P>(B) Is not required to be licensed in accordance with paragraph (e)(5); or</P>
+        <P>(ii) Who performs such duties solely with respect to transactions for which the individual who acts as a loan originator is not required to be licensed, in accordance with paragraph (e)(2), (6), or (7) of this section;</P>
+        <P>(4) An individual who performs only purely administrative or clerical tasks on behalf of a loan originator;</P>
+        <P>(5) An individual who is lawfully registered with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry, and who is an employee of a covered financial institution, as that term is defined in 12 CFR part 1007.</P>
+        <P>(6)(i) An individual who is an employee of a Federal, state, or local government agency or housing finance agency and who acts as a loan originator only pursuant to his or her official duties as an employee of the Federal, state, or local government agency or housing finance agency.</P>
+        <P>(ii) For purposes of this paragraph (e)(6), the term <E T="03">employee</E> has the meaning provided in paragraph (1) of the definition of employee in § 1008.23 and excludes the meaning provided in paragraph (2) of the definition.</P>
+        <P>(iii) For purposes of this paragraph (e)(6), the term <E T="03">housing finance agency</E> means any authority:</P>
+        <P>(A) That is chartered by a state to help meet the affordable housing needs of the residents of the state;</P>
+        <P>(B) That is supervised directly or indirectly by the state government;</P>
+        <P>(C) That is subject to audit and review by the state in which it operates; and</P>
+        <P>(D) Whose activities make it eligible to be a member of the National Council of State Housing Agencies.</P>
+
+        <P>(7)(i) An employee of a bona fide nonprofit organization who acts as a loan originator only with respect to his or her work duties to the bona fide nonprofit organization, and who acts as a loan originator only with respect to <PRTPAGE P="248"/>residential mortgage loans with terms that are favorable to the borrower.</P>
+        <P>(ii) For an organization to be considered a bona fide nonprofit organization under this paragraph, a state supervisory authority that opts not to require licensing of the employee must determine, under criteria and pursuant to processes established by the state, that the organization:</P>
+        <P>(A) Has the status of a tax-exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986;</P>
+        <P>(B) Promotes affordable housing or provides homeownership education, or similar services;</P>
+        <P>(C) Conducts its activities in a manner that serves public or charitable purposes, rather than commercial purposes;</P>
+        <P>(D) Receives funding and revenue and charges fees in a manner that does not incentivize it or its employees to act other than in the best interests of its clients;</P>
+        <P>(E) Compensates its employees in a manner that does not incentivize employees to act other than in the best interests of its clients;</P>
+        <P>(F) Provides or identifies for the borrower residential mortgage loans with terms favorable to the borrower and comparable to mortgage loans and housing assistance provided under government housing assistance programs; and</P>
+        <P>(G) Meets other standards that the state determines are appropriate.</P>
+        <P>(iii) A state must periodically examine the books and activities of an organization it determines is a bona fide nonprofit organization and revoke its status as a bona fide nonprofit organization if it does not continue to meet the criteria under paragraph (e)(7)(ii) of this section;</P>
+        <P>(iv) For residential mortgage loans to have terms that are favorable to the borrower, a state must determine that the terms are consistent with loan origination in a public or charitable context, rather than a commercial context.</P>
+        <P>(f) A state must require an individual licensed in accordance with paragraphs (a) or (d) of this section to renew the loan originator license no less often than annually.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.105</SECTNO>
+        <SUBJECT>Minimum loan originator license requirements.</SUBJECT>
+        <P>For an individual to be eligible for a loan originator license required under § 1008.103(a) and (d), a state must require and find, at a minimum, that an individual:</P>
+        <P>(a) Has never had a loan originator license revoked in any governmental jurisdiction, except that a formally vacated revocation shall not be deemed a revocation;</P>
+        <P>(b)(1) Has never been convicted of, or pled guilty or <E T="03">nolo contendere</E> to, a felony in a domestic, foreign, or military court:</P>
+        <P>(i) During the 7-year period preceding the date of the application for licensing; or</P>
+        <P>(ii) At any time preceding such date of application, if such felony involved an act of fraud, dishonesty, a breach of trust, or money laundering.</P>
+        <P>(2) For purposes of this paragraph (b):</P>
+        <P>(i) Expunged convictions and pardoned convictions do not, in themselves, affect the eligibility of the individual; and</P>
+        <P>(ii) Whether a particular crime is classified as a felony is determined by the law of the jurisdiction in which an individual is convicted.</P>
+        <P>(c) Has demonstrated financial responsibility, character, and general fitness, such as to command the confidence of the community and to warrant a determination that the loan originator will operate honestly, fairly, and efficiently, under reasonable standards established by the individual state.</P>
+        <P>(d) Completed at least 20 hours of pre-licensing education that has been reviewed and approved by the Nationwide Mortgage Licensing System and Registry. The pre-licensing education completed by the individual must include at least:</P>
+        <P>(1) 3 hours of Federal law and regulations;</P>
+        <P>(2) 3 hours of ethics, which must include instruction on fraud, consumer protection, and fair lending issues; and</P>
+        <P>(3) 2 hours of training on lending standards for the nontraditional mortgage product marketplace.</P>
+
+        <P>(e)(1) Achieved a test score of not less than 75 percent correct answers on a <PRTPAGE P="249"/>written test developed by the NMLSR in accordance with 12 U.S.C. 5105(d).</P>
+        <P>(2) To satisfy the requirement under paragraph (e)(1) of this section, an individual may take a test three consecutive times, with each retest occurring at least 30 days after the preceding test. If an individual fails three consecutive tests, the individual must wait at least 6 months before taking the test again.</P>
+        <P>(3) If a formerly state-licensed loan originator fails to maintain a valid license for 5 years or longer, not taking into account any time during which such individual is a registered loan originator, the individual must retake the test and achieve a test score of not less than 75 percent correct answers.</P>
+        <P>(f) Be covered by either a net worth or surety bond requirement, or pays into a state fund, as required by the state loan originator supervisory authority.</P>
+        <P>(g) Has submitted to the NMLSR fingerprints for submission to the Federal Bureau of Investigation and to any government agency for a state and national criminal history background check; and</P>
+        <P>(h) Has submitted to the NMLSR personal history and experience, which must include authorization for the NMLSR to obtain:</P>
+        <P>(1) Information related to any administrative, civil, or criminal findings by any governmental jurisdiction; and</P>
+        <P>(2) An independent credit report.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.107</SECTNO>
+        <SUBJECT>Minimum annual license renewal requirements.</SUBJECT>
+        <P>(a) For an individual to be eligible to renew a loan originator license as required under § 1008.103(f), a state must require the individual:</P>
+        <P>(1) To continue to meet the minimum standards for license issuance provided in § 1008.105; and</P>
+        <P>(2) To satisfy annual continuing education requirements, which must include at least 8 hours of education approved by the NMLSR. The 8 hours of annual continuing education must include at least:</P>
+        <P>(i) 3 hours of Federal law and regulations;</P>
+        <P>(ii) 2 hours of ethics (including instruction on fraud, consumer protection, and fair lending issues); and</P>
+        <P>(iii) 2 hours of training related to lending standards for the nontraditional mortgage product marketplace.</P>
+        <P>(b) A state must provide that a state-licensed loan originator may only receive credit for a continuing education course in the year in which the course is taken, and that a state-licensed loan originator may not apply credits for education courses taken in one year to meet the continuing education requirements of subsequent years. A state must provide that an individual may not meet the annual requirements for continuing education by taking an approved course more than one time in the same year or in successive years.</P>
+        <P>(c) An individual who is an instructor of an approved continuing education course may receive credit for the individual's own annual continuing education requirement at the rate of 2 hours credit for every one hour taught.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.109</SECTNO>
+        <SUBJECT>Effective date of state requirements imposed on individuals.</SUBJECT>
+        <P>(a) Except as provided in paragraphs (b) and (c) of this section, a state must provide that the effective date for requirements it imposes in accordance with §§ 1008.103, 1008.105, and 1008.107 is no later than August 29, 2011.</P>
+        <P>(b) For an individual who was permitted to perform residential mortgage loan originations under state legislation or regulations enacted or promulgated prior to the state's enactment or promulgation of a licensing system that complies with this subpart, a state may delay the effective date for requirements it imposes in accordance with §§ 1008.103, 1008.105, and 1008.107 to no later than August 29, 2011. For purposes of this paragraph (b), an individual was permitted to perform residential mortgage loan originations only if prior state law required the individual to be licensed, authorized, registered, or otherwise granted a form of affirmative and revocable government permission for individuals as a condition of performing residential mortgage loan originations.</P>
+
+        <P>(c) The Bureau may approve a later effective date only upon a state's demonstration that substantial numbers of loan originators (or of a class of loan originators) who require a state license face unusual hardship, through no fault <PRTPAGE P="250"/>of their own or of the state government, in complying with the standards required by the S.A.F.E. Act and in obtaining state licenses within one year.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.111</SECTNO>
+        <SUBJECT>Other minimum requirements for state licensing systems.</SUBJECT>
+        <P>(a) <E T="03">General.</E> A state must maintain a loan originator licensing, supervisory, and oversight authority (supervisory authority) that provides effective supervision and enforcement, in accordance with the minimum standards provided in this section and in § 1008.113.</P>
+        <P>(b) <E T="03">Authorities.</E> A supervisory authority must have the legal authority and mechanisms:</P>
+        <P>(1) To examine any books, papers, records, or other data of any loan originator operating in the state;</P>
+        <P>(2) To summon any loan originator operating in the state, or any person having possession, custody, or care of the reports and records relating to such a loan originator, to appear before the supervisory authority at a time and place named in the summons and to produce such books, papers, records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation of such loan originator for compliance with the requirements of the S.A.F.E. Act;</P>
+        <P>(3) To administer oaths and affirmations and examine and take and preserve testimony under oath as to any matter in respect to the affairs of any such loan originator;</P>
+        <P>(4) To enter an order requiring any individual or person that is, was, or would be a cause of a violation of the S.A.F.E. Act as implemented by the state, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same requirement;</P>
+        <P>(5) To suspend, terminate, and refuse renewal of a loan originator license for violation of state or Federal law; and</P>
+        <P>(6) To impose civil money penalties for individuals acting as loan originators, or representing themselves to the public as loan originators, in the state without a valid license or registration.</P>
+        <P>(c) A supervisory authority must have established processes in place to verify that individuals subject to the requirement described in § 1008.103(a)(1) and (d)(1) are registered with the NMLSR.</P>
+        <P>(d) The supervisory authority must be required under state law to regularly report violations of such law, as well as enforcement actions and other relevant information, to the NMLSR.</P>
+        <P>(e) The supervisory authority must have a process in place for challenging information contained in the NMLSR.</P>
+        <P>(f) The supervisory authority must require a loan originator to ensure that all residential mortgage loans that close as a result of the loan originator engaging in activities described in § 1008.103(b)(1) are included in reports of condition submitted to the NMLSR. Such reports of condition shall be in such form, shall contain such information, and shall be submitted with such frequency and by such dates as the NMLSR may reasonably require.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.113</SECTNO>
+        <SUBJECT>Performance standards.</SUBJECT>
+        <P>(a) For the Bureau to determine that a state is providing effective supervision and enforcement, a supervisory authority must meet the following performance standards:</P>
+        <P>(1) The supervisory authority must participate in the NMLSR;</P>
+        <P>(2) The supervisory authority must approve or deny loan originator license applications and must renew or refuse to renew existing loan originator licenses for violations of state or Federal law;</P>
+        <P>(3) The supervisory authority must discipline loan originator licensees with appropriate enforcement actions, such as license suspensions or revocations, cease-and-desist orders, civil money penalties, and consumer refunds for violations of state or Federal law;</P>
+        <P>(4) The supervisory authority must examine or investigate loan originator licensees in a systematic manner based on identified risk factors or on a periodic schedule.</P>
+        <P>(b) A supervisory authority that is accredited under the Conference of State Bank Supervisors-American Association of Residential Mortgage Regulators Mortgage Accreditation Program will be presumed by the Bureau to be compliant with the requirements of this section.</P>
+      </SECTION>
+      <SECTION>
+        <PRTPAGE P="251"/>
+        <SECTNO>§ 1008.115</SECTNO>
+        <SUBJECT>Determination of noncompliance.</SUBJECT>
+        <P>(a) <E T="03">Evidence of compliance.</E> Any time a state enacts legislation that affects its compliance with the S.A.F.E. Act, it must notify the Bureau. Upon request from the Bureau, a state must provide evidence that it is in compliance with the requirements of the S.A.F.E. Act and this part, including citations to applicable state law and regulations; descriptions of processes followed by the state's supervisory authority; and data concerning examination, investigation, and enforcement actions.</P>
+        <P>(b) <E T="03">Initial determination of noncompliance.</E> If the Bureau makes an initial determination that a state is not in compliance with the S.A.F.E. Act, the Bureau will notify the state and will publish, in the <E T="04">Federal Register,</E> a notice providing the Bureau's initial determination and presenting the opportunity for public comment for a period of no less than 30 days. This public comment period will allow the residents of the state and other interested members of the public to comment on the Bureau's initial determination.</P>
+        <P>(c) <E T="03">Final determination of noncompliance.</E> In making a final determination of noncompliance, the Bureau will review additional information that may be offered by a state and the comments submitted during the public comment period described in paragraph (b) of this section. If the Bureau makes a final determination that a state does not have in place by law or regulation a system that complies with the minimum requirements of the S.A.F.E. Act, as described in this part, the Bureau will publish that final determination in the <E T="04">Federal Register</E>.</P>
+        <P>(d) <E T="03">Good-faith effort to comply.</E> If the Bureau makes the final determination described in paragraph (c) of this section, but the Bureau finds that the state is making a good-faith effort to meet the requirements of 12 U.S.C. 5104, 5105, 5107(d), and this subpart, the Bureau may grant the state a period of not more than 24 months to comply with these requirements. If an extension is granted to the state in accordance with this paragraph (d), then the Bureau will provide an additional initial and final determination process before it determines that the state is not in compliance and is subject to subparts C and E of this part.</P>
+        <P>(e) <E T="03">Effective date of subparts C and E.</E> The provisions of subparts C and E of this part will become effective with respect to a state for which a final determination of noncompliance has been made upon:</P>
+        <P>(1) The effective date of the Bureau's final determination with respect to the state, pursuant to paragraph (c) of this section, unless an extension had been granted to the state in accordance with paragraph (d) of this section; or</P>
+        <P>(2) If an extension had been granted to the state in accordance with paragraph (d) of this section, the effective date of the Bureau's subsequent final determination with respect to the state following the expiration of the period of time granted pursuant to paragraph (d) of this section.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart C—The Bureau's Loan Originator Licensing System and Nationwide Mortgage Licensing and Registry System</HD>
+      <SECTION>
+        <SECTNO>§ 1008.201</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <P>The S.A.F.E. Act provides the Bureau with “backup authority” to establish a loan originator licensing system for any state that is determined by the Bureau not to be in compliance with the minimum standards of the S.A.F.E. Act. The provisions of this subpart become applicable to individuals in a state as provided in § 1008.115(e). The S.A.F.E. Act also authorizes the Bureau to establish and maintain a nationwide mortgage licensing system and registry if the Bureau determines that the NMLSR is failing to meet the purposes and requirements of the S.A.F.E. Act for a comprehensive licensing, supervisory, and tracking system for loan originators.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.203</SECTNO>
+        <SUBJECT>The Bureau's establishment of loan originator licensing system.</SUBJECT>
+
+        <P>If the Bureau determines, in accordance with § 1008.115(e), that a state has not established a licensing and registration system in compliance with the minimum standards of the S.A.F.E. Act, the Bureau shall apply to individuals in that state the minimum standards of the S.A.F.E. Act, as specified in <PRTPAGE P="252"/>subpart B, which provides the minimum requirements that a state must meet to be in compliance with the S.A.F.E. Act, and as may be further specified in this part.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.205</SECTNO>
+        <SUBJECT>The Bureau's establishment of nationwide mortgage licensing system and registry.</SUBJECT>
+        <P>If the Bureau determines that the NMLSR established by CSBS and AARMR does not meet the minimum requirements of subpart D of this part, the Bureau will establish and maintain a nationwide mortgage licensing system and registry.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart D—Minimum Requirements for Administration of the NMLSR</HD>
+      <SECTION>
+        <SECTNO>§ 1008.301</SECTNO>
+        <SUBJECT>Scope of this subpart.</SUBJECT>
+        <P>This subpart establishes minimum requirements that apply to administration of the NMLSR by the Conference of State Bank Supervisors or by the Bureau. The NMLSR must accomplish the following objectives:</P>
+        <P>(a) Provide uniform license applications and reporting requirements for state-licensed loan originators.</P>
+        <P>(b) Provide a comprehensive licensing and supervisory database.</P>
+        <P>(c) Aggregate and improve the flow of information to and between regulators.</P>
+        <P>(d) Provide increased accountability and tracking of loan originators.</P>
+        <P>(e) Streamline the licensing process and reduce the regulatory burden.</P>
+        <P>(f) Enhance consumer protections and support anti-fraud measures.</P>
+        <P>(g) Provide consumers with easily accessible information, offered at no charge, utilizing electronic media, including the Internet, regarding the employment history of, and publicly adjudicated disciplinary and enforcement actions against, loan originators.</P>
+        <P>(h) Establish a means by which residential mortgage loan originators would, to the greatest extent possible, be required to act in the best interests of the consumer.</P>
+        <P>(i) Facilitate responsible behavior in the mortgage marketplace and provide comprehensive training and examination requirements related to mortgage lending.</P>
+        <P>(j) Facilitate the collection and disbursement of consumer complaints on behalf of state and Federal mortgage regulators.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.303</SECTNO>
+        <SUBJECT>Financial reporting.</SUBJECT>
+        <P>To the extent that CSBS maintains the NMLSR, CSBS must annually provide to the Bureau, and the Bureau will annually collect and make available to the public, NMLSR financial statements, audited in accordance with Generally Accepted Accounting Principles (GAAP) promulgated by the Federal Accounting Standards Advisory Board, and other data. These financial statements and other data shall include, but not be limited to, the level and categories of funds received in relation to the NMLSR and how such funds are spent, including the aggregate total of funds paid for system development and improvements, the aggregate total of salaries and bonuses paid, the aggregate total of other administrative costs, and detail on other money spent, including money and interest paid to reimburse system investors or lenders, and a report of each state's activity with respect to the NMLSR, including the number of licensees, the state's financial commitment to the system, and the fees collected by the state through the NMLSR.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.305</SECTNO>
+        <SUBJECT>Data security.</SUBJECT>
+        <P>(a) To the extent that CSBS, AARMR, or their successors maintain the NMLSR, CSBS, AARMR, and their successors, as applicable, must complete a background check on their employees, contractors, or other persons who have access to loan originators' Social Security Numbers, fingerprints, or any credit reports collected by the system.</P>
+
+        <P>(b) To the extent that CSBS, AARMR, or their successors maintain the NMLSR, CSBS, AARMR, and their successors as applicable, must keep and adhere to an appropriate information security and privacy policy. If the NMLSR forms a reasonable belief that a security breach has occurred, it shall notify affected parties, as soon as practicable, including the Bureau, any loan originator or registrant whose data may have been compromised, and the <PRTPAGE P="253"/>employer of the loan originator or registrant, if such employer is also licensed through the system.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.307</SECTNO>
+        <SUBJECT>Fees.</SUBJECT>
+        <P>CSBS, AARMR, or the Bureau, as applicable, may charge reasonable fees to cover the costs of maintaining and providing access to information from the Nationwide Mortgage Licensing System and Registry. Fees shall not be charged to consumers for access to such system and registry. If the Bureau determines to charge fees, the fees to be charged shall be issued by notice with the opportunity for comment prior to any fees being charged.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.309</SECTNO>
+        <SUBJECT>Absence of liability for good-faith administration.</SUBJECT>
+        <P>The Bureau or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Bureau under 12 U.S.C. 5108 and in accordance with subpart C, or any officer or employee of the Bureau or the Bureau's designee, shall not be subject to any civil action or proceeding for monetary damages by reason of the good-faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.</P>
+      </SECTION>
+    </SUBPART>
+    <SUBPART>
+      <HD SOURCE="HED">Subpart E—Enforcement of the Bureau's Licensing System</HD>
+      <SECTION>
+        <SECTNO>§ 1008.401</SECTNO>
+        <SUBJECT>The Bureau's authority to examine loan originator records.</SUBJECT>
+        <P>(a) <E T="03">Summons authority.</E> The Bureau may:</P>
+        <P>(1) Examine any books, papers, records, or other data of any loan originator operating in any state which is subject to a licensing system established by the Bureau under subpart C of this part; and</P>
+        <P>(2) Summon any loan originator referred to in paragraph (a)(1) of this section or any person having possession, custody, or care of the reports and records relating to such loan originator, to appear before the Bureau at a time and place named in the summons and to produce such books, papers, records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation of such loan originator for compliance with the requirements of the S.A.F.E. Act.</P>
+        <P>(b) <E T="03">Examination authority</E>—(1) <E T="03">In general.</E> If the Bureau establishes a licensing system under 12 U.S.C. 5107 and in accordance with subpart C of this part for any state, the Bureau shall appoint examiners for the purposes of ensuring the appropriate administration of the Bureau's licensing system.</P>
+        <P>(2) <E T="03">Power to examine.</E> Any examiner appointed under paragraph (b)(1) of this section shall have power, on behalf of the Bureau, to make any examination of any loan originator operating in any state which is subject to a licensing system established by the Bureau under 12 U.S.C. 5107 and in accordance with subpart C of this part, whenever the Bureau determines that an examination of any loan originator is necessary to determine the compliance by the originator with minimum requirements of the S.A.F.E. Act.</P>
+        <P>(3) <E T="03">Report of examination.</E> Each Bureau examiner appointed under paragraph (b)(1) of this section shall make a full and detailed report to the Bureau of examination of any loan originator examined under this section.</P>
+        <P>(4) <E T="03">Administration of oaths and affirmations; evidence.</E> In connection with examinations of loan originators operating in any state which is subject to a licensing system established by the Bureau under 12 U.S.C. 5107, and in accordance with subpart C of this part, or with other types of investigations to determine compliance with applicable law and regulations, the Bureau and the examiners appointed by the Bureau may administer oaths and affirmations and examine and take and preserve testimony under oath as to any matter in respect to the affairs of any such loan originator.</P>
+        <P>(5) <E T="03">Assessments.</E> The cost of conducting any examination of any loan originator operating in any state which is subject to a licensing system established by the Bureau under 12 U.S.C 5107 and in accordance with subpart C of this part shall be assessed by the Bureau against the loan originator to <PRTPAGE P="254"/>meet the Director's expenses in carrying out such examination.</P>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.403</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+      </SECTION>
+      <SECTION>
+        <SECTNO>§ 1008.405</SECTNO>
+        <SUBJECT>[Reserved]</SUBJECT>
+      </SECTION>
+      <APPENDIX>
+        <EAR>Pt. 1008, App. A</EAR>
+        <HD SOURCE="HED">Appendix A to Part 1008—Examples of Mortgage Loan Originator Activities</HD>
+        <P>This Appendix provides examples to aid in the understanding of activities that would cause an individual to fall within or outside the definition of a mortgage loan originator under Part 1008. The examples in this Appendix are not all-inclusive. They illustrate only the issue described and do not illustrate any other issues that may arise. For purposes of the examples below, the term “loan” refers to a residential mortgage loan as defined in § 1008.23 of this part.</P>
+        <P>(a) <E T="03">Taking a Loan Application.</E> Taking a residential mortgage loan application within the meaning of § 1008.103(c)(1) means receipt by an individual, for the purpose of facilitating a decision whether to extend an offer of loan terms to a borrower or prospective borrower, of an application as defined in § 1008.23 (a request in any form for an offer, or a response to a solicitation of an offer, of residential mortgage loan terms, and the information about the borrower or prospective borrower that is customary or necessary in a decision whether to make such an offer).</P>
+        <P>(1) The following are examples to illustrate when an individual takes, or does not take, a loan application:</P>
+        <P>(i) An individual “takes a residential mortgage loan application” even if the individual:</P>
+        <P>(A) Has received the borrower or prospective borrower's request or information indirectly. Section 1008.103(c)(1) provides that an individual takes an application, whether he or she receives it “directly or indirectly” from the borrower or prospective borrower. This means that an individual who offers or negotiates residential mortgage loan terms for compensation or gain cannot avoid licensing requirements simply by having another person physically receive the application from the prospective borrower and then pass the application to the individual;</P>
+        <P>(B) Is not responsible for verifying information. The fact that an individual who takes application information from a borrower or prospective borrower is not responsible for verifying that information—for example, the individual is a mortgage broker who collects and sends that information to a lender—does not mean that the individual is not taking an application;</P>
+        <P>(C) Only inputs the information into an online application or other automated system; or</P>
+        <P>(D) Is not involved in approval of the loan, including determining whether the consumer qualifies for the loan. Similar to an individual who is not responsible for verification, an individual can still “take a residential mortgage loan application” even if he or she is not ultimately responsible for approving the loan. A mortgage broker, for example, can take a residential mortgage loan application even though it is passed on to a lender for a decision on whether the borrower qualifies for the loan and for the ultimate loan approval.</P>
+        <P>(ii) An individual does not take a loan application merely because the individual performs any of the following actions:</P>
+        <P>(A) Receives a loan application through the mail and forwards it, without review, to loan approval personnel. The Bureau interprets the term “takes a residential mortgage loan application” to exclude an individual whose only role with respect to the application is physically handling a completed application form or transmitting a completed form to a lender on behalf of a borrower or prospective borrower. This interpretation is consistent with the definition of “loan originator” in section 1503(3) of the S.A.F.E. Act.</P>
+        <P>(B) Assists a borrower or prospective borrower who is filling out an application by explaining the contents of the application and where particular borrower information is to be provided on the application;</P>
+        <P>(C) Generally describes for a borrower or prospective borrower the loan application process without a discussion of particular loan products; or</P>
+        <P>(D) In response to an inquiry regarding a prequalified offer that a borrower or prospective borrower has received from a lender, collects only basic identifying information about the borrower or prospective borrower on behalf of that lender.</P>
+        <P>(b) <E T="03">Offering or Negotiating Terms of a Loan.</E> The following examples are designed to illustrate when an individual offers or negotiates terms of a loan within the meaning of § 1008.103(c)(2) and, conversely, what does not constitute offering or negotiating terms of a loan:</P>
+        <P>(1) Offering or negotiating the terms of a loan includes:</P>
+        <P>(i) Presenting for consideration by a borrower or prospective borrower particular loan terms, whether verbally, in writing, or otherwise, even if:</P>
+        <P>(A) Further verification of information is necessary;</P>
+        <P>(B) The offer is conditional;</P>
+        <P>(C) Other individuals must complete the loan process;</P>
+        <P>(D) The individual lacks authority to negotiate the interest rate or other loan terms; or</P>
+        <P>(E) The individual lacks authority to bind the person that is the source of the prospective financing.</P>
+
+        <P>(ii) Communicating directly or indirectly with a borrower or prospective borrower for <PRTPAGE P="255"/>the purpose of reaching a mutual understanding about prospective residential mortgage loan terms, including responding to a borrower or prospective borrower's request for a different rate or different fees on a pending loan application by presenting to the borrower or prospective borrower a revised loan offer, even if a mutual understanding is not subsequently achieved.</P>
+        <P>(2) Offering or negotiating terms of a loan does not include any of the following activities:</P>
+
+        <P>(i) Providing general explanations or descriptions in response to consumer queries, such as explaining loan terminology (<E T="03">e.g.,</E> debt-to-income ratio) or lending policies (<E T="03">e.g.,</E> the loan-to-value ratio policy of the lender), or describing product-related services;</P>
+        <P>(ii) Arranging the loan closing or other aspects of the loan process, including by communicating with a borrower or prospective borrower about those arrangements, provided that any communication that includes a discussion about loan terms only verifies terms already agreed to by the borrower or prospective borrower;</P>
+        <P>(iii) Providing a borrower or prospective borrower with information unrelated to loan terms, such as the best days of the month for scheduling loan closings at the bank;</P>
+        <P>(iv) Making an underwriting decision about whether the borrower or prospective borrower qualifies for a loan;</P>
+        <P>(v) Explaining or describing the steps that a borrower or prospective borrower would need to take in order to obtain a loan offer, including providing general guidance about qualifications or criteria that would need to be met that is not specific to that borrower or prospective borrower's circumstances;</P>
+        <P>(vi) Communicating on behalf of a mortgage loan originator that a written offer has been sent to a borrower or prospective borrower without providing any details of that offer; or</P>
+        <P>(vii) Offering or negotiating loan terms solely through a third-party licensed loan originator, so long as the nonlicensed individual does not represent to the public that he or she can or will perform covered activities and does not communicate with the borrower or potential borrower. For example:</P>
+        <P>(A) A seller who provides financing to a purchaser of a dwelling owned by that seller in which the offer and negotiation of loan terms with the borrower or prospective borrower is conducted exclusively by a third-party licensed loan originator;</P>
+        <P>(B) An individual who works solely for a lender, when the individual offers loan terms exclusively to third-party licensed loan originators and not to borrowers or potential borrowers.</P>
+        <P>(c) <E T="03">For Compensation or Gain.</E> (1) An individual acts “for compensation or gain” within the meaning of § 1008.103(c)(2)(ii) if the individual receives or expects to receive in connection with the individual's activities anything of value, including, but not limited to, payment of a salary, bonus, or commission. The concept “anything of value” is interpreted broadly and is not limited only to payments that are contingent upon the closing of a loan.</P>
+        <P>(2) An individual does not act “for compensation or gain” if the individual acts as a volunteer without receiving or expecting to receive anything of value in connection with the individual's activities.</P>
+      </APPENDIX>
+      <APPENDIX>
+        <EAR>Pt. 1008, App. B</EAR>
+        <HD SOURCE="HED">Appendix B to Part 1008—Engaging in the Business of a Loan Originator: Commercial Context and Habitualness</HD>
+        <P>An individual who acts (or holds himself or herself out as acting) as a loan originator in a commercial context and with some degree of habitualness or repetition is considered to be “engage[d] in the business of a loan originator[.]” An individual who acts as a loan originator does so in a commercial context if the individual acts for the purpose of obtaining anything of value for himself or herself, or for an entity or individual for which the individual acts, rather than exclusively for public, charitable, or family purposes. The habitualness or repetition of the origination activities that is needed to “engage in the business of a loan originator” may be met either if the individual who acts as a loan originator does so with a degree of habitualness or repetition, or if the source of the prospective financing provides mortgage financing or performs other origination activities with a degree of habitualness or repetition. This Appendix provides examples to aid in the understanding of activities that would not constitute engaging in the business of a loan originator, such that an individual is not required to obtain and maintain a state mortgage loan originator license. The examples in this Appendix are not all-inclusive. They illustrate only the issue described and do not illustrate any other issues that may arise under part 1008. For purposes of the examples below, the term “loan” refers to a “residential mortgage loan” as defined in § 1008.23 of this part.</P>
+        <P>(a) <E T="03">Not Engaged in the Business of a Mortgage Loan Originator.</E> The following examples illustrate when an individual generally does not “engage in the business of a loan originator”:</P>
+
+        <P>(1) An individual who acts as a loan originator in providing financing for the sale of that individual's own residence, provided that the individual does not act as a loan originator or provide financing for such sales so frequently and under such circumstances that it constitutes a habitual and commercial activity.<PRTPAGE P="256"/>
+        </P>
+        <P>(2) An individual who acts as a loan originator in providing financing for the sale of a property owned by that individual, provided that such individual does not engage in such activity with habitualness.</P>
+        <P>(3) A parent who acts as a loan originator in providing loan financing to his or her child.</P>
+        <P>(4) An employee of a government entity who acts as a loan originator only pursuant to his or her official duties as an employee of that government entity, if all applicable conditions in § 1008.103(e)(6) of this part are met.</P>
+        <P>(5) If all applicable conditions in § 1008.103(e)(7) of this part are met, an employee of a nonprofit organization that has been determined to be a bona fide nonprofit organization by the state supervisory authority, when the employee acts as a loan originator pursuant to his or her duties as an employee of that organization.</P>
+        <P>(6) An individual who does not act as a loan originator habitually or repeatedly, provided that the source of prospective financing does not provide mortgage financing or perform other loan origination activities habitually or repeatedly.</P>
+      </APPENDIX>
+      <APPENDIX>
+        <EAR>Pt. 1008, App. C</EAR>
+        <HD SOURCE="HED">Appendix C to Part 1008—Independent Contractors and Loan Processor and Underwriter Activities That Require a State Mortgage Loan Originator License</HD>
+        <P>The examples below are designed to aid in the understanding of loan processing or underwriting activities for which an individual is required to obtain a S.A.F.E. Act-compliant mortgage loan originator license. The examples in this Appendix are not all-inclusive. They illustrate only the issue described and do not illustrate any other issues that may arise under part 1008. For purposes of the examples below, the term “loan” refers to a residential mortgage loan as defined in § 1008.23 of this part.</P>
+        <P>(a) An individual who is a loan processor or underwriter who must obtain and maintain a state loan originator license includes:</P>
+        <P>(1) Any individual who engages in the business of a loan originator, as defined in § 1008.103 of this part;</P>
+        <P>(2) Any individual who performs clerical or support duties and who is an independent contractor, as those terms are defined in § 1008.23;</P>
+        <P>(3) Any individual who collects, receives, distributes, or analyzes information in connection with the making of a credit decision and who is an independent contractor, as that term is defined in § 1008.23; and</P>
+        <P>(4) Any individual who communicates with a consumer to obtain information necessary for making a credit decision and who is an independent contractor, as that term is defined in § 1008.23.</P>
+        <P>(b) A state is not required to impose S.A.F.E. Act licensing requirements on any individual loan processor or underwriter who, for example:</P>
+        <P>(1) Performs only clerical or support duties (i.e., the loan processor's or underwriter's activities do not include, e.g., offering or negotiating loan rates or terms, or counseling borrowers or prospective borrowers about loan rates or terms), and who performs those clerical or support duties at the direction of and subject to the supervision and instruction of an individual who either: Is licensed and registered in accordance with § 1008.103(a) (state licensing of loan originators); or is not required to be licensed because he or she is excluded from the licensing requirement pursuant to § 1008.103(e)(2) (time-share exclusion), (e)(5)(federally registered loan originator), (e)(6) (government employees exclusion), or (e)(7) (nonprofit exclusion).</P>
+        <P>(2) Performs only clerical or support duties as an employee of a mortgage lender or mortgage brokerage firm, and who performs those duties at the direction of and subject to the supervision and instruction of an individual who is employed by the same employer and who is licensed in accordance with § 1008.103(a) (state licensing of loan originators).</P>
+        <P>(3) Is an employee of a loan processing or underwriting company that provides loan processing or underwriting services to one or more mortgage lenders or mortgage brokerage firms under a contract between the loan processing or underwriting company and the mortgage lenders or mortgage brokerage firms, provided the employee performs only clerical or support duties and performs those duties only at the direction of and subject to the supervision and instruction of a licensed loan originator employee of the same loan processing and underwriting company.</P>
+
+        <P>(4) Is an individual who does not otherwise perform the activities of a loan originator and is <E T="03">not</E> involved in the receipt, collection, distribution, or analysis of information common for the processing or underwriting of a residential mortgage loan, nor is in communication with the consumer to obtain such information.</P>
+
+        <P>(c) In order to conclude that an individual who performs clerical or support duties is doing so at the direction of and subject to the supervision and instruction of a loan originator who is licensed or registered in accordance with § 1008.103 (or, as applicable, an individual who is excluded from the licensing and registration requirements under § 1008.103(e)(2), (e)(6), or (e)(7)), there must be an actual nexus between the licensed or registered loan originator's (or excluded individual's) direction, supervision, and instruction and the loan processor or underwriter's activities. This actual nexus must be more <PRTPAGE P="257"/>than a nominal relationship on an organizational chart. For example, there is an actual nexus when:</P>
+        <P>(1) The supervisory licensed or registered loan originator assigns, authorizes, and monitors the loan processor or underwriter employee's performance of clerical and support duties.</P>
+        <P>(2) The supervisory licensed or registered loan originator exercises traditional supervisory responsibilities, including, but not limited to, the training, mentoring, and evaluation of the loan processor or underwriter employee.</P>
+      </APPENDIX>
+      <APPENDIX>
+        <EAR>Pt. 1008, App. D</EAR>
+        <HD SOURCE="HED">Appendix D to Part 1008—Attorneys: Circumstances That Require a State Mortgage Loan Originator License</HD>
+        <P>This Appendix D clarifies the circumstances in which the S.A.F.E. Act requires a licensed attorney who engages in loan origination activities to obtain a state loan originator license and registration. This special category recognizes limited, heavily regulated activities that meet strict criteria that are different from the criteria for specific exemptions from the S.A.F.E. Act requirements and the exclusions set forth in the regulations and illustrated in other appendices of part 1008.</P>
+        <P>(a) <E T="03">S.A.F.E. Act-compliant licensing required.</E> An individual who is a licensed attorney is required to be licensed if the individual is engaged in the business of a loan originator as defined in § 1008.103 and such loan origination activities are not all of the following:</P>
+        <P>(1) Considered by the state's court of last resort (or other state governing body responsible for regulating the practice of law) to be part of the authorized practice of law within the state;</P>
+        <P>(2) Carried out within an attorney-client relationship; and</P>
+        <P>(3) Accomplished by the attorney in compliance with all applicable laws, rules, ethics, and standards.</P>
+        <P>(b) <E T="03">S.A.F.E. Act-compliant licensing not required.</E> A licensed attorney performing activities that come within the definition of a loan originator is not required to be licensed, provided that such activities are:</P>
+        <P>(1) Considered by the state's court of last resort (or other state governing body responsible for regulating the practice of law) to be part of the authorized practice of law within the state;</P>
+        <P>(2) Carried out within an attorney-client relationship; and</P>
+        <P>(3) Accomplished by the attorney in compliance with all applicable laws, rules, ethics, and standards.</P>
+      </APPENDIX>
+    </SUBPART>
+  </PART>
+</CFRGRANULE>
