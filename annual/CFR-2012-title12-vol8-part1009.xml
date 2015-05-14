@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>DISCLOSURE REQUIREMENTS FOR DEPOSITORY INSTITUTIONS LACKING FEDERAL DEPOSIT INSURANCE (REGULATION I)</TITLE>
+    <GRANULENUM>1009</GRANULENUM>
+    <HEADING>PART 1009</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1009</EAR>
+    <HD SOURCE="HED">PART 1009—DISCLOSURE REQUIREMENTS FOR DEPOSITORY INSTITUTIONS LACKING FEDERAL DEPOSIT INSURANCE(REGULATION I)</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>1009.1</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <SECTNO>1009.2</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <SECTNO>1009.3</SECTNO>
+      <SUBJECT>Disclosures in periodic statements and account records.</SUBJECT>
+      <SECTNO>1009.4</SECTNO>
+      <SUBJECT>Disclosures in advertising and on the premises.</SUBJECT>
+      <SECTNO>1009.5</SECTNO>
+      <SUBJECT>Disclosure acknowledgment.</SUBJECT>
+      <SECTNO>1009.6</SECTNO>
+      <SUBJECT>Exception for certain depository institutions.</SUBJECT>
+      <SECTNO>1009.7</SECTNO>
+      <SUBJECT>Enforcement.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 1831t, 5512, 5581.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 78129, Dec. 16, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 1009.1</SECTNO>
+      <SUBJECT>Scope.</SUBJECT>
+      <P>This part, known as Regulation I, is issued by the Bureau of Consumer Financial Protection. This part applies to all depository institutions lacking Federal deposit insurance. It requires the disclosure of certain insurance-related information in periodic statements, account records, locations where deposits are normally received, and advertising. This part also requires such depository institutions to obtain a written acknowledgment from depositors regarding the institution's lack of Federal deposit insurance.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.2</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <P>For purposes of this part:</P>
+      <P>
+        <E T="03">Depository institution</E> means any bank or savings association as defined under 12 U.S.C. 1813, or any credit union organized and operated according to the laws of any state, the District of Columbia, the several territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, which laws provide for the organization of credit unions similar in principle and objectives to Federal credit unions.</P>
+      <P>
+        <E T="03">Lacking Federal deposit insurance</E> means the depository institution is neither an insured depository institution as defined in 12 U.S.C. 1813(c)(2), nor an insured credit union as defined in section 101 of the Federal Credit Union Act, 12 U.S.C. 1752.<PRTPAGE P="258"/>
+      </P>
+      <P>
+        <E T="03">Standard maximum deposit insurance amount</E> means the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.3</SECTNO>
+      <SUBJECT>Disclosures in periodic statements and account records.</SUBJECT>
+      <P>Depository institutions lacking Federal deposit insurance must include a notice disclosing clearly and conspicuously that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money, in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or share certificate. For example, a notice would comply with the requirement if it conspicuously stated: “[Institution's name] is not federally insured. If it fails, the Federal Government does not guarantee that you will get your money back.” The disclosures required by this section must be clear and conspicuous and presented in a simple and easy to understand format, type size, and manner.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.4</SECTNO>
+      <SUBJECT>Disclosures in advertising and on the premises.</SUBJECT>
+      <P>(a) <E T="03">Required disclosures.</E> Each depository institution lacking Federal deposit insurance must include a clear and conspicuous notice disclosing that the institution is not federally insured:</P>
+      <P>(1) At each station or window where deposits are normally received, its principal place of business and all its branches where it accepts deposits or opens accounts (excluding automated teller machines or point of sale terminals), and on its main internet page; and</P>
+      <P>(2) In all advertisements except as provided in paragraph (c) of this section.</P>
+      <P>(b) <E T="03">Format and type size.</E> The disclosures required by this section must be clear and conspicuous and presented in a simple and easy to understand format, type size, and manner.</P>
+      <P>(c) <E T="03">Exceptions.</E> The following need not include a notice that the institution is not federally insured:</P>
+      <P>(1) Any sign, document, or other item that contains the name of the depository institution, its logo, or its contact information, but only if the sign, document, or item does not include any information about the institution's products or services or information otherwise promoting the institution; and</P>
+      <P>(2) Small utilitarian items that do not mention deposit products or insurance, if inclusion of the notice would be impractical.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.5</SECTNO>
+      <SUBJECT>Disclosure acknowledgment.</SUBJECT>
+      <P>(a) <E T="03">New depositors obtained other than through a conversion or merger.</E> With respect to any depositor who was not a depositor at the depository institution on or before October 13, 2006, and who is not a depositor as described in paragraph (b) of this section, a depository institution lacking Federal deposit insurance may receive a deposit for the account of such depositor only if the institution has obtained the depositor's signed written acknowledgement that:</P>
+      <P>(1) The institution is not federally insured; and</P>
+      <P>(2) If the institution fails, the Federal Government does not guarantee that the depositor will get back the depositor's money.</P>
+      <P>(b) <E T="03">New depositors obtained through a conversion or merger.</E> With respect to a depositor at a federally insured depository institution that converts to, or merges into, a depository institution lacking Federal insurance after October 13, 2006, a depository institution lacking Federal deposit insurance may receive a deposit for the account of such depositor only if:</P>
+      <P>(1) The institution has obtained the depositor's signed written acknowledgement described in paragraph (a) of this section; or</P>
+      <P>(2) The institution makes an attempt, sent by mail no later than 45 days after the effective date of the conversion or merger, to obtain the acknowledgment. In making such an attempt, the institution must transmit to each depositor who has not signed and returned a written acknowledgement described in paragraph (a) of this section:</P>
+      <P>(i) A conspicuous card containing the information described in paragraphs (a)(1) and (2) of this section, and a line for the signature of the depositor; and</P>
+
+      <P>(ii) Accompanying materials requesting the depositor to sign the card, and <PRTPAGE P="259"/>return the signed card to the institution.</P>
+      <P>(c) <E T="03">Depositors obtained on or before October 13, 2006.</E> (1) Any depository institution lacking Federal deposit insurance may receive any deposit after October 13, 2006, for the account of a depositor who was a depositor on or before that date only if:</P>
+      <P>(i) The depositor has signed a written acknowledgement described in paragraph (a) of this section; or</P>
+      <P>(ii) The institution has transmitted to the depositor:</P>
+      <P>(A) A conspicuous card containing the information described in paragraphs (a)(1) and (2) of this section, and a line for the signature of the depositor; and</P>
+      <P>(B) Accompanying materials requesting that the depositor sign the card, and return the signed card to the institution.</P>
+      <P>(2) An institution described in paragraph (c)(1) of this section must have made the transmission described in paragraph (c)(1)(ii) of this section via mail not later than three months after October 13, 2006. The institution must have made a second identical transmission via mail not less than 30 days, and not more than three months, after the first transmission to the depositor in accordance with paragraph (c)(1)(ii) of this section, if the institution has not, by the date of such mailing, received from the depositor a card referred to in paragraph (c)(1)(i) of this section which has been signed by the depositor.</P>
+      <P>(d) <E T="03">Format and type size.</E> The disclosures required by this section must be clear and conspicuous and presented in a simple and easy to understand format, type size, and manner.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.6</SECTNO>
+      <SUBJECT>Exception for certain depository institutions.</SUBJECT>
+      <P>The requirements of this part do not apply to any depository institution lacking Federal deposit insurance and located within the United States that does not receive initial deposits of less than an amount equal to the standard maximum deposit insurance amount from individuals who are citizens or residents of the United States, other than money received in connection with any draft or similar instrument issued to transmit money.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1009.7</SECTNO>
+      <SUBJECT>Enforcement.</SUBJECT>
+
+      <P>Compliance with the requirements of this part shall be enforced under the Consumer Financial Protection Act of 2010, Public Law 111-203, Title X, 124 Stat. 1955, by the Bureau of Consumer Financial Protection, subject to subtitle B of the Consumer Financial Protection Act of 2010, and under the Federal Trade Commission Act, 15 U.S.C. 41 <E T="03">et seq,</E> by the Federal Trade Commission.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>

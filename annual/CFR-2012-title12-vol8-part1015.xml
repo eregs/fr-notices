@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>12</CFRTITLE>
+    <CFRTITLETEXT>Banks and Banking</CFRTITLETEXT>
+    <VOL>8</VOL>
+    <DATE>2012-01-01</DATE>
+    <ORIGINALDATE>2012-01-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>MORTGAGE ASSISTANCE RELIEF SERVICES (REGULATION O)</TITLE>
+    <GRANULENUM>1015</GRANULENUM>
+    <HEADING>PART 1015</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="Title 12" SEQ="1">Banks and Banking</PARENT>
+      <PARENT HEADING="CHAPTER X" SEQ="0">BUREAU OF CONSUMER FINANCIAL PROTECTION</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <PART>
+    <EAR>Pt. 1015</EAR>
+    <HD SOURCE="HED">PART 1015—MORTGAGE ASSISTANCE RELIEF SERVICES (REGULATION O)</HD>
+    <CONTENTS>
+      <SECHD>Sec.</SECHD>
+      <SECTNO>1015.1</SECTNO>
+      <SUBJECT>Scope of regulations in this part.</SUBJECT>
+      <SECTNO>1015.2</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <SECTNO>1015.3</SECTNO>
+      <SUBJECT>Prohibited representations.</SUBJECT>
+      <SECTNO>1015.4</SECTNO>
+      <SUBJECT>Disclosures required in commercial communications.</SUBJECT>
+      <SECTNO>1015.5</SECTNO>
+      <SUBJECT>Prohibition on collection of advance payments and related disclosures.</SUBJECT>
+      <SECTNO>1015.6</SECTNO>
+      <SUBJECT>Assisting and facilitating.</SUBJECT>
+      <SECTNO>1015.7</SECTNO>
+      <SUBJECT>Exemptions.</SUBJECT>
+      <SECTNO>1015.8</SECTNO>
+      <SUBJECT>Waiver not permitted.</SUBJECT>
+      <SECTNO>1015.9</SECTNO>
+      <SUBJECT>Recordkeeping and compliance requirements.</SUBJECT>
+      <SECTNO>1015.10</SECTNO>
+      <SUBJECT>Actions by states.</SUBJECT>
+      <SECTNO>1015.11</SECTNO>
+      <SUBJECT>Severability.</SUBJECT>
+    </CONTENTS>
+    <AUTH>
+      <HD SOURCE="HED">Authority:</HD>
+      <P>12 U.S.C. 5512, 5581; 15 U.S.C. 1638 note.</P>
+    </AUTH>
+    <SOURCE>
+      <HD SOURCE="HED">Source:</HD>
+      <P>76 FR 78133, Dec. 16, 2011, unless otherwise noted.</P>
+    </SOURCE>
+    <SECTION>
+      <SECTNO>§ 1015.1</SECTNO>
+      <SUBJECT>Scope of regulations in this part.</SUBJECT>
+
+      <P>This part, known as Regulation O, is issued by the Bureau of Consumer Financial Protection to implement the 2009 Omnibus Appropriations Act, Public Law 111-8, section 626, 123 Stat. 524 (Mar. 11, 2009), as clarified by the Credit Card Accountability Responsibility and Disclosure Act of 2009, Public Law 111-24, section 511, 123 Stat. 1734 (May 22, 2009), and as amended by the Dodd-Frank Wall Street Reform and Consumer Financial Protection Act of 2010, Public Law 111-203, section 1097, 124 Stat. 1376 (July 21, 2010). <E T="03">This part applies to persons over which the Federal Trade Commission has jurisdiction under the Federal Trade Commission Act.</E>
+      </P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.2</SECTNO>
+      <SUBJECT>Definitions.</SUBJECT>
+      <P>For the purposes of this part:</P>
+      <P>
+        <E T="03">Clear and prominent</E> means:</P>
+      <P>(1) In textual communications, the required disclosures shall be easily readable; in a high degree of contrast from the immediate background on which it appears; in the same languages that are substantially used in the commercial communication; in a format so that the disclosure is distinct from other text, such as inside a border; in a distinct type style, such as bold; parallel to the base of the commercial communication, and, except as otherwise provided in this rule, each letter of the disclosure shall be, at a minimum, the larger of 12-point type or one-half the size of the largest letter or numeral used in the name of the advertised Web site or telephone number to which consumers are referred to receive information relating to any mortgage assistance relief service. Textual communications include any communications in a written or printed form such as print publications or words displayed on the screen of a computer;</P>
+      <P>(2) In communications disseminated orally or through audible means, such as radio or streaming audio, the required disclosures shall be delivered in a slow and deliberate manner and in a reasonably understandable volume and pitch;</P>
+      <P>(3) In communications disseminated through video means, such as television or streaming video, the required disclosures shall appear simultaneously in the audio and visual parts of the commercial communication and be delivered in a manner consistent with paragraphs (1) and (2) of this definition. The visual disclosure shall be at least four percent of the vertical picture or screen height and appear for the duration of the oral disclosure;</P>
+      <P>(4) In communications made through interactive media, such as the internet, online services, and software, the required disclosures shall:</P>
+      <P>(i) Be consistent with paragraphs (1) through (3) of this definition;</P>
+      <P>(ii) Be made on, or immediately prior to, the page on which the consumer takes any action to incur any financial obligation;</P>
+      <P>(iii) Be unavoidable, <E T="03">i.e.,</E> visible to consumers without requiring them to scroll down a Web page; and<PRTPAGE P="355"/>
+      </P>
+      <P>(iv) Appear in type at least the same size as the largest character of the advertisement;</P>
+      <P>(5) In all instances, the required disclosures shall be presented in an understandable language and syntax, and with nothing contrary to, inconsistent with, or in mitigation of the disclosures used in any communication of them; and</P>
+      <P>(6) For program-length television, radio, or internet-based multimedia commercial communications, the required disclosures shall be made at the beginning, near the middle, and at the end of the commercial communication.</P>
+      <P>
+        <E T="03">Client trust account</E> means a separate account created by a licensed attorney for the purpose of holding client funds, which is:</P>
+      <P>(1) Maintained in compliance with all applicable state laws and regulations, including licensing regulations; and</P>
+      <P>(2) Located in the state where the attorney's office is located, or elsewhere in the United States with the consent of the consumer on whose behalf the funds are held.</P>
+      <P>
+        <E T="03">Commercial communication</E> means any written or oral statement, illustration, or depiction, whether in English or any other language, that is designed to effect a sale or create interest in purchasing any service, plan, or program, whether it appears on or in a label, package, package insert, radio, television, cable television, brochure, newspaper, magazine, pamphlet, leaflet, circular, mailer, book insert, free standing insert, letter, catalogue, poster, chart, billboard, public transit card, point of purchase display, film, slide, audio program transmitted over a telephone system, telemarketing script, onhold script, upsell script, training materials provided to telemarketing firms, program-length commercial (“infomercial”), the internet, cellular network, or any other medium. Promotional materials and items and Web pages are included in the term “commercial communication.”</P>
+      <P>(1) <E T="03">General Commercial Communication</E> means a commercial communication that occurs prior to the consumer agreeing to permit the provider to seek offers of mortgage assistance relief on behalf of the consumer, or otherwise agreeing to use the mortgage assistance relief service, and that is not directed at a specific consumer.</P>
+      <P>(2) <E T="03">Consumer-Specific Commercial Communication</E> means a commercial communication that occurs prior to the consumer agreeing to permit the provider to seek offers of mortgage assistance relief on behalf of the consumer, or otherwise agreeing to use the mortgage assistance relief service, and that is directed at a specific consumer.</P>
+      <P>
+        <E T="03">Consumer</E> means any natural person who is obligated under any loan secured by a dwelling.</P>
+      <P>
+        <E T="03">Dwelling</E> means a residential structure containing four or fewer units, whether or not that structure is attached to real property, that is primarily for personal, family, or household purposes. The term includes any of the following if used as a residence: An individual condominium unit, cooperative unit, mobile home, manufactured home, or trailer.</P>
+      <P>
+        <E T="03">Dwelling loan</E> means any loan secured by a dwelling, and any associated deed of trust or mortgage.</P>
+      <P>
+        <E T="03">Dwelling Loan Holder</E> means any individual or entity who holds the dwelling loan that is the subject of the offer to provide mortgage assistance relief services.</P>
+      <P>
+        <E T="03">Material</E> means likely to affect a consumer's choice of, or conduct regarding, any mortgage assistance relief service.</P>
+      <P>
+        <E T="03">Mortgage Assistance Relief Service</E> means any service, plan, or program, offered or provided to the consumer in exchange for consideration, that is represented, expressly or by implication, to assist or attempt to assist the consumer with any of the following:</P>
+      <P>(1) Stopping, preventing, or postponing any mortgage or deed of trust foreclosure sale for the consumer's dwelling, any repossession of the consumer's dwelling, or otherwise saving the consumer's dwelling from foreclosure or repossession;</P>
+      <P>(2) Negotiating, obtaining, or arranging a modification of any term of a dwelling loan, including a reduction in the amount of interest, principal balance, monthly payments, or fees;</P>
+
+      <P>(3) Obtaining any forbearance or modification in the timing of payments from any dwelling loan holder or servicer on any dwelling loan;<PRTPAGE P="356"/>
+      </P>
+      <P>(4) Negotiating, obtaining, or arranging any extension of the period of time within which the consumer may:</P>
+      <P>(i) Cure his or her default on a dwelling loan,</P>
+      <P>(ii) Reinstate his or her dwelling loan,</P>
+      <P>(iii) Redeem a dwelling, or</P>
+      <P>(iv) Exercise any right to reinstate a dwelling loan or redeem a dwelling;</P>
+      <P>(5) Obtaining any waiver of an acceleration clause or balloon payment contained in any promissory note or contract secured by any dwelling; or</P>
+      <P>(6) Negotiating, obtaining or arranging:</P>
+      <P>(i) A short sale of a dwelling,</P>
+      <P>(ii) A deed-in-lieu of foreclosure, or</P>
+      <P>(iii) Any other disposition of a dwelling other than a sale to a third party who is not the dwelling loan holder.</P>
+      <P>
+        <E T="03">Mortgage Assistance Relief Service Provider</E> or <E T="03">Provider</E> means any person that provides, offers to provide, or arranges for others to provide, any mortgage assistance relief service. This term does not include:</P>
+      <P>(1) The dwelling loan holder, or any agent or contractor of such individual or entity.</P>
+      <P>(2) The servicer of a dwelling loan, or any agent or contractor of such individual or entity.</P>
+      <P>
+        <E T="03">Person</E> means any individual, group, unincorporated association, limited or general partnership, corporation, or other business entity, except to the extent that any person is specifically excluded from the Federal Trade Commission's jurisdiction pursuant to 15 U.S.C. 44 and 45(a)(2).</P>
+      <P>
+        <E T="03">Servicer</E> means the individual or entity responsible for:</P>
+      <P>(1) Receiving any scheduled periodic payments from a consumer pursuant to the terms of the dwelling loan that is the subject of the offer to provide mortgage assistance relief services, including amounts for escrow accounts under section 10 of the Real Estate Settlement Procedures Act (12 U.S.C. 2609); and</P>
+      <P>(2) Making the payments of principal and interest and such other payments with respect to the amounts received from the consumer as may be required pursuant to the terms of the mortgage servicing loan documents or servicing contract.</P>
+      <P>
+        <E T="03">Telemarketing</E> means a plan, program, or campaign which is conducted to induce the purchase of any service, by use of one or more telephones and which involves more than one interstate telephone call.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.3</SECTNO>
+      <SUBJECT>Prohibited representations.</SUBJECT>
+      <P>It is a violation of this rule for any mortgage assistance relief service provider to engage in the following conduct:</P>
+      <P>(a) Representing, expressly or by implication, in connection with the advertising, marketing, promotion, offering for sale, sale, or performance of any mortgage assistance relief service, that a consumer cannot or should not contact or communicate with his or her lender or servicer.</P>
+      <P>(b) Misrepresenting, expressly or by implication, any material aspect of any mortgage assistance relief service, including but not limited to:</P>
+
+      <P>(1) The likelihood of negotiating, obtaining, or arranging any represented service or result, such as those set forth in the definition of <E T="03">Mortgage Assistance Relief Service</E> in § 1015.2;</P>
+
+      <P>(2) The amount of time it will take the mortgage assistance relief service provider to accomplish any represented service or result, such as those set forth in the definition of <E T="03">Mortgage Assistance Relief Service</E> in § 1015.2;</P>
+      <P>(3) That a mortgage assistance relief service is affiliated with, endorsed or approved by, or otherwise associated with:</P>
+      <P>(i) The United States government,</P>
+      <P>(ii) Any governmental homeowner assistance plan,</P>
+      <P>(iii) Any Federal, State, or local government agency, unit, or department,</P>
+      <P>(iv) Any nonprofit housing counselor agency or program,</P>
+      <P>(v) The maker, holder, or servicer of the consumer's dwelling loan, or</P>
+      <P>(vi) Any other individual, entity, or program;</P>
+      <P>(4) The consumer's obligation to make scheduled periodic payments or any other payments pursuant to the terms of the consumer's dwelling loan;</P>
+
+      <P>(5) The terms or conditions of the consumer's dwelling loan, including but not limited to the amount of debt owed;<PRTPAGE P="357"/>
+      </P>
+      <P>(6) The terms or conditions of any refund, cancellation, exchange, or repurchase policy for a mortgage assistance relief service, including but not limited to the likelihood of obtaining a full or partial refund, or the circumstances in which a full or partial refund will be granted, for a mortgage assistance relief service;</P>
+      <P>(7) That the mortgage assistance relief service provider has completed the represented services or has a right to claim, demand, charge, collect, or receive payment or other consideration;</P>
+      <P>(8) That the consumer will receive legal representation;</P>
+      <P>(9) The availability, performance, cost, or characteristics of any alternative to for-profit mortgage assistance relief services through which the consumer can obtain mortgage assistance relief, including negotiating directly with the dwelling loan holder or servicer, or using any nonprofit housing counselor agency or program;</P>
+      <P>(10) The amount of money or the percentage of the debt amount that a consumer may save by using the mortgage assistance relief service;</P>
+      <P>(11) The total cost to purchase the mortgage assistance relief service; or</P>
+      <P>(12) The terms, conditions, or limitations of any offer of mortgage assistance relief the provider obtains from the consumer's dwelling loan holder or servicer, including the time period in which the consumer must decide to accept the offer;</P>
+
+      <P>(c) Making a representation, expressly or by implication, about the benefits, performance, or efficacy of any mortgage assistance relief service unless, at the time such representation is made, the provider possesses and relies upon competent and reliable evidence that substantiates that the representation is true. For the purposes of this paragraph, <E T="03">competent and reliable evidence</E> means tests, analyses, research, studies, or other evidence based on the expertise of professionals in the relevant area, that have been conducted and evaluated in an objective manner by individuals qualified to do so, using procedures generally accepted in the profession to yield accurate and reliable results.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.4</SECTNO>
+      <SUBJECT>Disclosures required in commercial communications.</SUBJECT>
+      <P>It is a violation of this rule for any mortgage assistance relief service provider to engage in the following conduct:</P>
+      <P>(a) <E T="03">Disclosures in All General Commercial Communications</E>—Failing to place the following statements in every general commercial communication for any mortgage assistance relief service:</P>
+      <P>(1) “(Name of company) is not associated with the government, and our service is not approved by the government or your lender.”</P>
+
+      <P>(2) In cases where the mortgage assistance relief service provider has represented, expressly or by implication, that consumers will receive any service or result set forth in paragraphs (2) through (6) of the definition of <E T="03">Mortgage Assistance Relief Service</E> in § 1015.2, “Even if you accept this offer and use our service, your lender may not agree to change your loan.”</P>
+      <P>(3) The disclosures required by this paragraph must be made in a clear and prominent manner, and—</P>
+      <P>(i) In textual communications the disclosures must appear together and be preceded by the heading “IMPORTANT NOTICE,” which must be in bold face font that is two point-type larger than the font size of the required disclosures; and</P>
+      <P>(ii) In communications disseminated orally or through audible means, wholly or in part, the audio component of the required disclosures must be preceded by the statement “Before using this service, consider the following information.”</P>
+      <P>(b) <E T="03">Disclosures in All Consumer-Specific Commercial Communications</E>—Failing to disclose the following information in every consumer-specific commercial communication for any mortgage assistance relief service:</P>
+
+      <P>(1) “You may stop doing business with us at any time. You may accept or reject the offer of mortgage assistance we obtain from your lender [or servicer]. If you reject the offer, you do not have to pay us. If you accept the offer, you will have to pay us (insert amount or method for calculating the amount) for our services.” For the purposes of this paragraph (b)(1), the amount “you will have to pay” shall <PRTPAGE P="358"/>consist of the total amount the consumer must pay to purchase, receive, and use all of the mortgage assistance relief services that are the subject of the sales offer, including, but not limited to, all fees and charges.</P>
+      <P>(2) “(Name of company) is not associated with the government, and our service is not approved by the government or your lender.”</P>
+
+      <P>(3) In cases where the mortgage assistance relief service provider has represented, expressly or by implication, that consumers will receive any service or result set forth in paragraphs (2) through (6) of the definition of <E T="03">Mortgage Assistance Relief Service</E> in § 1015.2, “Even if you accept this offer and use our service, your lender may not agree to change your loan.”</P>
+      <P>(4) The disclosures required by this paragraph must be made in a clear and prominent manner, and—</P>
+      <P>(i) In textual communications the disclosures must appear together and be preceded by the heading “IMPORTANT NOTICE,” which must be in bold face font that is two point-type larger than the font size of the required disclosures; and</P>
+      <P>(ii) In communications disseminated orally or through audible means, wholly or in part, the audio component of the required disclosures must be preceded by the statement “Before using this service, consider the following information” and, in telephone communications, must be made at the beginning of the call.</P>
+      <P>(c) <E T="03">Disclosures in All General Commercial Communications, Consumer-Specific Commercial Communications, and Other Communications</E>—In cases where the mortgage assistance relief service provider has represented, expressly or by implication, in connection with the advertising, marketing, promotion, offering for sale, sale, or performance of any mortgage assistance relief service, that the consumer should temporarily or permanently discontinue payments, in whole or in part, on a dwelling loan, failing to disclose, clearly and prominently, and in close proximity to any such representation that “If you stop paying your mortgage, you could lose your home and damage your credit rating.”</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.5</SECTNO>
+      <SUBJECT>Prohibition on collection of advance payments and related disclosures.</SUBJECT>
+      <P>It is a violation of this rule for any mortgage assistance relief service provider to:</P>
+      <P>(a) Request or receive payment of any fee or other consideration until the consumer has executed a written agreement between the consumer and the consumer's dwelling loan holder or servicer incorporating the offer of mortgage assistance relief the provider obtained from the consumer's dwelling loan holder or servicer;</P>
+      <P>(b) Fail to disclose, at the time the mortgage assistance relief service provider furnishes the consumer with the written agreement specified in paragraph (a) of this section, the following information: “This is an offer of mortgage assistance we obtained from your lender [or servicer]. You may accept or reject the offer. If you reject the offer, you do not have to pay us. If you accept the offer, you will have to pay us [same amount as disclosed pursuant to § 1015.4(b)(1)] for our services.” The disclosure required by this paragraph must be made in a clear and prominent manner, on a separate written page, and preceded by the heading: “IMPORTANT NOTICE: Before buying this service, consider the following information.” The heading must be in bold face font that is two point-type larger than the font size of the required disclosure; or</P>
+      <P>(c)(1) Fail to provide, at the time the mortgage assistance relief service provider furnishes the consumer with the written agreement specified in paragraph (a) of this section, a notice from the consumer's dwelling loan holder or servicer that describes all material differences between the terms, conditions, and limitations associated with the consumer's current mortgage loan and the terms, conditions, and limitations associated with the consumer's mortgage loan if he or she accepts the dwelling loan holder's or servicer's offer, including but not limited to differences in the loan's:</P>
+      <P>(i) Principal balance;</P>
+
+      <P>(ii) Contract interest rate, including the maximum rate and any adjustable rates, if applicable;<PRTPAGE P="359"/>
+      </P>
+      <P>(iii) Amount and number of the consumer's scheduled periodic payments on the loan;</P>
+      <P>(iv) Monthly amounts owed for principal, interest, taxes, and any mortgage insurance on the loan;</P>
+      <P>(v) Amount of any delinquent payments owing or outstanding;</P>
+      <P>(vi) Assessed fees or penalties; and</P>
+      <P>(vii) Term.</P>
+      <P>(2) The notice must be made in a clear and prominent manner, on a separate written page, and preceded by heading: “IMPORTANT INFORMATION FROM YOUR [name of lender or servicer] ABOUT THIS OFFER.” The heading must be in bold face font that is two-point-type larger than the font size of the required disclosure.</P>
+      <P>(d) Fail to disclose in the notice specified in paragraph (c) of this section, in cases where the offer of mortgage assistance relief the provider obtained from the consumer's dwelling loan holder or servicer is a trial mortgage loan modification, the terms, conditions, and limitations of this offer, including but not limited to:</P>
+      <P>(1) The fact that the consumer may not qualify for a permanent mortgage loan modification; and</P>
+      <P>(2) The likely amount of the scheduled periodic payments and any arrears, payments, or fees that the consumer would owe in failing to qualify.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.6</SECTNO>
+      <SUBJECT>Assisting and facilitating.</SUBJECT>
+      <P>It is a violation of this rule for a person to provide substantial assistance or support to any mortgage assistance relief service provider when that person knows or consciously avoids knowing that the provider is engaged in any act or practice that violates this rule.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.7</SECTNO>
+      <SUBJECT>Exemptions.</SUBJECT>
+      <P>(a) An attorney is exempt from this part, with the exception of § 1015.5, if the attorney:</P>
+      <P>(1) Provides mortgage assistance relief services as part of the practice of law;</P>
+      <P>(2) Is licensed to practice law in the state in which the consumer for whom the attorney is providing mortgage assistance relief services resides or in which the consumer's dwelling is located; and</P>
+      <P>(3) Complies with state laws and regulations that cover the same type of conduct the rule requires.</P>
+      <P>(b) An attorney who is exempt pursuant to paragraph (a) of this section is also exempt from § 1015.5 if the attorney:</P>
+      <P>(1) Deposits any funds received from the consumer prior to performing legal services in a client trust account; and</P>
+      <P>(2) Complies with all state laws and regulations, including licensing regulations, applicable to client trust accounts.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.8</SECTNO>
+      <SUBJECT>Waiver not permitted.</SUBJECT>
+      <P>It is a violation of this rule for any person to obtain, or attempt to obtain, a waiver from any consumer of any protection provided by or any right of the consumer under this rule.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.9</SECTNO>
+      <SUBJECT>Recordkeeping and compliance requirements.</SUBJECT>
+      <P>(a) Any mortgage assistance relief provider must keep, for a period of twenty-four (24) months from the date the record is created, the following records:</P>
+      <P>(1) All contracts or other agreements between the provider and any consumer for any mortgage assistance relief service;</P>
+      <P>(2) Copies of all written communications between the provider and any consumer occurring prior to the date on which the consumer entered into an agreement with the provider for any mortgage assistance relief service;</P>
+      <P>(3) Copies of all documents or telephone recordings created in connection with compliance with paragraph (b) of this section;</P>
+      <P>(4) All consumer files containing the names, phone numbers, dollar amounts paid, and descriptions of mortgage assistance relief services purchased, to the extent the mortgage assistance relief service provider keeps such information in the ordinary course of business;</P>
+
+      <P>(5) Copies of all materially different sales scripts, training materials, commercial communications, or other marketing materials, including Web sites and weblogs, for any mortgage assistance relief service; and<PRTPAGE P="360"/>
+      </P>
+      <P>(6) Copies of the documentation provided to the consumer as specified in § 1015.5 of this rule;</P>
+      <P>(b) A mortgage assistance relief service provider also must:</P>
+      <P>(1) Take reasonable steps sufficient to monitor and ensure that all employees and independent contractors comply with this rule. Such steps shall include the monitoring of communications directed at specific consumers, and shall also include, at a minimum, the following:</P>
+      <P>(i) If the mortgage assistance relief service provider is engaged in the telemarketing of mortgage assistance relief services, performing random, blind recording and testing of the oral representations made by individuals engaged in sales or other customer service functions;</P>
+      <P>(ii) Establishing a procedure for receiving and responding to all consumer complaints; and</P>
+      <P>(iii) Ascertaining the number and nature of consumer complaints regarding transactions in which all employees and independent contractors are involved;</P>
+      <P>(2) Investigate promptly and fully each consumer complaint received;</P>
+      <P>(3) Take corrective action with respect to any employee or contractor whom the mortgage assistance relief service provider determines is not complying with this rule, which may include training, disciplining, or terminating such individual; and</P>
+      <P>(4) Maintain any information and material necessary to demonstrate its compliance with paragraphs (b)(1) through (3) of this section.</P>
+      <P>(c) A mortgage assistance relief provider may keep the records required by paragraphs (a) and (b) of this section in any form, and in the same manner, format, or place as it keeps such records in the ordinary course of business.</P>
+      <P>(d) It is a violation of this rule for a mortgage assistance relief service provider not to comply with this section.</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.10</SECTNO>
+      <SUBJECT>Actions by states.</SUBJECT>
+      <P>Any attorney general or other officer of a state authorized by the state to bring an action under this part may do so pursuant to section 626(b) of the 2009 Omnibus Appropriations Act, Public Law 111-8, section 626, 123 Stat. 524 (Mar. 11, 2009), as amended by Public Law 111-24, section 511, 123 Stat. 1734 (May 22, 2009), and as amended by Public Law 111-203, section 1097, 124 Stat. 2102 (July 21, 2010).</P>
+    </SECTION>
+    <SECTION>
+      <SECTNO>§ 1015.11</SECTNO>
+      <SUBJECT>Severability.</SUBJECT>
+      <P>The provisions of this rule are separate and severable from one another. If any provision is stayed or determined to be invalid, it is the Bureau of Consumer Financial Protection's intention that the remaining provisions shall continue in effect.</P>
+    </SECTION>
+  </PART>
+</CFRGRANULE>
