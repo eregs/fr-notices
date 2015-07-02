@@ -217,8 +217,6 @@
       <EAR>Pt. 1013, App. A</EAR>
       <HD SOURCE="HED">Appendix A to Part 1013—Model Forms</HD>
       <FP SOURCE="FP-2">A-1—Model Open-End or Finance Vehicle Lease Disclosures</FP>
-      <FP SOURCE="FP-2">A-2—Model Closed-End or Net Vehicle Lease Disclosures</FP>
-      <FP SOURCE="FP-2">A-3—Model Furniture Lease Disclosures</FP>
       <GPH DEEP="457" SPAN="2">
         <PRTPAGE P="333"/>
         <GID>ER19DE11.010</GID>
@@ -227,6 +225,7 @@
         <PRTPAGE P="334"/>
         <GID>ER19DE11.011</GID>
       </GPH>
+      <FP SOURCE="FP-2">A-2—Model Closed-End or Net Vehicle Lease Disclosures</FP>
       <GPH DEEP="456" SPAN="2">
         <PRTPAGE P="335"/>
         <GID>ER19DE11.012</GID>
@@ -235,6 +234,7 @@
         <PRTPAGE P="336"/>
         <GID>ER19DE11.013</GID>
       </GPH>
+      <FP SOURCE="FP-2">A-3—Model Furniture Lease Disclosures</FP>
       <GPH DEEP="454" SPAN="2">
         <PRTPAGE P="337"/>
         <GID>ER19DE11.014</GID>
