@@ -1,0 +1,626 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Parts 1024 and 1026</CFR>
+        <DEPDOC>[Docket No. CFPB-2013-0031]</DEPDOC>
+        <RIN>RIN 3170-AA37</RIN>
+        <SUBJECT>Amendments to the 2013 Mortgage Rules Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Interim final rule with request for public comment.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>This rule amends provisions in Regulation Z and final rules issued by the Bureau of Consumer Financial Protection (Bureau) in 2013, which, among other things, required that consumers receive counseling before obtaining high-cost mortgages and that servicers provide periodic account statements and rate adjustment notices to mortgage borrowers, as well as engage in early intervention when borrowers become delinquent. The amendments clarify the specific disclosures that must be provided before counseling for high-cost mortgages can occur, and proper compliance regarding servicing requirements when a consumer is in bankruptcy or sends a cease communication request under the Fair Debt Collection Practices Act. The rule also makes technical corrections to provisions of other rules. The Bureau requests public comment on these changes.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This interim final rule is effective January 10, 2014. Comments must be received on or before November 22, 2013.</P>
+        </EFFDATE>
+        <ADD>
+          <PRTPAGE P="62994"/>
+          <HD SOURCE="HED">ADDRESSES:</HD>
+          <P>You may submit comments, identified by Docket No. CFPB-2013-0031 or RIN 3170-AA37, by any of the following methods:</P>
+          <P>&#x2022;<E T="03">Electronic: http://www.regulations.gov.</E>Follow the instructions for submitting comments.</P>
+          <P>&#x2022;<E T="03">Mail/Hand Delivery/Courier:</E>Monica Jackson, Office of the Executive Secretary, Consumer Financial Protection Bureau, 1700 G Street NW., Washington, DC 20552.</P>
+          <P>
+            <E T="03">Instructions:</E>All submissions should include the agency name and docket number or Regulatory Information Number (RIN) for this rulemaking. Because paper mail in the Washington, DC area and at the Bureau is subject to delay, commenters are encouraged to submit comments electronically. In general, all comments received will be posted without change to<E T="03">http://www.regulations.gov.</E>In addition, comments will be available for public inspection and copying at 1700 G Street NW., Washington, DC 20552, on official business days between the hours of 10 a.m. and 5 p.m. Eastern Time. You can make an appointment to inspect the documents by telephoning (202) 435-7275.</P>
+          <P>All comments, including attachments and other supporting materials, will become part of the public record and subject to public disclosure. Sensitive personal information, such as account numbers or social security numbers, should not be included. Comments will not be edited to remove any identifying or contact information.</P>
+        </ADD>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Joseph Devlin, Counsel; Laura Johnson, Nicholas Hluchyj, and Marta Tanenhaus, Senior Counsels; Office of Regulations, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Summary of Interim Final Rule</HD>
+        <P>In January 2013, the Bureau issued several final rules concerning mortgage markets in the United States pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) Public Law 111-203, 124 Stat. 1376 (2010) (2013 Title XIV Final Rules). Three of these rules were (1) the Mortgage Servicing Rules under the Real Estate Settlement Procedures Act (Regulation X) (2013 RESPA Servicing Final Rule);<SU>1</SU>
+          <FTREF/>(2) the Mortgage Servicing Rules under the Truth in Lending Act (Regulation Z) (2013 TILA Servicing Final Rule);<SU>2</SU>
+          <FTREF/>and (3) the High-Cost Mortgage and Homeownership Counseling Amendments to the Truth in Lending Act (Regulation Z) and Homeownership Counseling Amendments to the Real Estate Settlement Procedures Act (Regulation X) (2013 HOEPA Final Rule).<SU>3</SU>
+          <FTREF/>The 2013 TILA Servicing Final Rule and the 2013 RESPA Servicing Final Rule are referred to collectively as the 2013 Mortgage Servicing Final Rules.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>78 FR 10695 (Feb. 14, 2013).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>78 FR 10901 (Feb. 14, 2013).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>3</SU>78 FR 6855 (Jan. 31, 2013).</P>
+        </FTNT>
+        <P>The Bureau is clarifying compliance requirements in relation to bankruptcy law and the Fair Debt Collection Practices Act (FDCPA) through this rule and through a contemporaneous compliance bulletin.<SU>4</SU>
+          <FTREF/>Bankruptcy law and the FDCPA both provide significant protections for consumers, and each strictly limits communications with consumers in certain circumstances. The Bureau has received a large number of questions from servicers about how the servicing rules intersect with the other two bodies of law generally and in particular on how to communicate effectively with borrowers in light of their status in bankruptcy. While the Bureau believes that some of these questions can be resolved by interpretations now, it has also concluded that further analysis and study are required to resolve other issues that cannot be completed before the 2013 Mortgage Servicing Final Rules take effect. In those cases, the Bureau is creating narrow exemptions from the servicing rules to allow time to complete the additional analysis.</P>
+        <FTNT>
+          <P>
+            <SU>4</SU>CFPB Bulletin 2013-12,<E T="03">available at http://files.consumerfinance.gov/f/201310_cfpb_mortgage-servicing_bulletin.pdf.</E>
+          </P>
+        </FTNT>
+        <P>Specifically, the Bulletin confirms that servicers must comply with certain requirements of the Dodd-Frank Act and respond to certain borrower communications in accordance with the Bureau's servicing rules even after a borrower has sent a cease communication request under the FDCPA. The Bulletin provides a safe harbor from liability under the FDCPA with regard to such communications. Separately in this rule, the Bureau is providing exemptions for two other servicing communications that are not specifically mandated by statute&#x2014;the requirement in &#xA7; 1026.20(c) for a notice of rate change for adjustable-rate mortgages (ARMs) and the early intervention requirements in &#xA7; 1024.39&#x2014;when a borrower has properly invoked the FDCPA's cease communication protections. The Bureau expects to explore the potential utility and application of such requirements in comparison to the FDCPA protections in a broader debt collection rulemaking. The interim final rule also exempts servicers from the early intervention requirements in &#xA7; 1024.39 and from the periodic statement requirements under 12 CFR 1026.41 for borrowers while they are in bankruptcy. Again, the Bureau intends to engage in further analysis of how these servicing requirements intersect with bankruptcy law and how to ensure that servicer communications do not confuse borrowers regarding their status.</P>
+        <P>This interim final rule also amends the 2013 HOEPA Final Rule by clarifying which federally required disclosure must be used in counseling under 12 CFR 1026.34(a)(5) for a closed-end HOEPA loan not subject to the Real Estate Settlement Procedures Act (RESPA). The rule replaces language that could have been read to require provision of the Good Faith Estimate (GFE) or successor disclosure under RESPA, which are not required for transactions not covered by RESPA, and instead clarifies that counseling may be based on the HOEPA disclosures that are required for such transactions pursuant to TILA section 129(a) and Regulation Z section 1026.32(c).</P>
+        <P>This interim final rule also makes two technical corrections to Regulation Z, as revised by the May Ability-to-Repay and Qualified Mortgage Standards Under the Truth in Lending Act (May 2013 ATR Final Rule),<SU>5</SU>
+          <FTREF/>Amendments to the 2013 Mortgage Rules under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation X) (July 2013 Final Rule Amendments to the 2013 Mortgage Rules),<SU>6</SU>
+          <FTREF/>and the Amendments to the 2013 Mortgage Rules under the Equal Credit Opportunity Act (Regulation B), Real Estate Settlement Procedures Act (Regulation X), and the Truth in Lending Act (Regulation Z) (September 2013 Final Rule Amendments to the 2013 Mortgage Rules).<SU>7</SU>
+          <FTREF/>These changes correct section 1026.43(e)(4)(ii)(C) and comment 32(b)(1)(ii)-4.iii. This rule also makes another minor technical correction to the September 2013 Final Rule Amendments to the 2013 Mortgage Rules.</P>
+        <FTNT>
+          <P>
+            <SU>5</SU>78 FR 35429 (June 12, 2013).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>6</SU>78 FR 44685 (Jul. 24, 2013).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>7</SU>78 FR 60382 (Oct. 1, 2013).</P>
+        </FTNT>
+        <P>The Bureau seeks public comment on these changes.</P>
+        <HD SOURCE="HD1">II. Background</HD>
+        <HD SOURCE="HD2">A. Title XIV Rules Under the Dodd-Frank Act</HD>
+
+        <P>In response to an unprecedented cycle of expansion and contraction in the mortgage market that sparked the most severe U.S. recession since the Great Depression, Congress passed the Dodd-Frank Act, which was signed into law<PRTPAGE P="62995"/>on July 21, 2010. In the Dodd-Frank Act, Congress established the Bureau and, under sections 1061 and 1100A, generally consolidated the rulemaking authority for Federal consumer financial laws, including the Truth in Lending Act (TILA), in the Bureau.<SU>8</SU>
+          <FTREF/>At the same time, Congress significantly amended the statutory requirements governing mortgages with the intent to restrict the practices that contributed to and exacerbated the crisis. Under the statute, most of these new requirements would have taken effect automatically on January 21, 2013, if the Bureau had not issued implementing regulations by that date.<SU>9</SU>
+          <FTREF/>To avoid uncertainty and potential disruption in the national mortgage market at a time of economic vulnerability, the Bureau issued several final rules in a span of less than two weeks in January 2013 to implement these new statutory provisions and provide for an orderly transition. These rules included the 2013 HOEPA Final Rule, issued on January 10, and the 2013 Mortgage Servicing Final Rules, issued on January 17.</P>
+        <FTNT>
+          <P>
+            <SU>8</SU>Sections 1011 and 1021 of the Dodd-Frank Act, in title X, the &#x201C;Consumer Financial Protection Act,&#x201D; Public Law 111-203, secs. 1001-1100H, codified at 12 U.S.C. 5491, 5511. The Consumer Financial Protection Act is substantially codified at 12 U.S.C. 5481-5603. Section 1029 of the Dodd-Frank Act excludes from this transfer of authority, subject to certain exceptions, any rulemaking authority over a motor vehicle dealer that is predominantly engaged in the sale and servicing of motor vehicles, the leasing and servicing of motor vehicles, or both. 12 U.S.C. 5519.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>9</SU>Dodd-Frank Act section 1400(c), 15 U.S.C. 1601 note.</P>
+        </FTNT>
+        <HD SOURCE="HD2">B. Implementation Plan for New Mortgage Rules</HD>
+        <P>On February 13, 2013, the Bureau announced an initiative to support implementation of the new mortgage rules (Implementation Plan),<SU>10</SU>
+          <FTREF/>under which the Bureau would work with the mortgage industry to ensure that the 2013 Title XIV Final Rules could be implemented accurately and expeditiously. The Implementation Plan included: (1) Coordination with other agencies; (2) publication of plain-language guides to the new rules; (3) publication of additional interpretive guidance and corrections or clarifications of the new rules as needed; (4) publication of readiness guides for the new rules; and (5) education of consumers on the new rules.</P>
+        <FTNT>
+          <P>
+
+            <SU>10</SU>Consumer Financial Protection Bureau Lays Out Implementation Plan for New Mortgage Rules. Press Release. Feb. 13, 2013 available at<E T="03">http://www.consumerfinance.gov/newsroom/consumer-financial-protection-bureau-lays-out-implementation-plan-for-new-mortgage-rules/.</E>
+          </P>
+        </FTNT>
+        <P>This interim final rule makes narrow amendments to the 2013 Title XIV Final Rules and three technical corrections to the September 2013 Final Rule Amendments to the 2013 Mortgage Rules. The Bureau is proceeding by interim final rule to provide immediate certainty regarding compliance to the small sub-markets affected. For information and documents regarding other guidance and amendments under the Implementation Plan, please visit the Bureau's Regulatory Implementation Web page.<SU>11</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>11</SU>
+            <E T="03">http://www.consumerfinance.gov/regulatory-implementation.</E>
+          </P>
+        </FTNT>
+        <HD SOURCE="HD1">III. Legal Authority</HD>
+        <P>The Bureau is issuing this interim final rule pursuant to its authority under RESPA, TILA and the Dodd-Frank Act. Section 1061 of the Dodd-Frank Act transferred to the Bureau the &#x201C;consumer financial protection functions&#x201D; previously vested in certain other Federal agencies, including the Board of Governors of the Federal Reserve System (Board) and the Department of Housing and Urban Development (HUD). The Dodd-Frank Act defines &#x201C;consumer financial protection function&#x201D; to include &#x201C;all authority to prescribe rules or issue orders or guidelines pursuant to any Federal consumer financial law, including performing appropriate functions to promulgate and review such rules, orders, and guidelines.&#x201D;<SU>12</SU>
+          <FTREF/>RESPA, TILA, title X of the Dodd-Frank Act, and certain subtitles and provisions of title XIV of the Dodd-Frank Act are Federal consumer financial laws.<SU>13</SU>
+          <FTREF/>Accordingly, the Bureau has authority to issue regulations pursuant to RESPA, TILA, title X, and the enumerated subtitles and provisions of title XIV.</P>
+        <FTNT>
+          <P>
+            <SU>12</SU>12 U.S.C. 5581(a)(1).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>13</SU>Dodd-Frank Act section 1002(14), 12 U.S.C. 5481(14) (defining &#x201C;Federal consumer financial law&#x201D; to include the &#x201C;enumerated consumer laws&#x201D; and the provisions of title X of the Dodd-Frank Act); Dodd-Frank Act section 1002(12), 12 U.S.C. 5481(12) (defining &#x201C;enumerated consumer laws&#x201D; to include RESPA and TILA), Dodd-Frank section 1400(b), 15 U.S.C. 1601 note (defining &#x201C;enumerated consumer laws&#x201D; to certain subtitles and provisions of title XIV).</P>
+        </FTNT>
+        <P>The Bureau is amending the 2013 HOEPA Final Rule and the 2013 Mortgage Servicing Final Rules with this interim final rule. The interim final rule relies on the broad rulemaking authority specifically granted to the Bureau by RESPA sections 6(k), 6(j)(3) and 19(a), and by TILA sections 105(a) and 105(f), and title X of the Dodd-Frank Act. Additionally, the interim final rule relies on the rulemaking authority used in connection with the 2013 HOEPA Final Rule,<SU>14</SU>
+          <FTREF/>including RESPA section 19(a), TILA section 129(p), and the specific rulemaking provision for the pre-loan counseling requirement, at TILA section 129(u)(3).</P>
+        <FTNT>
+          <P>
+            <SU>14</SU>78 FR 6855 (Jan. 31, 2013).</P>
+        </FTNT>
+        <HD SOURCE="HD1">IV. Administrative Procedure Act</HD>
+
+        <P>To the extent that notice and comment would otherwise be required, the Bureau finds that there is good cause to publish this interim final rule without notice and comment.<E T="03">See</E>5 U.S.C. 553(b)(3)(B).</P>
+        <P>First, with respect to the amendments of Regulation X section 1024.39 and Regulation Z sections 1026.20(c) and 1026.41, notice and comment is impracticable and contrary to the public interest. The amendments to these sections effectuate narrow exceptions to Regulation Z and the 2013 Mortgage Servicing Final Rules to facilitate compliance with the requirements of those rules with respect to the small number of borrowers under the protection of the Bankruptcy Code or provisions of the FDCPA that require debt collectors to cease communications upon request by the borrower. The 2013 Mortgage Servicing Final Rules, along with the other mortgage rules issued by the Bureau, implement fundamental reforms and important new consumer protections mandated by Congress to guard against practices that contributed to the nation's most significant financial crisis in nearly a century. The rulemakings as a whole implicate multiple processes for both mortgage originations and servicing. Congress mandated that a number of the rules be issued by January 21, 2013, and that they take effect by one year after issuance. Consequently, the 2013 Mortgage Servicing Final Rules, along with most of the other mortgage rules issued by the Bureau in January 2013, will take effect in January 2014. Although section 1026.20(c) of Regulation Z was not established by the new rules, compliance with that pre-existing provision must be worked in to servicers' overall compliance strategy for January. Because many financial institutions lock down their computer systems late in the calendar year due to high holiday processing volume and the need to generate year-end reports, institutions have relatively little time to institute programming changes before the January effective dates.</P>
+
+        <P>If the Bureau were to give advance notice of the amendment of these sections and even a two-week comment period, a rule could not reasonably be published in final form until early December. Servicers would experience a period of uncertainty in which they would have to continue to prepare for compliance with the original rules in case the exemptions were not finalized.<PRTPAGE P="62996"/>This would likely divert resources from activities that would have more beneficial impacts for consumers. If the Bureau adopted the exemptions in December, servicers would then be forced to change their systems in a rush before the effective date, potentially leading to severe compliance problems and harm to consumers.</P>
+        <P>Second, the Bureau finds that the notice-and-comment procedure is unnecessary for the amendments to &#xA7;&#xA7; 1026.32, 1026.43, and 1026.34 and related commentary. As discussed more fully below in this preamble, the amendments correct inadvertent, technical errors with respect to these sections. First, a rule the Bureau adopted in May 2013 included the proper version of comment 32(b)(1)(ii)-4.iii, but a recent amendment erroneously reverted the comment to an old version. The Bureau is restoring the proper May 2013 version of the comment with a minor clarifying adjustment to remove an extraneous phrase and thereby avoid the misinterpretation that the comment is in conflict with the regulatory text. The Bureau believes that affected members of the public, including institutions subject to the rule, have understood that the removal of the May 2013 version of the comment was inadvertent, that the May 2013 version of the comment should not be understood to conflict with the regulatory text, and that the Bureau would correct the comment.</P>
+        <P>Second, the amendment to section 1026.43(e)(4)(ii)(C) corrects a similar technical error. The July 2013 rule included the proper version of section 1026.43(e)(4)(ii)(C) but a recent amendment inadvertently omitted language reiterating in the regulation text that matters wholly unrelated to ability to repay will not be relevant to the determination of QM status under that provision. No change in the standard was intended or made by the recent amendment, as is clear from the interpretation of that provision contained in comment 43(e)(4)-4. Finally, the amendment to section 1026.34(a)(5) corrects a failure to address a very narrow category of transactions for which the disclosures specified in the regulation are not required. In the absence of the correction, the existing language could be read to require new disclosures that would be unduly burdensome and unsuitable for consumers or simply to render the provision impossible to comply with for affected transactions. The interim final rule corrects the inadvertent omission by expressly referencing existing disclosures that are already required for the affected transactions.</P>
+        <HD SOURCE="HD1">V. Effective Date</HD>
+        <P>This interim final rule is effective on January 10, 2014. As with the requirements of the 2013 HOEPA Final Rule which it amends, the change to &#xA7; 1026.34(a)(5) applies to transactions for which the creditor received an application on or after that date. The servicing exemptions provided in this rule amending existing Regulation Z and the 2013 Mortgage Servicing Rules are available for use with any servicing account beginning on the effective date. The technical corrections to section 1026.32 and section 1026.43 take effect on January 10, 2014.</P>
+        <HD SOURCE="HD1">VI. Section-by-Section Analysis</HD>
+        <HD SOURCE="HD2">A. Regulation X</HD>
+        <HD SOURCE="HD3">General</HD>
+        <P>In addition to the clarifications and amendments to Regulation X discussed below, the Bureau is making one correction to an amendatory instruction that relates to FR Doc. 2013-22752, published on October 1, 2013.</P>
+        <HD SOURCE="HD3">Section 1024.39Early intervention requirements for certain borrowers 1024.39(d) Exemptions</HD>
+        <P>The early intervention requirements in &#xA7; 1024.39 are intended to provide delinquent borrowers with opportunities to pursue available loss mitigation options at the early stages of a delinquency by requiring that the servicer attempt to make live contact with the borrower and to issue a written notice. The requirements apply to each payment for which the borrower is delinquent, although the written notice must be provided only once every 180 days.<SU>15</SU>
+          <FTREF/>In this interim final rule, the Bureau is adding new &#xA7; 1024.39(d)(1), exempting a servicer from the early intervention requirements while a borrower is a debtor in bankruptcy, and new &#xA7; 1024.39(d)(2), exempting a servicer from the early intervention requirements when a borrower has invoked the cease communication provisions under the Fair Debt Collections Practices Act (FDCPA).<SU>16</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>15</SU>The Bureau has issued guidance to clarify how a servicer may comply with the requirements in &#xA7; 1024.39 to make good faith efforts to establish live contact with a borrower in CFPB Bulletin 2013-12,<E T="03">available at http://files.consumerfinance.gov/f/201310_cfpb_mortgage-servicing_bulletin.pdf.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>16</SU>15 U.S.C. 1692<E T="03">et seq.</E>
+          </P>
+        </FTNT>
+        <P>The Bureau first proposed the early intervention requirements in &#xA7; 1024.39 on August 10, 2012. In the preamble to the proposed rule, the Bureau noted that servicers may be subject to State and Federal laws related to debt collection practices, such as the FDCPA. In addition, the preamble acknowledged that the Bankruptcy Code's automatic stay provisions generally prohibit, among other things, actions to collect, assess, or recover a claim against a debtor that arose before the debtor filed for bankruptcy.<SU>17</SU>
+          <FTREF/>The Bureau invited comment on whether servicers may reasonably question how they could comply with the Bureau's proposal in light of those laws.</P>
+        <FTNT>
+          <P>
+            <SU>17</SU>
+            <E T="03">See</E>11 U.S.C. 362 (automatic stay);<E T="03">see also</E>11 U.S.C. 524 (effect of discharge).</P>
+        </FTNT>
+        <P>Several industry commenters expressed concern that the Bureau's rules overlap with and could conflict with existing State and Federal law. Several commenters requested guidance on whether servicers would be required to comply with the early intervention requirements if the borrower instructed the servicer to cease collection efforts, not to contact the borrower by telephone, or if the borrower refused to pay the debt. Several of these commenters requested that the Bureau include an exemption from the early intervention requirements in cases involving debt collection or bankruptcy law. One industry commenter requested that the Bureau clarify whether servicers would have immunity from claims of harassment or improper conduct under the FDCPA.</P>
+        <P>With respect to addressing potential conflicts between the Bureau's rules and existing State and Federal law as well as existing industry practice, commenters identified a variety of ways the Bureau could provide relief, including by not adopting rules that exceed or otherwise conflict with existing requirements, providing safe harbors (such as by clarifying that compliance with existing laws and agreements satisfies &#xA7; 1024.39), adopting more flexible standards, providing exemptions, including a mechanism in the rule to resolve compliance conflicts, or broadly preempting State laws.</P>
+
+        <P>On January 17, 2013, the Bureau issued the 2013 RESPA Servicing Final Rule with early intervention requirements in &#xA7; 1024.39 that included a conflicts of law provision specifying that servicers are not required to make contact with borrowers in a manner that may be prohibited by Federal laws, such as the FDCPA or the Bankruptcy Code's automatic stay provisions. The Bureau also added comment 39(c)-1, addressing borrowers in bankruptcy. The comment specified, &#x201C;Section 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy<PRTPAGE P="62997"/>law or a court order in a bankruptcy case. To the extent permitted by such law or court order, servicers may adapt the requirements of &#xA7; 1024.39 in any manner that would permit them to notify borrowers of loss mitigation options.&#x201D; In the preamble to the final rule, the Bureau stated that it did not seek to interpret the Bankruptcy Code through this comment, but instead intended to indicate that servicers could take a flexible approach to complying with &#xA7; 1024.39 for borrowers in bankruptcy.</P>
+        <HD SOURCE="HD2">1024.39(d)(1)Borrowers in bankruptcy</HD>
+        <P>After publication of the 2013 RESPA Servicing Final Rule, industry stakeholders expressed continued concerns to the Bureau about complying with certain servicing requirements for borrowers under the protection of bankruptcy law. In general, and as discussed further below with regard to periodic statement requirements, servicers asserted that simply providing flexibility in accommodating bankruptcy law restrictions on communications with borrowers was not sufficient because they faced a substantial legal burden in determining when and how bankruptcy law provisions applied in the first instance. Servicers also expressed concern about how to fulfill the servicing rules' requirements in a way that did not confuse borrowers with regard to their status in bankruptcy and the fact that servicers were not attempting to collect on accounts. Bankruptcy trustees raised similar concerns about the likelihood of servicers providing information that will be confusing to borrowers/debtors, debtor attorneys, and even courts and trustees. Specifically, with regard to early intervention, industry sought additional guidance on whether the Bureau would require some attempt at compliance even if there was an automatic stay and whether servicers would be subject to claims by private litigants asserting that bankruptcy was not an excuse for a servicer's lack of performance under &#xA7; 1024.39.</P>
+        <P>Based on these inquiries, the Bureau believes that the potential interactions between the &#xA7; 1024.39 early intervention requirements and bankruptcy law requirements can be highly varied and complex. The Bankruptcy Code itself provides a robust set of consumer protections for debtors, including oversight of debt repayment plans, where applicable. However, whether certain communications with the borrower may violate an automatic stay or discharge injunction are fact-specific inquiries and can vary depending on the Chapter of the Bankruptcy Code at issue, the intention of the debtor to retain the property, and the frequency and detailed contents of the communications.<SU>18</SU>
+          <FTREF/>Uncertainty with respect to loss mitigation-related communications has led federal regulators<SU>19</SU>
+          <FTREF/>and several bankruptcy courts<SU>20</SU>
+          <FTREF/>to issue guidelines or rules for servicers on the interaction between those communications and bankruptcy law. While some sources identified by the Bureau suggest that it is permissible for servicers to engage in loss mitigation negotiations with borrowers who have invoked bankruptcy protections, they do not address affirmative outreach directly to the borrower to solicit discussions about loss mitigation options.</P>
+        <FTNT>
+          <P>
+            <SU>18</SU>
+            <E T="03">See infra</E>note 35;<E T="03">see also In re Duke,</E>79 F.3d 43 (7th Cir. 1996) (holding creditor does not violate automatic stay when sending &#x201C;nonthreatening and non-coercive&#x201D; offer to reaffirm Chapter 7 debtor's pre-petition debt);<E T="03">In re Silva,</E>No. 09-02504, 2010 WL 605578 (Bankr. D. Haw. Feb. 19, 2010) (&#x201C;Nothing in the Bankruptcy Code prevents or prohibits a chapter 7 or chapter 13 debtor or its secured creditors from entering into communications or negotiations about the possibility of a loan modification.&#x201D;)</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>19</SU>
+            <E T="03">See, e.g.,</E>HUD, Mortgagee Letter 2008-32 (Oct. 17, 2008) (&#x201C;[M]ortgagees<E T="03">must,</E>upon receipt of notice of a bankruptcy filing, send information to<E T="03">debtor's counsel</E>indicating that loss mitigation may be available, and provide instruction sufficient to facilitate workout discussions including documentation requirements, timeframes and servicer contact information . . . . Nothing in this mortgagee letter requires that mortgagees make direct contact with any<E T="03">borrower</E>under bankruptcy protection.&#x201D;) (emphasis added)<E T="03">available at  http://www.hud.gov/offices/adm/hudclips/letters/mortgagee/2008ml.cfm;</E>U.S. Dep't of Treasury,<E T="03">Making Home Affordable Program Handbook for Servicers of Non-GSE Loans,</E>v.4.3 at 77, 80 (Sept. 16, 2013) (&#x201C;Borrowers in<E T="03">active</E>Chapter 7 or Chapter 13 bankruptcy cases are eligible for HAMP at the servicer's discretion in accordance with investor guidelines, but servicers are<E T="03">not required to solicit</E>these borrowers proactively for HAMP . . . . Borrowers who have received a Chapter 7 bankruptcy<E T="03">discharge</E>in a case involving the first lien mortgage who did not reaffirm the mortgage debt under applicable law are eligible for HAMP . . . . [A] servicer is deemed to have made a Reasonable Effort to solicit [those] borrower[s] after sending two written notices to the last address of record in addition to the two required written notices. . . .&#x201D;) (emphasis added)<E T="03">available at  http://www.makinghomeaffordable.gov/for-partners/understanding-guidelines/Documents/mhahandbook_43.pdf.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>20</SU>
+            <E T="03">See, e.g.,</E>Amended General Order Regarding Negotiations Between Debtor(s) and Mortgage Servicer(s) to Consider Loan Modifications (Bankr. D.N.J. July 24, 2009) (&#x201C;[C]ommunications and/or negotiations between debtors and mortgagees/mortgage servicers about loan modification shall not be deemed as a violation of the automatic stay . . . . [A]ny such communication or negotiation shall not be used by either party against the other in any subsequent litigation . . . .&#x201D;)<E T="03">available at http://www.njb.uscourts.gov/sites/default/files/general-ordes/2009_07_27_generalOrderLoanModify2.pdf;</E>Bankr. W.D. Wash. R. 4001-2(b) (&#x201C;A mortgage creditor's contact with the debtor and/or the debtor's counsel for the purposes of negotiating a loan modification shall not be considered a violation of the automatic stay imposed by 11 U.S.C. 362.&#x201D;). While these two courts' rules might permit some communications regarding loan modifications, their approach is not necessarily generally accepted.</P>
+        </FTNT>
+        <P>In addition, when a borrower is under bankruptcy protections, the benefits of continuing early intervention contacts may depend on the context. Borrowers who became delinquent on their mortgage loans prior to filing bankruptcy will likely already have received early intervention contacts from the servicer and thus will already be on notice about the availability of potential loss mitigation options. In such cases, continuing contacts may have limited if any utility. And while the small group of borrowers who file bankruptcy without first becoming delinquent on their mortgage loans might benefit from information regarding the availability of loss mitigation information, the Bureau is concerned that additional guidance is needed to ensure that any early intervention contacts communicate effectively regarding the borrower's status in bankruptcy and do not instead create borrower confusion.</P>
+        <P>The Bureau believes that further study of these issues is warranted but cannot be concluded quickly enough to provide further calibration of the requirements before January 2014. Therefore, the interim final rule adds &#xA7; 1024.39(d)(1), which exempts servicers from the requirements of &#xA7; 1024.39 for a mortgage loan while the borrower is a debtor in bankruptcy. However, the Bureau is not taking any position on whether early intervention efforts generally may violate an automatic stay or discharge injunction and encourages servicers who communicate with borrowers in bankruptcy about loss mitigation options to continue such tailored communications so far as bankruptcy law permits. The Bureau believes that some borrowers facing the complexities of bankruptcy could benefit from receiving loss mitigation information in some tailored form that is appropriate to their circumstances.</P>
+
+        <P>Because of the new exemption addressing bankruptcy in &#xA7; 1024.39(d)(1), the interim final rule removes comment 39(c)-1 and incorporates it into new commentary in &#xA7; 1024.39(d)(1)-2, as discussed below. Comment 39(d)(1)-1 clarifies that the exemption begins once a petition has been filed commencing a case under Title 11 of the United States Code in which the borrower is a debtor. Comment 39(d)(1)-2 clarifies that with respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with &#xA7; 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy<PRTPAGE P="62998"/>case: (i) the case is dismissed, (ii) the case is closed, or (iii) the borrower receives a discharge under 11 U.S.C. &#xA7;&#xA7; 727, 1141, 1228, or 1328. However, this requirement to resume compliance does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of &#xA7; 1024.39 in any manner believed necessary. Compliance with &#xA7; 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived&#x2014;for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge&#x2014;the servicer is again exempt from the requirement in &#xA7; 1024.39. Comment 39(d)(1)-3 clarifies that the exemption applies when any of the borrowers who are joint obligors with primary liability on the mortgage loan is a debtor in bankruptcy.</P>
+        <P>For the reasons discussed, the Bureau is providing this exemption at this time, particularly because of the complex compliance concerns and the impending effective date of the 2013 RESPA Servicing Final Rule. The Bureau will continue to examine this issue and may reinstate an early intervention requirement with respect to borrowers in bankruptcy, but it will not reinstate any such requirement without notice and comment rulemaking and an appropriate implementation period. The Bureau solicits comment on the scope of the exemption, the triggers for meeting the exemption and having to resume early intervention, and how the early intervention communications might be tailored to meet the particular needs of borrowers in bankruptcy. The Bureau also seeks comment on other factors the Bureau should take into consideration in determining whether to reinstate any type of early intervention requirement with respect to borrowers in bankruptcy.</P>
+        <P>
+          <E T="03">Legal Authority.</E>The Bureau uses its authority under RESPA sections 6(j)(3) and 19(a) to exempt servicers from the early intervention requirements in &#xA7; 1024.39 for a mortgage loan while the borrower is a debtor in bankruptcy and to adopt related official Bureau interpretations in Supplement I to Part 1024. For the reasons discussed above, the Bureau does not believe at this time that the consumer protection purposes of RESPA would be furthered by requiring servicers to comply with &#xA7; 1024.39 for a mortgage loan while the borrower is a debtor in bankruptcy.</P>
+        <HD SOURCE="HD2">1024.39(d)(2)Fair Debt Collection Practices Act</HD>
+        <P>A servicer of defaulted mortgage loans may also be a debt collector under the FDCPA. The FDCPA grants debtors the right generally to bar debt collectors from communicating with them regarding the debt by sending a written &#x201C;cease communication&#x201D; request.<SU>21</SU>
+          <FTREF/>As discussed above, the Bureau is separately issuing a bulletin that concludes that the FDCPA &#x201C;cease communication&#x201D; provision does not override servicers' obligations to have various communications with borrowers that are specifically mandated by the Dodd-Frank Act or to respond to certain borrower-initiated communications in accordance with the 2013 Mortgage Servicing Final Rules.<SU>22</SU>
+          <FTREF/>However, because the early intervention requirements are neither statutorily mandated nor borrower-initiated, the interplay between the early intervention requirements and the &#x201C;cease communication&#x201D; provision of the FDCPA is less clear than it is with the servicing provisions discussed in the bulletin.</P>
+        <FTNT>
+          <P>
+            <SU>21</SU>15 U.S.C. 1692c(c).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+
+            <SU>22</SU>The new mortgage servicing rules that do not exempt servicers based on their status as debt collectors under the FDCPA are, in Regulation X, 12 CFR 1024.35 (error resolution), 1024.36 (requests for information), 1024.37 (force-place insurance), and 1024.41 (loss mitigation) and, in Regulation Z, 12 CFR 1026.20(d) (ARM initial interest rate adjustment) and 1026.41 (periodic statement).<E T="03">See</E>CFPB Bulletin 2013-12,<E T="03">available at http://files.consumerfinance.gov/f/201310_cfpb_mortgage-servicing_bulletin.pdf.</E>Note that, elsewhere in this interim final rule, the Bureau is issuing an exemption for &#xA7; 1026.20(c) similar to the one for &#xA7; 1024.39.</P>
+        </FTNT>
+        <P>Therefore, new &#xA7; 1024.39(d)(2) exempts a servicer that is a debt collector under the FDCPA with respect to a borrower from the requirements of &#xA7; 1024.39 after the borrower has exercised this &#x201C;cease communication&#x201D; right. The exemption provides a servicer that is a debt collector under the FDCPA with certainty that it has no obligations under &#xA7; 1024.39 with regard to a borrower who has followed FDCPA procedure and instructed the servicer/debt collector to stop communicating with the borrower about the debt. The Bureau is not, however, making a determination as to the legal status of intervention efforts following receipt of proper cease communication requests, and servicers are encouraged to pursue loss mitigation options to the extent that the FDCPA permits.</P>
+        <P>The CFPB will be exploring the legal issues and practical benefits of requiring some type of early intervention to notify borrowers of the potential availability of loss mitigation options, in an upcoming rulemaking on debt collection. Balancing the rights of debtors to protect themselves against certain debt collector practices with the consumer protections afforded by servicer-borrower contact that may lead to the resolution of borrower default is more appropriately addressed in the broader context of a notice-and-comment rulemaking. For this reason, the interim final rule revises &#xA7; 1024.39 to add the exemption discussed above and provide clarity to stakeholders, but the Bureau notes that the future rulemaking on debt collection may alter or eliminate this exemption.</P>
+        <P>
+          <E T="03">Legal Authority.</E>The Bureau uses its authority under RESPA sections 6(j)(3) and 19(a) to exempt a servicer that is a debt collector pursuant to the FDCPA with regard to a mortgage loan from the early intervention requirements in &#xA7; 1024.39 when a borrower has exercised the &#x201C;cease communication&#x201D; right under the FDCPA prohibiting the servicer/debt collector from communicating with the borrower regarding the debt. For the reasons discussed above, the Bureau believes at this time that the consumer protection purposes of RESPA would not be furthered by requiring compliance with &#xA7; 1024.39 at a time when a borrower has specifically requested the servicer/debt collector to stop communicating with the borrower about the debt.</P>
+        <HD SOURCE="HD2">B. Regulation Z</HD>
+        <HD SOURCE="HD3">Section 1026.20 Disclosure Requirements Regarding Post-Consummation Events</HD>
+        <HD SOURCE="HD3">20(c) Rate Adjustments With a Corresponding Change in Payment</HD>
+        <HD SOURCE="HD3">20(c)(1)(ii) Exemptions</HD>
+        <HD SOURCE="HD3">20(c)(1)(ii)(C)</HD>
+        <P>In this interim final rule, the Bureau is adding a third exemption to &#xA7; 1026.20(c), the regulation requiring disclosures to consumers with adjustable-rate mortgages (ARMs) each time an interest rate adjustment causes a corresponding change in payment.<SU>23</SU>
+          <FTREF/>Servicers of defaulted mortgage loans may be debt collectors under the FDCPA.<SU>24</SU>
+          <FTREF/>As discussed above, the FDCPA grants debtors the right generally to bar debt collectors from communicating with them by sending a written &#x201C;cease communication&#x201D; request.<SU>25</SU>
+
+          <FTREF/>New &#xA7; 1026.20(c)(1)(ii)(C) exempts servicers, creditors and assignees on an ARM from the<PRTPAGE P="62999"/>requirements of &#xA7; 1026.20(c) when the servicer for that ARM is a debt collector under the FDCPA and the consumer has exercised this &#x201C;cease communication&#x201D; right.</P>
+        <FTNT>
+          <P>
+            <SU>23</SU>12 CFR 1026.20(c), as revised by 78 FR 10901 (Feb. 14, 2013) (2013 TILA Servicing Final Rule).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>24</SU>15 U.S.C. 1692<E T="03">et seq.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>25</SU>15 U.S.C. 1692c(c).</P>
+        </FTNT>
+        <P>As discussed above, the Bureau is separately issuing a bulletin that concludes that the FDCPA &#x201C;cease communication&#x201D; provision does not override servicers' obligations to have various communications with borrowers that are specifically mandated by the Dodd-Frank Act or to respond to certain borrower-initiated communications in accordance with the 2013 Mortgage Servicing Final Rules.<SU>26</SU>
+          <FTREF/>However, because the notice requirements of &#xA7; 1026.20(c) are neither statutorily mandated nor borrower-initiated, the interplay between those requirements and the &#x201C;cease communication&#x201D; provision of the FDCPA is less clear than it is with the servicing provisions discussed in the bulletin.</P>
+        <FTNT>
+          <P>
+
+            <SU>26</SU>The new mortgage servicing rules that do not exempt servicers based on their status as debt collectors under the FDCPA are, in Regulation X, 12 CFR 1024.35 (error resolution), 1024.36 (requests for information), 1024.37 (force-place insurance), and 1024.41 (loss mitigation) and, in Regulation Z, 12 CFR 1026.20(d) (ARM initial interest rate adjustment) and 1026.41 (periodic statement).<E T="03">See</E>CFPB Bulletin 2013-12,<E T="03">available at</E>
+            <E T="03">http://files.consumerfinance.gov/f/201310_cfpb_mortgage-servicing_bulletin.pdf</E>. Note that, elsewhere in this interim final rule, the Bureau is issuing an exemption for &#xA7; 1024.39 similar to the one for &#xA7; 1026.20(c).</P>
+        </FTNT>
+        <P>Therefore, new &#xA7; 1026.20(c)(1)(ii)(C) exempts servicers, creditors and assignees on an ARM from the requirements of &#xA7; 1026.20(c) when the servicer for that ARM is a debt collector under the FDCPA and the consumer has exercised this &#x201C;cease communication&#x201D; right. The exemption provides a servicer that is a debt collector under the FDCPA with certainty that it has no obligations under &#xA7; 1026.20(c) with regard to a borrower who has followed FDCPA procedure and instructed the servicer/debt collector to stop communicating with the borrower about the debt. The Bureau is not, however, making a determination as to the legal status of &#xA7; 1026.20(c) requirements following receipt of proper cease communication requests, and servicers are encouraged to provide ARM adjustment notices to the extent that the FDCPA permits.</P>
+        <P>The CFPB will be exploring the legal issues and practical benefits of requiring some form of &#xA7; 1026.20(c) notice following a cease communication request, in an upcoming rulemaking on debt collection. Balancing the rights of debtors to protect themselves against certain debt collector practices with the consumer protection afforded by timely notice of interest rate and payment adjustments is more appropriately addressed in the broader context of a notice-and-comment rulemaking. For this reason, the interim final rule revises &#xA7; 1026.20(c) to add the exemption discussed above and provide clarity to stakeholders, but the Bureau notes that the future rulemaking on debt collection may alter or eliminate this exemption.</P>
+        <P>
+          <E T="03">Legal Authority.</E>The Bureau uses its authority under TILA section 105(a) to provide an exemption from the ARM disclosures required by &#xA7; 1026.20(c) when a servicer that is a debt collector pursuant to the FDCPA with regard to an adjustable-rate mortgage loan receives a &#x201C;cease communication&#x201D; notice. For the reasons discussed above, the Bureau believes this exemption is necessary and proper under TILA section 105(a) to effectuate the purposes of and to facilitate compliance with TILA.</P>
+        <HD SOURCE="HD3">Section 1026.32 Requirements for Certain High-Cost Mortgages</HD>
+        <HD SOURCE="HD3">32(b) Definitions</HD>
+        <HD SOURCE="HD3">32(b)(1)</HD>
+        <P>This interim final rule makes a technical correction to comment 32(b)(1)(ii)-4.iii, as revised by the May 2013 ATR Final Rule and the September 2013 Final Rule Amendments to the 2013 Mortgage Rules. Among other things, the May 2013 ATR Final Rule substantially revised &#xA7; 1026.32(b)(1)(ii) and, with it, comment 32(b)(1)(ii)-4. However, the September 2013 Final Rule Amendments to the 2013 Mortgage Rules inadvertently replaced comment 32(b)(1)(ii)-4.iii with the comment language that was in place before the May 2013 ATR Final Rule revision. This rule restores the May 2013 language.</P>
+        <P>This rule also makes a minor adjustment to the May 2013 language to remove an extraneous reference to compensation paid by &#x201C;a consumer.&#x201D; Comment 32(b)(1)(ii)-4.iii is intended to focus on how compensation paid by a creditor to a loan originator is included in the calculation of points and fees. The reference to compensation paid by &#x201C;a consumer&#x201D; in this particular context is not relevant and could have been misread to suggest that mortgage broker compensation already included in the points and fees calculation under &#xA7; 1026.32(b)(1)(i) should be counted again under &#xA7; 1026.32(b)(1)(ii). Such an interpretation would not have been consistent with &#xA7; 1026.32(b)(1)(ii)(A), as both the regulatory text and comment 32(b)(1)-4.i make plain. This rule makes the technical correction of removing the phrase &#x201C;consumer or&#x201D; in comment 32(b)(1)(ii)-4.iii to avoid such potential confusion.</P>
+        <HD SOURCE="HD3">Section 1026.34 Prohibited acts or practices in connection with high-cost mortgages</HD>
+        <HD SOURCE="HD3">34(a) Prohibited acts or practices for high-cost mortgages</HD>
+        <HD SOURCE="HD3">34(a)(5) Pre-loan counseling</HD>
+        <P>The Dodd-Frank Act provides that a creditor shall not extend a high-cost mortgage to a consumer without obtaining certification from an approved housing counselor that the consumer has received counseling on the advisability of the mortgage.<SU>27</SU>
+          <FTREF/>The Dodd-Frank Act also requires that (1) the counselor not be employed by or affiliated with the creditor; and (2) the counselor not certify that a consumer has received counseling unless the consumer has received the appropriate required disclosures. The statutory section requiring pre-loan counseling authorizes the Bureau to prescribe regulations to carry out the requirement.</P>
+        <FTNT>
+          <P>
+            <SU>27</SU>Dodd-Frank Act section 1433(e), TILA section 129(u), 15 U.S.C. 1639(u).</P>
+        </FTNT>
+        <P>The Bureau implemented the pre-loan counseling requirement in &#xA7; 1026.34(a)(5) of the 2013 HOEPA Final Rule. In order to ensure that a consumer would receive useful counseling on the advisability of the particular loan offered, &#xA7; 1026.34(a)(5)(ii) required that the counseling occur after the consumer receives the initial disclosure under RESPA (currently the GFE<SU>28</SU>
+          <FTREF/>), or the TILA disclosures for open-end credit under Regulation Z section 1026.40. However, the rule inadvertently failed to address a very narrow category of closed-end transactions that are neither covered by RESPA nor subject to the disclosures for open-end credit under Regulation Z. These other high-cost loans are typically secured by manufactured housing but do not involve residential real property, and therefore are not federally related mortgage loans subject to RESPA.<SU>29</SU>
+
+          <FTREF/>Such loans also are not covered by Regulation Z section 1026.40. Consequently, &#xA7; 1026.34(a)(5) could be read to make such closed-end, non-RESPA transactions impossible, or to require a RESPA or open-end disclosures for transactions that would otherwise not require such disclosures and for which such disclosures would<PRTPAGE P="63000"/>be unduly burdensome and unsuitable for consumers.</P>
+        <FTNT>
+          <P>
+            <SU>28</SU>The Bureau notes that the adoption of the forthcoming TILA/RESPA integrated disclosure, required by Dodd-Frank Act section 1098, will not affect this requirement. The new Loan Estimate integrated disclosure will satisfy the requirement for a good faith estimate under RESPA section 5(c), and will be provided prior to counseling on closed-end RESPA transactions.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>29</SU>See 12 CFR 1024.2(b).</P>
+        </FTNT>
+        <P>To address these concerns, this interim final rule amends &#xA7; 1026.34(a)(5) to require that counseling for high-cost loans that are not covered by either RESPA or section 1026.40 must occur after the consumer receives the HOEPA disclosure required under &#xA7; 1026.32(c). The interim final rule clarifies that RESPA or open-end disclosures are not required for these transactions.</P>
+        <P>The Bureau notes that the HOEPA disclosures are not required to be provided until three business days before consummation of the loan, which may cause some difficulties in obtaining the counseling and in ensuring that consummation is not unnecessarily or unduly delayed. Therefore, new comment 34(a)(5)(ii)-2 states that creditors are encouraged but not required to provide the disclosures in &#xA7; 1026.32(c) earlier than three business days before consummation in order to facilitate the counseling and timely consummation of covered transactions. In addition, conforming changes have been made to comment 34(a)(5)(ii)-1, renumbered comment 34(a)(5)(ii)-3 and comment 34(a)(5)(iv)-1.</P>
+        <P>The Bureau seeks comment on this provision of the interim final rule and whether it ensures that consumers can both receive meaningful counseling based on disclosures of their loan terms and proceed with consummation in a timely manner. The Bureau also solicits comment on any burdens the interim final rule imposes on industry and how such burdens could be mitigated, keeping in mind the consumer benefits of timely and meaningful counseling.</P>
+        <P>The Bureau is also making a small technical correction to comment 34(a)(5)(v)-1.</P>
+        <HD SOURCE="HD3">Section 1026.41 Periodic Statements for Residential Mortgage Loans</HD>
+        <HD SOURCE="HD3">41(e) Exemptions</HD>
+        <HD SOURCE="HD3">41(e)(5) Consumers in bankruptcy</HD>
+        <P>Dodd-Frank Act section 1420 established TILA section 128(f) requiring periodic statements for mortgage loans. On January 17, 2013, the Bureau issued the 2013 TILA Servicing Final Rule implementing the periodic statement requirements and exemptions in &#xA7; 1026.41. The periodic statements required in &#xA7; 1026.41 are intended to provide consumers with useful information about the amounts they have paid as well as the amounts they owe and other information. In this interim final rule, the Bureau is adding new &#xA7; 1026.41(e)(5), exempting a servicer<SU>30</SU>
+          <FTREF/>from the periodic statement requirements in &#xA7; 1026.41 for a mortgage loan while the consumer is a debtor in bankruptcy.</P>
+        <FTNT>
+          <P>
+            <SU>30</SU>&#x201C;Servicer&#x201D; is defined for purposes of &#xA7; 1026.41 as including the creditor, assignee or servicer. To increase readability, this interim final rule also uses the term servicer in the preamble to describe those same entities covered by &#xA7; 1026.41.</P>
+        </FTNT>
+        <P>On August 10, 2012, the Bureau proposed implementing the periodic statement requirements and exemptions in &#xA7; 1026.41. The proposed rule and preamble did not specifically address any relationship between the periodic statement requirements and consumers in bankruptcy. The Bureau received several comments on the proposed rule that presented opposing views about the issue. Some consumer advocates felt it was essential that statements be provided to consumers in bankruptcy to ensure they are kept informed on the status of their loans and have a record of the account, while industry commenters insisted that providing statements for loans in bankruptcy might cause confusion or violate court orders or the FDCPA.<SU>31</SU>
+          <FTREF/>One commenter added that if statements must be provided to consumers in bankruptcy, the statements should be allowed to contain any information, disclosures or messaging required under bankruptcy rules or court orders.</P>
+        <FTNT>
+          <P>
+
+            <SU>31</SU>The Bureau has addressed the concern about the relationship between the periodic statement requirements and the FDCPA in CFPB Bulletin 2013-12,<E T="03">available at</E>
+            <E T="03">http://files.consumerfinance.gov/f/201310_cfpb_mortgage-servicing_bulletin.pdf</E>.</P>
+        </FTNT>
+        <P>In the preamble to the 2013 TILA Servicing Final Rule, the Bureau acknowledged that the Bankruptcy Code might prevent attempts to collect a debt from a consumer in bankruptcy, but stated that it did not believe the Bankruptcy Code would prevent a servicer from sending a consumer a statement on the status of the mortgage loan. The Bureau further specified that the final rule allows servicers to make changes to the periodic statement they believe are necessary when a consumer is in bankruptcy. Specifically, servicers may include a message about the bankruptcy and alternatively present the amount due to reflect payment obligations determined by the individual bankruptcy proceeding.</P>
+        <P>After publication of the final rule, industry stakeholders expressed more detailed concerns to the Bureau about providing periodic statements to consumers under bankruptcy protection. The Bureau received comments on this issue in response to its proposed rules published on May 2, 2013, and July 2, 2013, even though those proposed rules did not address periodic statements provided to consumers in bankruptcy. One commenter expressed support for the Bureau's suggested message language as a way to satisfy the requirements of &#xA7; 1026.41 and bankruptcy law. Most of the commenters, however, expressed continued concerns about potential conflicts with bankruptcy law and indicated that the periodic statement would need to be redesigned for consumers in bankruptcy.</P>
+        <P>In addition, the Bureau has received numerous specific guidance questions and requests for clarification about how to reconcile the periodic statement requirements in the final rule with various bankruptcy law requirements. Industry stakeholders have expressed concerns that bankruptcy courts, under certain circumstances, may find servicers in violation of an automatic stay<SU>32</SU>
+          <FTREF/>or discharge injunction<SU>33</SU>
+          <FTREF/>if servicers provide a periodic statement, whether or not it includes a disclaimer.<SU>34</SU>
+
+          <FTREF/>They have asked for guidance on whether and how servicers would be able to permit consumers to request that they receive no more statements. Bankruptcy trustees raised similar concerns that sending a periodic statement designed to communicate information that does not recognize the unique character of the Chapter 13<PRTPAGE P="63001"/>treatment of mortgages in default may arguably violate the automatic stay.</P>
+        <FTNT>
+          <P>
+            <SU>32</SU>
+            <E T="03">See</E>11 U.S.C. 362(a)(6) (prohibiting &#x201C;any act to collect, assess, or recover a claim against the debtor that arose before the commencement of the case under this title&#x201D;).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>33</SU>
+            <E T="03">See</E>11 U.S.C. 524(a)(2)-(3) (discharge &#x201C;operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect . . . .&#x201D;);<E T="03">but see</E>11 U.S.C. 524(j) (exception from 11 U.S.C. 524(a)(2) injunction for &#x201C;an act by a creditor that is the holder of a secured claim, if&#x2014;(1) such creditor retains a security interest in real property that is the principal residence of the debtor; (2) such act is in the ordinary course of business between the creditor and the debtor; and (3) such act is limited to seeking or obtaining periodic payments associated with a valid security interest in lieu of pursuit of in rem relief to enforce the lien.&#x201D;).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>34</SU>
+            <E T="03">See, e.g., In re Brown,</E>481 B.R. 351, 361 (Bankr. W.D. Pa. 2012) (Statements without a bankruptcy disclaimer sent after a Chapter 7 discharge of the mortgage debt that &#x201C;provide the amount of the payment and when it is due, a late charge if the payment is not received by a certain date, and the past due amount&#x201D; were found to &#x201C;seek payment from the Debtor and violate the discharge injunction.&#x201D;);<E T="03">In re Joens,</E>No. 03-02077, 2003 WL 22839822 at *2 (Bankr. N.D. Iowa Nov. 21, 2003) (Statements including a bankruptcy disclaimer sent to debtors in a Chapter 7 case who stated their intent to surrender the home violated the automatic stay. &#x201C;Only if a Chapter 7 debtor's statement of intention indicates the intent to continue to make payments and retain property may a creditor continue to send monthly statements postpetition.&#x201D;);<E T="03">In re Draper,</E>237 B.R. 502, 506 (Bankr. M.D. Fla. 1999) (Statements including a bankruptcy disclaimer sent to a debtor in a Chapter 13 case violated the automatic stay because &#x201C;[t]he only credible reason to send such invoices on a monthly basis is to try to collect payments from debtors protected by the automatic stay.&#x201D;).</P>
+        </FTNT>
+        <P>Industry stakeholders have also asked how to comply with several disclosure requirements in the periodic statement under specific circumstances that can arise depending on the type of bankruptcy proceeding. For example, the Bureau received questions from industry and bankruptcy trustees about possible consumer confusion depending on what &#x201C;amount due&#x201D; and &#x201C;payment due date&#x201D; servicers would disclose in a Chapter 13 case that has different pre-petition arrearage cure payments and post-petition monthly payments, which may be due on different dates. Servicers also expressed concern about how to fulfill the servicing rules' requirements in a way that did not confuse consumers with regard to their status in bankruptcy and the fact that servicers were not attempting to collect on accounts. Bankruptcy trustees also raised concerns about the likelihood of servicers providing information that will be confusing to borrowers/debtors, debtor attorneys, and even courts and trustees. In addition, the Bureau received requests to delay the effective date of the periodic statement requirement with respect to consumers in bankruptcy and to exclude those consumers from the periodic statement requirements.</P>
+        <P>Based on the detailed questions received, the Bureau believes that the potential interactions between the &#xA7; 1026.41 periodic statement requirements and bankruptcy law requirements can be highly varied and complex. The Bankruptcy Code itself provides a robust set of consumer protections for debtors, including oversight of debt repayment plans, where applicable. However, whether any periodic statement provided may violate an automatic stay or discharge injunction are fact-specific inquiries and can vary depending on the Chapter of the Bankruptcy Code at issue, the intention of the debtor to retain the property, and the frequency and detailed contents of the periodic statement provided.<SU>35</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>35</SU>
+            <E T="03">Compare, e.g., In re Zotow,</E>432 B.R. 252, 259-60 (B.A.P. 9th Cir. 2010) (Notice to debtors showing an increase to postpetition mortgage payments to reflect prepetition escrow arrears &#x201C;was informational in nature and thus not in violation of the stay . . .  First, [it] was not in the nature of an invoice . . . Second, [the creditor] did not send the Notice with a payment coupon or envelope . . . Third and last, [the creditor] sent a single Notice . . . prior to confirmation of Debtors' Chapter 13 plan.&#x201D;);<E T="03">and Pearson v Bank of America,</E>No. 3:12-cv-00013, 2012 WL 2804826, at *6 (W.D. Va. July 10, 2012) (Statements with bankruptcy disclaimers did not violate the Chapter 7 discharge injunction even though the statements also provided &#x201C;principal balances, estimated payments, payment instructions, information on how [the creditor] will post any payments made, and other remarks that could surely be construed, by themselves, as attempts to collect an already-discharged debt.&#x201D;);<E T="03">with, e.g., In re Cousins,</E>404 B.R. 281, 284, 288 (S.D. Ohio 2009) (Statements with the past and current balance, &#x201C;voluntary payment coupon,&#x201D; and bankruptcy disclaimer sent to the debtor whose Chapter 13 plan provided for mortgage payments through the trustee violated the automatic stay. &#x201C;The fact is that statements containing conflicting information like those allegedly sent in this case may be confusing to a debtor. Although the document states that it is an account statement for informational purposes only, it also includes a `current balance' and a payment coupon.&#x201D;);<E T="03">In re Draper,</E>237 B.R. 502, 506 (Bankr. M.D. Fla. 1999) (Statements including the amount due, a detachable payment coupon, return envelope, and bankruptcy disclaimer sent to a debtor in a Chapter 13 case whose plan provided for the cure of defaults under his mortgage debt violated the automatic stay because &#x201C;[t]he only credible reason to send such invoices on a monthly basis is to try to collect payments from debtors protected by the automatic stay.&#x201D;).<E T="03">See also n re Connor,</E>366 B.R. 133, 134-38 (Bankr. D. Haw. 2007) (Statements with the principal balance, amount due, instructions on how to make a payment, a perforated, detachable payment coupon, return envelope and bankruptcy disclaimer did not violate the automatic stay while the Chapter 13 plan was pending but did violate the automatic stay once the debtor converted to Chapter 7 and stated his intent to surrender the property. &#x201C;In order to formulate a confirmable chapter 13 plan, [the debtor] needed to know the amount of his mortgage arrears and current payments . . . After [the debtor] converted his case to chapter 7 and stated his intention to surrender the mortgaged property, . . . [he] no longer needed to know the status of the mortgage payments. The only purpose for sending the monthly statements after that point was to induce [the debtor] to make payments on a prepetition debt which was dischargeable and has now been discharged.&#x201D;).</P>
+        </FTNT>
+        <P>In addition, when a consumer is under bankruptcy protections, the benefits of periodic statements may depend on the context. The Bureau has indicated that servicers may take a flexible approach in complying with &#xA7; 1026.41 for consumers in bankruptcy. However, without providing additional guidance about how servicers can tailor their periodic statements to communicate effectively the status of a consumer's loan in light of the bankruptcy, it is not clear whether a servicer's tailored periodic statements would provide a meaningful benefit for that consumer in the form of useful information. Indeed, the statements could provide that consumer with information that may be confusing.</P>
+        <P>The Bureau believes that further study of these issues is warranted but cannot be concluded quickly enough to provide further calibration of the requirements before January 2014. Therefore, the interim final rule exempts servicers from the requirements of &#xA7; 1026.41 for a mortgage loan while the consumer is a debtor in bankruptcy. However, the Bureau is not taking any position on whether periodic statements generally may violate an automatic stay or discharge injunction and does not discourage servicers who send tailored periodic statements or communications to consumers in bankruptcy from continuing such communications so far as bankruptcy law permits. The Bureau still believes that some consumers facing the complexities of bankruptcy could benefit from receiving information in some tailored form of a periodic statement that is appropriate to their circumstances.</P>
+        <P>The interim final rule also adds new commentary to &#xA7; 1026.41(e)(5). Comment 41(e)(5)-1 clarifies that the exemption begins once a petition has been filed commencing a case under Title 11 of the United States Code in which the consumer is a debtor. Comment 41(e)(5)-2 clarifies that with respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with &#xA7; 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: (i) the case is dismissed, (ii) the case is closed, or (iii) the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of &#xA7; 1026.41 in any manner believed necessary. The periodic statement is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived&#x2014;for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge&#x2014;the servicer is again exempt from the requirement in &#xA7; 1026.41. Comment 41(e)(5)-3 clarifies that the exemption applies when any consumer who is among the joint obligors with primary liability on the transaction is a debtor in bankruptcy.</P>
+
+        <P>For the reasons discussed, the Bureau is providing this exemption at this time, particularly because of the complex compliance concerns and the impending effective date of the 2013 TILA Servicing Final Rule. The Bureau will continue to examine this issue and may reinstate a periodic statement requirement with respect to consumers in bankruptcy, but it will not reinstate any such requirement without notice and comment rulemaking and an appropriate implementation period. The<PRTPAGE P="63002"/>Bureau solicits comment on the scope of the exemption, the triggers for meeting the exemption and having to resume sending periodic statements, and how the content of the periodic statement might be tailored to meet the particular needs of consumers in bankruptcy. The Bureau also seeks comment on other factors it should take into consideration in determining whether to reinstate any type of periodic statement requirement with respect to consumers in bankruptcy.</P>
+        <P>
+          <E T="03">Legal Authority.</E>The Bureau uses its authority under TILA sections 105(a) and (f) and Dodd-Frank Act section 1405(b) to exempt servicers from the requirement in TILA section 128(f) to provide periodic statements for a mortgage loan while the consumer is a debtor in bankruptcy and to adopt related official Bureau interpretations in Supplement I to Part 1026. For the reasons discussed above, the Bureau believes this exemption is necessary and proper under TILA section 105(a) to facilitate compliance. In addition, consistent with TILA section 105(f) and in light of the factors in that provision, the Bureau believes that imposing the periodic statement requirement for consumers in bankruptcy may not currently provide a meaningful benefit to those consumers in the form of useful information. Consistent with Dodd-Frank Act section 1405(b), the Bureau also believes that the modification of the requirements in TILA section 128(f) to provide this exemption is in the interest of consumers and in the public interest.</P>
+        <HD SOURCE="HD3">Section 1026.43Minimum standards for transactions secured by a dwelling</HD>
+        <HD SOURCE="HD3">43(e) Qualified mortgages</HD>
+        <HD SOURCE="HD3">43(e)(4) Qualified mortgage defined&#x2014;special rules</HD>
+        <HD SOURCE="HD3">43(e)(4)(ii)(C)</HD>
+        <P>The September 2013 Final Rule Amendments to the 2013 Mortgage Rules inadvertently replaced the language at &#xA7; 1026.43(e)(4)(ii)(C) as revised in July with the earlier version of the language. This rule restores the language as revised in July.</P>
+        <HD SOURCE="HD1">VII. Section 1022(b)(2) of the Dodd-Frank Act</HD>
+        <HD SOURCE="HD2">A. Overview</HD>
+        <P>The Bureau has conducted an analysis of the potential benefits, costs, and impacts of the interim final rule.<SU>36</SU>
+          <FTREF/>The Bureau has consulted, or offered to consult with, the prudential regulators, SEC, HUD, FHFA, the Federal Trade Commission, and the Department of the Treasury, including regarding consistency with any prudential, market, or systemic objectives administered by such agencies.</P>
+        <FTNT>
+          <P>
+            <SU>36</SU>Section 1022(b)(2)(A) of the Dodd-Frank Act, 12 U.S.C. 5521(b)(2), directs the Bureau, when prescribing a rule under the Federal consumer financial laws, to consider the potential benefits and costs of regulation to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services; the impact on insured depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act; and the impact on consumers in rural areas. Section 1022(b)(2)(B) of the Dodd-Frank Act directs the Bureau to consult with appropriate prudential regulators or other Federal agencies regarding consistency with prudential, market, or systemic objectives that those agencies administer.</P>
+        </FTNT>
+        <P>As noted above, the interim final rule makes amendments to the 2013 RESPA Servicing Final Rule, 2013 TILA Servicing Final Rule, 2013 HOEPA Final Rule, and makes two technical corrections to Regulation Z and the commentary as revised by the May 2013 ATR Final Rule, the July 2013 Final Rule Amendments to the 2013 Mortgage Rules, and the September 2013 Final Rule Amendments to the 2013 Mortgage Rules. These changes clarify, correct, or amend provisions or commentary on (1) The scope of the requirement to engage in early intervention with delinquent borrowers under 12 CFR 1024.39, (2) the scope of the requirement to provide a notice to consumers with adjustable-rate mortgages when an interest rate adjustment causes a corresponding change in payment under 12 CFR 1026.20, (3) compensation to be included in points and fees for loan originators that are not employees of the creditor, (4) the federally required disclosure that must be used in pre-loan counseling required under 12 CFR 1026.34(a)(5) for a closed-end HOEPA loan not subject to RESPA, and (5) the scope of the requirement to provide a periodic statement under 12 CFR 1026.41.<SU>37</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>37</SU>The interim final rule also restores the proper version of &#xA7; 1026.43(e)(4)(ii)(C), as revised in the July 2013 Final Rule Amendments to the 2013 Mortgage Rules, which was inadvertently changed in the September 2013 Final Rule Amendments to the 2013 Mortgage Rules. No change was intended or made by the September amendment, as is clear from the interpretation of &#xA7; 1026.43(e)(4)(ii)(C) contained in the commentary. Nevertheless, as compared to the baseline established by the September amendment, the revision made by the interim final rule may benefit consumers and covered persons by reducing compliance costs.</P>
+        </FTNT>
+        <HD SOURCE="HD2">B. Potential Benefits and Costs to Consumers and Covered Persons</HD>
+        <P>Compared to the baseline established by the September 2013 Final Rule Amendments to the 2013 Mortgage Rules (for (3)) or the baseline established by the final rules issued in January 2013 (for (1), (2), (4) and (5)), the Bureau believes that the interim final rule generally reduces burden on covered persons. The impact on consumers is nuanced, as explained above and discussed further below, but there are benefits to consumers considering certain high-cost loans.</P>
+        <P>The interim final rule adds a new provision &#xA7; 1024.39(d)(1) which exempts a servicer from the early intervention requirements in &#xA7; 1024.39 for a mortgage loan while the borrower is a debtor in bankruptcy. The Bureau is adding this exemption in light of detailed questions received since issuing the 2013 RESPA Servicing Final Rule concerning potential conflicts between this provision and bankruptcy law and concerning how to tailor servicing communications for borrowers who have invoked bankruptcy protections. This exemption will obviate the need for servicers to analyze their &#xA7; 1024.39 early intervention activities to account for the requirements of bankruptcy law and to provide &#xA7; 1024.39 early intervention activities consistent with the requirements of bankruptcy law. The new provision therefore reduces burden on servicers.</P>
+        <P>The impact on borrowers of the exemption is less clear in light of the continued uncertainty expressed by servicers about how to comply with both the early intervention requirement and bankruptcy law and because the Bureau cannot at this time provide guidance to servicers about how to comply. As a result, there is significant uncertainty regarding the impact of the early intervention activities that would have been provided under the baseline rule if any on borrowers who were debtors in bankruptcy and therefore significant uncertainty regarding the impact of the exemption. For example, borrowers might not have received significant benefit under the baseline rule, either because servicers determined that early intervention contacts were prohibited by bankruptcy law or because the contacts confused borrowers regarding the status of their accounts, in which case the exemption imposes little if any cost on these borrowers. The Bureau will continue to examine this issue.</P>
+
+        <P>The interim final rule also adds a new provision &#xA7; 1024.39(d)(2) which exempts a servicer that is a debt collector under the FDCPA with respect to a borrower who has exercised his or her &#x201C;cease communication&#x201D; right under the FDCPA from the requirements of &#xA7; 1024.39. This exemption will obviate the need for servicers to analyze their &#xA7; 1024.39 early intervention activities to account for this requirement of the<PRTPAGE P="63003"/>FDCPA and to provide &#xA7; 1024.39 early intervention activities consistent with this requirement of the FDCPA. The new provision therefore reduces burden on servicers.</P>
+        <P>The impact on borrowers of the exemption is less clear in light of continued uncertainty about how servicers would have complied with both the early intervention requirement and the FDCPA. As a result, there is uncertainty regarding the impact of the early intervention activities if any that would have been provided under the baseline rule on borrowers who had exercised their &#x201C;cease communication&#x201D; right and therefore uncertainty regarding the impact of the exemption. For example, a borrower might benefit from certain types of early intervention notwithstanding a request that the servicer/debt collector stop communicating with the borrower about the debt. If such early intervention would have been provided under the baseline rule, then the exemption imposes a cost on these borrowers. Balancing protections provided by early intervention against the protections provided by the &#x201C;cease communication&#x201D; right requires a complex analysis more appropriate in the broader context of a separate rulemaking on debt collection. The Bureau will continue to examine this issue.</P>
+        <P>The interim final rule adds a new provision &#xA7; 1026.20(c)(1)(ii)(C) which exempts a servicer who is a debt collector under the FDCPA with respect to a borrower who has an adjustable rate mortgage from the requirement to provide a notice when an interest rate adjustment causes a corresponding change in payment if the borrower has exercised his or her &#x201C;cease communication&#x201D; right. As explained in the 2013 TILA Servicing Final Rule, this disclosure modified an existing disclosure that was provided when interest rate adjustments resulted in a corresponding payment change. Servicers who were debt collectors presumably complied with the &#x201C;cease communication&#x201D; requirement of the FDCPA. Under the baseline, such servicers are presumed to have incurred the cost of determining whether the modifications to the disclosure in the 2013 TILA Servicing Final Rule changed the circumstances under which the disclosure needed to be provided to consumers who had exercised their &#x201C;cease communication&#x201D; right. The exemption does, however, obviate the need for servicers to provide the &#xA7; 1026.20(c) disclosures. The exemption therefore reduces burden on servicers.</P>
+        <P>The impact on consumers of the exemption is less clear given uncertainty about the impact of the disclosures on consumers who have exercised their &#x201C;cease communication&#x201D; right. Some consumers who, under the baseline rule, would have received the disclosure after having requested the cessation of communication about the debt might benefit from not receiving the disclosure under the exemption. Other consumers might be made worse off from not receiving the disclosure under the exemption. The Bureau will continue to examine this issue.</P>
+        <P>The interim final rule restores comment 32(b)(1)(ii)-4.iii as it was established by the May 2013 ATR Final Rule in Supplement I to Part 1026 while removing an extraneous phrase that might have been misinterpreted to conflict with the regulatory text. The technical correction in the interim final rule conforms the comment to the purpose intended by the May 2013 ATR Final Rule. Thus, the interim final rule restores and clarifies the intended comment and may benefit consumers and covered persons by reducing compliance costs.</P>
+        <P>As discussed above, under the Bureau's 2013 HOEPA Final Rule, the pre-loan counseling requirement in &#xA7; 1026.34(a)(5) could be read either to make certain closed-end non-RESPA transactions impossible or to require creditors to provide either a GFE or TILA open-end disclosure. The interim final rule removes the uncertainty about compliance and specifies that the counseling requirement in &#xA7; 1026.34(a)(5) is met after the consumer receives the HOEPA disclosure required by TILA section 129(a) and Regulation Z &#xA7; 1026.32(c).</P>
+        <P>The requirement under the interim final rule reduces burden on covered persons by clarifying that these closed-end non-RESPA transactions are allowed and that providers satisfy the counseling requirement by providing counseling prior to consummation and subsequent to furnishing the &#xA7; 1026.32(c) disclosure. The Bureau recognizes that there may be as few as three days between the time creditors furnish the &#xA7; 1026.32(c) disclosure and consummation of the mortgage loan. As a result, some providers may choose to offer the &#xA7; 1026.32(c) disclosure earlier to make it more feasible to meet the counseling requirement. The Bureau believes that any costs associated with earlier provision of the &#xA7; 1026.32(c) disclosure are likely less than the cost of providing a new GFE or TILA open-end disclosure. Consumers benefit from the requirements in the interim final rule compared to the baseline in which the loans within the scope of the requirement might not be offered or in which consumers would be provided a less suitable disclosure as the basis for counseling.</P>
+        <P>The interim final rule adds a new provision &#xA7; 1026.41(e)(5) which exempts a servicer from the periodic statement requirements in &#xA7; 1026.41 for a mortgage loan while the consumer is a debtor in bankruptcy. The Bureau has made this decision in light of detailed questions received since issuing the 2013 TILA Servicing Final Rule concerning potential conflicts between this provision and bankruptcy law and concerning how to tailor servicing communications for borrowers who have invoked bankruptcy protections. This exemption will obviate the need for servicers to analyze and potentially adjust the content of the &#xA7; 1026.41 periodic statements to account for the requirements of bankruptcy law and to provide the &#xA7; 1026.41 periodic statements consistent with the requirements of bankruptcy law. The exemption therefore reduces burden on servicers.</P>
+        <P>The impact on consumers of the exemption is less clear in light of the continued uncertainty expressed by servicers about how to comply with both the periodic statement requirement and bankruptcy law and because the Bureau cannot at this time provide guidance to servicers about how to comply. As a result, there is significant uncertainty regarding the impact of the periodic statements that would have been provided under the baseline rule to consumers who were debtors in bankruptcy and therefore significant uncertainty regarding the impact of the exemption. For example, borrowers might not have received significant benefit under the baseline rule, either because servicers determined that periodic statements were prohibited by bankruptcy law or because the statements confused borrowers regarding the status of their accounts, in which case the exemption would impose little if any cost on these consumers. The Bureau will continue to examine this issue.</P>
+
+        <P>The interim final rule is generally not expected to have a differential impact on depository institutions and credit unions with $10 billion or less in total assets as described in section 1026 of the Dodd-Frank Act. The main exception is for those depository institutions and credit unions which by virtue of their size are more likely to already be exempt from the periodic statement and early intervention<PRTPAGE P="63004"/>requirements.<SU>38</SU>
+          <FTREF/>These institutions derive no additional benefit from the exemptions for consumers in bankruptcy or (for early intervention requirements) from the FDCPA. The interim final rule may have some differential impacts on consumers in rural areas. To the extent that liens on a dwelling that are not federally related mortgage loans are more prevalent in these areas, the provisions on pre-loan counseling may have slightly greater impacts. As discussed above, costs for creditors in these areas should be reduced and consumers should benefit from increased access to credit without any loss in consumer protections.</P>
+        <FTNT>
+          <P>
+
+            <SU>38</SU>A creditor, assignee, or servicer is exempt from the periodic statement requirement for mortgage loans serviced by a small servicer. A small servicer is a servicer that either services 5,000 or fewer mortgage loans, for all of which the servicer (or an affiliate) is the creditor or assignee; or is a Housing Finance Agency, as defined in 24 CFR 266.5.<E T="03">See</E>the 2013 TILA Servicing Final Rule, section 1026.41(e).</P>
+        </FTNT>
+        <P>Given the nature and limited scope of the changes in the interim final rule, the Bureau does not believe that the final rule will reduce consumers' access to consumer financial products and services. Rather, the reduced burden in certain changes in this rule should generally help to improve access to credit.</P>
+        <HD SOURCE="HD1">VIII. Regulatory Flexibility Act Analysis</HD>
+        <P>The Regulatory Flexibility Act (RFA), as amended by the Small Business Regulatory Enforcement Fairness Act of 1996, requires each agency to consider the potential impact of its regulations on small entities including small businesses, small governmental units, and small not-for-profit organizations.<SU>39</SU>
+          <FTREF/>The RFA generally requires an agency to conduct an initial regulatory flexibility analysis (IRFA) and a final regulatory flexibility analysis (FRFA) of any rule subject to notice-and-comment rulemaking requirements, unless the agency certifies that the rule will not have a significant economic impact on a substantial number of small entities. The CFPB is subject to certain additional procedures under the RFA involving the convening of a panel to consult with small business representatives regarding any rule for which an IRFA is required.</P>
+        <FTNT>
+          <P>
+            <SU>39</SU>5 U.S.C. 601<E T="03">et seq.</E>
+          </P>
+        </FTNT>
+        <P>The RFA requirements do not apply in cases in which an agency finds good cause to issue an interim final rule without a notice of proposed rulemaking.<SU>40</SU>
+          <FTREF/>As discussed above in Section IV, the CFPB has made such a finding. Moreover, the CFPB believes that any delay in the issuance of the interim final rule would be contrary to the interests of small businesses insofar as the provisions should generally reduce the costs of compliance for covered persons.</P>
+        <FTNT>
+          <P>
+            <SU>40</SU>5 U.S.C. 553(b)(B); 5 U.S.C. 605(b); 62 FR 23,538 (April 30, 1997); 66 FR 37,752 (July 19, 2001); 64 FR 3865 (Jan. 26, 1999).</P>
+        </FTNT>
+        <P>Further, this rulemaking is part of a series of rules that have revised and expanded the regulatory requirements for entities that originate or service mortgage loans. Because this interim final rule generally makes clarifying changes to conform these rules to their intended purposes, the RFA analyses associated with those rules generally take into account the impact of the changes made by this interim final rule. Because these rules qualify as &#x201C;a series of closely related rules,&#x201D; for purposes of the RFA, the Bureau relies on those analyses and determines that it has met or exceeded the IRFA and FRFA requirements.</P>
+        <P>In the alternative, the Bureau also concludes that the interim final rule will not have a significant impact on a substantial number of small entities. As noted, this interim final rule generally clarifies the existing rule and to the extent any changes are substantive, these changes will not have a material impact on small entities. The provision related to servicing does not apply to many small entities under the small servicer exemption (and to the extent that they do, small entities will benefit), while the provisions related to loan originator compensation and counseling lower the regulatory burden and possible compliance costs for affected entities. Therefore, the undersigned certifies that the rule will not have a significant impact on a substantial number of small entities.</P>
+        <HD SOURCE="HD1">IX. Paperwork Reduction Act</HD>
+
+        <P>This interim final rule amends 12 CFR part 1024 (Regulation X), which implements the Real Estate Settlement Procedures Act (RESPA) and 12 CFR part 1026 (Regulation Z), which implements the Truth in Lending Act (TILA). Regulations X and Z currently contains collections of information approved by OMB. The Bureau's OMB control number for Regulation X is 3170-0016 and for Regulation Z is 3170-0015. Regarding new &#xA7; 1026.41(e)(5) and new &#xA7; 1024.39(d)(1), which respectively exempt servicers from the periodic statement requirements in &#xA7; 1026.41 and early intervention requirements in &#xA7; 1024.39 for homeowners who are debtors in bankruptcy, the Bureau cannot separately assess the burden associated with these consumers from other homeowners. Similarly, new &#xA7; 1024.39(d)(2) and new &#xA7; 1026.20(c)(1)(ii)(C), which respectively exempt servicers from the early intervention requirements in &#xA7; 1024.39 and the notice requirements in &#xA7; 1026.20(c) for mortgagors who have exercised the &#x201C;cease communication&#x201D; right under FDCPA, the Bureau cannot separately assess the burden associated with these consumers from other homeowners. Thus, the Bureau has determined that this interim final rule would not materially alter these collections of information nor impose any new recordkeeping, reporting, or disclosure requirements on the public that would constitute collections of information requiring approval under the Paperwork Reduction Act, 44 U.S.C. 3501<E T="03">et seq.</E>
+        </P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>12 CFR Part 1024</CFR>
+          <P>Condominiums, Consumer protection, Housing, Mortgage servicing, Mortgagees, Mortgages, Reporting and recordkeeping requirements.</P>
+          <CFR>12 CFR Part 1026</CFR>
+          <P>Advertising, Consumer protection, Mortgages, Reporting and recordkeeping requirements, Truth in lending.</P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau further amends Regulation X, 12 CFR part 1024 and Regulation Z, 12 CFR part 1026, as amended by the final rules published on January 30, 2013, at 78 FR 6407, on January 31, 2013, at 78 FR 6855, on February 14, 2013, at 78 FR 10901 and 78 FR 10695, on June 12, 2013, at 78 FR 35429, on July 24, 2013, at 78 FR 44685, on July 30, 2013, at 78 FR 45842, and on October 1, 2013, at 78 FR 60382, as set forth below:</P>
+        <REGTEXT PART="1024" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1024 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 5581.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1024" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart C&#x2014;Mortgage Servicing</HD>
+          </SUBPART>
+          <AMDPAR>2. Section 1024.39, as added at 78 FR 10876 (Feb. 14, 2013), is amended by adding paragraph (d) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1024.39</SECTNO>
+            <SUBJECT>Early intervention requirements for certain borrowers.</SUBJECT>
+            <STARS/>
+            <P>(d)<E T="03">Exemptions</E>&#x2014;(1)<E T="03">Borrowers in bankruptcy.</E>A servicer is exempt from<PRTPAGE P="63005"/>the requirements of this section for a mortgage loan while the borrower is a debtor in bankruptcy under Title 11 of the United States Code.</P>
+            <P>(2)<E T="03">Fair Debt Collections Practices Act.</E>A servicer subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692<E T="03">et seq.</E>) with respect to a borrower is exempt from the requirements of this section with regard to a mortgage loan for which the borrower has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1024" TITLE="12">
+          <AMDPAR>3. In Supplement I to Part 1024, as added February 14, 2013, at 78 FR 10887:</AMDPAR>
+          <AMDPAR>a. Under<E T="03">Section 1024.39&#x2014;Early intervention requirements for certain borrowers:</E>
+          </AMDPAR>
+          <AMDPAR>Paragraph 39(c) is removed</AMDPAR>
+          <AMDPAR>ii. The <E T="03">paragraph 39(d)(1) Borrowers in bankruptcy</E>and paragraphs 1, 2, and 3 are added.</AMDPAR>
+          <AMDPAR>Paragraph 41(d)(1) is removed</AMDPAR>
+          <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
+          <EXTRACT>
+            <STARS/>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart C&#x2014;Mortgage Servicing</HD>
+              <STARS/>
+              <HD SOURCE="HD2">Section 1024.39&#x2014;Early intervention requirements for certain borrowers</HD>
+              <STARS/>
+              <HD SOURCE="HD2">39(d)(1) Borrowers in bankruptcy.</HD>
+            </SUBPART>
+            <P>
+              <E T="03">1. Commencing a case.</E>The requirements of &#xA7; 1024.39 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the borrower is a debtor.</P>
+            <P>
+              <E T="03">2. Obligation to resume early intervention requirements.</E>i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume compliance with &#xA7; 1024.39 after the first delinquency that follows the earliest of any of three potential outcomes in the borrower's bankruptcy case: the case is dismissed, the case is closed, or the borrower receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume compliance with &#xA7; 1024.39 does not require a servicer to communicate with a borrower in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of &#xA7; 1024.39 in any manner believed necessary.</P>
+            <P>ii. Compliance with &#xA7; 1024.39 is not required for any portion of the mortgage debt that is discharged under applicable provisions of the U.S. Bankruptcy Code. If the borrower's bankruptcy case is revived&#x2014;for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge&#x2014;the servicer is again exempt from the requirement in &#xA7; 1024.39.</P>
+            <P>
+              <E T="03">3. Joint obligors.</E>When two or more borrowers are joint obligors with primary liability on a mortgage loan subject to &#xA7; 1024.39, the exemption in &#xA7; 1024.39(d)(1) applies if any of the borrowers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from complying with &#xA7; 1024.39 as to both the husband and the wife.</P>
+            <STARS/>
+          </EXTRACT>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>
+          </PART>
+          <AMDPAR>5. The authority citation for part 1026 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+
+            <P>12 U.S.C. 2601, 2603-2605, 2607, 2609, 2617, 5511, 5512, 5532, 5581; 15 U.S.C. 1601<E T="03">et seq.</E>
+            </P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart C&#x2014;Closed-End Credit</HD>
+          </SUBPART>
+          <AMDPAR>6. Section 1026.20, as amended by 78 FR 11004 (Feb. 14, 2013), is amended by:</AMDPAR>
+          <AMDPAR>a. Removing &#x201C;or&#x201D; from the end of paragraph (c)(1)(ii)(A).</AMDPAR>
+          <AMDPAR>b. Removing the period from the end of paragraph (c)(1)(ii)(B) and adding in its place &#x201C;; or&#x201D;.</AMDPAR>
+          <AMDPAR>c. Adding paragraph (c)(1)(ii)(C) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.20</SECTNO>
+            <SUBJECT>Disclosure requirements regarding post-consummation events.</SUBJECT>
+            <STARS/>
+            <P>(c) * * *</P>
+            <P>(1) * * *</P>
+            <P>(ii) * * *</P>
+
+            <P>(C) The creditor, assignee or servicer of an adjustable-rate mortgage when the servicer on the loan is subject to the Fair Debt Collections Practices Act (FDCPA) (15 U.S.C. 1692<E T="03">et seq.</E>) with regard to the loan and the consumer has sent a notification pursuant to FDCPA section 805(c) (15 U.S.C. 1692c(c)).</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+          </SUBPART>
+          <AMDPAR>7. Section 1026.34, as amended at 78 FR 6964 (Jan. 31, 2013), is amended by revising paragraphs (a)(5)(ii), (a)(5)(iv)(D), and (a)(5)(iv)(E), and adding paragraph (a)(5)(iv)(F), to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.34</SECTNO>
+            <SUBJECT>Prohibited acts or practices in connection with high-cost mortgages.</SUBJECT>
+            <P>(a) * * *</P>
+            <P>(5) * * *</P>
+            <P>(ii)<E T="03">Timing of counseling.</E>The counseling required under this paragraph (a)(5) must occur after:</P>
+            <P>(A) The consumer receives either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by &#xA7; 1026.40; or</P>
+            <P>(B) The consumer receives the disclosures required by &#xA7; 1026.32(c), for transactions in which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided.</P>
+            <STARS/>
+            <P>(iv) * * *</P>
+            <P>(D) A statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in either the disclosure required by section 5(c) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604(c)) or the disclosures required by &#xA7; 1026.40.</P>
+            <P>(E) For transactions for which neither of the disclosures listed in paragraph (a)(5)(ii)(A) of this section are provided, a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by &#xA7; 1026.32(c); and</P>
+
+            <P>(F) A statement that the counselor has verified that the consumer(s) received the disclosures required by either &#xA7; 1026.32(c) or the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601<E T="03">et seq.</E>) with respect to the transaction.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>8. Section 1026.41, as added at 78 FR 11007 (Feb. 14, 2013), is amended by adding paragraph (e)(5) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.41</SECTNO>
+            <SUBJECT>Periodic statements for residential mortgage loans.</SUBJECT>
+            <STARS/>
+            <PRTPAGE P="63006"/>
+            <P>(e) * * *</P>
+            <P>(5)<E T="03">Consumers in bankruptcy.</E>A servicer is exempt from the requirements of this section for a mortgage loan while the consumer is a debtor in bankruptcy under Title 11 of the United States Code.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>9. Section 1026.43(e)(4)(ii)(C), as added at 78 FR 6584 (Jan. 30, 2013) and amended at 78 FR 44718 (July 24, 2013) and 78 FR 60442 (Oct. 1, 2013), is revised to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1026.43</SECTNO>
+            <SUBJECT>Minimum standards for transactions secured by a dwelling.</SUBJECT>
+            <STARS/>
+            <P>(e) * * *</P>
+            <P>(4) * * *</P>
+            <P>(ii) * * *</P>
+            <P>(C) A loan that is eligible to be guaranteed, except with regard to matters wholly unrelated to ability to repay, by the U.S. Department of Veterans Affairs;</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="1026" TITLE="12">
+          <AMDPAR>10. In Supplement I to Part 1026, as amended at 78 FR 6589, Jan. 30, 2013; 78 FR 6967, Jan. 31, 2013; 78 FR 11019, Feb. 14, 2013; and 78 FR 35504, June 12, 2013:</AMDPAR>
+          <AMDPAR>A. Under<E T="03">Section 1026.32&#x2014;Requirements for High-Cost Mortgages:</E>
+          </AMDPAR>
+          <AMDPAR>i. Under 32(b) Definitions:</AMDPAR>
+          <AMDPAR>a. Under Paragraph 32(b)(1)(ii), paragraph 4.iii is revised.</AMDPAR>
+          <AMDPAR>B. Under<E T="03">Section 1026.34&#x2014;Prohibited Acts or Practices for High-Cost Mortgages:</E>
+          </AMDPAR>
+          <AMDPAR>i. Under<E T="03">34(a)(5) Pre-loan counseling:</E>
+          </AMDPAR>
+          <AMDPAR>a. Under Paragraph 34(a)(5)(ii), paragraph 1 is revised, paragraph 2 is redesignated as paragraph 3 and revised, and new paragraph 2 is added.</AMDPAR>
+          <AMDPAR>b. Under paragraph 34(a)(5)(iv), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>c. Under paragraph 34(a)(5)(v), paragraph 1 is revised.</AMDPAR>
+          <AMDPAR>C. Under<E T="03">Section 1026.41&#x2014;Periodic Statements for Residential Mortgage Loans:</E>
+          </AMDPAR>
+          <AMDPAR>i. The heading<E T="03">41(e)(5) Consumers in bankruptcy</E>and paragraphs 1, 2, and 3 are added.</AMDPAR>
+          <P>The additions and revisions read as follows:</P>
+          <HD SOURCE="HD1">Supplement I to Part 1026&#x2014;Official Interpretations</HD>
+          <EXTRACT>
+            <STARS/>
+            <SUBPART>
+              <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
+              <STARS/>
+              <HD SOURCE="HD2">Section 1026.32&#x2014;Requirements for High-Cost Mortgages</HD>
+              <STARS/>
+            </SUBPART>
+            <P>
+              <E T="03">32(b) Definitions</E>
+            </P>
+            <STARS/>
+            <P>
+              <E T="03">Paragraph 32(b)(1)(ii).</E>
+            </P>
+            <STARS/>
+            <P>4.<E T="03">Loan originator compensation&#x2014;calculating loan originator compensation in connection with other charges or payments included in the finance charge or made to loan originators.</E>
+            </P>
+            <STARS/>
+            <P>iii.<E T="03">Creditor's origination fees&#x2014;loan originator not employed by creditor.</E>Compensation paid by a creditor to a loan originator who is not employed by the creditor is included in the calculation of points and fees under &#xA7; 1026.32(b)(1)(ii). Such compensation is included in points and fees in addition to any origination fees or charges paid by the consumer to the creditor that are included in points and fees under &#xA7; 1026.32(b)(1)(i). For example, assume that a consumer pays to the creditor a $3,000 origination fee and that the creditor pays a mortgage broker $1,500 in compensation attributed to the transaction. Assume further that the consumer pays no other charges to the creditor that are included in points and fees under &#xA7; 1026.32(b)(1)(i) and that the mortgage broker receives no other compensation that is included in points and fees under &#xA7; 1026.32(b)(1)(ii). For purposes of calculating points and fees, the $3,000 origination fee is included in points and fees under &#xA7; 1026.32(b)(1)(i) and the $1,500 in loan originator compensation is included in points and fees under &#xA7; 1026.32(b)(1)(ii), equaling $4,500 in total points and fees, provided that no other points and fees are paid or compensation received.</P>
+            <STARS/>
+            <HD SOURCE="HD2">Section 1026.34&#x2014;Prohibited Acts or Practices for High-Cost Mortgages</HD>
+            <STARS/>
+            <P>
+              <E T="03">34(a)(5) Pre-loan counseling.</E>
+            </P>
+            <STARS/>
+            <P>
+              <E T="03">34(a)(5)(ii) Timing of counseling.</E>
+            </P>
+            <P>1.<E T="03">Disclosures for open-end credit plans.</E>Section 1026.34(a)(5)(ii) permits receipt of either the disclosure required by section 5(c) of RESPA or the disclosures required under &#xA7; 1026.40 to allow counseling to occur. Pursuant to 12 CFR 1024.7(h), the disclosures required by &#xA7; 1026.40 can be provided for open-end plans in lieu of the usual disclosure required by section 5(c) of RESPA.</P>
+            <P>2.<E T="03">Transactions not subject to RESPA or &#xA7; 1026.40.</E>For closed-end mortgage transactions that are not subject to RESPA, the counseling certification must include a statement that the consumer(s) received counseling on the advisability of the high-cost mortgage based on the terms provided in the disclosures required by &#xA7; 1026.32(c). (Reference to counseling on advisability using the disclosures required by &#xA7; 1026.32(c) is not required for transactions subject to RESPA or &#xA7; 1026.40.) The disclosures required by &#xA7; 1026.32(c) must be furnished to the consumer at least three business days prior to consummation of the mortgage. The creditor may wish to furnish the disclosures sooner, to provide sufficient time for counseling and certification.</P>
+            <P>3.<E T="03">Initial disclosure.</E>Counseling may occur after receipt of either an initial disclosure required by section 5(c) of RESPA, the disclosures required by &#xA7; 1026.40, or the disclosures required by &#xA7; 1026.32(c), regardless of whether revised versions of such disclosures are subsequently provided to the consumer.</P>
+            <P>
+              <E T="03">34(a)(5)(iv) Content of certification.</E>
+            </P>
+            <P>1.<E T="03">Statement of counseling on advisability.</E>A statement that a consumer has received counseling on the advisability of the high-cost mortgage means that the consumer has received counseling about key terms of the mortgage transaction, as set out in either the disclosure required by section 5(c) of RESPA or the disclosures provided to the consumer pursuant to &#xA7; 1026.40, or, for closed-end transactions not subject to RESPA, the disclosures required by &#xA7; 1026.32(c); the consumer's budget, including the consumer's income, assets, financial obligations, and expenses; and the affordability of the mortgage transaction for the consumer. Examples of such terms of the mortgage transaction include the initial interest rate, the initial monthly payment, whether the payment may increase, how the minimum periodic payment will be determined, and fees imposed by the creditor, as may be reflected in the applicable disclosure. A statement that a consumer has received counseling on the advisability of the high-cost mortgage does not require the counselor to have made a judgment or determination as to the appropriateness of the mortgage transaction for the consumer.</P>
+            <STARS/>
+            <P>
+              <E T="03">34(a)(5)(v) Counseling fees.</E>
+            </P>
+            <P>1.<E T="03">Financing.</E>Section 1026.34(a)(5)(v) does not prohibit a creditor from financing the counseling fee as part of the transaction for a high-cost mortgage, if the fee is a bona fide third-party charge as provided by &#xA7; 1026.32(b)(5)(i).</P>
+            <STARS/>
+            <HD SOURCE="HD2">Section 1026.41&#x2014;Periodic Statements for Residential Mortgage Loans</HD>
+            <STARS/>
+            <P>
+              <E T="03">41(e)(5) Consumers in bankruptcy.</E>
+            </P>
+            <P>
+              <E T="03">1. Commencing a case.</E>The requirements of &#xA7; 1026.41 do not apply once a petition is filed under Title 11 of the United States Code, commencing a case in which the consumer is a debtor.</P>
+            <P>
+              <E T="03">2. Obligation to resume sending periodic statements.</E>i. With respect to any portion of the mortgage debt that is not discharged, a servicer must resume sending periodic statements in compliance with &#xA7; 1026.41 within a reasonably prompt time after the next payment due date that follows the earliest of any of three potential outcomes in the consumer's bankruptcy case: the case is dismissed, the case is closed, or the consumer receives a discharge under 11 U.S.C. 727, 1141, 1228, or 1328. However, this requirement to resume sending periodic statements does not require a servicer to communicate with a consumer in a manner that would be inconsistent with applicable bankruptcy law or a court order in a bankruptcy case. To the extent permitted by such law or court order, a servicer may adapt the requirements of &#xA7; 1026.41 in any manner believed necessary.</P>
+
+            <P>ii. The periodic statement is not required for any portion of the mortgage debt that is<PRTPAGE P="63007"/>discharged under applicable provisions of the U.S. Bankruptcy Code. If the consumer's bankruptcy case is revived&#x2014;for example if the court reinstates a previously dismissed case, reopens the case, or revokes a discharge&#x2014;the servicer is again exempt from the requirement in &#xA7; 1026.41.</P>
+            <P>
+              <E T="03">3. Joint obligors.</E>When two or more consumers are joint obligors with primary liability on a closed-end consumer credit transaction secured by a dwelling subject to &#xA7; 1026.41, the exemption in &#xA7; 1026.41(e)(5) applies if any of the consumers is in bankruptcy. For example, if a husband and wife jointly own a home, and the husband files for bankruptcy, the servicer is exempt from providing periodic statements to both the husband and the wife.</P>
+            <STARS/>
+          </EXTRACT>
+        </REGTEXT>
+        <SIG>
+          <DATED>Dated: October 15, 2013.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2013-24521 Filed 10-22-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
