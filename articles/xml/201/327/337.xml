@@ -1,0 +1,104 @@
+<RULE>
+      <PREAMB>
+        <PRTPAGE P="69753"/>
+        <AGENCY TYPE="F">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Parts 1002, 1005, 1024, and 1026</CFR>
+        <SUBJECT>Agency Information Collection Activities; Notice of Office of Management and Budget Approval of Information Collection Requirements</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Notice of approval of information collection requirements.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+
+          <P>In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (Bureau) is announcing the Office of Management and Budget's (OMB) approval of new and revised information collection requirements contained in various final rules published in the<E T="04">Federal Register</E>. See the<E T="02">SUPPLEMENTARY INFORMATION</E>section below for additional information about each OMB approval.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+
+          <P>Effective November 21, 2013. The effective date or dates of each final rule listed herein is provided in the related final rule or, as applicable, in relevant amendments published in the<E T="04">Federal Register</E>.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+
+          <P>PRA-related documentation submitted to the OMB for each of the below listed final rules is available at<E T="03">www.reginfo.gov.</E>Requests for additional information should be directed to the Bureau's PRA Officer, 1700 G Street NW., Washington, DC 20552, (202) 435-9575, or email:<E T="03">PRA@cfpb.gov.</E>
+          </P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P>Under the PRA (44 U.S.C. 3501<E T="03">et seq.</E>) the Bureau may not conduct or sponsor, and, notwithstanding any other provision of law, a respondent is not required to respond to, an information collection unless it displays a currently valid OMB control number. Each final rule referenced herein states that affected parties do not have to comply with certain information collection requirements until OMB approves those information collection requirements and the Bureau publishes a notice in the<E T="04">Federal Register</E>announcing this approval and the control number assigned by OMB. The Bureau hereby announces OMB approval of the information collection requirements contained in the final rules listed in the table below and the respective OMB control number currently assigned to each of the information collections.</P>
+        <GPOTABLE CDEF="s50,xls60,14,14" COLS="4" OPTS="L2,tp0,i1">
+          <TTITLE/>
+          <BOXHD>
+            <CHED H="1">Title of the collection and CFR citation</CHED>
+            <CHED H="1">
+              <E T="02">Federal Register</E>citation for final rule</CHED>
+            <CHED H="1">OMB Control No.</CHED>
+            <CHED H="1">Date approved by OMB</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">Homeownership Counseling Amendments to the Real Estate Settlement Procedures Act (Regulation X)&#x2014;12 CFR part 1024</ENT>
+            <ENT>78 FR 6855</ENT>
+            <ENT>3170-0025</ENT>
+            <ENT>04/11/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Mortgage Servicing Amendment (Regulation X)&#x2014;12 CFR part 1024</ENT>
+            <ENT>78 FR 10695</ENT>
+            <ENT>3170-0027</ENT>
+            <ENT>04/26/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Mortgage Servicing Amendment (Regulation Z)&#x2014;12 CFR part 1026</ENT>
+            <ENT>78 FR 10901</ENT>
+            <ENT>3170-0028</ENT>
+            <ENT>04/17/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Appraisals for Higher-Risk Mortgage Loans Amendment (Regulation Z)&#x2014;12 CFR part 1026</ENT>
+            <ENT>78 FR 10367</ENT>
+            <ENT>3170-0026</ENT>
+            <ENT>04/18/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Loan Originator Compensation Amendment&#x2014;12 CFR part 1026</ENT>
+            <ENT>78 FR 11279</ENT>
+            <ENT>3170-0031</ENT>
+            <ENT>04/17/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Equal Credit Opportunity Act (Regulation B)&#x2014;12 CFR 1002</ENT>
+            <ENT>78 FR 7215</ENT>
+            <ENT>3170-0013</ENT>
+            <ENT>04/10/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Electronic Fund Transfer Act (Regulation E)&#x2014;12 CFR 1005</ENT>
+            <ENT>78 FR 30661</ENT>
+            <ENT>3170-0014</ENT>
+            <ENT>06/25/13</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Ability to Repay and Qualified Mortgage Standards Under the Truth in Lending Act (Regulation Z) (Concurrent Proposal)&#x2014;12 CFR 1026</ENT>
+            <ENT>78 FR 35429</ENT>
+            <ENT>3170-0035</ENT>
+            <ENT>07/12/13</ENT>
+          </ROW>
+        </GPOTABLE>
+
+        <P>The Consumer Financial Protection Bureau divided certain proposals to amend the Bureau's Regulations X and Z into separate Information Collection Requests (ICRs) in the Office of Management and Budget (OMB) system (accessible at<E T="03">www.reginfo.gov</E>) to ease the public's ability to view and understand the individual proposals. Subsequent to the finalization of the rules, CFPB anticipates that it will recombine the portions of Regulations Z and X that are broken out in the reginfo.gov system into the existing control numbers for Regulations X and Z. CFPB respondents should continue to use the 3170-0015 control number for Regulation Z and 3170-0016 control number for Regulation X throughout this time.</P>
+        <P>The Bureau notes that, while OMB has approved the information collection requirements as contained in the above noted final rules, the Bureau's current rules remain in effect and affected parties are not required to follow the requirements contained in final rules listed above until such time as the effective date of the respective final rule.</P>
+        <SIG>
+          <DATED>Dated: November 6, 2013.</DATED>
+          <NAME>Ashwin Vasan,</NAME>
+          <TITLE>Chief Information Officer, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2013-27337 Filed 11-20-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>
