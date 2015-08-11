@@ -1,0 +1,21 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Parts 1024 and 1026</CFR>
+        <DEPDOC>[Docket No. CFPB-2013-0010]</DEPDOC>
+        <RIN>RIN 3170-AA37</RIN>
+        <SUBJECT>Amendments to the 2013 Mortgage Rules Under the Real Estate Settlement Procedure Act (Regulation X) and the Truth in Lending Act (Regulation Z)</SUBJECT>
+        <HD SOURCE="HD2">Correction</HD>
+        <P>In rule document 2013-16962, appearing on pages 44686-44728 in the issue of Wednesday, July 24, 2013, make the following correction:</P>
+        <REGTEXT PART="1026" TITLE="12">
+          <SECTION>
+            <SECTNO>&#xA7; 1026.43</SECTNO>
+            <SUBJECT>Minimum Standards for Transactions Secured by a Dwelling [Corrected]</SUBJECT>
+          </SECTION>
+          <AMDPAR>On page 44727, in the third column, on the eleventh line from the bottom, &#x201C;eligibility requirements for Fannie Mae products and loan terms&#x201D; should read &#x201C;The loan still meets eligibility requirements for Fannie Mae products and loan terms.&#x201D;</AMDPAR>
+        </REGTEXT>
+        
+      </PREAMB>
+      <FRDOC>[FR Doc. C1-2013-16962 Filed 7-29-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 1505-01-D</BILCOD>
+    </RULE>
