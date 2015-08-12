@@ -4364,113 +4364,8 @@
               
             </EXTRACT>
           </REGTEXT>
-          <REGTEXT PART="1002" TITLE="12">
-            <AMDPAR>20. Appendix MS-3 is added to part 1024 to read as follows:</AMDPAR>
-            <HD SOURCE="HD1">Appendix MS-3 to Part 1024</HD>
-            <EXTRACT>
-              <HD SOURCE="HD1">Model Force-Placed Insurance Notice Forms</HD>
-              <HD SOURCE="HD3">Table of Contents</HD>
-              <FP SOURCE="FP-1">MS-3(A)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(c)(2)</FP>
-              <FP SOURCE="FP-1">MS-3(B)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(i)</FP>
-              <FP SOURCE="FP-1">MS-3(C)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(ii)</FP>
-              <FP SOURCE="FP-1">MS-3(D)&#x2014;Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to &#xA7; 1024.37(e)(2)</FP>
-              <HD SOURCE="HD1">MS-3(A)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(c)(2)</HD>
-              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
-              <FP SOURCE="FP-1">[Date of Notice]</FP>
-              <FP SOURCE="FP-1">[Borrower's Name]</FP>
-              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
-              <FP SOURCE="FP-1">Subject:<E T="04">Please provide insurance information for</E>[Property</FP>
-              <FP SOURCE="FP-1">Address]</FP>
-              <P>Dear [Borrower's Name]:</P>
-
-              <P>Our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage.<E T="04">Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]</E>. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</P>
-              <P>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
-              <P>The insurance we [bought] [buy]:</P>
-              <P>&#x2022;<E T="04">May be more expensive than the insurance you can buy yourself.</E>
-              </P>
-              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
-              </P>
-              <P>If you have any questions, please contact us at [telephone number].</P>
-              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
-              <P>MS-3(B)&#x2014;<E T="04">Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(i)</E>
-              </P>
-              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
-              <FP SOURCE="FP-1">[Date of Notice]</FP>
-              <FP SOURCE="FP-1">[Borrower's Name]</FP>
-              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
-              <P>Subject:<E T="04">Second and final notice&#x2014;please provide insurance information for</E>[Property Address]</P>
-              <P>Dear [Borrower's Name]:</P>
-              <P>This is your<E T="04">second and final notice</E>that our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage.<E T="04">Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property].</E>You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</P>
-              <P>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
-              <P>The insurance we [bought] [buy]:</P>
-              <P>&#x2022;<E T="04">[Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</E>
-              </P>
-              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
-              </P>
-              <P>If you have any questions, please contact us at [telephone number].</P>
-              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
-              <HD SOURCE="HD1">MS-3(C)&#x2014;<E T="04">Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(ii)</E>
-              </HD>
-              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
-              <FP SOURCE="FP-1">[Date of Notice]</FP>
-              <FP SOURCE="FP-1">[Borrower's Name]</FP>
-              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
-              <FP SOURCE="FP-1">Subject:<E T="04">Second and final notice&#x2014;please provide insurance information for</E>[Property Address]</FP>
-              <P>Dear [Borrower's Name]:</P>
-              <P>We received the insurance information you provided, but we are unable to verify coverage from [Date Range].</P>
-              <P>
-                <E T="04">Please provide us with insurance information for [Date Range] immediately.</E>
-              </P>
-              <P>We will charge you for insurance we [bought] [plan to buy] for [Date Range] unless we can verify that you have insurance coverage for [Date Range].</P>
-              <P>The insurance we [bought] [buy]:</P>
-              <P>&#x2022;<E T="04">Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</E>
-              </P>
-              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
-              </P>
-              <P>If you have any questions, please contact us at [telephone number].</P>
-              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
-              <HD SOURCE="HD1">MS-3(D)&#x2014;Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to &#xA7; 1024.37(e)(2)</HD>
-              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
-              <FP SOURCE="FP-1">[Date of Notice]</FP>
-              <FP SOURCE="FP-1">[Borrower's Name]</FP>
-              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
-              <FP SOURCE="FP-1">Subject: Please update insurance information for [Property Address]</FP>
-              <P>Dear [Borrower's Name]:</P>
-              <P>Because we did not have evidence that you had [hazard] [Insurance Type] insurance on the property listed above, we bought insurance on your property and added the cost to your mortgage loan account.</P>
-
-              <P>The policy that we bought [expired] [is scheduled to expire]. Because [hazard][Insurance Type] insurance] is required on your property, we intend to maintain insurance on your property by renewing or replacing the insurance we bought.<PRTPAGE P="10887"/>
-              </P>
-              <P>The insurance we buy:</P>
-              <P>&#x2022; [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</P>
-              <P>&#x2022; May not provide as much coverage as an insurance policy you buy yourself.</P>
-              <P>If you buy [hazard] [Insurance Type] insurance, you should immediately provide us with your insurance information.</P>
-              <P>[Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
-              <P>If you have any questions, please contact us at [telephone number].</P>
-              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
-            </EXTRACT>
-          </REGTEXT>
           <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>21. Appendix MS-4 is added to part 1024 to read as follows:</AMDPAR>
-            <HD SOURCE="HD1">Appendix MS-4&#x2014;Model Clauses for the Written Early Intervention Notice</HD>
-            <EXTRACT>
-              <HD SOURCE="HD1">MS-4(A)&#x2014;Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (&#xA7; 1024.39(b)(2)(i), (ii) and (iv))</HD>
-              <P>Call us today to learn more about your options and instructions for how to apply. [The longer you wait, or the further you fall behind on your payments, the harder it will be to find a solution.]</P>
-              <FP SOURCE="FP-1">[Servicer Name]</FP>
-              <FP SOURCE="FP-1">[Servicer Address]</FP>
-              <FP SOURCE="FP-1">[Servicer Telephone Number]</FP>
-              <FP SOURCE="FP-1">[For more information, visit [Servicer Web site] [and][or] [Email Address]].</FP>
-              <HD SOURCE="HD1">MS-4(B)&#x2014;Available Loss Mitigation Options (&#xA7; 1024.39(b)(2)(iii))</HD>
-              <P>[If you need help, the following options may be possible (most are subject to lender approval):]</P>
-              <P>&#x2022; [Refinance your loan with us or another lender;]</P>
-              <P>&#x2022; [Modify your loan terms with us;]</P>
-              <P>&#x2022; [Payment forbearance temporarily gives you more time to pay your monthly payment;] [or]</P>
-              <P>&#x2022; [If you are not able to continue paying your mortgage, your best option may be to find more affordable housing. As an alternative to foreclosure, you may be able to sell your home and use the proceeds to pay off your current loan.]</P>
-              <HD SOURCE="HD1">MS-4(C)&#x2014;Housing Counselors (&#xA7; 1024.39(b)(2)(v))</HD>
-              <P>For help exploring your options, the Federal government provides contact information for housing counselors, which you can access by contacting [the Consumer Financial Protection Bureau at [Bureau Housing Counselor List Web site]] [the Department of Housing and Urban Development at [HUD Housing Counselor List Web site]] or by calling [HUD Housing Counselor List Telephone Number].</P>
-            </EXTRACT>
-          </REGTEXT>
-          <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>22. Supplement I to part 1024 is added following the appendices to read as follows:</AMDPAR>
+            <AMDPAR>20. Supplement I to part 1024 is added following the appendices to read as follows:</AMDPAR>
             <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
             <HD SOURCE="HD2">Introduction</HD>
             <P>1.<E T="03">Official status.</E>This commentary is the primary vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation X. Good faith compliance with this commentary affords protection from liability under section 19(b) of the Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. 2617(b).</P>
@@ -4995,6 +4890,186 @@
             <P>2.<E T="03">Model MS-4(B).</E>These model clauses illustrate how the servicer may inform the borrower of loss mitigation options that may be available, as required by &#xA7; 1024.39(b)(2)(iii), if applicable. A servicer may include clauses describing particular loss mitigation options to the extent such options are available. Model MS-4(B) does not contain sample clauses for all loss mitigation options that may be available. The language in the model clauses contained in square brackets is optional; a servicer may comply with the disclosure requirements of &#xA7; 1024.39(b)(2)(iii) by using language substantially similar to the language in the model clauses, providing additional detail about the options, or by adding or substituting applicable loss mitigation options for options not represented in these model clauses, provided the information disclosed is accurate and clear and conspicuous.<PRTPAGE P="10899"/>
             </P>
             <P>3.<E T="03">Model MS-4(C).</E>These model clauses illustrate how a servicer may provide contact information for housing counselors, as required by &#xA7; 1024.39(b)(2)(v). A servicer may, at its option, provide the Web site and telephone number for either the Bureau's or the Department of Housing and Urban Development's housing counselors list, as provided by paragraphs &#xA7; 1024.39(b)(2)(v).</P>
+          </REGTEXT>
+
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>21. Appendix MS-1 to Part 1024 is removed.</AMDPAR>
+          </REGTEXT>
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>22. Appendix MS-2 to Part 1024 is removed.</AMDPAR>
+          </REGTEXT>
+
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>23. Appendix MS to Part 1024—Mortgage Servicing is added to read as follows:</AMDPAR>
+            <HD SOURCE="HED">Appendix MS to Part 1024—Mortgage Servicing</HD>
+            <EXTRACT>
+              <HD SOURCE="HD1">MS-1 to Part 1024—Servicing Disclosure Statement</HD>
+              <P>[Sample language; use business stationery or similar heading]</P>
+              <P>[Date]</P>
+              <HD SOURCE="HD3">SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED</HD>
+
+              <P>You are applying for a mortgage loan covered by the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2601 <E T="03">et seq.</E>). RESPA gives you certain rights under Federal law. This statement describes whether the servicing for this loan may be transferred to a different loan servicer. “Servicing” refers to collecting your principal, interest, and escrow payments, if any, as well as sending any monthly or annual statements, tracking account balances, and handling other aspects of your loan. You will be given advance notice before a transfer occurs.</P>
+              <HD SOURCE="HD2">Servicing Transfer Information</HD>
+              <P>[We may assign, sell, or transfer the servicing of your loan while the loan is outstanding.]</P>
+              <P>[or]</P>
+              <P>[We do not service mortgage loans of the type for which you applied. We intend to assign, sell, or transfer the servicing of your mortgage loan before the first payment is due.]</P>
+              <P>[or]</P>
+              <P>[The loan for which you have applied will be serviced at this financial institution and we do not intend to sell, transfer, or assign the servicing of the loan.]</P>
+              <P>[INSTRUCTIONS TO PREPARER: Insert the date and select the appropriate language under “Servicing Transfer Information.” The model format may be annotated with further information that clarifies or enhances the model language.]</P>
+
+              <HD SOURCE="HD1">MS-2 to Part 1024—Notice of Assignment, Sale, or Transfer of Servicing Rights</HD>
+              <HD SOURCE="HD3">[Sample language; use business stationery or similar heading]</HD>
+              <HD SOURCE="HD2">NOTICE OF ASSIGNMENT, SALE, OR TRANSFER OF SERVICING RIGHTS</HD>
+              <P>You are hereby notified that the servicing of your mortgage loan, that is, the right to collect payments from you, is being assigned, sold or transferred from __________ to __________ effective __________.</P>
+              <P>The assignment, sale or transfer of the servicing of the mortgage loan does not affect any term or condition of the mortgage instruments, other than terms directly related to the servicing of your loan.</P>
+              <P>Except in limited circumstances, the law requires that your present servicer send you this notice at least 15 days before the effective date of transfer, or at closing. Your new servicer must also send you this notice no later than 15 days after this effective date or at closing. [In this case, all necessary information is combined in this one notice].</P>
+              <P>Your present servicer is __________. If you have any question relating to the transfer of servicing from your present servicer call __________ [enter the name of an individual or department here] between __ a.m. and __ p.m. on the following days __________.</P>
+              <P>This is a [toll-free] or [collect call] number.</P>
+              <P>Your new servicer will be __________.</P>
+              <P>The business address for your new servicer is:</P>
+              <FP SOURCE="FP-DASH"/>
+              
+              <PRTPAGE P="541"/>
+              <FP>_____________________ .</FP>
+              
+              <P>The [toll-free] [collect call] telephone number of your new servicer is __________. If you have any question relating to the transfer of servicing to your new servicer call __________ [enter the name of an individual or department here] at __________ [toll free or collect call telephone number] between __ a.m. and __ p.m. on the following days __________.</P>
+              <P>The date that your present servicer will stop accepting payments form you is __________. The date that your new servicer will start accepting payments from you is __________. Send all payments due on or after that date to your new servicer.</P>
+              <P>[Use the paragraph if appropriate; otherwise omit.] The transfer of servicing rights may affect the term of or the continued availability of mortgage life or disability insurance or any other type of optional insurance in the following manner:</P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP>__________</FP>
+              
+              <FP>and you should take the following action to maintain coverage:</FP>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP>__________.</FP>
+              
+              <P>You should also be aware of the following information, which is set out in more detail in Section 6 of the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2605):</P>
+              <P>During the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer before its due date may not be treated by the new loan servicer as late, and a late fee may not be imposed on you.</P>
+
+              <P>Section 6 of RESPA (12 U.S.C. 2605) gives you certain consumer rights. If you send a “qualified written request” to your loan servicer concerning the servicing of your loan, your servicer must provide you with a written acknowledgment within 20 Business Days of receipt of your request. A “qualified written request” is a written correspondence, other than notice on a payment coupon or other payment medium supplied by the servicer, which includes your name and account number, and your reasons for the request. [If you want to send a “qualified written request” regarding the servicing of your loan, it must be sent to this address:
+              </P>
+              <FP>____________________ ]</FP>
+              
+              <P>Not later than 60 Business Days after receiving your request, your servicer must make any appropriate corrections to your account, and must provide you with a written clarification regarding any dispute. During this 60-Business Day period, your servicer may not provide information to a consumer reporting agency concerning any overdue payment related to such period or qualified written request. However, this does not prevent the servicer from initiating foreclosure if proper grounds exist under the mortgage documents.</P>
+              <P>A Business Day is a day on which the offices of the business entity are open to the public for carrying on substantially all of its business functions.</P>
+
+              <P>Section 6 of RESPA also provides for damages and costs for individuals or classes of individuals in circumstances where servicers are shown to have violated the requirements of that section. You should seek legal advice if you believe your rights have been violated.
+              </P>
+              <FP>[INSTRUCTIONS TO PREPARER: Delivery means placing the notice in the mail, first class postage prepaid, prior to 15 days before the effective date of transfer (transferor) or prior to 15 days after the effective date of transfer (transferee). However, this notice may be sent not more than 30 days after the effective date of the transfer of servicing rights if certain emergency business situations occur. See 12 CFR § 1024.21(d)(1)(ii). “Lender” may be substituted for “present servicer” where appropriate. These instructions should not appear on the format.]</FP>
+              <FP SOURCE="FP-DASH"/>
+              <FP>PRESENT SERVICER</FP>
+              <FP>[Signature not required]</FP>
+              <FP SOURCE="FP-DASH"/>
+              <FP>Date</FP>
+              
+              <FP>[and][or]</FP>
+              <FP SOURCE="FP-DASH"/>
+              <FP>FUTURE SERVICER</FP>
+              <FP>[Signature not required]</FP>
+              <FP SOURCE="FP-DASH"/>
+              <FP>Date</FP>
+
+              <HD SOURCE="HD1">MS-3 to Part 1024—Model Force-Placed Insurance Notice Forms</HD>
+
+              <HD SOURCE="HD2">MS-3(A)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(c)(2)</HD>
+
+              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
+              <FP SOURCE="FP-1">[Date of Notice]</FP>
+              <FP SOURCE="FP-1">[Borrower's Name]</FP>
+              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
+              <FP SOURCE="FP-1">Subject:<E T="04">Please provide insurance information for</E>[Property</FP>
+              <FP SOURCE="FP-1">Address]</FP>
+              <P>Dear [Borrower's Name]:</P>
+
+              <P>Our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage.<E T="04">Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property]</E>. You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</P>
+              <P>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
+              <P>The insurance we [bought] [buy]:</P>
+              <P>&#x2022;<E T="04">May be more expensive than the insurance you can buy yourself.</E>
+              </P>
+              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
+              </P>
+              <P>If you have any questions, please contact us at [telephone number].</P>
+              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
+              <P>MS-3(B)&#x2014;<E T="04">Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(i)</E>
+              </P>
+              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
+              <FP SOURCE="FP-1">[Date of Notice]</FP>
+              <FP SOURCE="FP-1">[Borrower's Name]</FP>
+              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
+              <P>Subject:<E T="04">Second and final notice&#x2014;please provide insurance information for</E>[Property Address]</P>
+              <P>Dear [Borrower's Name]:</P>
+              <P>This is your<E T="04">second and final notice</E>that our records show that your [hazard] [Insurance Type] insurance [is expiring] [expired], and we do not have evidence that you have obtained new coverage.<E T="04">Because [hazard] [Insurance Type] insurance is required on your property, [we bought insurance for your property] [we plan to buy insurance for your property].</E>You must pay us for any period during which the insurance we buy is in effect but you do not have insurance.</P>
+              <P>You should immediately provide us with your insurance information. [Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
+              <P>The insurance we [bought] [buy]:</P>
+              <P>&#x2022;<E T="04">[Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</E>
+              </P>
+              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
+              </P>
+              <P>If you have any questions, please contact us at [telephone number].</P>
+              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
+              <HD SOURCE="HD1">MS-3(C)&#x2014;<E T="04">Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(d)(2)(ii)</E>
+              </HD>
+              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
+              <FP SOURCE="FP-1">[Date of Notice]</FP>
+              <FP SOURCE="FP-1">[Borrower's Name]</FP>
+              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
+              <FP SOURCE="FP-1">Subject:<E T="04">Second and final notice&#x2014;please provide insurance information for</E>[Property Address]</FP>
+              <P>Dear [Borrower's Name]:</P>
+              <P>We received the insurance information you provided, but we are unable to verify coverage from [Date Range].</P>
+              <P>
+                <E T="04">Please provide us with insurance information for [Date Range] immediately.</E>
+              </P>
+              <P>We will charge you for insurance we [bought] [plan to buy] for [Date Range] unless we can verify that you have insurance coverage for [Date Range].</P>
+              <P>The insurance we [bought] [buy]:</P>
+              <P>&#x2022;<E T="04">Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</E>
+              </P>
+              <P>&#x2022;<E T="04">May not provide as much coverage as an insurance policy you buy yourself.</E>
+              </P>
+              <P>If you have any questions, please contact us at [telephone number].</P>
+              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
+              <HD SOURCE="HD1">MS-3(D)&#x2014;Model Form for Renewal or Replacement of Force-Placed Insurance Notice Containing Information Required By to &#xA7; 1024.37(e)(2)</HD>
+              <FP SOURCE="FP-1">[Name and Mailing Address of Servicer]</FP>
+              <FP SOURCE="FP-1">[Date of Notice]</FP>
+              <FP SOURCE="FP-1">[Borrower's Name]</FP>
+              <FP SOURCE="FP-1">[Borrower's Mailing Address]</FP>
+              <FP SOURCE="FP-1">Subject: Please update insurance information for [Property Address]</FP>
+              <P>Dear [Borrower's Name]:</P>
+              <P>Because we did not have evidence that you had [hazard] [Insurance Type] insurance on the property listed above, we bought insurance on your property and added the cost to your mortgage loan account.</P>
+
+              <P>The policy that we bought [expired] [is scheduled to expire]. Because [hazard][Insurance Type] insurance] is required on your property, we intend to maintain insurance on your property by renewing or replacing the insurance we bought.<PRTPAGE P="10887"/>
+              </P>
+              <P>The insurance we buy:</P>
+              <P>&#x2022; [Costs $[premium charge]] [Will cost an estimated $[premium charge]] annually, which may be more expensive than insurance you can buy yourself.</P>
+              <P>&#x2022; May not provide as much coverage as an insurance policy you buy yourself.</P>
+              <P>If you buy [hazard] [Insurance Type] insurance, you should immediately provide us with your insurance information.</P>
+              <P>[Describe the insurance information the borrower must provide]. [The information must be provided in writing.]</P>
+              <P>If you have any questions, please contact us at [telephone number].</P>
+              <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
+
+              <HD SOURCE="HD1">MS-4 to Part 1024—Model Clauses for the Written Early Intervention Notice</HD>
+
+              <HD SOURCE="HD2">MS-4(A)&#x2014;Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (&#xA7; 1024.39(b)(2)(i), (ii) and (iv))</HD>
+              <P>Call us today to learn more about your options and instructions for how to apply. [The longer you wait, or the further you fall behind on your payments, the harder it will be to find a solution.]</P>
+              <FP SOURCE="FP-1">[Servicer Name]</FP>
+              <FP SOURCE="FP-1">[Servicer Address]</FP>
+              <FP SOURCE="FP-1">[Servicer Telephone Number]</FP>
+              <FP SOURCE="FP-1">[For more information, visit [Servicer Web site] [and][or] [Email Address]].</FP>
+              <HD SOURCE="HD1">MS-4(B)&#x2014;Available Loss Mitigation Options (&#xA7; 1024.39(b)(2)(iii))</HD>
+              <P>[If you need help, the following options may be possible (most are subject to lender approval):]</P>
+              <P>&#x2022; [Refinance your loan with us or another lender;]</P>
+              <P>&#x2022; [Modify your loan terms with us;]</P>
+              <P>&#x2022; [Payment forbearance temporarily gives you more time to pay your monthly payment;] [or]</P>
+              <P>&#x2022; [If you are not able to continue paying your mortgage, your best option may be to find more affordable housing. As an alternative to foreclosure, you may be able to sell your home and use the proceeds to pay off your current loan.]</P>
+              <HD SOURCE="HD1">MS-4(C)&#x2014;Housing Counselors (&#xA7; 1024.39(b)(2)(v))</HD>
+              <P>For help exploring your options, the Federal government provides contact information for housing counselors, which you can access by contacting [the Consumer Financial Protection Bureau at [Bureau Housing Counselor List Web site]] [the Department of Housing and Urban Development at [HUD Housing Counselor List Web site]] or by calling [HUD Housing Counselor List Telephone Number].</P>
+
+
+
+            </EXTRACT>
           </REGTEXT>
           <SIG>
             <DATED>Dated: January 17, 2013.</DATED>
