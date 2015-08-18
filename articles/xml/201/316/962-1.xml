@@ -354,7 +354,8 @@
           </LSTSUB>
           <HD SOURCE="HD1">Authority and Issuance</HD>
           <P>For the reasons set forth in the preamble, the Bureau amends Regulation X, 12 CFR part 1024, as amended by the final rule published on February 14, 2013, 78 FR 10695, and Regulation Z, 12 CFR part 1026, as amended by the final rules published on January 30, 2013, 78 FR 6407 and February 14, 2013, 78 FR 10901 as set forth below:</P>
-          <REGTEXT PART="1024" TITLE="12">
+          <!--
+	  <REGTEXT PART="1024" TITLE="12"> 
             <PART>
               <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
             </PART>
@@ -364,7 +365,7 @@
               <P>12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 5581.</P>
             </AUTH>
             <SUBPART>
-              <HD SOURCE="HED">Subpart A&#x2014;General Provisions</HD>
+              <HD SOURCE="HED">Subpart A&#x2014;General Provisions Foobar1</HD>
             </SUBPART>
           </REGTEXT>
           <REGTEXT PART="1024" TITLE="12">
@@ -399,7 +400,7 @@
           </REGTEXT>
           
           <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>5. In Supplement I to Part 1024, Subpart A is added to read as follows:</AMDPAR>
+            <AMDPAR>5. In Supplement I to Part 1024, Section 1024.5 is added to read as follows:</AMDPAR>
             <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
             <STARS/>
             <SUBPART>
@@ -427,8 +428,8 @@
             <SUBPART>
               <HD SOURCE="HED">Subpart E&#x2014;Special Rules for Certain Home Mortgage Transactions</HD>
             </SUBPART>
-          </REGTEXT>
-          <REGTEXT PART="1025" TITLE="12">
+          </REGTEXT> -->
+          <REGTEXT PART="1026" TITLE="12">
             <AMDPAR>7. Section 1026.35 is amended by revising paragraph (e) introductory text, redesignating paragraph (e)(3) as paragraph (e)(4), and adding new paragraph (e)(3) to read as follows:</AMDPAR>
             <SECTION>
               <SECTNO>&#xA7; 1026.35</SECTNO>
