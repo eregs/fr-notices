@@ -4829,17 +4829,12 @@
           </REGTEXT>
 
           <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>21. Appendix MS-1 to Part 1024 is removed.</AMDPAR>
-          </REGTEXT>
-          <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>22. Appendix MS-2 to Part 1024 is removed.</AMDPAR>
-          </REGTEXT>
-
-          <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>23. Appendix MS to Part 1024—Mortgage Servicing is added to read as follows:</AMDPAR>
+            <AMDPAR>Appendix MS to Part 1024—Mortgage Servicing is added:</AMDPAR>
             <HD SOURCE="HED">Appendix MS to Part 1024—Mortgage Servicing</HD>
             <EXTRACT>
-              <HD SOURCE="HD1">MS-1 to Part 1024—Servicing Disclosure Statement</HD>
+
+              <HD SOURCE="HD1">MS-1 to Part 1024</HD>
+              <HD SOURCE="HD2">Servicing Disclosure Statement</HD>
               <P>[Sample language; use business stationery or similar heading]</P>
               <P>[Date]</P>
               <HD SOURCE="HD3">SERVICING DISCLOSURE STATEMENT NOTICE TO FIRST LIEN MORTGAGE LOAN APPLICANTS: THE RIGHT TO COLLECT YOUR MORTGAGE LOAN PAYMENTS MAY BE TRANSFERRED</HD>
@@ -4913,7 +4908,8 @@
               <FP>Date</FP>
               
 
-              <HD SOURCE="HD1">MS-3 to Part 1024—Model Force-Placed Insurance Notice Forms</HD>
+              <HD SOURCE="HD1">MS-3 to Part 1024</HD>
+              <HD SOURCE="HD2">Model Force-Placed Insurance Notice Forms</HD>
 
               <HD SOURCE="HD2">MS-3(A)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(c)(2)</HD>
 
@@ -4990,7 +4986,9 @@
               <P>If you have any questions, please contact us at [telephone number].</P>
               <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
 
-              <HD SOURCE="HD1">MS-4 to Part 1024—Model Clauses for the Written Early Intervention Notice</HD>
+
+              <HD SOURCE="HD1">MS-4 to Part 1024</HD>
+              <HD SOURCE="HD2">Model Clauses for the Written Early Intervention Notice</HD>
 
               <HD SOURCE="HD2">MS-4(A)&#x2014;Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (&#xA7; 1024.39(b)(2)(i), (ii) and (iv))</HD>
               <P>Call us today to learn more about your options and instructions for how to apply. [The longer you wait, or the further you fall behind on your payments, the harder it will be to find a solution.]</P>
