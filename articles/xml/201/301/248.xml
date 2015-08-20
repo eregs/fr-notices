@@ -4300,70 +4300,6 @@
             <PRTPAGE P="10886"/>
             <AMDPAR>18. The subject heading &#x201C;Appendix MS&#x2014;Mortgage Servicing&#x201D; is added above appendix MS-1.</AMDPAR>
           </REGTEXT>
-          <REGTEXT PART="24" TITLE="12">
-            <AMDPAR>19. Appendix MS-2 to part 1024 is revised to read as follows:</AMDPAR>
-            <HD SOURCE="HD1">Appendix MS-2 to Part 1024</HD>
-            <EXTRACT>
-              <HD SOURCE="HD1">Notice of Servicing Transfer</HD>
-              <P>The servicing of your mortgage loan is being transferred, effective [Date]. This means that after this date, a new servicer will be collecting your mortgage loan payments from you. Nothing else about your mortgage loan will change.</P>
-              <P>[Name of present servicer] is now collecting your payments. [Name of present servicer] will stop accepting payments received from you after [Date].</P>
-              <P>[Name of new servicer] will collect your payments going forward. Your new servicer will start accepting payments received from you on [Date].</P>
-              <P>
-                <E T="04">Send all payments due on or after [Date] to [Name of new servicer] at this address: [New servicer address].</E>
-              </P>
-              <P>If you have any questions for either your present servicer, [Name of present servicer] or your new servicer [Name of new servicer], about your mortgage loan or this transfer, please contact them using the information below:</P>
-              <GPOTABLE CDEF="xl25,xl25" COLS="02" OPTS="L2,tp0,p1,8/9,i1">
-                <TTITLE/>
-                <BOXHD>
-                  <CHED H="1"/>
-                  <CHED H="1"/>
-                </BOXHD>
-                <ROW>
-                  <ENT I="01">Current Servicer:</ENT>
-                  <ENT>New Servicer:</ENT>
-                </ROW>
-                <ROW>
-                  <ENT I="01">[Name of present servicer]</ENT>
-                  <ENT>[Name of new servicer]</ENT>
-                </ROW>
-                <ROW>
-                  <ENT I="01">[Individual or Department]</ENT>
-                  <ENT>[Individual or Department]</ENT>
-                </ROW>
-                <ROW>
-                  <ENT I="01">[Telephone Number]</ENT>
-                  <ENT>[Telephone Number]</ENT>
-                </ROW>
-                <ROW>
-                  <ENT I="01">[Address]</ENT>
-                  <ENT>[Address]</ENT>
-                </ROW>
-              </GPOTABLE>
-              <P>[Use this paragraph if appropriate; otherwise omit.] Important note about insurance: If you have mortgage life or disability insurance or any other type of optional insurance, the transfer of servicing rights may affect your insurance in the following way:</P>
-              
-              <FP SOURCE="FP-DASH"/>
-              
-              <P>You should do the following to maintain coverage:</P>
-              
-              <FP SOURCE="FP-DASH"/>
-              
-              <P>Under Federal law, during the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer on or before its due date may not be treated by the new servicer as late, and a late fee may not be imposed on you.</P>
-              <FP SOURCE="FP-DASH"/>
-              <FP>[NAME OF PRESENT SERVICER]</FP>
-              
-              <FP SOURCE="FP-DASH"/>
-              <FP>Date</FP>
-              
-              <FP>[and] [or]</FP>
-              
-              <FP SOURCE="FP-DASH"/>
-              <FP>[NAME OF NEW SERVICER]</FP>
-              
-              <FP SOURCE="FP-DASH"/>
-              <FP>Date</FP>
-              
-            </EXTRACT>
-          </REGTEXT>
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>20. Supplement I to part 1024 is added following the appendices to read as follows:</AMDPAR>
             <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
@@ -4917,61 +4853,65 @@
               <P>[The loan for which you have applied will be serviced at this financial institution and we do not intend to sell, transfer, or assign the servicing of the loan.]</P>
               <P>[INSTRUCTIONS TO PREPARER: Insert the date and select the appropriate language under “Servicing Transfer Information.” The model format may be annotated with further information that clarifies or enhances the model language.]</P>
 
-              <HD SOURCE="HD1">MS-2 to Part 1024—Notice of Assignment, Sale, or Transfer of Servicing Rights</HD>
-              <HD SOURCE="HD3">[Sample language; use business stationery or similar heading]</HD>
-              <HD SOURCE="HD2">NOTICE OF ASSIGNMENT, SALE, OR TRANSFER OF SERVICING RIGHTS</HD>
-              <P>You are hereby notified that the servicing of your mortgage loan, that is, the right to collect payments from you, is being assigned, sold or transferred from __________ to __________ effective __________.</P>
-              <P>The assignment, sale or transfer of the servicing of the mortgage loan does not affect any term or condition of the mortgage instruments, other than terms directly related to the servicing of your loan.</P>
-              <P>Except in limited circumstances, the law requires that your present servicer send you this notice at least 15 days before the effective date of transfer, or at closing. Your new servicer must also send you this notice no later than 15 days after this effective date or at closing. [In this case, all necessary information is combined in this one notice].</P>
-              <P>Your present servicer is __________. If you have any question relating to the transfer of servicing from your present servicer call __________ [enter the name of an individual or department here] between __ a.m. and __ p.m. on the following days __________.</P>
-              <P>This is a [toll-free] or [collect call] number.</P>
-              <P>Your new servicer will be __________.</P>
-              <P>The business address for your new servicer is:</P>
-              <FP SOURCE="FP-DASH"/>
-              
-              <PRTPAGE P="541"/>
-              <FP>_____________________ .</FP>
-              
-              <P>The [toll-free] [collect call] telephone number of your new servicer is __________. If you have any question relating to the transfer of servicing to your new servicer call __________ [enter the name of an individual or department here] at __________ [toll free or collect call telephone number] between __ a.m. and __ p.m. on the following days __________.</P>
-              <P>The date that your present servicer will stop accepting payments form you is __________. The date that your new servicer will start accepting payments from you is __________. Send all payments due on or after that date to your new servicer.</P>
-              <P>[Use the paragraph if appropriate; otherwise omit.] The transfer of servicing rights may affect the term of or the continued availability of mortgage life or disability insurance or any other type of optional insurance in the following manner:</P>
-              <FP SOURCE="FP-DASH"/>
-              <FP SOURCE="FP-DASH"/>
-              <FP SOURCE="FP-DASH"/>
-              <FP SOURCE="FP-DASH"/>
-              <FP SOURCE="FP-DASH"/>
-              <FP>__________</FP>
-              
-              <FP>and you should take the following action to maintain coverage:</FP>
-              <FP SOURCE="FP-DASH"/>
-              <FP SOURCE="FP-DASH"/>
-              <FP>__________.</FP>
-              
-              <P>You should also be aware of the following information, which is set out in more detail in Section 6 of the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2605):</P>
-              <P>During the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer before its due date may not be treated by the new loan servicer as late, and a late fee may not be imposed on you.</P>
-
-              <P>Section 6 of RESPA (12 U.S.C. 2605) gives you certain consumer rights. If you send a “qualified written request” to your loan servicer concerning the servicing of your loan, your servicer must provide you with a written acknowledgment within 20 Business Days of receipt of your request. A “qualified written request” is a written correspondence, other than notice on a payment coupon or other payment medium supplied by the servicer, which includes your name and account number, and your reasons for the request. [If you want to send a “qualified written request” regarding the servicing of your loan, it must be sent to this address:
+              <HD SOURCE="HD1">MS-2 to Part 1024</HD>
+              <HD SOURCE="HD2">Notice of Servicing Transfer</HD>
+              <P>The servicing of your mortgage loan is being transferred, effective [Date]. This means that after this date, a new servicer will be collecting your mortgage loan payments from you. Nothing else about your mortgage loan will change.</P>
+              <P>[Name of present servicer] is now collecting your payments. [Name of present servicer] will stop accepting payments received from you after [Date].</P>
+              <P>[Name of new servicer] will collect your payments going forward. Your new servicer will start accepting payments received from you on [Date].</P>
+              <P>
+                <E T="04">Send all payments due on or after [Date] to [Name of new servicer] at this address: [New servicer address].</E>
               </P>
-              <FP>____________________ ]</FP>
+              <P>If you have any questions for either your present servicer, [Name of present servicer] or your new servicer [Name of new servicer], about your mortgage loan or this transfer, please contact them using the information below:</P>
+              <GPOTABLE CDEF="xl25,xl25" COLS="02" OPTS="L2,tp0,p1,8/9,i1">
+                <TTITLE/>
+                <BOXHD>
+                  <CHED H="1"/>
+                  <CHED H="1"/>
+                </BOXHD>
+                <ROW>
+                  <ENT I="01">Current Servicer:</ENT>
+                  <ENT>New Servicer:</ENT>
+                </ROW>
+                <ROW>
+                  <ENT I="01">[Name of present servicer]</ENT>
+                  <ENT>[Name of new servicer]</ENT>
+                </ROW>
+                <ROW>
+                  <ENT I="01">[Individual or Department]</ENT>
+                  <ENT>[Individual or Department]</ENT>
+                </ROW>
+                <ROW>
+                  <ENT I="01">[Telephone Number]</ENT>
+                  <ENT>[Telephone Number]</ENT>
+                </ROW>
+                <ROW>
+                  <ENT I="01">[Address]</ENT>
+                  <ENT>[Address]</ENT>
+                </ROW>
+              </GPOTABLE>
+              <P>[Use this paragraph if appropriate; otherwise omit.] Important note about insurance: If you have mortgage life or disability insurance or any other type of optional insurance, the transfer of servicing rights may affect your insurance in the following way:</P>
               
-              <P>Not later than 60 Business Days after receiving your request, your servicer must make any appropriate corrections to your account, and must provide you with a written clarification regarding any dispute. During this 60-Business Day period, your servicer may not provide information to a consumer reporting agency concerning any overdue payment related to such period or qualified written request. However, this does not prevent the servicer from initiating foreclosure if proper grounds exist under the mortgage documents.</P>
-              <P>A Business Day is a day on which the offices of the business entity are open to the public for carrying on substantially all of its business functions.</P>
-
-              <P>Section 6 of RESPA also provides for damages and costs for individuals or classes of individuals in circumstances where servicers are shown to have violated the requirements of that section. You should seek legal advice if you believe your rights have been violated.
-              </P>
-              <FP>[INSTRUCTIONS TO PREPARER: Delivery means placing the notice in the mail, first class postage prepaid, prior to 15 days before the effective date of transfer (transferor) or prior to 15 days after the effective date of transfer (transferee). However, this notice may be sent not more than 30 days after the effective date of the transfer of servicing rights if certain emergency business situations occur. See 12 CFR § 1024.21(d)(1)(ii). “Lender” may be substituted for “present servicer” where appropriate. These instructions should not appear on the format.]</FP>
               <FP SOURCE="FP-DASH"/>
-              <FP>PRESENT SERVICER</FP>
-              <FP>[Signature not required]</FP>
+              
+              <P>You should do the following to maintain coverage:</P>
+              
+              <FP SOURCE="FP-DASH"/>
+              
+              <P>Under Federal law, during the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer on or before its due date may not be treated by the new servicer as late, and a late fee may not be imposed on you.</P>
+              <FP SOURCE="FP-DASH"/>
+              <FP>[NAME OF PRESENT SERVICER]</FP>
+              
               <FP SOURCE="FP-DASH"/>
               <FP>Date</FP>
               
-              <FP>[and][or]</FP>
+              <FP>[and] [or]</FP>
+              
               <FP SOURCE="FP-DASH"/>
-              <FP>FUTURE SERVICER</FP>
-              <FP>[Signature not required]</FP>
+              <FP>[NAME OF NEW SERVICER]</FP>
+              
               <FP SOURCE="FP-DASH"/>
               <FP>Date</FP>
+              
 
               <HD SOURCE="HD1">MS-3 to Part 1024—Model Force-Placed Insurance Notice Forms</HD>
 
@@ -5068,9 +5008,17 @@
               <P>For help exploring your options, the Federal government provides contact information for housing counselors, which you can access by contacting [the Consumer Financial Protection Bureau at [Bureau Housing Counselor List Web site]] [the Department of Housing and Urban Development at [HUD Housing Counselor List Web site]] or by calling [HUD Housing Counselor List Telephone Number].</P>
 
 
-
             </EXTRACT>
           </REGTEXT>
+
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>Appendix MS1 to Part 1024 is removed.</AMDPAR>
+          </REGTEXT>
+
+          <REGTEXT PART="1024" TITLE="12">
+            <AMDPAR>Appendix MS2 to Part 1024 is removed.</AMDPAR>
+          </REGTEXT>
+
           <SIG>
             <DATED>Dated: January 17, 2013.</DATED>
             <NAME>Richard Cordray,</NAME>
