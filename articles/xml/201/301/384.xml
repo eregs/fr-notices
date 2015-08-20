@@ -1145,18 +1145,299 @@
             </SECTION>
           </REGTEXT>
           <REGTEXT PART="1002" TITLE="12">
-            <AMDPAR>4. In Appendix C to Part 1002:</AMDPAR>
-            <AMDPAR>A. Paragraph 1 is revised.</AMDPAR>
-            <AMDPAR>B. Sample Form C-9 is revised.</AMDPAR>
-            <P>The revisions read as follows:</P>
+            <AMDPAR>4. Appendix C to Part 1002 is revised as follows:</AMDPAR>
             <HD SOURCE="HD1">Appendix C to Part 1002&#x2014;Sample Notification Forms</HD>
             <EXTRACT>
+
               <P>1. This Appendix contains ten sample notification forms. Forms C-1 through C-4 are intended for use in notifying an applicant that adverse action has been taken on an application or account under &#xA7;&#xA7; 1002.9(a)(1) and (2)(i) of this part. Form C-5 is a notice of disclosure of the right to request specific reasons for adverse action under &#xA7;&#xA7; 1002.9(a)(1) and (2)(ii). Form C-6 is designed for use in notifying an applicant, under &#xA7; 1002.9(c)(2), that an application is incomplete. Forms C-7 and C-8 are intended for use in connection with applications for business credit under &#xA7; 1002.9(a)(3). Form C-9 is designed for use in notifying an applicant of the right to receive a copy of appraisals under &#xA7; 1002.14. Form C-10 is designed for use in notifying an applicant for nonmortgage credit that the creditor is requesting applicant characteristic information.</P>
-              <STARS/>
-              <HD SOURCE="HD2">Form C-9&#x2014;Sample Disclosure of Right To Receive a Copy of Appraisals</HD>
+
+              <P>2. Form C-1 contains the Fair Credit Reporting Act disclosure as required by sections 615(a) and (b) of that act. Forms C-2 through C-5 contain only the section 615(a) disclosure (that a creditor obtained information from a consumer reporting agency that was considered in the credit decision). A creditor must provide the section 615(a) disclosure when adverse action is taken against a consumer based on information from a consumer reporting agency. A creditor must provide the section 615(b) disclosure when adverse action is taken based on information from an outside source other than a consumer reporting agency. In addition, a creditor must provide the section 615(b) disclosure if the creditor obtained information from an affiliate other than information in a consumer report or other than information concerning the affiliate's own transactions or experiences with the consumer. Creditors may comply with the disclosure requirements for adverse action based on information in a consumer report obtained from an affiliate by providing either the section 615(a) or section 615(b) disclosure. Optional language in Forms C-1 through C-5 may be used to direct the consumer to the entity that provided the credit score for any questions about the credit score, along with the entity's contact information. Creditors may use or not use this additional language without losing the safe harbor, since the language is optional.</P>
+              <P>3. The sample forms are illustrative and may not be appropriate for all creditors. They were designed to include some of the factors that creditors most commonly consider. If a creditor chooses to use the checklist of reasons provided in one of the sample forms in this Appendix and if reasons commonly used by the creditor are not provided on the form, the creditor should modify the checklist by substituting or adding other reasons. For example, if “inadequate down payment” or “no deposit relationship with us” are common reasons for taking adverse action on an application, the creditor ought to add or substitute such reasons for those presently contained on the sample forms.</P>
+              <P>4. If the reasons listed on the forms are not the factors actually used, a creditor will not satisfy the notice requirement by simply checking the closest identifiable factor listed. For example, some creditors consider only references from banks or other depository institutions and disregard finance company references altogether; their statement of reasons should disclose “insufficient bank references,” not “insufficient credit references.” Similarly, a creditor that considers bank references and other credit references as distinct factors should treat the two factors separately and disclose them as appropriate. The creditor should either add such other factors to the form or check “other” and include the appropriate explanation. The creditor need not, however, describe how or why a factor adversely affected the application. For example, the notice may say “length of residence” rather than “too short a period of residence.”</P>
+              <P>5. A creditor may design its own notification forms or use all or a portion of the forms contained in this Appendix. Proper use of Forms C-1 through C-4 will satisfy the requirement of § 1002.9(a)(2)(i). Proper use of Forms C-5 and C-6 constitutes full compliance with §§ 1002.9(a)(2)(ii) and 1002.9(c)(2), respectively. Proper use of Forms C-7 and C-8 will satisfy the requirements of §§ 1002.9(a)(2)(i) and (ii), respectively, for applications for business credit. Proper use of Form C-9 will satisfy the requirements of § 1002.14 of this part. Proper use of Form C-10 will satisfy the requirements of § 1002.5(b)(1).</P>
+              <HD SOURCE="HD1">Form C-1—Sample Notice of Action Taken and Statement of Reasons</HD>
+              <FP>Statement of Credit Denial, Termination or Change</FP>
+              
+              <FP SOURCE="FP-DASH">Date:</FP>
+              <FP SOURCE="FP-DASH">Applicant's Name:</FP>
+              <FP SOURCE="FP-DASH">Applicant's Address:</FP>
+              <FP SOURCE="FP-DASH">Description of Account, Transaction, or Requested Credit:</FP>
+              <FP SOURCE="FP-DASH">Description of Action Taken:</FP>
+              <HD SOURCE="HD1">Part I—Principal Reason(s) for Credit Denial, Termination, or Other Action Taken Concerning Credit</HD>
+              <P>
+                <E T="03">This section must be completed in all instances.</E>
+                
+              </P>
+              <FP>__Credit application incomplete</FP>
+              <FP>__Insufficient number of credit references provided</FP>
+              <FP>__Unacceptable type of credit references provided<PRTPAGE P="118"/>
+              </FP>
+              <FP>__Unable to verify credit references</FP>
+              <FP>__Temporary or irregular employment</FP>
+              <FP>__Unable to verify employment</FP>
+              <FP>__Length of employment</FP>
+              <FP>__Income insufficient for amount of credit requested</FP>
+              <FP>__Excessive obligations in relation to income</FP>
+              <FP>__Unable to verify income</FP>
+              <FP>__Length of residence</FP>
+              <FP>__Temporary residence</FP>
+              <FP>__Unable to verify residence</FP>
+              <FP>__No credit file</FP>
+              <FP>__Limited credit experience</FP>
+              <FP>__Poor credit performance with us</FP>
+              <FP>__Delinquent past or present credit obligations with others</FP>
+              <FP>__Collection action or judgment</FP>
+              <FP>__Garnishment or attachment</FP>
+              <FP>__Foreclosure or repossession</FP>
+              <FP>__Bankruptcy</FP>
+              <FP>__Number of recent inquiries on credit bureau report</FP>
+              <FP>__Value or type of collateral not sufficient</FP>
+              <FP>__Other, specify: ___</FP>
+              <HD SOURCE="HD1">Part II—Disclosure of Use of Information Obtained From an Outside Source</HD>
+              <P>
+                <E T="03">This section should be completed if the credit decision was based in whole or in part on information that has been obtained from an outside source.</E>
+              </P>
+              <FP>__Our credit decision was based in whole or in part on information obtained in a report from the consumer reporting agency listed below. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.</FP>
+              <FP SOURCE="FP-DASH">Name:</FP>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              <FP SOURCE="FP-DASH">[Toll-free] Telephone number:</FP>
+
+              <P>[We also obtained your credit score from the consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
+              </P>
+              <FP SOURCE="FP-DASH">Your credit score:</FP>
+              <FP SOURCE="FP-DASH">Date:</FP>
+              
+              <P>Scores range from a low of ____ to a high of ____.</P>
+              <P>Key factors that adversely affected your credit score:
+              </P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              
+              <FP>[Number of recent inquiries on consumer report, as a key factor]</FP>
+              
+
+              <P>[If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
+              </P>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              
+              <FP>[[Toll-free] Telephone number: ____]</FP>
+              
+              <FP>__Our credit decision was based in whole or in part on information obtained from an affiliate or from an outside source other than a consumer reporting agency. Under the Fair Credit Reporting Act, you have the right to make a written request, no later than 60 days after you receive this notice, for disclosure of the nature of this information.</FP>
+              
+              <P>
+                <E T="03">If you have any questions regarding this notice, you should contact:</E>
+                
+              </P>
+              <FP SOURCE="FP-DASH">Creditor's name:</FP>
+              <FP SOURCE="FP-DASH">Creditor's address:</FP>
+              <FP SOURCE="FP-DASH">Creditor's telephone number:</FP>
+              
+              <P>
+                <E T="03">Notice:</E> The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in Appendix A).</P>
+              <HD SOURCE="HD1">Form C-2—Sample Notice of Action Taken and Statement of Reasons</HD>
+              <FP>Date</FP>
+              
+              <P>Dear Applicant: Thank you for your recent application. Your request for [a loan/a credit card/an increase in your credit limit] was carefully considered, and we regret that we are unable to approve your application at this time, for the following reason(s):</P>
+              <P>
+                <E T="03">Your Income:</E>
+                
+              </P>
+              <FP>__is below our minimum requirement.</FP>
+              <FP>__is insufficient to sustain payments on the amount of credit requested.</FP>
+              <FP>__could not be verified.</FP>
+              
+              <P>
+                <E T="03">Your Employment:</E>
+                
+              </P>
+              <FP>__is not of sufficient length to qualify.</FP>
+              <FP>__could not be verified.</FP>
+              
+              <P>
+                <E T="03">Your Credit History:</E>
+                
+              </P>
+              <FP>__of making payments on time was not satisfactory.</FP>
+              <FP>__could not be verified.</FP>
+              
+              <P>
+                <E T="03">Your Application:</E>
+                
+              </P>
+              <FP>__lacks a sufficient number of credit references.<PRTPAGE P="119"/>
+              </FP>
+              <FP>__lacks acceptable types of credit references.</FP>
+              <FP>__reveals that current obligations are excessive in relation to income.</FP>
+              <FP SOURCE="FP-DASH">Other:</FP>
+              
+
+              <P>The consumer reporting agency contacted that provided information that influenced our decision in whole or in part was [name, address and [toll-free] telephone number of the reporting agency]. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency. Any questions regarding such information should be directed to [consumer reporting agency]. If you have any questions regarding this letter, you should contact us at [creditor's name, address and telephone number].
+              </P>
+
+              <P>[We also obtained your credit score from the consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.
+              </P>
+              <FP SOURCE="FP-DASH">Your credit score:</FP>
+              <FP SOURCE="FP-DASH">Date:</FP>
+              
+              <P>Scores range from a low of ____ to a high of ____.</P>
+              <P>Key factors that adversely affected your credit score:</P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              
+              <FP>[Number of recent inquiries on consumer report, as a key factor]</FP>
+              
+
+              <P>[If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
+              </P>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              
+              <FP>[[Toll-free] Telephone number: ____]</FP>
+              <P>
+                <E T="03">Notice:</E> The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in Appendix A).</P>
+              <HD SOURCE="HD1">Form C-3—Sample Notice of Action Taken and Statement of Reasons (Credit Scoring)</HD>
+              <FP>Date</FP>
+              
+              <P>Dear Applicant: Thank you for your recent application for _____. We regret that we are unable to approve your request.</P>
+              <P>[Reasons for Denial of Credit]</P>
+              <P>Your application was processed by a [credit scoring] system that assigns a numerical value to the various items of information we consider in evaluating an application. These numerical values are based upon the results of analyses of repayment histories of large numbers of customers.</P>
+
+              <P>The information you provided in your application did not score a sufficient number of points for approval of the application. The reasons you did not score well compared with other applicants were:
+              </P>
+              <FP SOURCE="FP-1">• Insufficient bank references</FP>
+              <FP SOURCE="FP-1">• Type of occupation</FP>
+              <FP SOURCE="FP-1">• Insufficient credit experience</FP>
+              <FP SOURCE="FP-1">• Number of recent inquiries on credit bureau report</FP>
+              
+              <P>[Your Right to Get Your Consumer Report]</P>
+              <P>In evaluating your application the consumer reporting agency listed below provided us with information that in whole or in part influenced our decision. The consumer reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. It can be obtained by contacting: [Name, address, and [toll-free] telephone number of the consumer reporting agency]. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.</P>
+              <P>[Information about Your Credit Score]</P>
+              <P>[Information about Your Credit Score]</P>
+              <P>We also obtained your credit score from the consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.</P>
+              <FP SOURCE="FP-DASH">Your credit score:</FP>
+              <FP SOURCE="FP-DASH">Date:</FP>
+              
+              <P>Scores range from a low of ____ to a high of ____.</P>
+              <P>Key factors that adversely affected your credit score:<PRTPAGE P="120"/>
+              </P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              
+              <FP>[Number of recent inquiries on consumer report, as a key factor]</FP>
+              
+              <P>[If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:</P>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              
+              <FP>[Toll-free] Telephone number: ____]</FP>
+              <P>If you have any questions regarding this letter, you should contact us at</P>
+              <FP SOURCE="FP-DASH">Creditor's Name:</FP>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              <FP SOURCE="FP-DASH">Telephone:</FP>
+              <P>Sincerely,</P>
+              <P>
+                <E T="03">Notice:</E> The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (with certain limited exceptions); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in Appendix A).</P>
+              <HD SOURCE="HD1">Form C-4—Sample Notice of Action Taken, Statement of Reasons and Counteroffer</HD>
+              <FP>Date</FP>
+              
+              <P>Dear Applicant: Thank you for your application for _____. We are unable to offer you credit on the terms that you requested for the following reason(s):_____</P>
+              <P>We can, however, offer you credit on the following terms: _____</P>
+              <P>If this offer is acceptable to you, please notify us within [amount of time] at the following address: _____.</P>
+              <P>Our credit decision on your application was based in whole or in part on information obtained in a report from [name, address and [toll-free] telephone number of the consumer reporting agency]. You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency. The reporting agency played no part in our decision and is unable to supply specific reasons why we have denied credit to you. You also have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you receive is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency.</P>
+              <P>[We also obtained your credit score from the consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.</P>
+              <FP SOURCE="FP-DASH">Your credit score:</FP>
+              <FP SOURCE="FP-DASH">Date:</FP>
+              <P>Scores range from a low of ____ to a high of ____.</P>
+              <P>Key factors that adversely affected your credit score:</P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              
+              <FP>[Number of recent inquiries on consumer report, as a key factor]</FP>
+              
+
+              <P>[If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
+              </P>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              <P>[Toll-free] Telephone number:____]</P>
+              <P>You should know that the Federal Equal Credit Opportunity Act prohibits creditors, such as ourselves, from discriminating against credit applicants on the basis of their race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract), because they receive income from a public assistance program, or because they may have exercised their rights under the Consumer Credit Protection Act. If you believe there has been discrimination in handling your application you should contact the [name and address of the appropriate Federal enforcement agency listed in Appendix A].</P>
+              <P>Sincerely,</P>
+              <HD SOURCE="HD1">Form C-5—Sample Disclosure of Right To Request Specific Reasons for Credit Denial</HD>
+              <FP>Date</FP>
+              <P>Dear Applicant: Thank you for applying to us for _____.</P>
+
+              <P>After carefully reviewing your application, we are sorry to advise you that we cannot [open an account for you/grant a loan to you/increase your credit limit] at this time. If you would like a statement of specific reasons why your application was denied, please contact [our credit service manager] shown below within 60 days of the date of this letter. We will provide you with the statement of reasons within 30 days after receiving your request.
+              </P>
+              <FP>Creditor's name</FP>
+              <FP>Address</FP>
+              <FP>Telephone number</FP>
+              
+
+              <P>If we obtained information from a consumer reporting agency as part of our consideration of your application, its name, address, and [toll-free] telephone number is shown below. The reporting agency played <PRTPAGE P="121"/>no part in our decision and is unable to supply specific reasons why we have denied credit to you. [You have a right under the Fair Credit Reporting Act to know the information contained in your credit file at the consumer reporting agency.] You have a right to a free copy of your report from the reporting agency, if you request it no later than 60 days after you receive this notice. In addition, if you find that any information contained in the report you received is inaccurate or incomplete, you have the right to dispute the matter with the reporting agency. You can find out about the information contained in your file (if one was used) by contacting:
+              </P>
+              <FP>Consumer reporting agency's name</FP>
+              <FP>Address</FP>
+              <FP>[Toll-free] Telephone number</FP>
+              
+              <P>[We also obtained your credit score from the consumer reporting agency and used it in making our credit decision. Your credit score is a number that reflects the information in your consumer report. Your credit score can change, depending on how the information in your consumer report changes.</P>
+              <FP SOURCE="FP-DASH">Your credit score:</FP>
+              <FP SOURCE="FP-DASH">Date:</FP>
+              
+              <P>Scores range from a low of ____ to a high of ____.</P>
+              <P>Key factors that adversely affected your credit score:</P>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              <FP SOURCE="FP-DASH"/>
+              
+              <FP>[Number of recent inquiries on consumer report, as a key factor]</FP>
+              
+
+              <P>[If you have any questions regarding your credit score, you should contact [entity that provided the credit score] at:
+              </P>
+              <FP SOURCE="FP-DASH">Address:</FP>
+              <FP>[Toll-free] Telephone number: ____]</FP>
+              <P>Sincerely,</P>
+              <P>
+                <E T="03">Notice:</E> The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is (name and address as specified by the appropriate agency listed in Appendix A).</P>
+              <HD SOURCE="HD1">Form C-6—Sample Notice of Incomplete Application and Request for Additional Information</HD>
+              <FP>Creditor's name</FP>
+              <FP>Address</FP>
+              <FP>Telephone number</FP>
+              <FP>Date</FP>
+              
+              <P>Dear Applicant: Thank you for your application for credit. The following information is needed to make a decision on your application: _____</P>
+              <P>We need to receive this information by _____ (date). If we do not receive it by that date, we will regrettably be unable to give further consideration to your credit request.</P>
+              <P>Sincerely,</P>
+              <HD SOURCE="HD1">Form C-7—Sample Notice of Action Taken and Statement of Reasons (Business Credit)</HD>
+              <FP>Creditor's name</FP>
+              <FP>Creditor's address</FP>
+              <FP>Date</FP>
+              
+              <P>Dear Applicant: Thank you for applying to us for credit. We have given your request careful consideration, and regret that we are unable to extend credit to you at this time for the following reasons:</P>
+              <P>(Insert appropriate reason, such as: Value or type of collateral not sufficient; Lack of established earnings record; Slow or past due in trade or loan payments)</P>
+              <P>Sincerely,</P>
+              <P>Notice: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is [name and address as specified by the appropriate agency listed in Appendix A].</P>
+              <HD SOURCE="HD1">Form C-8—Sample Disclosure of Right To Request Specific Reasons for Credit Denial Given at Time of Application (Business Credit)</HD>
+              <FP>Creditor's name</FP>
+              <FP>Creditor's address</FP>
+              
+              <P>If your application for business credit is denied, you have the right to a written statement of the specific reasons for the denial. To obtain the statement, please contact [name, address and telephone number of the person or office from which the statement of reasons can be obtained] within 60 days from the date you are notified of our decision. We will send you a written statement of reasons for the denial within 30 days of receiving your request for the statement.</P>
+
+              <P>Notice: The Federal Equal Credit Opportunity Act prohibits creditors from discriminating against credit applicants on the basis of race, color, religion, national origin, sex, <PRTPAGE P="122"/>marital status, age (provided the applicant has the capacity to enter into a binding contract); because all or part of the applicant's income derives from any public assistance program; or because the applicant has in good faith exercised any right under the Consumer Credit Protection Act. The Federal agency that administers compliance with this law concerning this creditor is [name and address as specified by the appropriate agency listed in Appendix A].</P>
+
+              <HD SOURCE="HD1">Form C-9&#x2014;Sample Disclosure of Right To Receive a Copy of Appraisals</HD>
               <P>We may order an appraisal to determine the property's value and charge you for this appraisal. We will promptly give you a copy of any appraisal, even if your loan does not close.</P>
               <P>You can pay for an additional appraisal for your own use at your own cost.</P>
-              <STARS/>
+
+              <HD SOURCE="HD1">Form C-10—Sample Disclosure About Voluntary Data Notation</HD>
+              <P>We are requesting the following information to monitor our compliance with the Federal Equal Credit Opportunity Act, which prohibits unlawful discrimination. You are not required to provide this information. We will not take this information (or your decision not to provide this information) into account in connection with your application or credit transaction. The law provides that a creditor may not discriminate based on this information, or based on whether or not you choose to provide it. [If you choose not to provide the information, we will note it by visual observation or surname].</P>
+
             </EXTRACT>
           </REGTEXT>
           <REGTEXT PART="1002" TITLE="12">
