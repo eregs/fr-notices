@@ -821,7 +821,8 @@
           </LSTSUB>
           <HD SOURCE="HD1">Authority and Issuance</HD>
           <P>For the reasons set forth in the preamble, the Bureau amends 12 CFR parts 1002, 1024, and 1026 as set forth below:</P>
-          <REGTEXT PART="1002" TITLE="12">
+          <!--
+	      <REGTEXT PART="1002" TITLE="12">
             <PART>
               <HD SOURCE="HED">PART 1002&#x2014;EQUAL CREDIT OPPORTUNITY ACT (REGULATION B)</HD>
             </PART>
@@ -1077,7 +1078,7 @@
               <P>iii. The date that is 90 days before a foreclosure sale;</P>
               <P>iv. The date that is 38 days before a foreclosure sale.</P>
               <P>
-                <E T="03">41(b)(3) Determining Protections.</E>
+                <E T="03">41(b)(3) Determining Protections Foo Bar Baz.</E>
               </P>
               <P>1.<E T="03">Foreclosure sale not scheduled.</E>If no foreclosure sale has been scheduled as of the date that a complete loss mitigation application is received, the application is considered to have been received more than 90 days before any foreclosure sale.</P>
               <P>2.<E T="03">Foreclosure sale re-scheduled.</E>The protections under &#xA7; 1024.41 that have been determined to apply to a borrower pursuant to &#xA7; 1024.41(b)(3) remain in effect thereafter, even if a foreclosure sale is later scheduled or rescheduled.</P>
@@ -1117,7 +1118,7 @@
               <P>iv. A document provided to the borrower but not initially required to be filed, recorded, or published is not considered the first notice or filing on the sole basis that the document must later be included as an attachment accompanying another document that is required to be filed, recorded, or published to carry out a foreclosure.</P>
               <STARS/>
             </EXTRACT>
-          </REGTEXT>
+          </REGTEXT>-->
           <REGTEXT PART="1026" TITLE="12">
             <PART>
               <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>

@@ -1,0 +1,174 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">FEDERAL RESERVE SYSTEM</AGENCY>
+        <CFR>12 CFR Part 213</CFR>
+        <DEPDOC>[Docket No. R-1495]</DEPDOC>
+        <RIN>RIN 7100-ZA-09</RIN>
+        <AGENCY TYPE="O">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Part 1013</CFR>
+        <SUBJECT>Consumer Leasing (Regulation M)</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Board of Governors of the Federal Reserve System (Board); and Bureau of Consumer Financial Protection (Bureau).</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule; official interpretations and commentary.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Board and the Bureau are publishing final rules amending the official interpretations and commentary for the agencies' regulations that implement the Consumer Leasing Act (CLA). The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) amended the CLA by requiring that the dollar threshold for exempt consumer leases be adjusted annually by any annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). Based on the annual percentage increase in the CPI-W as of June 1, 2014, the Board and the Bureau are adjusting the exemption threshold to $54,600, effective January 1, 2015.</P>
+
+          <P>Because the Dodd-Frank Act also requires similar adjustments in the Truth in Lending Act's threshold for exempt consumer credit transactions, the Board and the Bureau are making similar amendments to each of their respective regulations implementing the Truth in Lending Act in a rule published elsewhere in the<E T="04">Federal Register</E>.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This final rule is effective January 1, 2015.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P/>
+          <P SOURCE="NPAR">
+            <E T="03">Board:</E>Vivian W. Wong, Counsel, Division of Consumer and Community Affairs, Board of Governors of the Federal Reserve System, at (202) 452-3667; for users of Telecommunications Device for the Deaf (TDD) only, contact (202) 263-4869.</P>
+          <P>
+            <E T="03">Bureau:</E>David Friend, Counsel, Office of Regulations, Bureau of Consumer Financial Protection, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Background</HD>
+        <P>The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) increased the threshold in the Consumer Leasing Act (CLA) for exempt consumer leases from $25,000 to $50,000, effective July 21, 2011.<SU>1</SU>
+          <FTREF/>In addition, the Dodd-Frank Act requires that this threshold be adjusted annually for inflation by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W), as published by the Bureau of Labor Statistics. In April 2011, the Board issued a final rule amending Regulation M (which implements the CLA) consistent with these provisions of the Dodd-Frank Act.<SU>2</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>1</SU>Public Law 111-203 section 1100E, 124 Stat. 1376 (2010).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>76 FR 18349 (Apr. 4, 2011).</P>
+        </FTNT>
+        <P>Title X of the Dodd-Frank Act transferred rulemaking authority for a number of consumer financial protection laws from the Board to the Bureau, effective July 21, 2011. In connection with this transfer of rulemaking authority, the Bureau issued its own Regulation M implementing the CLA in an interim final rule, 12 CFR part 1013 (Bureau Interim Final Rule).<SU>3</SU>
+          <FTREF/>The Bureau Interim Final Rule substantially duplicated the Board's Regulation M, including the revisions to the threshold for exempt transactions made by the Board in April 2011. Although the Bureau has the authority to issue rules to implement the CLA for most entities, the Board retains authority to issue rules under the CLA for certain motor vehicle dealers covered by section 1029(a) of the Dodd-Frank Act, and the Board's Regulation M continues to apply to those entities.<SU>4</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>3</SU>76 FR 78500 (Dec. 19, 2011).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>4</SU>
+            <E T="03">See also</E>12 U.S.C. 5519(b).</P>
+        </FTNT>
+        <P>Section 213.2(e)(1) of the Board's Regulation M and &#xA7; 1013.2(e)(1) of the Bureau's Regulation M, and their accompanying commentaries, provide that the exemption threshold will be adjusted annually effective January 1 of each year based on any annual percentage increase in the CPI-W that was in effect on the preceding June 1. Any increase in the threshold amount will be rounded to the nearest $100 increment. For example, if the annual percentage increase in the CPI-W would result in a $950 increase in the threshold amount, the threshold amount will be increased by $1,000. However, if the annual percentage increase in the CPI-W would result in a $949 increase in the threshold amount, the threshold amount will be increased by $900.<SU>5</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>5</SU>
+            <E T="03">See</E>comments 2(e)-9 in Supplements I of 12 CFR part 213 and 12 CFR part 1013.</P>
+        </FTNT>
+        <HD SOURCE="HD1">II. Adjustment and Commentary Revision</HD>
+
+        <P>Effective January 1, 2015, the adjusted exemption threshold amount is $54,600. This adjustment is based on the CPI-W index in effect on June 1, 2014, which was reported on May 15, 2014. The Bureau of Labor Statistics publishes consumer-based indices monthly, but does not report a CPI change on June 1; adjustments are reported in the middle of the month. The CPI-W is a subset of the CPI-U index (based on all urban consumers) and represents approximately 28 percent of the U.S. population. The adjustment reflects a 2 percent increase in the CPI-W from April 2013 to April 2014 and is rounded to the nearest $100 increment. Accordingly, the Board and the Bureau are revising the commentaries to their respective regulations to add new comment 2(e)-9.vi stating that, from January 1, 2015 through December 31,<PRTPAGE P="56483"/>2015, the threshold amount is $54,600. These revisions are effective January 1, 2015.</P>
+        <HD SOURCE="HD1">III. Administrative Law Matters</HD>
+        <HD SOURCE="HD2">Administrative Procedure Act</HD>
+        <P>Under the Administrative Procedure Act, notice and opportunity for public comment are not required if the Board and the Bureau find that notice and public comment are impracticable, unnecessary, or contrary to the public interest.<SU>6</SU>
+          <FTREF/>This annual adjustment is required by statute. The amendment in this notice is technical and non-discretionary, and it applies the method previously established in the agencies' regulations for determining adjustments to the exemption threshold. For these reasons, the Board and the Bureau have determined that publishing a notice of proposed rulemaking and providing opportunity for public comment are unnecessary. Therefore, the amendments are adopted in final form.</P>
+        <FTNT>
+          <P>
+            <SU>6</SU>
+            <E T="03">See</E>5 U.S.C. 553(b)(B).</P>
+        </FTNT>
+        <HD SOURCE="HD2">Regulatory Flexibility Act</HD>
+        <P>The Regulatory Flexibility Act (RFA) does not apply to a rulemaking where a general notice of proposed rulemaking is not required.<SU>7</SU>
+          <FTREF/>As noted previously, the agencies have determined that it is unnecessary to publish a general notice of proposed rulemaking for this joint final rule. Accordingly, the RFA's requirements relating to an initial and final regulatory flexibility analysis do not apply.</P>
+        <FTNT>
+          <P>
+            <SU>7</SU>
+            <E T="03">See</E>5 U.S.C. 603 and 604.</P>
+        </FTNT>
+        <HD SOURCE="HD2">Paperwork Reduction Act</HD>
+        <P>In accordance with the Paperwork Reduction Act of 1995,<SU>8</SU>
+          <FTREF/>the agencies reviewed this final rule. No collections of information pursuant to the Paperwork Reduction Act are contained in the final rule.</P>
+        <FTNT>
+          <P>
+            <SU>8</SU>44 U.S.C. 3506; 5 CFR 1320.</P>
+        </FTNT>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>12 CFR Part 213</CFR>
+          <P>Advertising, Consumer leasing, Consumer protection, Federal Reserve System, Reporting and recordkeeping requirements.</P>
+          <CFR>12 CFR Part 1013</CFR>
+          <P>Advertising, Consumer leasing, Reporting and recordkeeping requirements.</P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Board of Governors of the Federal Reserve System</HD>
+        <HD SOURCE="HD1">Text of Final Revisions</HD>
+        <P>For the reasons set forth in the preamble, the Board amends Regulation M, 12 CFR part 213, as set forth below:</P>
+        <REGTEXT PART="213" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 213&#x2014;CONSUMER LEASING (REGULATION M)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 213 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>15 U.S.C. 1604 and 1667f; Pub. L. No. 111-203 section 1100E, 124 Stat. 1376.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="213" TITLE="12">
+          <AMDPAR>2. In Supplement I to Part 213, under<E T="03">Section 213.2&#x2014;Definitions,</E>under<E T="03">2(e) Consumer Lease,</E>paragraph 9.vi is added to read as follows:</AMDPAR>
+          <HD SOURCE="HD1">Supplement I to Part 213&#x2014;Official Staff Interpretations</HD>
+          <EXTRACT>
+            <STARS/>
+            <HD SOURCE="HD2">Section 213.2&#x2014;Definitions</HD>
+            <STARS/>
+            <P>
+              <E T="03">2(e) Consumer lease.</E>
+            </P>
+            <P>9.<E T="03">Threshold amount.</E>* * *</P>
+            <P>vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</P>
+            <STARS/>
+          </EXTRACT>
+        </REGTEXT>
+        <HD SOURCE="HD1">Bureau of Consumer Financial Protection</HD>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau amends Regulation M, 12 CFR part 1013, as set forth below:</P>
+        <REGTEXT PART="1013" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1013&#x2014;CONSUMER LEASING (REGULATION M)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1013 is revised to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>15 U.S.C. 1604 and 1667f; Pub. L. 111-203 section 1100E, 124 Stat. 1376.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1013" TITLE="12">
+          <AMDPAR>2. In Supplement I to part 1013, under<E T="03">Section 1013.2&#x2014;Definitions,</E>under<E T="03">2(e) Consumer Lease,</E>paragraph 9.vi is added to read as follows:</AMDPAR>
+          <HD SOURCE="HD1">Supplement I to Part 1013&#x2014;Official Interpretations</HD>
+          <EXTRACT>
+            <STARS/>
+            <HD SOURCE="HD2">Section 1013.2&#x2014;Definitions</HD>
+            <STARS/>
+            <P>
+              <E T="03">2(e) Consumer Lease.</E>* * *</P>
+            <P>9.<E T="03">Threshold amount.</E>* * *</P>
+            <P>vi. From January 1, 2015 through December 31, 2015, the threshold amount is $54,600.</P>
+            <STARS/>
+          </EXTRACT>
+        </REGTEXT>
+        <SIG>
+          <DATED/>
+          <P>By order of the Board of Governors of the Federal Reserve System, September 8, 2014.</P>
+          <NAME>Robert deV. Frierson,</NAME>
+          <TITLE>Secretary of the Board.</TITLE>
+          <DATED>Dated: September 3, 2014.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2014-21847 Filed 9-19-14; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 6210-01-P; 4810-AM-P</BILCOD>
+    </RULE>
