@@ -1,0 +1,180 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Part 1024</CFR>
+        <RIN>RIN 3170-AA37</RIN>
+        <SUBJECT>Homeownership Counseling Organizations Lists Interpretive Rule</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Final rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>This rule describes data instructions for lenders to use in complying with the requirement under the High-Cost Mortgage and Homeownership Counseling Amendments to the Truth in Lending Act (Regulation Z) and Homeownership Counseling Amendments to the Real Estate Settlement Procedures Act (RESPA Homeownership Counseling Amendments) Final Rule to provide a homeownership counseling list using data made available by the Bureau or Department of Housing and Urban Development (HUD).</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This rule is effective January 10, 2014.</P>
+        </DATES>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Rachel Ross, Special Assistant; Joseph Devlin, Counsel; Office of Regulations, at (202) 435-7700.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Background</HD>
+        <P>In January 2013, pursuant to the Dodd-Frank Act, Public Law 111-203, 124 Stat. 1375 (2010), the Bureau issued the High-Cost Mortgage and Homeownership Counseling Amendments to the Truth in Lending Act (Regulation Z) and Homeownership Counseling Amendments to the Real Estate Settlement Procedures Act (RESPA Homeownership Counseling Amendments) Final Rule (2013 HOEPA Final Rule).<SU>1</SU>
+          <FTREF/>The 2013 HOEPA Final Rule implemented numerous Dodd-Frank Act requirements. Section 1450 of the Dodd-Frank Act amended section 5(c) of the Real Estate Settlement Procedures Act (RESPA) to require lenders to provide federally related mortgage loan applicants with a &#x201C;reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)) and located in the area of the lender.&#x201D;<SU>2</SU>
+          <FTREF/>The RESPA Homeownership Counseling Amendments implements this section 1450 amendment in Regulation X &#xA7; 1024.20(a).</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>78 FR 6855 (Jan. 31, 2013).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>2</SU>Section 106(e) of the Housing and Urban Development Act of 1968, 12 U.S.C. 1701x(e), requires that homeownership counseling provided under programs administered by HUD can be provided only by organizations or individuals certified by HUD as competent to provide homeownership counseling. Section 106(e) also requires HUD to establish standards and procedures for testing and certifying counselors.</P>
+        </FTNT>
+        <P>In implementing this Dodd-Frank Act requirement, &#xA7; 1024.20(a)(1) requires lenders to provide the loan applicant with a written list of homeownership counseling organizations that provide relevant services in the loan applicant's location. The Bureau specified two compliance methods for obtaining this list: (1) using a tool developed and maintained by the Bureau on its Web site, and (2) using data made available by the Bureau or HUD, provided that the data is used in accordance with instructions provided with the data.<SU>3</SU>
+          <FTREF/>The Bureau noted the use of the data in accordance with these instructions would produce a list consistent with what would have been generated if the tool had been used.<SU>4</SU>
+          <FTREF/>This rule interprets &#xA7; 1024.20(a)(1) of the RESPA Homeownership Counseling Amendments, including describing those data instructions.</P>
+        <FTNT>
+          <P>
+            <SU>3</SU>These two pathways are specified in &#xA7; 1024.20(a)(1)(i) and (ii), respectively.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>4</SU>78 FR 6865 (Jan. 31, 2013).</P>
+        </FTNT>
+        <P>The Bureau's tool, as discussed in &#xA7; 1024.20(a)(1)(i), follows these data instructions.</P>
+        <HD SOURCE="HD1">II. List and Data Instructions</HD>
+        <P>This rule interprets the &#xA7; 1024.20(a)(1) requirement for lenders to provide a list of homeownership organizations and to obtain the list from data made available by the Bureau or HUD, provided the data is used in accordance with instructions provided with the data.<SU>5</SU>
+          <FTREF/>This rule describes instructions for lenders to use in complying with the &#xA7; 1024.20(a)(1)(ii) requirement to generate a list of homeownership counseling organizations by using data provided by the Bureau or HUD.</P>
+        <FTNT>
+          <P>
+            <SU>5</SU>RESPA and &#xA7; 1024.20(a)(1) refer to counseling entities as Homeownership Counseling Organizations. HUD refers to them as HUD-approved Housing Counseling Agencies. Homeownership Counseling Organizations as referred to in &#xA7; 1024.20(a)(1) and this rule are considered HUD-approved Housing Counseling Agencies.</P>
+        </FTNT>
+        <P>HUD currently provides this data. HUD maintains a free and publicly available application programming interface (API) containing data on HUD-approved housing counseling agencies (HUD API). Although it appears on this site that a token is required to utilize this data, credentials are not required to access and use the data. These data instructions are designed to be applied with publicly available homeownership counselor agency data from HUD,<SU>6</SU>
+          <FTREF/>as referenced in &#xA7; 1024.20(a)(1)(ii). The Bureau will make a summary of the data instructions available on the Bureau's Web site, along with a link to the publicly available housing counseling agency data.</P>
+        <FTNT>
+          <P>
+            <SU>6</SU>Available at:<E T="03">http://data.hud.gov/housing_counseling.html.</E>
+          </P>
+        </FTNT>
+        <HD SOURCE="HD2">A. Number of Homeownership Counselors To Appear on List</HD>
+        <P>Section 1024.20(a)(1) requires lenders to provide a written list of homeownership counseling organizations. Consistent with &#xA7; 1024.20(a)(1), lenders comply with this requirement when they provide a list of ten HUD-approved housing counseling agencies. The tool maintained by the Bureau will generate a list of ten HUD-approved housing counseling agencies. A list generated by the lender under &#xA7; 1024.20(a)(1)(ii) complies with &#xA7; 1024.20(a)(1) when the same number of counseling agencies (ten) are provided. Listing ten housing counseling agencies ensures fairness and equity among housing counseling agencies, by offering borrowers a thorough and diverse list of counseling options.</P>
+        <HD SOURCE="HD2">B. Location by Zip Code</HD>
+
+        <P>Section 1024.20(a)(1) requires lenders to provide a written list of homeownership counseling organizations in the loan applicant's location. As the Bureau discussed in the RESPA Homeownership Counseling Amendments, lenders comply with &#xA7; 1024.20(a)(1), when they use the<PRTPAGE P="68344"/>borrower's five-digit zip code to generate a list of the ten closest HUD-approved housing counseling agencies to the centroid of the zip code of the borrower's current address, in descending order of proximity to the centroid. The borrower's current zip code satisfies the requirement that the homeownership counseling organizations be in the loan applicant's location. The zip code of the borrower's current address is the default to be entered for list generation. Lenders, should they choose, may offer borrowers the option of generating the list from a zip code different than their home address, or from a more precise geographic marker such as a street address, but lenders are not required to offer such an option. The Bureau's tool will permit generating the list of HUD-approved housing counseling agencies through entry of zip code. A list generated by the lender pursuant to &#xA7; 1024.20(a)(1)(ii) complies with &#xA7; 1024.20(a)(1) when the lender generates the list through entry of zip code or from a more precise geographic marker such as a street address. Lenders generating a list pursuant to &#xA7; 1024.20(a)(1)(ii) through zip code or from a more precise geographic marker such as a street address, will ensure that lists generated under this provision are obtained through similar means as those generated through the Bureau's tool, thus ensuring consistency.</P>
+        <HD SOURCE="HD2">C. Homeownership Counselor Contact Information</HD>
+        <P>Section 1024.20(a)(1) requires lenders to provide a written list of homeownership counseling organizations that provide relevant services in the loan applicant's location. Consistent with &#xA7; 1024.20(a)(1), lenders comply when they provide the following data fields for each housing counseling agency on the list to the extent that they are available through the HUD API: Agency name, phone number, street address, street address continued, city, state, zip code, Web site URL, email address, counseling services provided, and languages spoken. Providing a street address is preferable to providing a mailing address, as available. The tool maintained by the Bureau will provide these data fields to the extent that they are available through the HUD API. A list generated by the lender under &#xA7; 1024.20(a)(1)(ii) complies with &#xA7; 1024.20(a)(1) when these data fields are provided to the extent that they are available through the HUD API. The table below describes how the HUD API data fields relate to the above required data fields:</P>
+        <GPOTABLE CDEF="s50,r50,r50,r60" COLS="4" OPTS="L2,tp0,i1">
+          <TTITLE/>
+          <BOXHD>
+            <CHED H="1">Data element required for list for each agency</CHED>
+            <CHED H="1">HUD API Field name</CHED>
+            <CHED H="1">HUD Field definition</CHED>
+            <CHED H="1">Example</CHED>
+          </BOXHD>
+          <ROW>
+            <ENT I="01">Agency name</ENT>
+            <ENT>nme</ENT>
+            <ENT>Agency name</ENT>
+            <ENT>&#x201C;Local Counseling Agency&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Phone number</ENT>
+            <ENT>phone1</ENT>
+            <ENT>Phone number</ENT>
+            <ENT>&#x201C;555-555-5555&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Street address</ENT>
+            <ENT>adr1</ENT>
+            <ENT>Street Address</ENT>
+            <ENT>&#x201C;1234 Main Street&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Street address continued</ENT>
+            <ENT>adr2</ENT>
+            <ENT O="xl">Street Address continued.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">City</ENT>
+            <ENT>city</ENT>
+            <ENT>City</ENT>
+            <ENT>&#x201C;Anytown&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">State</ENT>
+            <ENT>statecd</ENT>
+            <ENT>Code for state in which agency is located</ENT>
+            <ENT>&#x201C;PA&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Zip code</ENT>
+            <ENT>zipcd</ENT>
+            <ENT>Zip Code</ENT>
+            <ENT>&#x201C;12345&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Website URL</ENT>
+            <ENT>weburl</ENT>
+            <ENT>Agency Web Site address</ENT>
+            <ENT>&#x201C;<E T="03">http://www.counselor.org</E>&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Email address</ENT>
+            <ENT>email</ENT>
+            <ENT>Email address</ENT>
+            <ENT>&#x201C;counselor@counselor.org&#x201D;.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Counseling services provided</ENT>
+            <ENT>Services</ENT>
+            <ENT>Types of Counseling Services available</ENT>
+            <ENT>&#x201C;DFC,FBC,FHW,HIC,HMC,NDW,PLW,PPC,PPW,RHC&#x201D;<SU>7</SU>.</ENT>
+          </ROW>
+          <ROW>
+            <ENT I="01">Languages spoken</ENT>
+            <ENT>languages</ENT>
+            <ENT>The languages in which agency provides services</ENT>
+            <ENT>&#x201C;ENG&#x201D;.</ENT>
+          </ROW>
+        </GPOTABLE>
+        <P>Data fields which are populated with codes that are not commonly understood by borrowers should be translated into their definitional meanings, according to the Data Dictionary,<SU>7</SU>
+          <FTREF/>to ensure clarity. This will be relevant for the data fields entitled &#x201C;Counseling services provided&#x201D; and &#x201C;Languages spoken.&#x201D;</P>
+        <FTNT>
+          <P>
+
+            <SU>7</SU>A data dictionary for the Field &#x201C;Services&#x201D; can be found at<E T="03">http://data.hud.gov/Housing_Counselor/getServices,</E>and a data dictionary for &#x201C;Languages&#x201D; can be found at<E T="03">http://data.hud.gov/Housing_Counselor/getLanguages</E>.</P>
+        </FTNT>
+        <HD SOURCE="HD2">D. Accompanying Information</HD>
+
+        <P>Lenders comply with &#xA7; 1024.20(a)(1) when the following language is included: &#x201C;The counseling agencies on this list are approved by the U.S. Department of Housing and Urban Development (HUD), and they can offer independent advice about whether a particular set of mortgage loan terms is a good fit based on your objectives and circumstances, often at little or no cost to you. This list shows you several approved agencies in your area. You can find other approved counseling agencies at the Consumer Financial Protection Bureau's (CFPB) Web site:<E T="03">consumerfinance.gov/mortgagehelp</E>or by calling 1-855-411-CFPB (2372). You can also access a list of nationwide HUD-approved counseling intermediaries at<E T="03">http://portal.hud.gov/hudportal/HUD?src=/ohc_nint</E>.&#x201D;</P>
+        <P>Including information about where borrowers can gain additional information is consistent with the Bureau's preamble discussion of how it envisioned implementing the &#xA7; 1024.20(a)(1) list requirement in the RESPA Homeownership Counseling Amendments.<SU>8</SU>
+          <FTREF/>Giving borrowers the link to HUD-approved national counseling intermediaries offers borrowers additional housing counseling options, as national intermediaries offer phone counseling and online counseling services, which are particularly useful to borrowers in remote areas or areas less-dense with counseling agencies. The Bureau's tool will generate lists under &#xA7; 1024.20(a)(1)(i) that include this text above. By including this information, lenders generating lists under &#xA7; 1024.20(a)(1)(ii) will comply with &#xA7; 1024.20(a)(1). This will ensure that information provided under this provision is consistent with information accompanying lists generated by the Bureau's Web site, thus ensuring consistency.</P>
+        <FTNT>
+          <P>
+            <SU>8</SU>See 78 FR 6855 (Jan. 31, 2013) (&#x201C;The Bureau anticipates the lists generated through its tool will also include information enabling the consumer to access the Bureau or HUD list of homeownership counseling organizations, so that an applicant who receives the list can obtain information about additional counseling organizations if desired.&#x201D;).</P>
+        </FTNT>
+        <HD SOURCE="HD1">III. Regulatory Requirements</HD>
+
+        <P>This rule articulates the Bureau's interpretations of the RESPA Homeownership Counseling Amendments. It is therefore exempt from the APA's notice and comment rulemaking requirements pursuant to 5 U.S.C. 553(b).<PRTPAGE P="68345"/>
+        </P>
+        <P>Because no notice of proposed rulemaking is required, the Regulatory Flexibility Act does not require an initial or final regulatory flexibility analysis. 5 U.S.C. 603(a), 604(a).</P>
+
+        <P>The Bureau has determined that the Rule does not impose any new or revise any existing recordkeeping, reporting, or disclosure requirements on covered entities or members of the public that would be collections of information requiring OMB approval under the Paperwork Reduction Act, 44 U.S.C. 3501,<E T="03">et seq.</E>The requirement for lenders to provide the loan applicant with a written list of homeownership counseling organizations in the loan applicant's location is currently approved by OMB and assigned the OMB control number 3170-0025. Generally, the collections of information contained in Regulation X are assigned the OMB control number 3170-0016, and the collections of information contained in Regulation Z are assigned the OMB control number 3170-0015.</P>
+        <SIG>
+          <DATED>Dated: November 7, 2013.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2013-27300 Filed 11-13-13; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>

@@ -1,0 +1,294 @@
+<RULE>
+      <PREAMB>
+        <AGENCY TYPE="N">BUREAU OF CONSUMER FINANCIAL PROTECTION</AGENCY>
+        <CFR>12 CFR Part 1024</CFR>
+        <SUBJECT>Compliance Bulletin and Policy Guidance&#x2014;Mortgage Servicing Transfers</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Bureau of Consumer Financial Protection.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Compliance Bulletin and Policy Guidance.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Bureau of Consumer Financial Protection (CFPB) is issuing a compliance bulletin and policy guidance entitled &#x201C;Compliance Bulletin and Policy Guidance&#x2014;Mortgage Servicing Transfers&#x201D; in light of potential risks to consumers that may arise in connection with transfers of residential mortgage servicing rights.</P>
+        </SUM>
+        <EFFDATE>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>This bulletin is effective October 23, 2014 and applicable beginning August 19, 2014.</P>
+        </EFFDATE>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+          <P>Allison Brown, Program Manager (202) 435-7107; Yevgeny Shrago, Attorney, (202) 435-7098; or Whitney Patross, Attorney (202) 435-7057, Office of Supervision Policy.</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <HD SOURCE="HD1">I. Introduction</HD>
+        <P>The CFPB is issuing this compliance bulletin and policy guidance to residential mortgage servicers and subservicers (collectively, servicers), in light of potential risks to consumers that may arise in connection with transfers of residential mortgage servicing rights. The CFPB's concern in this area remains heightened due to the continuing high volume of servicing transfers.</P>
+        <P>Servicers engaged in significant servicing transfers should expect that the CFPB will, in appropriate cases, require them to prepare and submit informational plans describing how they will be managing the related risks to consumers.</P>
+        <P>The CFPB is continuing to monitor the mortgage servicing market and may engage in further rulemaking in this area.</P>
+        <HD SOURCE="HD1">II. Description of Compliance Bulletin and Policy Guidance</HD>
+        <P>This document replaces CFPB Bulletin 2013-01 (Mortgage Servicing Transfers), released in February 2013, which also addressed servicing transfers. This document advises mortgage servicers that the CFPB will be carefully reviewing servicers' compliance with Federal consumer financial laws applicable to servicing transfers. The revised Regulation X, implementing the Real Estate Settlement Procedures Act (RESPA) (new servicing rule), took effect on January 10, 2014. It requires servicers to, among other things, maintain policies and procedures that are reasonably designed to achieve the objectives of facilitating the transfer of information during mortgage servicing transfers and of properly evaluating loss mitigation applications.<SU>1</SU>
+          <FTREF/>Section A of this document, &#x201C;General Transfer-Related Policies and Procedures&#x201D;, provides examples of general transfer-related policies and procedures that CFPB examiners may consider in evaluating whether servicers have satisfied these requirements successfully. The examples listed in this section are not exhaustive and in future examinations CFPB examiners will consider a servicer's transfer-related policies and procedures as a whole in determining whether they are reasonably designed to achieve these objectives.</P>
+        <FTNT>
+          <P>
+            <SU>1</SU>12 CFR 1024.38(a), (b)(4).</P>
+        </FTNT>
+        <P>Section B, &#x201C;Applicability of the New Servicing Rules to Transfers&#x201D;, answers certain frequently asked questions about how the revised Regulation X applies in the area of servicing transfers. This section also describes certain focus areas for CFPB examiners and explains how entities can minimize compliance risk. Section C, &#x201C;Protections under Federal Consumer Financial Law&#x201D;, describes other Federal consumer financial laws applicable to servicing transfers and explains potential consequences if servicers are not fulfilling their obligations under the law. Section D, &#x201C;Plans for Handling Servicing Transfers&#x201D;, informs servicers engaged in significant servicing transfers that the CFPB will, in appropriate cases, require them to prepare and submit informational plans describing how they will be managing the related risks to consumers.</P>
+        <HD SOURCE="HD1">III. Compliance Bulletin and Policy Guidance</HD>
+        <P>A mortgage servicer, among other things, collects and processes loan payments on behalf of the owner of the mortgage note. Servicing transfers are common and may occur in several ways. The mortgage owner may sell the rights to service the loan, called the Mortgage Servicing Rights (MSR), separately from the note ownership. The owner of the loan or MSR may, rather than servicing the loan itself, hire a vendor&#x2014;typically called a subservicer&#x2014;to take on the servicing duties. MSR owners frequently sell MSR outright as an asset. Servicing transfers may also occur through whole loan servicing transfers or whole loan portfolio transfers, rather than through sales of MSR. In this document, we are using the term &#x201C;transfer&#x201D; broadly to cover transfers of servicing rights as well as transfers of servicing responsibilities through subservicing or whole loan servicing arrangements.</P>
+        <P>The CFPB advises mortgage servicers that its examiners will be carefully reviewing servicers' compliance with Federal consumer financial laws applicable to servicing transfers. These may include, among others, the RESPA and its implementing regulation, Regulation X, the Truth in Lending Act (TILA) and its implementing regulation, Regulation Z, the Fair Credit Reporting Act (FCRA) and its implementing regulation, Regulation V, the Fair Debt Collection Practices Act (FDCPA), and the Dodd-Frank Wall Street Reform and Consumer Protection Act's prohibitions on unfair, deceptive, or abusive acts or practices (UDAAPs).</P>
+        <P>The provisions of the new servicing rule and related commentary that relate to transfers can be found at 12 CFR 1024.33, 12 CFR 1024.38, and 12 CFR 1024.41.<SU>2</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>2</SU>12 CFR 1024.30 defines the scope of application of these provisions. Note that small servicers, as defined in 12 CFR 1026.41(e)(4), are exempt from certain provisions.</P>
+        </FTNT>
+        <HD SOURCE="HD2">A. General Transfer-Related Policies and Procedures</HD>
+
+        <P>CFPB mortgage servicing examinations now include reviews for compliance with the new servicing rule. Among other things, the rule requires servicers to maintain policies and procedures that are reasonably designed to achieve the objective of facilitating<PRTPAGE P="63296"/>the transfer of information during mortgage servicing transfers.<SU>3</SU>
+          <FTREF/>The following are examples of policies and procedures that CFPB examiners may consider in future examinations as contributing to meeting these requirements:<SU>4</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>3</SU>12 CFR 1024.38(a), (b)(4).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>4</SU>Section 1024.38(b)(4) does not prescribe any specific policies or procedures that a servicer must implement; the rule says that the policies and procedures must be &#x201C;reasonably designed&#x201D; to achieve the goal of facilitating the transfer of information during servicing transfers. CFPB examiners will consider a servicer's transfer-related policies and procedures as a whole, in light of the servicer's particular facts and circumstances, in determining whether they are reasonably designed to achieve the rule's objectives.</P>
+        </FTNT>
+        <P>&#x2022; Ensuring that contracts require the transferor to provide all necessary documents and information at loan boarding.</P>
+        <P>&#x2022; Developing tailored transfer instructions for each deal and conducting meetings to discuss and clarify key issues with counterparties in a timely manner; for large transfers, this could be months in advance of the transfer. Key issues may include descriptions of proprietary modifications, detailed descriptions of data fields, known issues with document indexing, and specific regulatory or settlement requirements applicable to some or all of the transferred loans.</P>
+        <P>&#x2022; Using specifically tailored testing protocols to evaluate the compatibility of the transferred data with the transferee servicer's systems and data mapping protocols.</P>
+        <P>&#x2022; Engaging in quality control work after the transfer of preliminary data to validate that the data on the transferee's system matches the data submitted by the transferor.</P>
+        <P>&#x2022; Recognizing when the transfer cannot be implemented successfully in a single batch and implementing alternative protocols, such as splitting the transfer into several smaller transactions, to ensure that the transferee can comply with its servicing obligations for every loan transferred.</P>
+        
+        <FP>In future examinations, CFPB examiners may also consider the following post-transfer policies and procedures, among others, for transferee servicers as contributing to meeting this requirement:</FP>
+
+        <P>&#x2022; Implementing a post-transfer process for validating data to ensure it transferred correctly and is functional, as well as developing procedures for identifying and<E T="03">addressing</E>data errors for inbound loans.</P>
+        <P>&#x2022; Effectively organizing and labeling incoming information, as well as ensuring that the transferee servicer uses any transferred information before seeking information from borrowers.</P>
+        <P>&#x2022; Conducting regularly scheduled calls with transferor servicers to identify any loan level issues and to research and resolve those issues within a few days of them being raised.</P>
+        
+        <FP>Moreover, the new servicing rule requires servicers, among other things, to maintain policies and procedures that are reasonably designed to achieve the objective of properly evaluating loss mitigation applications.<SU>5</SU>
+          <FTREF/>There is heightened risk inherent in transferring loans in loss mitigation, including the risk that documents and information are not accurately transferred. CFPB examiners will therefore pay particular attention to servicers' handling of loss mitigation in the context of transfers. In cases where servicers choose to engage in transfers of loans with pending loss mitigation applications or approved trial modification plans, CFPB examiners may consider the following policies and procedures, among others, as contributing to meeting this requirement:</FP>
+        <FTNT>
+          <P>
+            <SU>5</SU>12 CFR 1024.38(a), (b)(2).</P>
+        </FTNT>
+        <P>&#x2022; As a transferor, specifically flagging all loans with pending loss mitigation applications (complete and incomplete), as well as approved loss mitigation plans (including trial modification plans) through a previously agreed upon means and assisting in ensuring that the transferee's systems can process the loss mitigation data upon transfer.</P>
+        <P>&#x2022; As a transferee, requiring that the transferor servicer supply a detailed list of loans with pending loss mitigation applications, as well as approved loss mitigation plans.</P>
+        <P>&#x2022; As a transferee, requiring that appropriate documentation for loans with pending loss mitigation applications, as well as approved loss mitigation plans, be transferred pre-boarding.</P>
+        <P>&#x25CB; For example, one transferor servicer that has engaged in large volumes of transfers has provided advance access to a web portal containing loan documentation for such loans 45-60 days before transfer.</P>
+        <P>&#x2022; As a transferee, ensuring receipt of information regarding any loss mitigation discussions with borrowers, including any copies of loss mitigation documents.<SU>6</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>6</SU>12 CFR 1024, Supp. I, Comment 1024.38(b)(4)(ii)-1.</P>
+        </FTNT>
+        <P>&#x25CB; The transferee servicer's policies and procedures must address obtaining any such missing information or documents from a transferor servicer before attempting to obtain such information from borrowers.<SU>7</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>7</SU>
+            <E T="03">Id.</E>
+          </P>
+        </FTNT>
+        <P>&#x25CB; The CFPB expects transferee servicers to ensure that they review transferred documents to determine if the documents may be used in loss mitigation efforts. A transferee that, following a transfer, requires borrowers to resubmit loss mitigation application materials is unlikely to have policies and procedures that comply with 12 CFR 1024.38(b)(4).</P>
+        <P>&#x25CB; A transferee that, following a transfer, fails to identify documents and information that borrowers are required to submit to complete loss mitigation applications is unlikely to have policies and procedures that comply with 12 CFR 1024.38(b)(2)(iv).</P>
+        <P>&#x25CB; A transferee that, following a transfer, fails to properly evaluate borrowers who submit loss mitigation applications is unlikely to have policies and procedures that comply with 12 CFR 1024.38(b)(2)(v).</P>
+        <P>&#x2022; As a transferee, monitoring newly transferred loans and determining if partial payments received are actually payments pursuant to trial or permanent modification agreements.</P>
+        
+
+        <FP>On the other hand, CFPB examiners may consider the following practices, among others, as indicating that a servicer's policies and procedures are not reasonably designed to achieve the rule's objectives of facilitating the transfer of information during mortgage servicing transfers or properly evaluating loss mitigation applications. During a number of examinations, CFPB examiners determined that servicers had failed to properly identify loans that were in a trial or permanent modification with the prior servicer at time of transfer. In other exams, CFPB examiners found that servicers had failed to honor trial or permanent modification offers unless they could independently confirm that the prior servicer properly offered a modification or that the offered modification met investor criteria. In some of these instances, CFPB's examination determined that the transferee servicers did not obtain all of the information they needed from the transferor servicer. As a result, the servicers required borrowers to submit additional paperwork or to provide copies of financial documents they had already submitted to the transferor servicer. These servicers also subjected some borrowers to substantial delays while re-underwriting their loans. In some cases, the borrowers subsequently received a new modification with inferior terms, and in others, the servicer actually<PRTPAGE P="63297"/>conducted a foreclosure sale. In all of the cases discussed above, CFPB examiners concluded, based on the particular facts, that the servicers had engaged in unfair practices and directed them to adopt policies and procedures to prevent continued unfair practices in this area and to remediate harmed consumers. CFPB has previously publicized these findings in<E T="03">Supervisory Highlights.</E>
+          <SU>8</SU>
+          <FTREF/>Certain CFPB examinations, which occurred prior to the effective date of the new servicing rule, found that these practices violated the UDAAP prohibition; under the new servicing rule such practices may also constitute violations of 12 CFR 1024.38.</FP>
+        <FTNT>
+          <P>
+            <SU>8</SU>
+            <E T="03">Supervisory Highlights</E>is a publication that periodically shares general information about examination findings without identifying specific companies. All editions of<E T="03">Supervisory Highlights</E>are available at<E T="03">http://www.consumerfinance.gov/reports/.</E>
+          </P>
+        </FTNT>
+
+        <P>Finally, CFPB has received questions regarding a policy of transferring relevant data or documents to a transferee during the days following loan boarding, even though the transferor had the information in its possession prior to boarding. Such a transfer practice may prevent the transferor servicer from complying with its obligation to have policies and procedures reasonably designed to<E T="03">timely</E>transfer all information and documents. It also may prevent the transferee servicer from complying with its obligation to have policies and procedures reasonably designed to achieve the objective of properly evaluating loss mitigation applications. CFPB examiners will carefully scrutinize the policies and procedures of any institution that regularly waits until after loan boarding to transfer information that it had in its possession prior to boarding. The CFPB recognizes that servicers may not legally be able to provide certain information prior to the sale date; in that event, the CFPB will expect that servicers will still make every effort to transfer information prior to loan boarding, subject to those limitations.<SU>9</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>9</SU>The sale date is the date that the money changes hands and the parties are legally committed to the servicing transfer.</P>
+        </FTNT>
+        <HD SOURCE="HD2">B. Applicability of Other Parts of the New Servicing Rule to Transfers</HD>
+        <P>In addition to the transfer-related policies and procedures requirements described above, transfers may implicate other requirements under the new servicing rule:</P>
+        <HD SOURCE="HD3">Error Resolution Procedures (12 CFR 1024.35) and Requests for Information (12 CFR 1024.36)</HD>
+        <P>Servicers are required to meet certain procedural requirements for responding to notices of error and written information requests.</P>
+        <P>&#x2022; If the transferee servicer receives a notice of error or information request from the borrower or the borrower's agent, the transferee servicer must comply with all applicable requirements under 12 CFR 1024.35 and .36 within the regulatory timeframes, even if the transferor was servicing the loan at the time of the alleged error or the event about which information is requested.</P>
+        <P>&#x2022; A transfer does not relieve transferor servicers from their obligations under 12 CFR 1024.35 and .36. Transferor servicers are obligated to respond to notices of error and information requests received from the borrower or borrower's agent up to one year after the loan was transferred or discharged.<SU>10</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>10</SU>12 CFR 1024.35(g)(1)(iii) and 12 CFR 1024.36(f)(1)(v).</P>
+        </FTNT>
+        <P>&#x2022; Servicers that transfer a mortgage loan shortly after receiving a notice of error or information request from the borrower or borrower's agent are still obligated to respond within the applicable timeframes, notwithstanding the servicing transfer.</P>
+        <HD SOURCE="HD3">Force-Placed Insurance (12 CFR 1024.37 and 12 CFR 1024.17(k))</HD>
+        <P>Before a servicer assesses any premium charge or fee related to force-placed insurance on a borrower, the servicer must comply with certain requirements, including sending notices to the borrower.</P>
+        <P>&#x2022; If the transferee servicer replaces the existing force-placed insurance policy with a new force-placed insurance policy,<SU>11</SU>
+          <FTREF/>the transferee servicer must comply with Regulation X's requirements, including having a reasonable basis to conclude the borrower has failed to comply with the mortgage loan contract's requirement to maintain hazard insurance. The transferee servicer must also send the notice required by 12 CFR 1024.37(e) prior to assessing a premium charge or fee on the borrower.</P>
+        <FTNT>
+          <P>
+            <SU>11</SU>Changes to the terms of an existing force-placed insurance policy, such as selecting a new provider, changing the scope of coverage, or changing the premium owed by the borrower, may meet the standards for replacement of the existing force-placed insurance policy depending on the particular circumstances.</P>
+        </FTNT>
+        <P>&#x2022; If a servicer transfers a mortgage loan after mailing or delivering to the borrower one or both of the notices required by 12 CFR 1024.37(c) and (d), the transferee servicer does not need to resend the notice(s) that the transferor already sent. However, the transferee servicer must ensure that the borrower has been sent all required notices within the applicable timeframes before it may assess any premium charge or fee related to force-placed insurance.</P>
+        <HD SOURCE="HD3">Early Intervention (12 CFR 1024.39)</HD>
+        <P>A servicer must establish or make good faith efforts to establish live contact with a delinquent borrower not later than the 36th day of the borrower's delinquency.<SU>12</SU>
+          <FTREF/>As clarified in CFPB Bulletin 2013-12,<SU>13</SU>
+          <FTREF/>servicers are required to make good faith efforts to establish live contact for each billing cycle for which a borrower has been delinquent for at least 36 days.</P>
+        <FTNT>
+          <P>
+            <SU>12</SU>12 CFR 1024.39(a).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>13</SU>CFPB Bulletin 2013-12 (<E T="03">Implementation Guidance for Certain Mortgage Servicing Rules</E>), October 15, 2013.</P>
+        </FTNT>
+        <P>&#x2022; A transferee servicer must begin or continue the good faith efforts regardless of whether the delinquency began while the loan was being serviced by the transferor servicer.</P>
+        <P>A servicer must provide to a delinquent borrower a written notice containing certain information not later than the 45th day of the borrower's delinquency.<SU>14</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>14</SU>12 CFR 1024.39(b).</P>
+        </FTNT>
+        <P>&#x2022; A transferee servicer must comply with the written notice requirement regardless of whether the delinquency began while the loan was being serviced by the transferor servicer.</P>
+        <HD SOURCE="HD3">Continuity of Contact (12 CFR 1024.40)</HD>
+        <P>Servicers must maintain policies and procedures that are reasonably designed to achieve certain objectives related to personnel assigned to assist delinquent borrowers.</P>
+        <P>&#x2022; A transferee servicer's policies and procedures must be reasonably designed to achieve these objectives when delinquent loans are transferred. In future examinations, CFPB examiners may consider the following policies and procedures, among others, as contributing to meeting this requirement:</P>
+        <P>&#x25CB; Identifying which borrowers are 45 days or more delinquent at transfer and ensuring that personnel are available to assist such borrowers starting at loan boarding.<SU>15</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>15</SU>12 CFR 1024.40(a).</P>
+        </FTNT>
+
+        <P>&#x25CB; Ensuring that these servicer personnel can provide the borrower with accurate information as required by 12 CFR 1024.40(b)(1), including information relating to loss mitigation applications started at the transferor servicer.<PRTPAGE P="63298"/>
+        </P>
+        <P>&#x25CB; Ensuring, pursuant to 12 CFR 1024.40(b)(2), that servicer personnel can retrieve, in a timely manner:</P>
+        <P>A complete record of the borrower's payment history, including with the transferor servicer and all prior servicers, and</P>
+        <P>All written information the borrower has provided to the transferor servicer and all prior servicers in connection with a loss mitigation application.</P>
+        <P>&#x2022; Servicers also should consider how to inform delinquent borrowers of the availability of servicer personnel. For example, the customer service telephone number could be included in the Welcome Letter or early intervention communications required by Regulation X or other communications following the transfer.</P>
+        <HD SOURCE="HD3">Loss Mitigation (12 CFR 1024.41)</HD>
+        <P>As stated above, CFPB examiners will pay particular attention to servicers' handling of loss mitigation in the context of transfers. A transferee that obtains the servicing of a mortgage loan for which an evaluation of a complete loss mitigation option is in process should continue the evaluation of the complete loss mitigation application to the extent practicable.<SU>16</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>16</SU>12 CFR pt. 1024, Supp. I, Comment 1024.41(i)-2.</P>
+        </FTNT>
+
+        <P>&#x2022; CFPB examiners will carefully scrutinize any evaluations that take longer than 30 days from the date the<E T="03">transferor</E>received the borrower's complete application, especially where the borrower suffered negative consequences attributable to the delay.</P>
+
+        <P>As discussed above, in cases where servicers choose to engage in transfers of loans with pending loss mitigation applications or approved trial modification plans, among the policies and procedures that CFPB examiners may consider as contributing to meeting the requirements under 12 CFR 1024.38(b)(4), are whether the transferee servicer obtained information regarding loss mitigation discussions from the transferor<E T="03">before</E>attempting to obtain such information from a borrower. If a loan is transferred with a loss mitigation application pending or when a borrower is in a loss mitigation program, the transferor and transferee should manage their risk of non-compliance with 12 CFR 1024.41. One way to help manage this risk is by ensuring that all applicable loss mitigation information was sent to the transferee by the date of transfer, including, for example:</P>
+        <HD SOURCE="HD3">Before the Borrower Accepts an Offer</HD>
+        <P>&#x2022; All applicable loss mitigation notices and when they were sent, including:</P>
+        <P>&#x25CB; Acknowledgment notices required by 12 CFR 1024.41(b)(2)(i)(B);</P>
+        <P>&#x25CB; Notices stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage loan, as required by 12 CFR 1024.41(c)(1)(ii);</P>
+        <P>&#x25CB; Denial notices as required by 12 CFR 1024.41(d), and 12 CFR 1024(h)(4);</P>
+        <P>&#x2022; All documents and information submitted by a borrower to be evaluated for loss mitigation options; and</P>
+        <P>&#x2022; Documents and information sufficient to show, as applicable:</P>
+        <P>&#x25CB; If a borrower submitted an application and when that application was received by the transferor servicer;</P>
+        <P>&#x25CB; Whether documentation and information submitted by a borrower in response to the notice required by 12 CFR 1024.41(b)(2)(i)(B) constituted a complete application or not;</P>
+        <P>&#x25CB; The date the transferor servicer received a complete application;</P>
+        <P>If, and when, the servicer requested additional documents or information, and if, and when, the borrower provided them;</P>
+        <P>&#x25CB; Whether an evaluation had been completed and if a loss mitigation offer was made to a borrower;</P>
+        <P>&#x25CB; If the borrower was denied for a loan modification option, whether the borrower appealed and, if so, the status of the appeal; and</P>
+        <P>&#x25CB; If a foreclosure sale is pending:</P>
+        <P>The current date of the foreclosure sale;</P>
+        <P>Whether a borrower submitted a complete application more than 37 days before the foreclosure sale; and</P>
+        <P>Instructions to and from foreclosure counsel to ensure compliance with 12 CFR 1024.41(g), including instructions and status of all necessary stays, continuances and/or dismissals.</P>
+        <HD SOURCE="HD3">After the Borrower Accepts an Offer</HD>
+        <P>&#x2022; All loss mitigation agreements, including trial and permanent loan modification agreements, forbearance agreements, short sale agreements, deed-in-lieu of foreclosure agreements, or other applicable agreements;</P>
+        <P>&#x2022; Documents and information sufficient to show, as applicable, whether the borrower accepted an offer; and whether the borrower was performing in accordance with the terms of the offer.</P>
+        <HD SOURCE="HD2">C. Protections Under Federal Consumer Financial Law</HD>
+        <P>Other federal consumer financial laws may also apply in the transfer context. The FCRA provides protection for consumers by generally prohibiting the furnishing of information to a consumer reporting agency that the furnisher knows or has reasonable cause to believe is inaccurate.<SU>17</SU>
+          <FTREF/>A servicer that furnishes information to consumer reporting agencies must establish and implement reasonable written policies and procedures regarding the accuracy and integrity of the information furnished; in doing so, the servicer must consider applicable federal guidelines and must periodically review the policies and procedures and update them as necessary to ensure their continued effectiveness.<SU>18</SU>
+          <FTREF/>The FCRA also gives consumers the ability to dispute credit reporting information with consumer reporting agencies and directly with their furnishers.<SU>19</SU>
+          <FTREF/>Servicers, like other furnishers, must appropriately investigate such disputes and report their existence along with any other information reported to consumer reporting agencies.<SU>20</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>17</SU>15 U.S.C. 1681s-2(a)(1)(A). The requirement does not apply if the furnisher clearly and conspicuously specifies to the consumer an address for notices of errors. 15 U.S.C. 1681s-2(a)(1)(B)-(C).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>18</SU>15 U.S.C. 1681s-2(e); 12 CFR 1022.42.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>19</SU>15 U.S.C. 1681i(a)(1), 1681s-2(a)(8); 12 CFR 1022.43.</P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>20</SU>15 U.S.C. 1681s-2(a)(3), (8), (b).</P>
+        </FTNT>
+        <P>The FDCPA imposes obligations on servicers to the extent they act as debt collectors within the meaning of the FDCPA.<SU>21</SU>
+          <FTREF/>Among other obligations, the FDCPA requires that within five days after the initial communication with a borrower in connection with the collection of any debt, a debt collector must send the borrower a notice including the amount of the debt, the creditor's name, the borrower's right to request verification of the debt, and other required information.<SU>22</SU>
+          <FTREF/>CFPB examiners have identified a number of entities that failed to send the notices within five days of initial contact and some entities that failed to send them at all. The FDCPA also prohibits deceptive representations, the use of unfair or unconscionable means, and harassing or abusive conduct in debt collection.<SU>23</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+            <SU>21</SU>15 U.S.C. 1692a(6).</P>
+        </FTNT>
+        <FTNT>
+          <P>
+
+            <SU>22</SU>15 U.S.C. 1692g(a). The requirement does not apply if the information is contained in the initial communication or the consumer has paid the debt.<E T="03">Id.</E>
+          </P>
+        </FTNT>
+        <FTNT>
+          <P>
+            <SU>23</SU>15 U.S.C. 1692d, 1692e, 1692f.</P>
+        </FTNT>
+
+        <P>In addition to the notice requirements and other consumer protections described above, servicers must avoid engaging in UDAAPs. The CFPB emphasizes that conduct that does not violate one of the specific prohibitions<PRTPAGE P="63299"/>in the laws discussed above may nonetheless constitute a UDAAP.<SU>24</SU>
+          <FTREF/>
+        </P>
+        <FTNT>
+          <P>
+
+            <SU>24</SU>The CFPB Supervision and Examination Manual provides further guidance on how the UDAAP prohibition applies to supervised entities. That examination manual is available at<E T="03">http://www.consumerfinance.gov/guidance/supervision/manual</E>.</P>
+        </FTNT>
+        <P>CFPB expects all servicers under its jurisdiction, including those with significant transfer volume, to maintain a robust Compliance Management System (CMS). A robust CMS must, among other things, both ensure that violations of Federal consumer financial law do not occur during a transfer and must contain mechanisms for promptly identifying and remediating any violations of Federal consumer financial law that do occur. Entities with a robust CMS have strong policies and procedures, effective board oversight, regular and properly directed training, internal monitoring, external audits and complaint review.</P>
+        <P>CFPB expects servicers that identify any potential violations during a transfer to undertake all necessary corrective measures. Such corrective measures should include both steps to prevent the violation from occurring for subsequently transferred loans and to remediate any actual harm the violation may have caused the consumer whose loan was transferred. If the CFPB determines that a servicer has engaged in any acts or practices that violate the new servicing rule, that are unfair, deceptive, or abusive, or that otherwise violate Federal consumer financial law, it will take appropriate supervisory and enforcement actions to address violations and seek all appropriate corrective measures, including remediation of any harm to consumers. In determining the appropriate action, the CFPB will consider a variety of factors, including the timeliness of identification and the timeliness and scope of remediation of the violation by the servicer.</P>
+        <HD SOURCE="HD2">D. Plans for Handling Servicing Transfers</HD>
+        <P>As part of its efforts to focus supervisory attention on the topics described above, the CFPB will, in appropriate cases, require servicers engaged in significant servicing transfers to prepare and submit written plans to the CFPB detailing how they will manage the associated consumer risks. The CFPB will use these plans to assess consumer risk and inform further examination planning. Servicers do not need approval from the CFPB before moving forward with servicing transfers unless specifically required to do so (e.g., by a consent order).</P>
+        <P>The information included in a plan would depend on the circumstances of the particular transfer. In general, however, the CFPB will request information regarding:</P>
+        <P>1. The number of loans involved in the transfer;</P>
+        <P>2. The total servicing volume being transferred (measured by unpaid principal balance);</P>
+        <P>3. The name(s) of the servicing platform(s) on which the transferor stored all relevant account-level information for transferred loans prior to transfer and information about compatibility with the transferee's systems;</P>
+        <P>4. A detailed description of how the servicer will ensure that it is complying with the applicable new servicing rule provisions on transfers;</P>
+        <P>5. A detailed description of the transaction and system testing to be conducted to ensure accurate transfer of electronic information and a description of the summary report resulting from the transferee or transferor's testing;</P>
+        <P>6. A description of how the transferee will identify and correct errors identified in connection with the transfer, including a specified time period for reviewing files and resolving errors;</P>
+        <P>7. A description of the training plan and actual training materials for staff involved in reviewing, assessing, utilizing, or communicating information regarding the transferred loans; and</P>
+        <P>8. A customer-service plan, specific to the transferred loans, that provides for responding to loss mitigation requests or inquiries and for identifying whether a loan is subject to a pending loss mitigation resolution or application.</P>
+        <HD SOURCE="HD1">IV. Regulatory Requirements</HD>
+        <P>This Compliance Bulletin and Policy Guidance is a non-binding compliance bulletin and policy guidance articulating considerations relevant to the CFPB's exercise of its supervisory authority under Regulation X and RESPA and reciting certain requirements of Regulation X and other Federal consumer financial laws applicable to servicing transfers. It is therefore exempt from the notice and comment rulemaking requirements under the Administrative Procedure Act pursuant to 5 U.S.C. 553(b).</P>
+        <P>Because no notice of proposed rulemaking is required, the Regulatory Flexibility Act does not require an initial or final regulatory flexibility analysis. 5 U.S.C. 603(a), 604(a).</P>
+        <P>The CFPB has determined that this Compliance Bulletin and Policy Guidance does not impose any new or revise any existing recordkeeping, reporting, or disclosure requirements on covered entities or members of the public that would be collections of information requiring OMB approval under the Paperwork Reduction Act, 44 U.S.C. 3501, et seq.</P>
+        <SIG>
+          <DATED>Dated: October 7, 2014.</DATED>
+          <NAME>Richard Cordray,</NAME>
+          <TITLE>Director, Bureau of Consumer Financial Protection.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2014-24194 Filed 10-22-14; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
+    </RULE>

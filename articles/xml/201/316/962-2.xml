@@ -756,7 +756,8 @@
           </LSTSUB>
           <HD SOURCE="HD1">Authority and Issuance</HD>
           <P>For the reasons set forth in the preamble, the Bureau amends Regulation X, 12 CFR part 1024, as amended by the final rule published on February 14, 2013, 78 FR 10695, and Regulation Z, 12 CFR part 1026, as amended by the final rules published on January 30, 2013, 78 FR 6407 and February 14, 2013, 78 FR 10901 as set forth below:</P>
-          <REGTEXT PART="1024" TITLE="12">
+	  <!--
+	  <REGTEXT PART="1024" TITLE="12">
             <PART>
               <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
             </PART>
@@ -771,7 +772,7 @@
           </REGTEXT>
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>2. The subpart A heading is revised to read as set forth above.</AMDPAR>
-          </REGTEXT>
+          </REGTEXT>-->
           
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>3. Section 1024.5 is amended by adding paragraph (c) to read as follows:</AMDPAR>
@@ -801,7 +802,7 @@
           </REGTEXT>
           
           <REGTEXT PART="1024" TITLE="12">
-            <AMDPAR>5. In Supplement I to Part 1024, Subpart A is added to read as follows:</AMDPAR>
+            <AMDPAR>5. In Supplement I to Part 1024, Section 1024.5 is added to read as follows:</AMDPAR>
             <HD SOURCE="HD1">Supplement I to Part 1024&#x2014;Official Bureau Interpretations</HD>
             <STARS/>
             <SUBPART>

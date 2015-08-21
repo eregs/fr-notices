@@ -20,7 +20,7 @@
         </SUM>
         <DATES>
           <HD SOURCE="HED">DATES:</HD>
-          <P>The rule is effective August 1, 2015. The final rule applies to transactions for which the creditor or mortgage broker receives an application on or after August 1, 2015.</P>
+          <P>The rule is effective October 3, 2015. The final rule applies to transactions for which the creditor or mortgage broker receives an application on or after October 3, 2015.</P>
         </DATES>
         <FURINF>
           <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
@@ -360,6 +360,39 @@
 
         <P>Under the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3501<E T="03">et seq.</E>), Federal agencies are generally required to seek the Office of Management and Budget (OMB) approval for information collection requirements prior to implementation. The collections of information related to Regulations Z and X have been previously reviewed and approved by OMB in accordance with the PRA and assigned OMB Control Numbers 3170-0015 (Regulation Z) and 3170-0016 (Regulation X). Under the PRA, the Bureau may not conduct or sponsor and, notwithstanding any other provision of law, a person is not required to respond to an information collection unless the information collection displays a valid control number assigned by OMB.</P>
         <P>The Bureau has determined that this final rule would not impose any new or revised information collection (recordkeeping, reporting, or disclosure) requirements on covered entities or members of the public that would constitute collections of information requiring OMB approval under the PRA.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>12 CFR Part 1024</CFR>
+          <P>Condominiums, Consumer protection, Housing, Mortgage servicing, Mortgages, Reporting and recordkeeping requirements.</P>
+          <CFR>12 CFR Part 1026</CFR>
+          <P>Advertising, Consumer protection, Credit, Credit unions, Mortgages, National banks, Recordkeeping and recordkeeping requirements, Reporting, Savings associations, Truth in lending.</P>
+        </LSTSUB>
+        <HD SOURCE="HD1">Authority and Issuance</HD>
+        <P>For the reasons set forth in the preamble, the Bureau amends Regulation X, 12 CFR part 1024, and Regulation Z, 12 CFR part 1026, as set forth below:</P>
+        <REGTEXT PART="1024" TITLE="12">
+          <PART>
+            <HD SOURCE="HED">PART 1024&#x2014;REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 1024 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>12 U.S.C. 2603-2605, 2607, 2609, 2617, 5512, 5532, 5581.</P>
+          </AUTH>
+        </REGTEXT>
+        <REGTEXT PART="1024" TITLE="12">
+          <SUBPART>
+            <HD SOURCE="HED">Subpart A&#x2014;General Provisions</HD>
+          </SUBPART>
+          <AMDPAR>2. Section 1024.5 is amended by revising paragraph (d) introductory text to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 1024.5</SECTNO>
+            <SUBJECT>Coverage of RESPA.</SUBJECT>
+            <STARS/>
+            <PRTPAGE P="8776"/>
+            <P>(d)<E T="03">Partial exemptions for certain mortgage loans.</E>Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
         <REGTEXT PART="1026" TITLE="12">
           <PART>
             <HD SOURCE="HED">PART 1026&#x2014;TRUTH IN LENDING (REGULATION Z)</HD>
@@ -433,8 +466,10 @@
             <P>(4) * * *</P>
             <P>(ii) Under the subheading &#x201C;Final,&#x201D; the total amount of payoffs and payments made to third parties disclosed pursuant to paragraph (t)(5)(vii)(B) of this section, to the extent known, disclosed as a negative number;</P>
             <STARS/>
-            <P>(j)* * *</P>
-            <P>(2)* * *</P>
+            <P>
+              <E T="03">(j)</E>* * *</P>
+            <P>
+              <E T="03">(2)</E>* * *</P>
             <P>(iv) The amount of any existing loans that the consumer is assuming, or any loans subject to which the consumer is taking title to the property, labeled &#x201C;Existing Loan(s) Assumed or Taken Subject to&#x201D;;</P>
             <STARS/>
             <P>(k) * * *</P>
@@ -442,8 +477,10 @@
             <P>(v) The amount of any loan secured by a first lien on the property that will be paid off as part of the real estate closing, labeled &#x201C;Payoff of First Mortgage Loan&#x201D;;</P>
             <P>(vi) The amount of any loan secured by a second lien on the property that will be paid off as part of the real estate closing, labeled &#x201C;Payoff of Second Mortgage Loan&#x201D;;</P>
             <STARS/>
-            <P>(t)* * *</P>
-            <P>(4)* * *</P>
+            <P>
+              <E T="03">(t)</E>* * *</P>
+            <P>
+              <E T="03">(4)</E>* * *</P>
             <P>(ii)<E T="03">Percentages.</E>The percentage amounts required to be disclosed under paragraphs (b), (f)(1), (n), and (o)(5) of this section shall not be rounded and shall be disclosed up to two or three decimal places. The percentage amount required to be disclosed under paragraph (o)(4) of this section shall not be rounded and shall be disclosed up to three decimal places. If the amount is a whole number then the amount disclosed shall be truncated at the decimal point.</P>
             <STARS/>
           </SECTION>
@@ -476,7 +513,7 @@
 
           <AMDPAR>iv. Under paragraph 37(h)(1)(ii), paragraph 1 is revised.<PRTPAGE P="8777"/>
           </AMDPAR>
-          <AMDPAR>v. Under paragraph 37(m), paragraph 37(m)(8) is added.</AMDPAR>
+          <AMDPAR>v. Under paragraph 37(m), the subheading<E T="03">37(m)(8) Construction loans</E>and paragraph 1 are added.</AMDPAR>
           <AMDPAR>vi. Under paragraph 37(n), paragraph 2 is revised.</AMDPAR>
           <AMDPAR>c. Under<E T="03">Section 1026.38&#x2014;Content of Disclosures for Certain Mortgage Transactions (Closing Disclosure):</E>
           </AMDPAR>
