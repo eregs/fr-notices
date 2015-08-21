@@ -4833,7 +4833,7 @@
             <HD SOURCE="HED">Appendix MS to Part 1024—Mortgage Servicing</HD>
             <EXTRACT>
 
-              <HD SOURCE="HD1">MS-1 to Part 1024</HD>
+              <HD SOURCE="HD1">Appendix MS-1 to Part 1024</HD>
               <HD SOURCE="HD2">Servicing Disclosure Statement</HD>
               <P>[Sample language; use business stationery or similar heading]</P>
               <P>[Date]</P>
@@ -4848,7 +4848,7 @@
               <P>[The loan for which you have applied will be serviced at this financial institution and we do not intend to sell, transfer, or assign the servicing of the loan.]</P>
               <P>[INSTRUCTIONS TO PREPARER: Insert the date and select the appropriate language under “Servicing Transfer Information.” The model format may be annotated with further information that clarifies or enhances the model language.]</P>
 
-              <HD SOURCE="HD1">MS-2 to Part 1024</HD>
+              <HD SOURCE="HD1">Appendix MS-2 to Part 1024</HD>
               <HD SOURCE="HD2">Notice of Servicing Transfer</HD>
               <P>The servicing of your mortgage loan is being transferred, effective [Date]. This means that after this date, a new servicer will be collecting your mortgage loan payments from you. Nothing else about your mortgage loan will change.</P>
               <P>[Name of present servicer] is now collecting your payments. [Name of present servicer] will stop accepting payments received from you after [Date].</P>
@@ -4858,7 +4858,6 @@
               </P>
               <P>If you have any questions for either your present servicer, [Name of present servicer] or your new servicer [Name of new servicer], about your mortgage loan or this transfer, please contact them using the information below:</P>
               <GPOTABLE CDEF="xl25,xl25" COLS="02" OPTS="L2,tp0,p1,8/9,i1">
-                <TTITLE/>
                 <BOXHD>
                   <CHED H="1"/>
                   <CHED H="1"/>
@@ -4908,7 +4907,7 @@
               <FP>Date</FP>
 
 
-              <HD SOURCE="HD1">MS-3 to Part 1024</HD>
+              <HD SOURCE="HD1">Appendix MS-3 to Part 1024</HD>
               <HD SOURCE="HD2">Model Force-Placed Insurance Notice Forms</HD>
 
               <HD SOURCE="HD2">MS-3(A)&#x2014;Model Form for Force-Placed Insurance Notice Containing Information Required By &#xA7; 1024.37(c)(2)</HD>
@@ -4987,7 +4986,7 @@
               <P>[If applicable, provide a statement advising a borrower to review additional information provided in the same transmittal.]</P>
 
 
-              <HD SOURCE="HD1">MS-4 to Part 1024</HD>
+              <HD SOURCE="HD1">Appendix MS-4 to Part 1024</HD>
               <HD SOURCE="HD2">Model Clauses for the Written Early Intervention Notice</HD>
 
               <HD SOURCE="HD2">MS-4(A)&#x2014;Statement Encouraging the Borrower To Contact the Servicer and Additional Information About Loss Mitigation Options (&#xA7; 1024.39(b)(2)(i), (ii) and (iv))</HD>
