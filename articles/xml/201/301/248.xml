@@ -3833,7 +3833,7 @@
               <STARS/>
             </SECTION>
           </REGTEXT>
-          <!--<REGTEXT PART="1024" TITLE="12">
+          <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>9. Section 1024.13 is amended by revising the section heading and paragraph (d) to read as follows:</AMDPAR>
             <SECTION>
               <SECTNO>&#xA7; 1024.13</SECTNO>
@@ -3841,7 +3841,7 @@
               <STARS/>
               <P>(d) A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in &#xA7; 1024.33(d).</P>
             </SECTION>
-          </REGTEXT>-->
+          </REGTEXT>
 
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>10. Section 1024.17 is amended by revising paragraphs (c)(8), (f)(2)(ii), (f)(4)(iii), (i)(2), (i)(4)(iii), adding paragraph (k)(5), removing paragraph (l), and redesignating paragraph (m) as paragraph (l).</AMDPAR>
