@@ -905,7 +905,6 @@
 	      </SECTION>
 	      <APPENDIX>
                 <HD SOURCE="HED">Appendix A to Part 1024&#x2014;Instructions for Completing HUD-1 and HUD-1a Settlement Statements; Sample HUD-1 and HUD-1a Statements</HD>
-                <!--<EXTRACT>-->
                   <P>The following are instructions for completing the HUD-1 settlement statement, required under section 4 of RESPA and 12 CFR part 1024 (Regulation X) of the Bureau of Consumer Financial Protection (Bureau) regulations. This form is to be used as a statement of actual charges and adjustments paid by the borrower and the seller, to be given to the parties in connection with the settlement. The instructions for completion of the HUD-1 are primarily for the benefit of the settlement agents who prepare the statements and need not be transmitted to the parties as an integral part of the HUD-1. There is no objection to the use of the HUD-1 in transactions in which its use is not legally required. Refer to the definitions section of the regulations (12 CFR 1024.2) for specific definitions of many of the terms that are used in these instructions.</P>
                   <HD SOURCE="HD1">General Instructions</HD>
                   <P>Information and amounts may be filled in by typewriter, hand printing, computer printing, or any other method producing clear and legible results. Refer to the Bureau's regulations (Regulation X) regarding rules applicable to reproduction of the HUD-1 for the purpose of including customary recitals and information used locally in settlements; for example, a breakdown of payoff figures, a breakdown of the Borrower's total monthly mortgage payments, check disbursements, a statement indicating receipt of funds, applicable special stipulations between Borrower and Seller, and the date funds are transferred.</P>
@@ -1045,7 +1044,6 @@
                   <P>Line 1604 is the amount disbursed to the borrower. This is determined by adding together the amounts for lines 1600 and 1601, and then subtracting any amounts listed on lines 1602 and 1603.</P>
                   <HD SOURCE="HD2">Page 2</HD>
                   <P>This section of the HUD-1A is similar to page 3 of the HUD-1. The instructions for page 3 of the HUD-1 should be followed insofar as possible. The HUD-1/1A Column should include any amounts shown on page 1 of the HUD-1A in the column as paid for by the borrower, plus any amounts that are shown as P.O.C. by the borrower. Inapplicable charges should be ignored.</P>
-                <!--</EXTRACT>-->
                 <BILCOD>BILLING CODE 4810-AM-P</BILCOD>
                 <GPH DEEP="640" SPAN="3">
                   <PRTPAGE P="79003"/>
@@ -1071,7 +1069,6 @@
 	      </APPENDIX>
 	      <APPENDIX>
                 <HD SOURCE="HED">Appendix B to Part 1024&#x2014;Illustrations of Requirements of RESPA</HD>
-                <!--<EXTRACT>-->
                   <P>The following illustrations provide additional guidance on the meaning and coverage of the provisions of RESPA. Other provisions of Federal or state law may also be applicable to the practices and payments discussed in the following illustrations.</P>
                   <P>1.<E T="03">Facts:</E>A, a provider of settlement services, provides settlement services at abnormally low rates or at no charge at all to B, a builder, in connection with a subdivision being developed by B. B agrees to refer purchasers of the completed homes in the subdivision to A for the purchase of settlement services in connection with the sale of individual lots by B.</P>
                   <P>
@@ -1112,7 +1109,6 @@
                   <P>13.<E T="03">Facts.</E>A is a dealer in home improvements who has established funding arrangements with several lenders. Customers for home improvements receive a proposed contract from A. The proposal requires that customers both execute forms authorizing a credit check and employment verification, and frequently, execute a dealer consumer credit contract secured by a lien on the customer's (borrower's) 1- to 4-family residential property. Simultaneously with the completion and certification of the home improvement work, the note is assigned by the dealer to a funding lender.</P>
                   <P>
                     <E T="03">Comments.</E>The loan that is assigned to the funding lender is a loan covered by RESPA, when a lien is placed on the borrower's 1- to 4-family residential structure. The dealer loan or consumer credit contract originated by a dealer is also a RESPA-covered transaction, except when the dealer is not a &#x201C;creditor&#x201D; under the definition of &#x201C;federally related mortgage loan&#x201D; in &#xA7; 1024.2. The lender to whom the loan will be assigned is responsible for assuring that the lender or the dealer delivers to the borrower a Good Faith Estimate of closing costs consistent with Regulation X, and that the HUD-1 or HUD-1A Settlement Statement is used in conjunction with the settlement of the loan to be assigned. A dealer who, under &#xA7; 1024.2, is covered by RESPA as a creditor is responsible for the Good Faith Estimate of Closing Costs and the use of the appropriate settlement statement in connection with the loan.</P>
-                  <!--</EXTRACT>-->
 		</APPENDIX>
 		<APPENDIX>
                 <HD SOURCE="HED">Appendix C to Part 1024&#x2014;Instructions for Completing Good Faith Estimate (GFE) Form</HD>
