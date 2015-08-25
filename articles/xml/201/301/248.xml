@@ -3820,7 +3820,7 @@
               <HD SOURCE="HED">Subpart B&#x2014;Mortgage Settlement and Escrow Accounts</HD>
             </SUBPART>
           </REGTEXT>
-          
+
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>7. Sections 1024.6 through 1024.20 are designated as subpart B under the heading set forth above.</AMDPAR>
             <AMDPAR>8. Section 1024.7 is amended by revising paragraph (f)(3) to read as follows:</AMDPAR>
@@ -3833,7 +3833,7 @@
               <STARS/>
             </SECTION>
           </REGTEXT>
-          <!--<REGTEXT PART="1024" TITLE="12">
+          <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>9. Section 1024.13 is amended by revising the section heading and paragraph (d) to read as follows:</AMDPAR>
             <SECTION>
               <SECTNO>&#xA7; 1024.13</SECTNO>
@@ -3841,8 +3841,8 @@
               <STARS/>
               <P>(d) A specific preemption of conflicting State laws regarding notices and disclosures of mortgage servicing transfers is set forth in &#xA7; 1024.33(d).</P>
             </SECTION>
-          </REGTEXT>-->
-          
+          </REGTEXT>
+
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>10. Section 1024.17 is amended by revising paragraphs (c)(8), (f)(2)(ii), (f)(4)(iii), (i)(2), (i)(4)(iii), adding paragraph (k)(5), removing paragraph (l), and redesignating paragraph (m) as paragraph (l).</AMDPAR>
             <P>The revisions and addition read as follows:</P>
@@ -3910,7 +3910,7 @@
           <REGTEXT PART="1024" TITLE="12">
             <AMDPAR>15. Section 1024.23 is removed.</AMDPAR>
             <AMDPAR>16. Subpart C is added to read as follows:</AMDPAR>
-            
+
             <CONTENTS>
               <SUBPART>
                 <HD SOURCE="HED">Subpart C&#x2014;Mortgage Servicing</HD>
@@ -3941,7 +3941,7 @@
                 <SUBJECT>Loss mitigation procedures.</SUBJECT>
               </SUBPART>
             </CONTENTS>
-            
+
             <SUBPART>
               <HD SOURCE="HED">Subpart C&#x2014;Mortgage Servicing</HD>
               <SECTION>
@@ -4269,7 +4269,8 @@
                 <P>(c)<E T="03">Evaluation of loss mitigation applications.</E>(1)<E T="03">Complete loss mitigation application.</E>If a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale, then, within 30 days of receiving a borrower's complete loss mitigation application, a servicer shall:</P>
                 <P>(i) Evaluate the borrower for all loss mitigation options available to the borrower; and</P>
                 <P>(ii) Provide the borrower with a notice in writing stating the servicer's determination of which loss mitigation options, if any, it will offer to the borrower on behalf of the owner or assignee of the mortgage loan.</P>
-                <P>(2)<E T="03">Incomplete loss mitigation application evaluation.</E>(i)<E T="03">In general.</E>Except as set forth in paragraph (c)(2)(ii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.</P>
+                <P>(2)<E T="03">Incomplete loss mitigation application evaluation.</E></P>
+                <P>(i)<E T="03">In general.</E>Except as set forth in paragraph (c)(2)(ii) of this section, a servicer shall not evade the requirement to evaluate a complete loss mitigation option for all loss mitigation options available to the borrower by offering a loss mitigation option based upon an evaluation of any information provided by a borrower in connection with an incomplete loss mitigation application.</P>
                 <P>(ii)<E T="03">Reasonable time.</E>Notwithstanding paragraph (c)(2)(i) of this section, if a servicer has exercised reasonable diligence in obtaining documents and information to complete a loss mitigation application, but a loss mitigation application remains incomplete for a significant period of time under the circumstances without further progress by a borrower to make the loss mitigation application complete, a servicer may, in its<PRTPAGE P="10885"/>discretion, evaluate an incomplete loss mitigation application and offer a borrower a loss mitigation option. Any such evaluation and offer is not subject to the requirements of this section and shall not constitute an evaluation of a single complete loss mitigation application for purposes of paragraph (i) of this section.</P>
                 <P>(d)<E T="03">Denial of loan modification options.</E>If a borrower's complete loss mitigation application is denied for any trial or permanent loan modification option available to the borrower pursuant to paragraph (c) of this section, a servicer shall state in the notice sent to the borrower pursuant to paragraph (c)(1)(ii) of this section:</P>
                 <P>(1) The specific reasons for the servicer's determination for each such trial or permanent loan modification option; and</P>
@@ -4884,28 +4885,28 @@
                 </ROW>
               </GPOTABLE>
               <P>[Use this paragraph if appropriate; otherwise omit.] Important note about insurance: If you have mortgage life or disability insurance or any other type of optional insurance, the transfer of servicing rights may affect your insurance in the following way:</P>
-              
+
               <FP SOURCE="FP-DASH"/>
-              
+
               <P>You should do the following to maintain coverage:</P>
-              
+
               <FP SOURCE="FP-DASH"/>
-              
+
               <P>Under Federal law, during the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer on or before its due date may not be treated by the new servicer as late, and a late fee may not be imposed on you.</P>
               <FP SOURCE="FP-DASH"/>
               <FP>[NAME OF PRESENT SERVICER]</FP>
-              
+
               <FP SOURCE="FP-DASH"/>
               <FP>Date</FP>
-              
+
               <FP>[and] [or]</FP>
-              
+
               <FP SOURCE="FP-DASH"/>
               <FP>[NAME OF NEW SERVICER]</FP>
-              
+
               <FP SOURCE="FP-DASH"/>
               <FP>Date</FP>
-              
+
 
               <HD SOURCE="HD1">MS-3 to Part 1024</HD>
               <HD SOURCE="HD2">Model Force-Placed Insurance Notice Forms</HD>
