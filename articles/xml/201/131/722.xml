@@ -1194,19 +1194,19 @@
                   <FP>(Entity Making Statement)</FP>
                   <FP SOURCE="FP-DASH">Property:</FP>
                   <FP SOURCE="FP-DASH">Date:</FP>
-                  
+
                   <P>This is to give you notice that [<E T="03">referring party</E>] has a business relationship with [<E T="03">settlement services provider(s)</E>]. [Describe the nature of the relationship between the referring party and the provider(s), including percentage of ownership interest, if applicable.] Because of this relationship, this referral may provide [<E T="03">referring party</E>] a financial or other benefit.</P>
                   <P>[A.] Set forth below is the estimated charge or range of charges for the settlement services listed. You are NOT required to use the listed provider(s) as a condition for [settlement of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER SETTLEMENT SERVICE PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.</P>
-                  
+
                   <FP SOURCE="FP-DASH">[<E T="03">provider and settlement service</E>]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH">[<E T="03">charge or range of charges</E>]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH"/>
-                  
+
                   <P>[B.] Set forth below is the estimated charge or range of charges for the settlement services of an attorney, credit reporting agency, or real estate appraiser that we, as your lender, will require you to use, as a condition of your loan on this property, to represent our interests in the transaction.</P>
-                  
+
                   <FP SOURCE="FP-DASH">[<E T="03">provider and settlement service</E>]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH"/>
@@ -1218,7 +1218,7 @@
                   <P>I/we have read this disclosure form, and understand that<E T="03">referring party</E>is referring me/us to purchase the above-described settlement service(s) and may receive a financial or other benefit as the result of this referral.</P>
                   <FP SOURCE="FP-DASH"/>
                   <FP>Signature</FP>
-                  
+
                   <FP>[INSTRUCTIONS TO PREPARER:] [Use paragraph A for referrals other than those by a lender to an attorney, a credit reporting agency, or a real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. Use paragraph B for those referrals to an attorney, credit reporting agency, or real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. When applicable, use both paragraphs. Specific timing rules for delivery of the affiliated business disclosure statement are set forth in 12 CFR 1024.15(b)(1) of Regulation X). These INSTRUCTIONS TO PREPARER should not appear on the statement.]</FP>
                 <!--</EXTRACT>-->
 	      </APPENDIX>
@@ -1235,6 +1235,7 @@
                   <HD SOURCE="HD3">Cushion: One-sixth of estimated annual disbursements</HD>
                   <HD SOURCE="HD3">Settlement: May 15</HD>
                   <HD SOURCE="HD3">First Payment: July 1</HD>
+                  <HD SOURCE="HD3">Step 1&#x2014;Initial Trial Balance</HD>
                   <GPOTABLE CDEF="s30,6,6,6" COLS="4" OPTS="L2,i1">
                     <TTITLE>Step 1&#x2014;Initial Trial Balance</TTITLE>
                     <BOXHD>
@@ -1323,6 +1324,9 @@
                       <ENT>0</ENT>
                     </ROW>
                   </GPOTABLE>
+
+                  <HD SOURCE="HD3">Step 2&#x2014;Adjusted Trial Balance</HD>
+                  <P>[Increase monthly balances to eliminate negative balances]</P>
                   <GPOTABLE CDEF="s30,6,6,6" COLS="4" OPTS="L2,i1">
                     <TTITLE>Step 2&#x2014;Adjusted Trial Balance</TTITLE>
                     <TDESC>[Increase monthly balances to eliminate negative balances]</TDESC>
@@ -1412,6 +1416,8 @@
                       <ENT>780</ENT>
                     </ROW>
                   </GPOTABLE>
+
+                  <HD SOURCE="HD3">Step 3&#x2014;Trial Balance With Cushion</HD>
                   <GPOTABLE CDEF="s30,6,6,6" COLS="4" OPTS="L2,i1">
                     <TTITLE>Step 3&#x2014;Trial Balance With Cushion</TTITLE>
                     <BOXHD>
@@ -1503,7 +1509,7 @@
                   <HD SOURCE="HD1">II. Example Illustrating Single-Item Analysis</HD>
                   <HD SOURCE="HD2">Assumptions</HD>
                   <HD SOURCE="HD3">Disbursements:</HD>
-                  
+
                   <FP SOURCE="FP-2">$360 for school taxes disbursed on September 20</FP>
                   <FP SOURCE="FP-2">$1,200 for county property taxes:</FP>
                   <FP SOURCE="FP-2">$500 disbursed on July 25</FP>
@@ -1942,9 +1948,9 @@
                   <P>Your new servicer will be __________.</P>
                   <P>The business address for your new servicer is:</P>
                   <FP SOURCE="FP-DASH"/>
-                  
+
                   <FP>_________________________________________ .</FP>
-                  
+
                   <P>The [toll-free] [collect call] telephone number of your new servicer is __________. If you have any question relating to the transfer of servicing to your new servicer call __________ [enter the name of an individual or department here] at __________ [toll free or collect call telephone number] between __ a.m. and __ p.m. on the following days __________.</P>
                   <P>The date that your present servicer will stop accepting payments form you is __________. The date that your new servicer will start accepting payments from you is __________. Send all payments due on or after that date to your new servicer.</P>
                   <P>[Use the paragraph if appropriate; otherwise omit.] The transfer of servicing rights may affect the term of or the continued availability of mortgage life or disability insurance or any other type of optional insurance in the following manner:</P>
@@ -1954,36 +1960,36 @@
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH"/>
                   <FP>__________</FP>
-                  
+
                   <FP>and you should take the following action to maintain coverage:</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP SOURCE="FP-DASH"/>
                   <FP>__________.</FP>
-                  
+
                   <P>You should also be aware of the following information, which is set out in more detail in Section 6 of the Real Estate Settlement Procedures Act (RESPA) (12 U.S.C. 2605):</P>
                   <P>During the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer before its due date may not be treated by the new loan servicer as late, and a late fee may not be imposed on you.</P>
                   <P>Section 6 of RESPA (12 U.S.C. 2605) gives you certain consumer rights. If you send a &#x201C;qualified written request&#x201D; to your loan servicer concerning the servicing of your loan, your servicer must provide you with a written acknowledgment within 20 Business Days of receipt of your request. A &#x201C;qualified written request&#x201D; is a written correspondence, other than notice on a payment coupon or other payment medium supplied by the servicer, which includes your name and account number, and your reasons for the request. [If you want to send a &#x201C;qualified written request&#x201D; regarding the servicing of your loan, it must be sent to this address:</P>
-                  
+
                   <FP>________________________________________ ]</FP>
-                  
+
                   <P>Not later than 60 Business Days after receiving your request, your servicer must make any appropriate corrections to your account, and must provide you with a written clarification regarding any dispute. During this 60-Business Day period, your servicer may not provide information to a consumer reporting agency concerning any overdue payment related to such period or qualified written request. However, this does not prevent the servicer from initiating foreclosure if proper grounds exist under the mortgage documents.</P>
                   <P>A Business Day is a day on which the offices of the business entity are open to the public for carrying on substantially all of its business functions.</P>
                   <P>Section 6 of RESPA also provides for damages and costs for individuals or classes of individuals in circumstances where servicers are shown to have violated the requirements of that section. You should seek legal advice if you believe your rights have been violated.</P>
-                  
+
                   <FP>[INSTRUCTIONS TO PREPARER: Delivery means placing the notice in the mail, first class postage prepaid, prior to 15 days before the effective date of transfer (transferor) or prior to 15 days after the effective date of transfer (transferee). However, this notice may be sent not more than 30 days after the effective date of the transfer of servicing rights if certain emergency business situations occur. See 12 CFR &#xA7; 1024.21(d)(1)(ii). &#x201C;Lender&#x201D; may be substituted for &#x201C;present servicer&#x201D; where appropriate. These instructions should not appear on the format.]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP>PRESENT SERVICER</FP>
                   <FP>[Signature not required]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP>Date</FP>
-                  
+
                   <FP>[and][or]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP>FUTURE SERVICER</FP>
                   <FP>[Signature not required]</FP>
                   <FP SOURCE="FP-DASH"/>
                   <FP>Date</FP>
-                  
+
                 <!--</EXTRACT>-->
 	      </APPENDIX>
             </PART>
