@@ -1517,6 +1517,7 @@
                   <HD SOURCE="HD3">Cushion: One-sixth of estimated annual disbursements</HD>
                   <HD SOURCE="HD3">Settlement: May 15</HD>
                   <HD SOURCE="HD3">First Payment: July 1</HD>
+                  <HD SOURCE="HD3">Step 1&#x2014;Initial Trial Balance</HD>
                   <GPOTABLE CDEF="s50,15,15,15,15,15,15" COLS="7" OPTS="L2,i1">
                     <TTITLE>Step 1&#x2014;Initial Trial Balance</TTITLE>
                     <BOXHD>
@@ -1650,6 +1651,9 @@
                       <ENT>0</ENT>
                     </ROW>
                   </GPOTABLE>
+
+                  <HD SOURCE="HD3">Step 2&#x2014;Adjusted Trial Balance</HD>
+                  <P>[Increase monthly balances to eliminate negative balances]</P>
                   <GPOTABLE CDEF="s50,15,15,15,15,15,15" COLS="7" OPTS="L2,i1">
                     <TTITLE>Step 2&#x2014;Adjusted Trial Balance</TTITLE>
                     <TDESC>[Increase monthly balances to eliminate negative balances]</TDESC>
@@ -1783,6 +1787,8 @@
                       <ENT>270</ENT>
                     </ROW>
                   </GPOTABLE>
+
+                  <HD SOURCE="HD3">Step 3&#x2014;Trial Balance With Cushion</HD>
                   <GPOTABLE CDEF="s50,15,15,15,15,15,15" COLS="7" OPTS="L2,i1">
                     <TTITLE>Step 3&#x2014;Trial Balance With Cushion</TTITLE>
                     <BOXHD>
