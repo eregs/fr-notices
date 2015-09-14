@@ -1430,7 +1430,7 @@
           </ROW>
         </GPOTABLE>
         <HD SOURCE="HD3">VIII. <E T="03">Property Report for Statement of Record—</E>§ 1010.100(b)</HD>
-        <HD SOURCE="HD3">Property Report</HD>
+        <HD SOURCE="HD4">Property Report</HD>
         <HD SOURCE="HD4">Heading and Section Number</HD>
         <GPOTABLE CDEF="s30,8" COLS="2" OPTS="L0,tp0,p0,8/9,g1,t1,i1">
           <ROW EXPSTB="00">
