@@ -1259,7 +1259,7 @@
         <FP SOURCE="FP-DASH">Purchaser's Address(es) (including county)</FP>
         <FP SOURCE="FP-DASH">Name of Subdivision</FP>
         <FP SOURCE="FP-DASH">Legal Description of Lot(s) Purchased</FP>
-        
+
         <P>I hereby affirm that all of the requirements of the MSA exemption as set forth in 15 U.S.C. 1702(b)(8) and 12 CFR 1010.13 have been met in the sale or lease of the lot(s) described above.</P>
 
         <P>I also affirm that I submit to the jurisdiction of the Interstate Land Sales Full Disclosure Act with regard to the sale or lease cited above.
@@ -1296,12 +1296,12 @@
         <FP SOURCE="FP-DASH">Address:</FP>
         <FP SOURCE="FP-DASH">Telephone Number:</FP>
         <HD SOURCE="HD3">Lot Information</HD>
-        
+
 
         <P>(Under this heading the developer is to list the following information:)
         </P>
         <FP SOURCE="FP-DASH">Lot Location:</FP>
-        
+
         <P>(Enter a statement disclosing all liens, reservations, taxes, assessments, easements and restrictions applicable to the lot. A copy of the restrictions may be attached in lieu of recitation.)</P>
         <HD SOURCE="HD3">Suppliers of Utilities and Issuers of Permits</HD>
         <P>(Under this heading the developer is to list the name, address and phone number of the appropriate governmental agency or agencies, if any, that will provide information on permits or other requirements for water, sewer and electrical installations. The information will also contain the name, address and telephone number of the suppliers of such utilities which can provide information to the purchaser on costs and availability of such services. A chart similar to the one below may be used to supply this information).</P>
@@ -1343,14 +1343,14 @@
         <FP SOURCE="FP-DASH">Name:</FP>
         <FP SOURCE="FP-DASH">Address:</FP>
         <FP SOURCE="FP-DASH">Telephone No.:</FP>
-        
+
         <P>Agent:
         </P>
         <FP SOURCE="FP-DASH">Name:</FP>
         <FP SOURCE="FP-DASH">Address:</FP>
         <FP SOURCE="FP-DASH">Telephone No.:</FP>
-        
-        
+
+
         <P>(Insert a general description of the developer's method of operation.)</P>
         <P>I affirm that I am, or will be, the developer of the property and/or method of operation described above.</P>
         <P>I affirm that the lots in said property will be sold in compliance with all of the requirements of 12 CFR 1010.15.</P>
@@ -1360,8 +1360,8 @@
         <FP SOURCE="FP-DASH">Date:</FP>
         <FP SOURCE="FP-DASH">Signature:</FP>
         <FP SOURCE="FP-DASH">Title:</FP>
-        
-        
+
+
         <P>WARNING: 18 U.S.C. 1001 provides, among other things, that whoever knowingly and willingly makes or uses a document or writing containing any false, fictitious, or fraudulent statement or entry, in any matter within the jurisdiction of any department or agency of the United States, shall be fined not more than $10,000 or imprisoned for not more than 5 years or both.</P>
         <HD SOURCE="HD3">V. <E T="03">Request for Regulatory Exemption Order—</E>§ 1010.16(c)</HD>
         <HD SOURCE="HD3">REQUEST FOR EXEMPTION ORDER</HD>
@@ -1376,7 +1376,7 @@
         <FP SOURCE="FP-DASH">Number of Lots Subject to Exemption Request</FP>
         <FP SOURCE="FP-DASH">Description of Lots (list lot and block number or other identifying designation)</FP>
         <FP SOURCE="FP-DASH"/>
-        
+
         <P>I affirm that I am the developer or owner of the property described above or will be the developer or owner at the time the lots are offered for sale to the public, or that I am the agent authorized by the developer or owner to complete this statement.</P>
 
         <P>I further affirm that the statements contained in all documents submitted with the request for an exemption order are true and complete.
@@ -1384,11 +1384,11 @@
         <FP SOURCE="FP-DASH"/>
         <FP>(Date)</FP>
         <FP SOURCE="FP-DASH"/>
-        
+
         <FP>(Signature of Developer, Owner or Authorized Agent)</FP>
         <FP SOURCE="FP-DASH"/>
         <FP>(Title)</FP>
-        
+
         <P>WARNING: Section 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</P>
         <HD SOURCE="HD3">VI. <E T="03">Developer's Affirmation for Advisory Opinion—</E>§ 1010.17(b)(3)</HD>
         <HD SOURCE="HD2">Developer's Affirmation</HD>
@@ -1400,8 +1400,8 @@
         <FP SOURCE="FP-DASH">Address of Agent</FP>
         <FP SOURCE="FP-DASH">Number of Lots in Subdivision</FP>
         <FP SOURCE="FP-DASH">Number of Acres in Subdivision</FP>
-        
-        
+
+
         <P>I affirm that I am the developer or owner of the property described above or will be the developer or owner at the time the lots are offered for sale to the public, or that I am the agent authorized by the developer or owner to complete this statement.</P>
 
         <P>I further affirm that the statements contained in all documents submitted with the request for an Advisory Opinion are true and complete.
@@ -1412,7 +1412,7 @@
         <FP>(Signature)</FP>
         <FP SOURCE="FP-DASH"/>
         <FP>(Title);</FP>
-        
+
         <P>WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</P>
         <HD SOURCE="HD3">VII. <E T="03">Initial and Consolidated Registration Fee Schedule—</E>§ 1010.35(b)</HD>
         <GPOTABLE CDEF="s30,8" COLS="2" OPTS="L2,tp0,i1">
@@ -1430,16 +1430,9 @@
           </ROW>
         </GPOTABLE>
         <HD SOURCE="HD3">VIII. <E T="03">Property Report for Statement of Record—</E>§ 1010.100(b)</HD>
+        <HD SOURCE="HD3">Property Report</HD>
+        <HD SOURCE="HD4">Heading and Section Number</HD>
         <GPOTABLE CDEF="s30,8" COLS="2" OPTS="L0,tp0,p0,8/9,g1,t1,i1">
-          <ROW EXPSTB="01">
-            <ENT I="21">Property Report</ENT>
-          </ROW>
-          <ROW>
-            <ENT I="21">
-              <E T="03">Heading and Section Number</E>
-              
-            </ENT>
-          </ROW>
           <ROW EXPSTB="00">
             <ENT I="01">Cover Sheet </ENT>
             <ENT>1010.105</ENT>
@@ -1729,7 +1722,7 @@
         <FP>(Developer's Address)</FP>
         <FP SOURCE="FP-DASH"/>
         <FP>(Developer's telephone number)</FP>
-        
+
         <P>“Answers to questions and information about this subdivision may be obtained by telephoning the developer at the number listed above.”</P>
         <HD SOURCE="HD3">XIV. <E T="03">Paragraphs to be included in the General Report—Title to the Property and Land Use</E>—§ 1010.109(a)(1)</HD>
         <P>“A person with legal title to property generally has the right to own, use and enjoy the property. A contract to buy a lot may give you possession but doesn't give you legal title. You won't have legal title until you receive a valid deed. A restriction or an encumbrance on your lot, or on the subdivision, could adversely affect your title.”</P>
@@ -1924,7 +1917,7 @@
         <FP SOURCE="FP-DASH">Name of subdivision</FP>
         <FP SOURCE="FP-DASH">ILSRP number</FP>
         <FP SOURCE="FP-DASH">Date of report</FP>
-        
+
 
         <P>We must give you a copy of this Property Report and give you an opportunity to read it before you sign any contract or agreement. By signing this receipt, you acknowledge that you have received a copy of our Property Report.
         </P>
@@ -1934,7 +1927,7 @@
         <FP SOURCE="FP-DASH">City</FP>
         <FP SOURCE="FP-DASH">State</FP>
         <FP SOURCE="FP-DASH">Zip</FP>
-        
+
 
         <P>If any representations are made to you which are contrary to those in this Report, please notify the:
         </P>
@@ -1957,10 +1950,10 @@
         </P>
         <FP SOURCE="FP-DASH">Name of subdivision</FP>
         <FP SOURCE="FP-DASH">Date of contract</FP>
-        
+
 
         <P>This will confirm that I/we wish to cancel our purchase contract.
-          
+
         </P>
         <FP SOURCE="FP-DASH">Purchaser(s) signature</FP>
         <FP SOURCE="FP-DASH">Date</FP>
@@ -1977,7 +1970,7 @@
         <FP>(Corporate seal if applicable)</FP>
         <FP SOURCE="FP-DASH"/>
         <FP>(Title)</FP>
-        
+
         <P>WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”</P>
         <HD SOURCE="HD3">XXIX. <E T="03">Form for Certification for Disclosure Documents</E>—§ 1010.504(a)(2)</HD>
 
