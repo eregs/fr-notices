@@ -316,10 +316,21 @@
           </AUTH>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>58. Section 555.21(b) is amended by removing &#x201C;7943 Angus Court, Springfield, Virginia 22153&#x201D; and adding in its place &#x201C;7664 K Fullerton Road, Springfield, Virginia 22150&#x201D;.</AMDPAR>
+          <AMDPAR>58. Section 555.21(b) is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>&#xA7; 555.21</SECTNO>
+            <SUBJECT>[Revised]</SUBJECT>
+            <STARS />
+            <P>(b) Requests for forms should be mailed to the ATF Distribution Center, 7664 K Fullerton Road, Springfield, Virginia 22150.</P>
+          </SECTION>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>59. Section 555.23 is amended by removing &#x201C;Center, 7943 Angus Court, Springfield, Virginia, 22153&#x201D; and adding in its place &#x201C;Center (See &#xA7; 555.21)&#x201D;.</AMDPAR>
+          <AMDPAR>59. Section 555.23 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.23</SECTNO>
+            <SUBJECT>List of explosive materials.</SUBJECT>
+            <P>The Director shall compile a list of explosive materials, which shall be published and revised at least annually in the <E T="04">Federal Register</E>. The “List of Explosive Materials” (ATF Publication 5400.8) is available at no cost upon request from the ATF Distribution Center (See &#xA7; 555.21).</P>
+          </SECTION>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
           <AMDPAR>60. Section 555.109 is amended by removing the parenthetical text at the end of the section and adding in its place &#x201C;(Approved by the Office of Management and Budget under control numbers 1140-0055 and 1140-0062)&#x201D;.</AMDPAR>
@@ -337,7 +348,12 @@
           <AMDPAR>64. Section 555.124 is amended by removing &#x201C;1512-0373&#x201D; in the parenthetical text at the end of the section and adding in its place &#x201C;1140-0030&#x201D;.</AMDPAR>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
-          <AMDPAR>65. Section 555.128 is amended by removing &#x201C;Spring Mills Office Park, 882 T.J. Jackson Drive, Falling Waters, West Virginia 25419&#x201D; in the second sentence and adding in its place &#x201C;244 Needy Road, Martinsburg, West Virginia 25405&#x201D;.</AMDPAR>
+          <AMDPAR>65. Section 555.128 is revised to read</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 555.128</SECTNO>
+            <SUBJECT>Discontinuance of business.</SUBJECT>
+            <P>Where an explosive materials business or operations is discontinued and succeeded by a new licensee or new permittee, the records prescribed by this subpart shall appropriately reflect such facts and shall be delivered to the successor. Where discontinuance of the business or operations is absolute, the records required by this subpart must be delivered within 30 days following the business or operations discontinuance to any ATF office located in the region in which the business was located, or to the ATF Out-of-Business Records Center, 244 Needy Road, Martinsburg, West Virginia 25405. Where State law or local ordinance requires the delivery of records to other responsible authority, the Chief, Firearms and Explosives Licensing Center may arrange for the delivery of the records required by this subpart to such authority. (See also, § 555.61.)</P>
+          </SECTION>
         </REGTEXT>
         <REGTEXT PART="555" TITLE="27">
           <AMDPAR>66. Section 555.181 is amended by removing the parenthetical text at the end of section.</AMDPAR>
