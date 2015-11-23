@@ -2709,7 +2709,6 @@
       <SECTION>
         <SECTNO>§ 555.220</SECTNO>
         <SUBJECT>Table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents.</SUBJECT>
-        <P/>
         <EXTRACT>
           <HD SOURCE="HD1">Table: Department of Defense Ammunition and Explosives Standards, Table 5-4.1 Extract; 4145.27 M, March 1969</HD>
         </EXTRACT>
@@ -3100,18 +3099,6 @@
             <SU>1</SU> Net weight is the weight of all pyrotechnic compositions, and exposive materials and fuse only.</TNOTE>
           <TNOTE>
             <SU>2</SU> While consumer fireworks or articles pyrotechnic in a finished state are not subject to regulation, explosive materials used to manufacture or assemble such fireworks or articles are subject to regulation. Thus, fireworks process buildings where consumer fireworks or articles pyrotechnic are being processed shall meet these requirements.</TNOTE>
-        </GPOTABLE>
-        
-        <GPOTABLE CDEF="s10,r10,r10" COLS="3" OPTS="L0,tp0,p1/1,i1">
-          <TTITLE/>
-          <BOXHD>
-            <CHED H="1"/>
-            <CHED H="1"/>
-            <CHED H="1"/>
-          </BOXHD>
-          <ROW>
-            <ENT I="01"/>
-          </ROW>
           <TNOTE>
             <SU>3</SU> This table does not apply to the separation distances between fireworks process buildings (see § 555.222) and between magazines (see §§ 555.218 and 555.224).</TNOTE>
           <TNOTE>
