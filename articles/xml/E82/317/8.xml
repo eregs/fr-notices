@@ -131,7 +131,7 @@
         </REGTEXT>
         
         <REGTEXT PART="478" TITLE="27">
-          <AMDPAR>11. [label:478-11-p12] is revised</AMDPAR>
+          <AMDPAR>11. [label:478-11-keyterm(Chief, National Licensing Center)] is removed. [insert-in-order] [label:478-11-keyterm(Chief, Federal Firearms Licensing Center FFLC)]</AMDPAR>
           <SECTION>
             <SECTNO>&#xA7; 478.11</SECTNO>
             <SUBJECT>Semiautomatic rifles or shotguns for testing or experimentation.</SUBJECT>
@@ -153,6 +153,7 @@
           <SECTION>
             <SECTNO>&#167; 478.25a</SECTNO>
             <SUBJECT>Responses to requests for information.</SUBJECT>
+            <!-- Note that this text isn't quite right, representing how the GPO read the amendment instructions rather than what was stated. Specifically, which phone number should be updated is up for debate -->
             <P>Each licensee shall respond immediately to, and in no event later than 24 hours after the receipt of, a request <PRTPAGE P="114"/>by an ATF officer at the National Tracing Center for information contained in the records required to be kept by this part for determining the disposition of one or more firearms in the course of a bona fide criminal investigation. The requested information shall be provided orally to the ATF officer within the 24-hour period. Verification of the identity and employment of National Tracing Center personnel requesting information may be established at the time the requested information is provided by telephoning the toll-free number 1-800-788-7132 or using the toll-free facsimile (FAX) number 1-800-788-7133.</P>
           </SECTION>
         </REGTEXT>
