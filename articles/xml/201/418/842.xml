@@ -133,16 +133,26 @@
           </AUTH>
           
           <AMDPAR>7. Amend &#xA7; 478.11 as follows:</AMDPAR>
-          <AMDPAR>a. Remove the words &#x201C;Tobacco and Firearms (ATF)&#x201D; in the definition of &#x201C;ATF Officer&#x201D; and add in their place the words &#x201C;Tobacco, Firearms, and Explosives (ATF)&#x201D;;</AMDPAR>
-          <AMDPAR>b. Revise the definition of &#x201C;Customs Officer&#x201D; to read as set forth below;</AMDPAR>
-          <AMDPAR>c. Remove the words &#x201C;Tobacco and Firearms, the Department of the Treasury&#x201D; in the definition of &#x201C;Director&#x201D; and add in their place the words &#x201C;Tobacco, Firearms, and Explosives, the Department of Justice&#x201D;; and</AMDPAR>
-          <AMDPAR>d. Remove the words &#x201C;Tobacco and Firearms&#x201D; in the definition of &#x201C;Division&#x201D; and add in their place the words &#x201C;Tobacco, Firearms, and Explosives&#x201D;.</AMDPAR>
+          <AMDPAR>a. Revise [label:478-11-keyterm(ATF Officer)]</AMDPAR>
+          <AMDPAR>b. Revise [label:478-11-keyterm(Customs Officer)]</AMDPAR>
+          <AMDPAR>c. Revise [label:478-11-keyterm(Director)]</AMDPAR>
+          <AMDPAR>d. Revise [label:478-11-keyterm(Division)]</AMDPAR>
           <SECTION>
             <SECTNO>&#xA7; 478.11</SECTNO>
             <SUBJECT>Meaning of terms.</SUBJECT>
             <STARS/>
             <P>
+              <E T="03">ATF officer.</E> An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) authorized to perform any function relating to the administration or enforcement of this part.</P>
+            <STARS/>
+            <P>
               <E T="03">Customs officer.</E>Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.</P>
+            <STARS/>
+            <P>
+              <E T="03">Director.</E> The Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, the Department of Justice, Washington, DC.</P>
+            <STARS/>
+            <P>
+              <E T="03">Division.</E> A Bureau of Alcohol, Tobacco, Firearms, and Explosives Division.</P>
+            <STARS/>
           </SECTION>
         </REGTEXT>
         <REGTEXT PART="478" TITLE="27">
