@@ -199,8 +199,10 @@
           <P>(c) Insurgency-counterinsurgency type firearms of other weapons having a special military application (e.g. close assault weapons systems) regardless of caliber and all components and parts for such firearms.</P>
           <P>(d) Firearms silencers and suppressors, including flash suppressors.</P>
           <P>(e) Riflescopes manufactured to military specifications and specifically designed or modified components therefor.</P>
-          <P>
-            <E T="04">Note:</E> Rifles, carbines, revolvers, and pistols, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length are included under Category I(a). Machineguns, submachineguns, machine <PRTPAGE P="91"/>pistols and fully automatic rifles to caliber .50 inclusive are included under Category I(b).</P>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>Rifles, carbines, revolvers, and pistols, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length are included under Category I(a). Machineguns, submachineguns, machine <PRTPAGE P="91"/>pistols and fully automatic rifles to caliber .50 inclusive are included under Category I(b).</P>
+          </NOTE>
           <HD SOURCE="HD1">category ii—artillery projectors</HD>
           <P>(a) Guns over caliber .50, howitzers, mortars, and recoiless rifles.</P>
           <P>(b) Military flamethrowers and projectors.</P>
@@ -210,8 +212,10 @@
           <P>(b) Components, parts, accessories, and attachments for articles in paragraph (a) of this category, including but not limited to cartridge cases, powder bags, bullets, jackets, cores, shells (excluding shotgun shells), projectiles, boosters, fuzes and components therefor, primers, and other detonating devices for such ammunition.</P>
           <P>(c) Ammunition belting and linking machines.</P>
           <P>(d) Ammunition manufacturing machines and ammunition loading machines (except handloading ones).</P>
-          <P>
-            <E T="04">Note:</E> Cartridge and shell casings are included under Category III unless, prior to their importation, they have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.</P>
+          <NOTE>
+          <HD SOURCE="HED">Note:</HD>
+          <P>Cartridge and shell casings are included under Category III unless, prior to their importation, they have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.</P>
+          </NOTE>
           <HD SOURCE="HD1">category iv—launch vehicles, guided missiles, ballistic missiles, rockets, torpedoes, bombs and mines</HD>
           <P>(a) Rockets (including but not limited to meteorological and other sounding rockets), bombs, grenades, torpedoes, depth charges, land and naval mines, as well as launchers for such defense articles, and demolition blocks and blasting caps.</P>
           <P>(b) Launch vehicles and missile and anti-missile systems including but not limited to guided, tactical and strategic missiles, launchers, and systems.</P>
@@ -222,23 +226,28 @@
           <P>(f) Ablative materials fabricated or semifabricated from advanced composites (<E T="03">e.g.,</E> silica, graphite, carbon, carbon/carbon, and boron filaments) for the articles in this category that are derived directly from or specifically developed or modified for defense articles.</P>
           <P>(g) Non/nuclear warheads for rockets and guided missiles.</P>
           <P>(h) All specifically designed components or modified components, parts, accessories, attachments, and associated equipment for the articles in this category.</P>
-          <P>
-            <E T="04">Note:</E> Military demolition blocks and blasting caps referred to in Category IV(a) do not include the following articles:</P>
+          <NOTE>
+          <HD SOURCE="HED">Note:</HD>
+          <P>Military demolition blocks and blasting caps referred to in Category IV(a) do not include the following articles:</P>
           <P>(a) Electric squibs.</P>
           <P>(b) No. 6 and No. 8 blasting caps, including electric ones.</P>
           <P>(c) Delay electric blasting caps (including No. 6 and No. 8 millisecond ones).</P>
           <P>(d) Seismograph electric blasting caps (including SSS, Static-Master, Vibrocap SR, and SEISMO SR).</P>
           <P>(e) Oil well perforating devices.</P>
-          <P>
-            <E T="04">Note:</E> Category V of “Munitions List” deleted as inapplicable to imports.</P>
+          </NOTE>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>Category V of “Munitions List” deleted as inapplicable to imports.</P>
+          </NOTE>
           <HD SOURCE="HD1">category vi—vessels of war and special naval equipment</HD>
           <P>(a) Warships, amphibious warfare vessels, landing craft, mine warfare vessels, patrol vessels, auxiliary vessels and service craft, experimental types of naval ships and any vessels specifically designed or modified for military purposes.</P>
           <P>(b) Turrets and gun mounts, arresting gear, special weapons systems, protective systems, submarine storage batteries, catapults and other components, parts, attachments, and accessories specifically designed or modified for combatant vessels.</P>
           <P>(c) Mine sweeping equipment, components, parts, attachments and accessories specifically designed or modified therefor.</P>
           <P>(d) Harbor entrance detection devices (magnetic, pressure, and acoustic ones) and controls and components therefor.</P>
           <P>(e) Naval nuclear propulsion plants, their land prototypes and special facilities for their construction, support and maintenance. This includes any machinery, device, component, or equipment specifically developed or designed or modified for use in such plants or facilities.</P>
-          <P>
-            <E T="04">Note:</E> The term “vessels of war” includes, but is not limited to the following:</P>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>The term “vessels of war” includes, but is not limited to the following:</P>
           <P>(a) Combatant vessels:</P>
           <P>(1) Warships (including nuclear-powered versions):</P>
           <P>(i) Aircraft carriers (CV, CVN)</P>
@@ -285,72 +294,85 @@
           <P>(6) Buoy Tenders (WLB, WLM, WLI, WLR, WLIC)</P>
           <P>(7) Tugs (WYTM, WYTL)</P>
           <P>(8) Light Ships (WLV).</P>
+      </NOTE>
           <HD SOURCE="HD1">category vii—tanks and military vehicles</HD>
           <P>(a) Military type armed or armored vehicles, military railway trains, and vehicles specifically designed or modified to accommodate mountings for arms or other specialized military equipment or fitted with such items.</P>
           <P>(b) Military tanks, combat engineer vehicles, bridge launching vehicles, halftracks and gun carriers.</P>
           <P>(c) Self-propelled guns and howitzers.</P>
-          <P>
-            <E T="04">Note:</E> Category VII (d) and (e) of “Munitions List” deleted as inapplicable to imports.</P>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>Category VII (d) and (e) of “Munitions List” deleted as inapplicable to imports.</P>
+          </NOTE>
           <P>(f) Amphibious vehicles.</P>
           <P>(g) Engines specifically designed or modified for the vehicles in paragraphs (a), (b), (c), and (f) of this category.</P>
           <P>(h) All specifically designed or modified components and parts, accessories, attachments, and associated equipment for the articles in this category, including but not limited to military bridging and deep water fording kits.</P>
-          <P>
-            <E T="04">Note:</E> An “amphibious vehicle” in Category VII(f) is an automotive vehicle or chassis which embodies all-wheel drive, which is equipped to meet special military requirements, and which has sealed electrical systems and adaptation features for deep water fording.</P>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>An “amphibious vehicle” in Category VII(f) is an automotive vehicle or chassis which embodies all-wheel drive, which is equipped to meet special military requirements, and which has sealed electrical systems and adaptation features for deep water fording.</P>
+          </NOTE>
           <HD SOURCE="HD1">category viii—aircraft, spacecraft, and associated equipment</HD>
           <P>(a) Aircraft, including but not limited to helicopters, non-expansive balloons, drones and lighter-than-air aircraft, which are specifically designed, modified, or equipped for military purposes. This includes but is not limited to the following military purposes: gunnery, bombing, rocket or missile launching, electronic and other surveillance, reconnaissance, refueling, aerial mapping, military liaison, cargo carrying or dropping, personnel dropping, airborne warning and control, and military training.</P>
-          <P>
-            <E T="04">Note:</E> Category VIII (b) through (j) and Categories IX, X, XI, XII and XIII of “Munitions List” deleted as inapplicable to imports.</P>
-          <P>
-            <E T="04">Note:</E> In Category VIII, “aircraft” means aircraft designed, modified, or equipped for a military purpose, including aircraft described as “demilitarized.” All aircraft bearing an original military designation are included in Category VIII. However, the following aircraft are not so included so long as they have not been specifically equipped, reequipped, or modified for military operations:</P>
-          <P>(a) Cargo aircraft bearing “C” designations and numbered C-45 through C-118 inclusive, and C-121 through C-125 inclusive, and C-131, using reciprocating engines only.</P>
-          <P>(b) Trainer aircraft bearing “T” designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.).</P>
-          <P>(c) Utility aircraft bearing “U” designations and using reciprocating engines only.</P>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>Category VIII (b) through (j) and Categories IX, X, XI, XII and XIII of “Munitions List” deleted as inapplicable to imports.</P>
+          </NOTE>
+          <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>In Category VIII, “aircraft” means aircraft designed, modified, or equipped for a military purpose, including aircraft described as “demilitarized.” All aircraft bearing an original military designation are included in Category VIII. However, the following aircraft are not so included so long as they have not been specifically equipped, reequipped, or modified for military operations:</P>
+              <P>(a) Cargo aircraft bearing “C” designations and numbered C-45 through C-118 inclusive, and C-121 through C-125 inclusive, and C-131, using reciprocating engines only.</P>
+              <P>(b) Trainer aircraft bearing “T” designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.).</P>
+              <P>(c) Utility aircraft bearing “U” designations and using reciprocating engines only.</P>
 
-          <P>(d) All liaison aircraft bearing an “L” designation.<PRTPAGE P="93"/>
-          </P>
-          <P>(e) All observation aircraft bearing “O” designations and using reciprocating engines.</P>
+              <P>(d) All liaison aircraft bearing an “L” designation.<PRTPAGE P="93"/>
+              </P>
+              <P>(e) All observation aircraft bearing “O” designations and using reciprocating engines.</P>
+          </NOTE>
           <HD SOURCE="HD1">category xiv—toxicological agents and equipment and radiological equipment</HD>
           <P>(a) Chemical agents, including but not limited to lung irritants, vesicants, lachrymators, and tear gases (except tear gas formulations containing 1% or less CN or CS), sternutators and irritant smoke, and nerve gases and incapacitating agents.</P>
           <P>(b) Biological agents.</P>
           <P>(c) Equipment for dissemination, detection, and identification of, and defense against, the articles in paragraphs (a) and (b) of this category.</P>
           <P>(d) Nuclear radiation detection and measuring devices manufactured to military specification.</P>
           <P>(e) Components, parts, accessories, attachments, and associated equipment specifically designed or modified for the articles in paragraphs (c) and (d) of this category.</P>
-          <P>
-            <E T="04">Note:</E> A chemical agent in Category XIV(a) is a substance having military application which by its ordinary and direct chemical action produces a powerful physiological effect. The term “chemical agent” includes, but is not limited to, the following chemical compounds:</P>
-          <P>(a) Lung irritants:</P>
-          <P>(1) Diphenylcyanoarsine (DC).</P>
-          <P>(2) Fluorine (but not fluorene).</P>
-          <P>(3) Trichloronitro methane (chloropicrin PS).</P>
-          <P>(b) Vesicants:</P>
-          <P>(1) B-Chlorovinyldichloroarsine (Lewisite, L).</P>
-          <P>(2) Bis(dichlorethyl) sulphide (Mustard Gas, HD or H).</P>
-          <P>(3) Ethyldichloroarsine (ED).</P>
-          <P>(4) Methyldichloroarsine (MD).</P>
-          <P>(c) Lachrymators and tear gases:</P>
-          <P>(1) A-Brombenzyl cyanide (BBC).</P>
-          <P>(2) Chloroacetophenone (CN).</P>
-          <P>(3) Dibromodimethyl ether.</P>
-          <P>(4) Dichlorodimethyl ether (ClCi).</P>
-          <P>(5) Ethyldibromoarsine.</P>
-          <P>(6) Phenylcarbylamine chloride.</P>
-          <P>(7) Tear gas solutions (CNB and CNS).</P>
-          <P>(8) Tear gas orthochlorobenzalmalononitrile (CS).</P>
-          <P>(d) Sternutators and irritant smokes:</P>
-          <P>(1) Diphenylamine chloroarsine (Adamsite, DM).</P>
-          <P>(2) Diphenylchloroarsine (BA).</P>
-          <P>(3) Liquid pepper.</P>
-          <P>(e) Nerve agents, gases, and aerosols. These are toxic compounds which affect the nervous system, such as:</P>
-          <P>(1) Dimethylaminoethoxycyanophosphine oxide (GA).</P>
-          <P>(2) Methylisopropoxyfluorophosphine oxide (GB).</P>
-          <P>(3) Methylpinacolyloxyfluoriphosphine oxide (GD).</P>
-          <P>(f) Antiplant chemicals, such as: Butyl 2-chloro-4-fluorophenoxyacetate (LNF).</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>A chemical agent in Category XIV(a) is a substance having military application which by its ordinary and direct chemical action produces a powerful physiological effect. The term “chemical agent” includes, but is not limited to, the following chemical compounds:</P>
+              <P>(a) Lung irritants:</P>
+              <P>(1) Diphenylcyanoarsine (DC).</P>
+              <P>(2) Fluorine (but not fluorene).</P>
+              <P>(3) Trichloronitro methane (chloropicrin PS).</P>
+              <P>(b) Vesicants:</P>
+              <P>(1) B-Chlorovinyldichloroarsine (Lewisite, L).</P>
+              <P>(2) Bis(dichlorethyl) sulphide (Mustard Gas, HD or H).</P>
+              <P>(3) Ethyldichloroarsine (ED).</P>
+              <P>(4) Methyldichloroarsine (MD).</P>
+              <P>(c) Lachrymators and tear gases:</P>
+              <P>(1) A-Brombenzyl cyanide (BBC).</P>
+              <P>(2) Chloroacetophenone (CN).</P>
+              <P>(3) Dibromodimethyl ether.</P>
+              <P>(4) Dichlorodimethyl ether (ClCi).</P>
+              <P>(5) Ethyldibromoarsine.</P>
+              <P>(6) Phenylcarbylamine chloride.</P>
+              <P>(7) Tear gas solutions (CNB and CNS).</P>
+              <P>(8) Tear gas orthochlorobenzalmalononitrile (CS).</P>
+              <P>(d) Sternutators and irritant smokes:</P>
+              <P>(1) Diphenylamine chloroarsine (Adamsite, DM).</P>
+              <P>(2) Diphenylchloroarsine (BA).</P>
+              <P>(3) Liquid pepper.</P>
+              <P>(e) Nerve agents, gases, and aerosols. These are toxic compounds which affect the nervous system, such as:</P>
+              <P>(1) Dimethylaminoethoxycyanophosphine oxide (GA).</P>
+              <P>(2) Methylisopropoxyfluorophosphine oxide (GB).</P>
+              <P>(3) Methylpinacolyloxyfluoriphosphine oxide (GD).</P>
+              <P>(f) Antiplant chemicals, such as: Butyl 2-chloro-4-fluorophenoxyacetate (LNF).</P>
+          </NOTE>
           <HD SOURCE="HD1">category xv <E T="01">[Reserved]</E>
           </HD>
           <HD SOURCE="HD1">category xvi—nuclear weapons design and test equipment</HD>
           <P>(a) Any article, material, equipment, or device, which is specifically designed or modified for use in the design, development, or fabrication of nuclear weapons or nuclear explosive devices.</P>
           <P>(b) Any article, material, equipment, or device, which is specifically designed or modified for use in the devising, carrying out, or evaluating of nuclear weapons tests or any other nuclear explosions, except such items as are in normal commercial use for other purposes.</P>
-          <P>
-            <E T="04">Note:</E> Categories XVII, XVIII, and XIX of “Munitions List” deleted as inapplicable to imports.</P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>Categories XVII, XVIII, and XIX of “Munitions List” deleted as inapplicable to imports.</P>
+          </NOTE>
           <HD SOURCE="HD1">category xx—submersible vessels, oceanographic and associated equipment</HD>
           <P>(a) Submersible vessels, manned and unmanned, designed or modified for military purposes or having independent capability to maneuver vertically or horizontally at depths below 1,000 feet, or powered by nuclear propulsion plants.</P>
           <P>(b) Submersible vessels, manned or unmanned, designed or modified in whole or in part from technology developed by or for the U.S. Armed Forces.</P>
@@ -361,14 +383,17 @@
           <HD SOURCE="HD1">category xxii—south africa</HD>
           <P>(a) Defense articles enumerated on the U.S. Munitions List (22 CFR Part 121).</P>
           <P>(b) Technical data relating to defense articles enumerated on the U.S. Munitions List.</P>
-          <P>
-            <E T="04">Note:</E> This category is applicable only to South Africa.</P>
-          <P>
-            <E T="04">Note:</E> “Technical data” means, for purposes of this category:<PRTPAGE P="94"/>
-          </P>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>This category is applicable only to South Africa.</P>
+          </NOTE>
+          <NOTE>
+            <HD SOURCE="HED">Note:</HD>
+            <P>“Technical data” means, for purposes of this category:<PRTPAGE P="94"/></P>
           <P>(1) Classified information relating to defense articles and defense services;</P>
           <P>(2) Information covered by an invention secrecy order;</P>
           <P>(3) Information which is directly related to the design, engineering, development, production, processing, manufacture, use, operation, overhaul, repair, maintenance, modification, or reconstruction of defense articles. This includes, for example, information in the form of blueprints, drawings, photographs, plans, instructions, computer software and documentation. This also includes information which advances the state of the art of articles on the U.S. Munitions List. This does not include information concerning general scientific, mathematical or engineering principles.</P>
+          </NOTE>
         </EXTRACT>
         <CITA>[T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; 50 FR 46647, Nov. 12, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000]</CITA>
       </SECTION>
