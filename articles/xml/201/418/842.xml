@@ -215,12 +215,18 @@
           </SECTION>
         </REGTEXT>
         <REGTEXT PART="478" TITLE="27">
+          <AMDPAR>15. Revise [label:478-103-e-p2]</AMDPAR>
           <SECTION>
             <SECTNO>&#xA7; 478.103</SECTNO>
             <SUBJECT>[Amended]</SUBJECT>
+            <STARS/>
+            <P>(e) * * *</P>
+            <NOTE>
+              <HD SOURCE="HED">Note:</HD>
+              <P>ATF I 5300.2 provides the complete language of the statutory prohibitions and exceptions provided in 18 U.S.C. 922(x) and the penalty provisions of 18 U.S.C. 924(a)(6). The Federal firearms licensee posting this sign will provide you with a copy of this publication upon request. Requests for additional copies of ATF I 5300.2 should be submitted to the ATF Distribution Center (<E T="03">http://www.atf.gov</E>) or made by calling (202) 648-6420.</P>
+            </NOTE>
           </SECTION>
 
-          <AMDPAR>15. Amend &#xA7; 478.103 by removing the words &#x201C;mailed to the ATF Distribution Center, P.O. Box 5950, Springfield, Virginia, 22150-5950&#x201D; in the note to paragraph (e) and adding in their place the words &#x201C;submitted to the ATF Distribution Center (<E T="03">http://www.atf.gov</E>) or made by calling (202) 648-6420&#x201D;.</AMDPAR>
         </REGTEXT>
         <REGTEXT PART="478" TITLE="27">
           <AMDPAR>16. Amend &#xA7; 478.126 by revising paragraph (a)</AMDPAR>
