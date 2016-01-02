@@ -137,110 +137,233 @@
         </REGTEXT>
         
         <REGTEXT PART="447" TITLE="27">
-          <AMDPAR>2. Amend &#xA7; 447.21 as follows:</AMDPAR>
-          <AMDPAR>a. In Category I, remove and reserve paragraph (e).</AMDPAR>
-          <AMDPAR>b. In Category III, remove and reserve paragraphs (c) and (d).</AMDPAR>
-          <AMDPAR>c. In Category IV, remove and reserve paragraph (f).</AMDPAR>
-          <AMDPAR>d. In Category VI:</AMDPAR>
-          <AMDPAR>(1) Revise paragraph (a);</AMDPAR>
-          <AMDPAR>(2) Revise paragraph (b);</AMDPAR>
-          <AMDPAR>(3) Remove and reserve paragraphs (c) and (d); and</AMDPAR>
-          <AMDPAR>(4) Revise the introductory text of the &#x201C;Note&#x201D; after paragraph (e).</AMDPAR>
-          <AMDPAR>e. In Category VII:</AMDPAR>
-          <AMDPAR>(1) Remove and reserve paragraph (g);</AMDPAR>
-          <AMDPAR>(2) Revise paragraph (h);</AMDPAR>
-          <AMDPAR>(3) Add a new paragraph (i) after paragraph (h);</AMDPAR>
-          <AMDPAR>(4) Revise the &#x201C;Note&#x201D; that now appears after the newly inserted paragraph (i); and</AMDPAR>
-          <AMDPAR>(5) Add a second &#x201C;Note&#x201D; and a third &#x201C;Note&#x201D; after the newly inserted paragraph (i).</AMDPAR>
-          <AMDPAR>f. In Category XIV:</AMDPAR>
-          <AMDPAR>(1) Remove and reserve paragraph (b);</AMDPAR>
-          <AMDPAR>(2) Revise paragraph (c); and</AMDPAR>
-          <AMDPAR>(3) Remove and reserve paragraphs (d) and (e).</AMDPAR>
-          <AMDPAR>g. In Category XVI:</AMDPAR>
-          <AMDPAR>(1) Remove and reserve paragraph (a);</AMDPAR>
-          <AMDPAR>(2) Revise paragraph (b); and</AMDPAR>
-          <AMDPAR>(3) Add a &#x201C;Note&#x201D; after paragraph (b).</AMDPAR>
-          <P>These amendments to &#xA7; 447.21 read as follows:</P>
+          <AMDPAR>2. Revise &#xA7; 447.21 as follows:</AMDPAR>
           <SECTION>
-            <SECTNO>&#xA7; 447.21</SECTNO>
+            <SECTNO>&#167; 447.21</SECTNO>
             <SUBJECT>The U.S. Munitions Import List.</SUBJECT>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY I&#x2014;FIREARMS</HD>
-            <STARS/>
-            <P>(e) [Reserved]</P>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY III&#x2014;AMMUNITION</HD>
-            <STARS/>
-            <P>(c) [Reserved]</P>
-            <P>(d) [Reserved]</P>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY IV&#x2014;LAUNCH VEHICLES, GUIDED MISSILES, BALLISTIC MISSILES, ROCKETS, TORPEDOES, BOMBS AND MINES</HD>
-            <STARS/>
-            <P>(f) [Reserved]</P>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY VI&#x2014;VESSELS OF WAR AND SPECIAL NAVAL EQUIPMENT</HD>
-            <P>(a) Vessels of War, if they are armed and equipped with offensive or defensive weapon systems, including but not limited to amphibious warfare vessels, landing craft, mine warfare vessels, patrol vessels, auxiliary vessels, service craft, experimental types of naval ships, and any vessels specifically designed or modified for military purposes or other surface vessels equipped with offensive or defensive military systems.</P>
-            <P>(b) Turrets and gun mounts, special weapons systems, protective systems, and other components, parts, attachments, and accessories specifically designed or modified for such articles on combatant vessels.</P>
-            <P>(c) [Reserved]</P>
-            <P>(d) [Reserved]</P>
-            <P>(e) * * *</P>
-            <NOTE>
-              <HD SOURCE="HED">Note:</HD>
-              <P>The term &#x201C;vessels of war&#x201D; includes, but is not limited to, the following, if armed and equipped with offensive or defensive weapons systems:&#x201D;.</P>
-            </NOTE>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY VII&#x2014;TANKS AND MILITARY VEHICLES</HD>
-            <STARS/>
-            <P>(g) [Reserved]</P>
-            <P>(h) Tank and military vehicle parts, components, accessories, attachments, and associated equipment for offensive or defensive systems for the articles in this category, as follows:</P>
-            <P>(1) Armored hulls, armored turrets and turret support rings;</P>
-            <P>(2) Active protection systems (i.e., defensive systems that actively detect and track incoming threats and launch a ballistic, explosive, energy or electromagnetic countermeasure(s) to neutralize the threat prior to contact with a vehicle);</P>
-            <P>(3) Composite armor parts and components;</P>
-            <P>(4) Spaced armor components and parts, including slat armor parts and components;</P>
-            <P>(5) Reactive armor and components;</P>
-            <P>(6) Electromagnetic armor parts and components, including pulsed power;</P>
-            <P>(7) Gun mount, stabilization, turret drive, and automatic elevating systems;</P>
-            <P>(8) Kits specifically designed to convert a vehicle in this category into either an unmanned or a driver-optional vehicle. For a kit to be controlled by this paragraph it must include all of the following:</P>
-            <P>(i) Remote or autonomous steering;</P>
-            <P>(ii) Acceleration and braking; and</P>
-            <P>(iii) A control system;</P>
-            <P>(9) Fire control computers, stored management systems, armaments control processors, vehicle weapon interface units and computers;</P>
-            <P>(10) Electro-optical sighting systems; and</P>
-            <P>(11) Laser rangefinder or target designating devices.</P>
-            <P>(i) Other ground vehicles having all of the following:</P>
-            <P>(1) Manufactured or fitted with materials or components to provide ballistic protection to level III (NIJ 0108.01, September 1985) or better;</P>
-            <P>(2) A transmission to provide drive to both front and rear wheels simultaneously, including those vehicles having additional wheels for load bearing purposes whether driven or not;</P>
-            <P>(3) Gross Vehicle Weight Rating (GVWR) greater than 4,500 kg; and</P>
-            <P>(4) Designed or modified for off-road use.</P>
-            <NOTE>
-              <HD SOURCE="HED">Note:</HD>
-              <P>An &#x201C;amphibious vehicle&#x201D; in Category VII(f) is a vehicle or chassis that is equipped to meet special military requirements, and that is designed or adapted for operation on or under water, as well as on land.</P>
-            </NOTE>
-            <NOTE>
-              <HD SOURCE="HED">Note:</HD>
-              <P>Engines and engine parts are not included in paragraph (h) of Category VII.</P>
-            </NOTE>
-            <NOTE>
-              <HD SOURCE="HED">Note:</HD>
-              <P>Paragraph (i) of Category VII does not apply to civil vehicles designed or modified for transporting money or valuables.</P>
-            </NOTE>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY XIV&#x2014;TOXICOLOGICAL AGENTS AND EQUIPMENT AND RADIOLOGICAL EQUIPMENT</HD>
-            <STARS/>
-            <P>(b) [Reserved]</P>
-            <P>(c) All specifically designed or modified equipment, including components, parts, accessories, and attachments for disseminating the articles in paragraph (a) of this category.</P>
-            <P>(d) [Reserved]</P>
-            <P>(e) [Reserved]</P>
-            <STARS/>
-            <HD SOURCE="HD3">CATEGORY XVI&#x2014;NUCLEAR WEAPONS DESIGN AND TEST EQUIPMENT</HD>
-            <P>(a) [Reserved]</P>
-            <P>(b) Modeling or simulation tools that model or simulate the environments generated by nuclear detonations or the effects of these environments on systems, subsystems, components, structures, or humans.</P>
-            <NOTE>
-              <HD SOURCE="HED">Note:</HD>
+            <P>The following defense articles and defense services, designated pursuant to section 38(a) of the Arms Export Control Act, 22 U.S.C. 2778(a), and E.O. 13637 are subject to controls under this part. For purposes of this part, the list shall be known as the U.S. Munitions Import List (USMIL):</P>
+            <HD SOURCE="HD1">The U.S. Munitions Import List</HD>
+            <HD SOURCE="HD1">category i&#8212;firearms</HD>
+            
+            <EXTRACT>
+              <P>(a) Nonautomatic and semiautomatic firearms, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length, and all components and parts for such firearms.</P>
+              <P>(b) Automatic firearms and all components and parts for such firearms to caliber .50 inclusive.</P>
+              <P>(c) Insurgency-counterinsurgency type firearms of other weapons having a special military application (e.g. close assault weapons systems) regardless of caliber and all components and parts for such firearms.</P>
+              <P>(d) Firearms silencers and suppressors, including flash suppressors.</P>
+              <P>(e) [Reserved]</P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Rifles, carbines, revolvers, and pistols, to caliber .50 inclusive, combat shotguns, and shotguns with barrels less than 18 inches in length are included under Category I(a). Machineguns, submachineguns, machine pistols and fully automatic rifles to caliber .50 inclusive are included under Category I(b).</P>
+              </NOTE>
+              <HD SOURCE="HD1">category ii&#8212;artillery projectors</HD>
+              <P>(a) Guns over caliber .50, howitzers, mortars, and recoiless rifles.</P>
+              <P>(b) Military flamethrowers and projectors.</P>
+              <P>(c) Components, parts, accessories, and attachments for the articles in paragraphs (a) and (b) of this category, including but not limited to mounts and carriages for these articles.</P>
+              <HD SOURCE="HD1">category iii&#8212;ammunition</HD>
+              <P>(a) Ammunition for the arms in Categories I and II of this section.</P>
+              <P>(b) Components, parts, accessories, and attachments for articles in paragraph (a) of this category, including but not limited to cartridge cases, powder bags, bullets, jackets, cores, shells (excluding shotgun shells), projectiles, boosters, fuzes and components therefor, primers, and other detonating devices for such ammunition.</P>
+              <P>(c) [Reserved]</P>
+              <P>(d) [Reserved]</P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Cartridge and shell casings are included under Category III unless, prior to their importation, they have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.</P>
+              </NOTE>
+              <HD SOURCE="HD1">category iv&#8212;launch vehicles, guided missiles, ballistic missiles, rockets, torpedoes, bombs and mines</HD>
+              <P>(a) Rockets (including but not limited to meteorological and other sounding rockets), bombs, grenades, torpedoes, depth charges, land and naval mines, as well as launchers for such defense articles, and demolition blocks and blasting caps.</P>
+              <P>(b) Launch vehicles and missile and anti-missile systems including but not limited to guided, tactical and strategic missiles, launchers, and systems.</P>
+              <P>(c) Apparatus, devices, and materials for the handling, control, activation, monitoring, detection, protection, discharge, or detonation of the articles in paragraphs (a) and (b) of this category. Articles in this category include, but are not limited to, the following: Fuses and components for the items in this category, bomb racks and shackles, bomb shackle release units, bomb ejectors, torpedo tubes, torpedo and guided missile boosters, guidance system equipment and parts, launching racks and projectors, pistols (exploders), igniters, fuze arming devices, intervalometers, guided missile launchers and specialized handling equipment, and hardened missile launching facilities.</P>
+              <P>(d) Missile and space vehicle powerplants.</P>
+              <P>(e) Military explosive excavating devices.</P>
+              <P>(f) [Reserved]</P>
+              <P>(g) Non/nuclear warheads for rockets and guided missiles.</P>
 
-              <P>Category XVI does not include equipment, technical data, or services controlled by the Department of Energy pursuant to the Atomic Energy Act of 1954, as amended, and the Nuclear Non-<PRTPAGE P="17029"/>Proliferation Act of 1978, as amended, or are government transfers authorized pursuant to these Acts.</P>
-            </NOTE>
-            <STARS/>
+              <P>(h) All specifically designed components or modified components, parts, accessories, attachments, and associated equipment for the articles in this category.
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Military demolition blocks and blasting caps referred to in Category IV(a) do not include the following articles:</P>
+                <P>(a) Electric squibs.</P>
+                <P>(b) No. 6 and No. 8 blasting caps, including electric ones.</P>
+                <P>(c) Delay electric blasting caps (including No. 6 and No. 8 millisecond ones).</P>
+                <P>(d) Seismograph electric blasting caps (including SSS, Static-Master, Vibrocap SR, and SEISMO SR).</P>
+                <P>(e) Oil well perforating devices.</P>
+              </NOTE>
+              <PRTPAGE P="9"/>
+              <HD SOURCE="HD1">category v <E T="01">[Reserved]</E>
+              </HD>
+              <HD SOURCE="HD1">category vi&#8212;vessels of war and special naval equipment</HD>
+              <P>(a) Vessels of War, if they are armed and equipped with offensive or defensive weapon systems, including but not limited to amphibious warfare vessels, landing craft, mine warfare vessels, patrol vessels, auxiliary vessels, service craft, experimental types of naval ships, and any vessels specifically designed or modified for military purposes or other surface vessels equipped with offensive or defensive military systems.</P>
+              <P>(b) Turrets and gun mounts, special weapons systems, protective systems, and other components, parts, attachments, and accessories specifically designed or modified for such articles on combatant vessels.</P>
+              <P>(c)-(d)[Reserved]</P>
+
+              <P>(e) Naval nuclear propulsion plants, their land prototypes and special facilities for their construction, support and maintenance. This includes any machinery, device, component, or equipment specifically developed or designed or modified for use in such plants or facilities.
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>The term &#8220;vessels of war&#8221; includes, but is not limited to, the following, if armed and equipped with offensive or defensive weapons systems:&#8221;.</P>
+                <P>(a) Combatant vessels:</P>
+                <P>(1) Warships (including nuclear-powered versions):</P>
+                <P>(i) Aircraft carriers (CV, CVN)</P>
+                <P>(ii) Battleships (BB)</P>
+                <P>(iii) Cruisers (CA, CG, CGN)</P>
+                <P>(iv) Destroyers (DD, DDG)</P>
+                <P>(v) Frigates (FF, FFG)</P>
+                <P>(vi) Submarines (SS, SSN, SSBN, SSG, SSAG).</P>
+                <P>(2) Other Combatant Classifications:</P>
+                <P>(i) Patrol Combatants (PC, PHM)</P>
+                <P>(ii) Amphibious Helicopter/Landing Craft Carriers (LHA, LPD, LPH)</P>
+                <P>(iii) Amphibious Landing Craft Carriers (LKA, LPA, LSD, LST)</P>
+                <P>(iv) Amphibious Command Ships (LCC)</P>
+                <P>(v) Mine Warfare Ships (MSO).</P>
+                <P>(b) Auxiliaries:</P>
+                <P>(1) Mobile Logistics Support:</P>
+                <P>(i) Under way Replenishment (AD, AF, AFS, AO, AOE, AOR)</P>
+                <P>(ii) Material Support (AD, AR, AS).</P>
+                <P>(2) Support Ships:</P>
+                <P>(i) Fleet Support Ships (ARS, ASR, ATA, ATF, ATS)</P>
+                <P>(ii) Other Auxiliaries (AG, AGDS, AGF, AGM, AGOR, AGOS, AGS, AH, AK, AKR, AOG, AOT, AP, APB, ARC, ARL, AVM, AVT).</P>
+                <P>(c) Combatant Craft:</P>
+                <P>(1) Patrol Craft:</P>
+                <P>(i) Coastal Patrol Combatants (PB, PCF, PCH, PTF)</P>
+                <P>(ii) River, Roadstead Craft (ATC, PBR).</P>
+                <P>(2) Amphibious Warfare Craft:</P>
+                <P>(i) Landing Craft (AALC, LCAC, LCM, LCPL, LCPR, LCU, LWT, SLWT)</P>
+                <P>(ii) Special Warfare Craft (LSSC, MSSC, SDV, SWCL, SWCM).</P>
+                <P>(3) Mine Warfare Craft:</P>
+                <P>(i) Mine Countermeasures Craft (MSB, MSD, MSI, MSM, MSR).</P>
+                <P>(d) Support and Service Craft:</P>
+                <P>(1) Tugs (YTB, YTL, YTM)</P>
+                <P>(2) Tankers (YO, YOG, YW)</P>
+                <P>(3) Lighters (YC, YCF, YCV, YF, YFN, YFNB, YFNX, YFR, YFRN, YFU, YG, YGN, YOGN, YON, YOS, YSR, YWN)</P>
+                <P>(4) Floating Dry Docks (AFDB, AFDL, AFDM, ARD, ARDM, YFD)</P>
+                <P>(5) Miscellaneous (APL, DSRV, DSV, IX, NR, YAG, YD, YDT, YFB, YFND, YEP, YFRT, YHLC, YM, YNG, YP, YPD, YR, YRB, YRBN, YRDH, YRDM, YRR, YRST, YSD).</P>
+                <P>(e) Coast Guard Patrol and Service Vessels and Craft:</P>
+                <P>(1) Coast Guard Cutters (CGC, WHEC, WMEC)</P>
+                <P>(2) Patrol Craft (WPB)</P>
+                <P>(3) Icebreakers (WAGB)</P>
+                <P>(4) Oceanography Vessels (WAGO)</P>
+                <P>(5) Special Vessels (WIX)</P>
+                <P>(6) Buoy Tenders (WLB, WLM, WLI, WLR, WLIC)</P>
+                <P>(7) Tugs (WYTM, WYTL)</P>
+                <P>(8) Light Ships (WLV).</P>
+              </NOTE>
+              <HD SOURCE="HD1">category vii&#8212;tanks and military vehicles</HD>
+              <P>(a) Military type armed or armored vehicles, military railway trains, and vehicles specifically designed or modified to accommodate mountings for arms or other specialized military equipment or fitted with such items.</P>
+              <P>(b) Military tanks, combat engineer vehicles, bridge launching vehicles, halftracks and gun carriers.</P>
+              <P>(c) Self-propelled guns and howitzers.</P>
+              <P>(d)-(e) [Reserved]</P>
+              <P>(f) Amphibious vehicles.</P>
+              <P>(g) [Reserved]</P>
+              <P>(h) Tank and military vehicle parts, components, accessories, attachments, and associated equipment for offensive or defensive systems for the articles in this category, as follows:</P>
+              <P>(1) Armored hulls, armored turrets and turret support rings;</P>
+              <P>(2) Active protection systems (i.e., defensive systems that actively detect and track incoming threats and launch a ballistic, explosive, energy or electromagnetic countermeasure(s) to neutralize the threat prior to contact with a vehicle);</P>
+              <P>(3) Composite armor parts and components;</P>
+              <P>(4) Spaced armor components and parts, including slat armor parts and components;</P>
+              <P>(5) Reactive armor and components;</P>
+
+              <P>(6) Electromagnetic armor parts and components, including pulsed power;<PRTPAGE P="10"/>
+              </P>
+              <P>(7) Gun mount, stabilization, turret drive, and automatic elevating systems;</P>
+              <P>(8) Kits specifically designed to convert a vehicle in this category into either an unmanned or a driver-optional vehicle. For a kit to be controlled by this paragraph it must include all of the following:</P>
+              <P>(i) Remote or autonomous steering;</P>
+              <P>(ii) Acceleration and braking; and</P>
+              <P>(iii) A control system;</P>
+              <P>(9) Fire control computers, stored management systems, armaments control processors, vehicle weapon interface units and computers;</P>
+              <P>(10) Electro-optical sighting systems; and</P>
+              <P>(11) Laser rangefinder or target designating devices.</P>
+              <P>(i) Other ground vehicles having all of the following:</P>
+              <P>(1) Manufactured or fitted with materials or components to provide ballistic protection to level III (NIJ 0108.01, September 1985) or better;</P>
+              <P>(2) A transmission to provide drive to both front and rear wheels simultaneously, including those vehicles having additional wheels for load bearing purposes whether driven or not;</P>
+              <P>(3) Gross Vehicle Weight Rating (GVWR) greater than 4,500 kg; and</P>
+              <P>(4) Designed or modified for off-road use.
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>An &#8220;amphibious vehicle&#8221; in Category VII(f) is a vehicle or chassis that is equipped to meet special military requirements, and that is designed or adapted for operation on or under water, as well as on land.</P>
+              </NOTE>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Engines and engine parts are not included in paragraph (h) of Category VII.</P>
+              </NOTE>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Paragraph (i) of Category VII does not apply to civil vehicles designed or modified for transporting money or valuables.</P>
+              </NOTE>
+              <HD SOURCE="HD1">category viii&#8212;aircraft and associated equipment</HD>
+              <P>(a) Aircraft, including but not limited to helicopters, non-expansive balloons, drones and lighter-than-air aircraft, which are specifically designed, modified, or equipped for military purposes. This includes but is not limited to the following military purposes: gunnery, bombing, rocket or missile launching, electronic and other surveillance, reconnaissance, refueling, aerial mapping, military liaison, cargo carrying or dropping, personnel dropping, airborne warning and control, and military training.</P>
+              <P>(b) [Reserved]
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>In Category VIII, &#8220;aircraft&#8221; means aircraft designed, modified, or equipped for a military purpose, including aircraft described as &#8220;demilitarized.&#8221; All aircraft bearing an original military designation are included in Category VIII. However, the following aircraft are not so included so long as they have not been specifically equipped, reequipped, or modified for military operations:</P>
+                <P>(a) Cargo aircraft bearing &#8220;C&#8221; designations and numbered C-45 through C-118 inclusive, and C-121 through C-125 inclusive, and C-131, using reciprocating engines only.</P>
+                <P>(b) Trainer aircraft bearing &#8220;T&#8221; designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.).</P>
+                <P>(c) Utility aircraft bearing &#8220;U&#8221; designations and using reciprocating engines only.</P>
+                <P>(d) All liaison aircraft bearing an &#8220;L&#8221; designation.</P>
+                <P>(e) All observation aircraft bearing &#8220;O&#8221; designations and using reciprocating engines.</P>
+              </NOTE>
+              <HD SOURCE="HD1">categories ix-xiii <E T="01">[Reserved]</E>
+              </HD>
+              <HD SOURCE="HD1">category xiv&#8212;toxicological agents and equipment and radiological equipment</HD>
+              <P>(a) Chemical agents, including but not limited to lung irritants, vesicants, lachrymators, and tear gases (except tear gas formulations containing 1% or less CN or CS), sternutators and irritant smoke, and nerve gases and incapacitating agents.</P>
+              <P>(b) [Reserved]</P>
+              <P>(c) All specifically designed or modified equipment, including components, parts, accessories, and attachments for disseminating the articles in paragraph (a) of this category.</P>
+              <P>(d)-(e)[Reserved]
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>A chemical agent in Category XIV(a) is a substance having military application which by its ordinary and direct chemical action produces a powerful physiological effect. The term &#8220;chemical agent&#8221; includes, but is not limited to, the following chemical compounds:</P>
+                <P>(a) Lung irritants:</P>
+                <P>(1) Diphenylcyanoarsine (DC).</P>
+                <P>(2) Fluorine (but not fluorene).</P>
+                <P>(3) Trichloronitro methane (chloropicrin PS).</P>
+                <P>(b) Vesicants:</P>
+                <P>(1) B-Chlorovinyldichloroarsine (Lewisite, L).</P>
+                <P>(2) Bis(dichlorethyl) sulphide (Mustard Gas, HD or H).</P>
+                <P>(3) Ethyldichloroarsine (ED).</P>
+                <P>(4) Methyldichloroarsine (MD).</P>
+                <P>(c) Lachrymators and tear gases:</P>
+                <P>(1) A-Brombenzyl cyanide (BBC).</P>
+                <P>(2) Chloroacetophenone (CN).</P>
+                <P>(3) Dibromodimethyl ether.</P>
+                <P>(4) Dichlorodimethyl ether (ClCi).</P>
+                <P>(5) Ethyldibromoarsine.</P>
+                <P>(6) Phenylcarbylamine chloride.</P>
+                <P>(7) Tear gas solutions (CNB and CNS).</P>
+                <P>(8) Tear gas orthochlorobenzalmalononitrile (CS).</P>
+                <P>(d) Sternutators and irritant smokes:</P>
+                <P>(1) Diphenylamine chloroarsine (Adamsite, DM).</P>
+                <P>(2) Diphenylchloroarsine (BA).<PRTPAGE P="11"/>
+                </P>
+                <P>(3) Liquid pepper.</P>
+                <P>(e) Nerve agents, gases, and aerosols. These are toxic compounds which affect the nervous system, such as:</P>
+                <P>(1) Dimethylaminoethoxycyanophosphine oxide (GA).</P>
+                <P>(2) Methylisopropoxyfluorophosphine oxide (GB).</P>
+                <P>(3) Methylpinacolyloxyfluoriphosphine oxide (GD).</P>
+                <P>(f) Antiplant chemicals, such as: Butyl 2-chloro-4-fluorophenoxyacetate (LNF).</P>
+              </NOTE>
+              <HD SOURCE="HD1">category xv <E T="01">[Reserved]</E>
+              </HD>
+              <HD SOURCE="HD1">category xvi&#8212;nuclear weapons design and test equipment</HD>
+              <P>(a)[Reserved]</P>
+
+              <P>(b) Modeling or simulation tools that model or simulate the environments generated by nuclear detonations or the effects of these environments on systems, subsystems, components, structures, or humans.
+              </P>
+              <NOTE>
+                <HD SOURCE="HED">Note:</HD>
+                <P>Category XVI does not include equipment, technical data, or services controlled by the Department of Energy pursuant to the Atomic Energy Act of 1954, as amended, and the Nuclear Non-Proliferation Act of 1978, as amended, or are government transfers authorized pursuant to these Acts.</P>
+              </NOTE>
+              <HD SOURCE="HD1">category xvii-xix <E T="01">[Reserved]</E>
+              </HD>
+              <HD SOURCE="HD1">category xx&#8212;submersible vessels, oceanographic and associated equipment</HD>
+              <P>(a) Submersible vessels, manned and unmanned, designed or modified for military purposes or having independent capability to maneuver vertically or horizontally at depths below 1,000 feet, or powered by nuclear propulsion plants.</P>
+              <P>(b) Submersible vessels, manned or unmanned, designed or modified in whole or in part from technology developed by or for the U.S. Armed Forces.</P>
+              <P>(c) Any of the articles in Category VI and elsewhere in this part specifically designed or modified for use with submersible vessels, and oceanographic or associated equipment assigned a military designation.</P>
+              <P>(d) Equipment, components, parts, accessories, and attachments specifically designed for any of the articles in paragraphs (a) and (b) of this category.</P>
+              <HD SOURCE="HD1">category xxi&#8212;miscellaneous articles</HD>
+              <P>Any defense article or defense service not specifically enumerated in the other categories of the USMIL that has substantial military applicability and that has been specifically designed or modified for military purposes. The decision as to whether any article may be included in this category shall be made by the Attorney General with the concurrence of the Secretary of State and the Secretary of Defense.</P>
+            </EXTRACT>
+            <CITA>[T.D. ATF-215, 50 FR 42158, Oct. 18, 1985; 50 FR 46647, Nov. 12, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000; T.D. ATF-9F, 72 FR 72938, Dec. 26, 2007; ATF-50F, 78 FR 23677, Apr. 22, 2013; T.D. ATF-25I, 79 FR 17028, Mar. 27, 2014]</CITA>
           </SECTION>
         </REGTEXT>
         <SIG>
