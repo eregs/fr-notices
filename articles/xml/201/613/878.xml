@@ -72,20 +72,95 @@
           </AUTH>
         </REGTEXT>
         <REGTEXT PART="478" TITLE="27">
+          <AMDPAR>2. Amend § 478.125:</AMDPAR>
+          <AMDPAR>a. In paragraph (e) by removing the words “Manufacturer and/or Importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”; and
+            <EREGS_INSTRUCTIONS><PUT label="478-?-125-e-p1" /></EREGS_INSTRUCTIONS>
+          </AMDPAR>
+          <AMDPAR>b. In paragraph (f)(2) by removing the words “Manufacturer and/or importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”.
+            <EREGS_INSTRUCTIONS><PUT label="478-?-125-f-2-p1" /></EREGS_INSTRUCTIONS>
+          </AMDPAR>
           <SECTION>
             <SECTNO>§ 478.125 </SECTNO>
             <SUBJECT>[Amended]</SUBJECT>
+            <STARS />
+            <P>(e) * * *</P>
+            <GPOTABLE CDEF="s20,8,8,8,8,6,9,6,6,15" COLS="10" OPTS="L2,p6,6/1">
+              <TTITLE>Firearms Acquisition and Disposition Record</TTITLE>
+              <BOXHD>
+                <CHED H="1">Description of firearm</CHED>
+                <CHED H="2">Manufacturer and importer (if any)</CHED>
+                <CHED H="2">Model</CHED>
+                <CHED H="2">Serial No.</CHED>
+                <CHED H="2">Type</CHED>
+                <CHED H="2">Caliber or gauge</CHED>
+                <CHED H="1">Receipt</CHED>
+                <CHED H="2">Date</CHED>
+                <CHED H="2">Name and address or name and license No.</CHED>
+                <CHED H="1">Disposition</CHED>
+                <CHED H="2">Date</CHED>
+                <CHED H="2">Name</CHED>
+                <CHED H="2">Address or license No. if licensee, or Form 4473 Serial No. if Forms 4473 filed numerically</CHED>
+              </BOXHD>
+              <ROW EXPSTB="09">
+                <ENT I="22"> </ENT>
+              </ROW>
+            </GPOTABLE>
+            <STARS />
+            <P>(f) * * *</P>
+            <P>(2) * * *</P>
+            <GPOTABLE CDEF="s8,6,6,6,6,6,10,6,10,10,10" COLS="11" OPTS="L2,p6,6/7">
+              <TTITLE>Firearms Collectors Acquisition and Disposition Record</TTITLE>
+              <BOXHD>
+                <CHED H="1">Description of firearm</CHED>
+                <CHED H="2">Manufacturer and importer (if any)</CHED>
+                <CHED H="2">Model</CHED>
+                <CHED H="2">Serial No.</CHED>
+                <CHED H="2">Type</CHED>
+                <CHED H="2">Caliber or gauge</CHED>
+                <CHED H="1">Receipt</CHED>
+                <CHED H="2">Date</CHED>
+                <CHED H="2">Name and address or name and license No.</CHED>
+                <CHED H="1">Disposition</CHED>
+                <CHED H="2">Date</CHED>
+                <CHED H="2">Name and address or name and license No.</CHED>
+                <CHED H="2">Date of birth if non-licensee</CHED>
+                <CHED H="2">Driver's license No. or other identification if non-licensee</CHED>
+              </BOXHD>
+              <ROW>
+                <ENT I="22"> </ENT>
+              </ROW>
+            </GPOTABLE>
+            <STARS />
           </SECTION>
-          <AMDPAR>2. Amend § 478.125:</AMDPAR>
-          <AMDPAR>a. In paragraph (e) by removing the words “Manufacturer and/or Importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”; and</AMDPAR>
-          <AMDPAR>b. In paragraph (f)(2) by removing the words “Manufacturer and/or importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”.</AMDPAR>
         </REGTEXT>
         <REGTEXT PART="478" TITLE="27">
+          <AMDPAR>3. Amend § 478.125a in paragraph (a)(4) by removing the words “Manufacturer and/or importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”.
+            <EREGS_INSTRUCTIONS><PUT label="478-?-125a-a-4-p1" /></EREGS_INSTRUCTIONS>
+          </AMDPAR>
           <SECTION>
             <SECTNO>§ 478.125a </SECTNO>
             <SUBJECT>[Amended]</SUBJECT>
+            <P>(a) * * *</P>
+            <P>(4) * * *</P>
+            <GPOTABLE CDEF="13,6,12,5,11,5,11,15" COLS="8" OPTS="L2(,,0),p6,6/1">
+              <TTITLE>Disposition Record of Personal Firearms</TTITLE>
+              <BOXHD>
+                <CHED H="1">Description of firearm</CHED>
+                <CHED H="2">Manufacturer and importer (if any)</CHED>
+                <CHED H="2">Model</CHED>
+                <CHED H="2">Serial No.</CHED>
+                <CHED H="2">Type</CHED>
+                <CHED H="2">Caliber or gauge</CHED>
+                <CHED H="1">Disposition</CHED>
+                <CHED H="2">Date</CHED>
+                <CHED H="2">Name and address (business address if licensee)</CHED>
+                <CHED H="2">Date of birth if nonlicensee</CHED>
+              </BOXHD>
+              <ROW EXPSTB="07">
+                <ENT I="22"> </ENT>
+              </ROW>
+            </GPOTABLE>
           </SECTION>
-          <AMDPAR>3. Amend § 478.125a in paragraph (a)(4) by removing the words “Manufacturer and/or importer” in the associated table and adding in their place the words “Manufacturer and importer (if any)”.</AMDPAR>
         </REGTEXT>
         <SIG>
           <DATED>Dated: June 7, 2016.</DATED>
