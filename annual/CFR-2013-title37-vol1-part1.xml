@@ -1934,8 +1934,10 @@
           </GPOTABLE>
           <P>§ 1.217—for processing a redacted copy of a paper submitted in the file of an application in which a redacted copy was submitted for the patent application publication.</P>
           <P>§ 1.221—for requesting voluntary publication or republication of an application.</P>
-          <P>(j) [Reserved]</P>
           <GPOTABLE CDEF="s50,10" COLS="2" OPTS="L0,tp0,p0,8/9,g1,t1">
+            <ROW>
+              <ENT>(j) [Reserved]</ENT>
+            </ROW>
             <ROW>
               <ENT I="22">(k) For filing a request for expedited examination under § 1.155(a):</ENT>
             </ROW>

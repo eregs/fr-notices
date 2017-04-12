@@ -4508,9 +4508,10 @@
           <SUBJECT>International application filing, processing and search fees.</SUBJECT>
           <P>(a) The following fees and charges for international applications are established by law or by the Director under the authority of 35 U.S.C. 376:</P>
           <P>(1) A transmittal fee (see 35 U.S.C. 361(d) and PCT Rule 14) consisting of:</P>
+          <P>(i)</P>
           <GPOTABLE CDEF="s30,8" COLS="2" OPTS="L0,tp0,p1,8/9,g1,t1">
             <ROW>
-              <ENT I="01">(i) A basic portion</ENT>
+              <ENT I="01">A basic portion</ENT>
               <ENT>$240.00</ENT>
             </ROW>
           </GPOTABLE>
