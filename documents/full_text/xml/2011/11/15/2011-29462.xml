@@ -81,7 +81,7 @@
           <HD SOURCE="HED">List of Subjects in 37 CFR Part 1</HD>
           <P>Administrative practice and procedure, Courts, Freedom of information, Inventions and patents, Reporting and recordkeeping requirements, Small businesses, and Biologics.</P>
         </LSTSUB>
-        
+
         <P>For the reasons set forth in the preamble, 37 CFR part 1 is amended as follows:</P>
         <REGTEXT PART="1" TITLE="37">
           <PART>
@@ -118,7 +118,7 @@
             <STARS/>
           </SECTION>
         </REGTEXT>
-        
+
         <REGTEXT PART="1" TITLE="37">
           <AMDPAR>3. Section 1.445 is amended by revising paragraph (a) introductory text and paragraph (a)(1) to read as follows:</AMDPAR>
           <SECTION>
@@ -126,6 +126,7 @@
             <SUBJECT>International application filing, processing and search fees.</SUBJECT>
             <P>(a) The following fees and charges for international applications are established by law or by the Director under the authority of 35 U.S.C. 376:</P>
             <P>(1) A transmittal fee (see 35 U.S.C. 361(d) and PCT Rule 14) consisting of:</P>
+            <P>(i)</P>
             <GPOTABLE CDEF="s50,8" COLS="2" OPTS="L0,tp0,p1,8/9,g1,t1,i1">
               <TTITLE> </TTITLE>
               <BOXHD>
@@ -133,7 +134,7 @@
                 <CHED H="1"> </CHED>
               </BOXHD>
               <ROW>
-                <ENT I="01">(i) A basic portion </ENT>
+                <ENT I="01">A basic portion </ENT>
                 <ENT>$240.00</ENT>
               </ROW>
             </GPOTABLE>
