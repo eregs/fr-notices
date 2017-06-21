@@ -137,7 +137,7 @@
           <CFR>37 CFR Part 41</CFR>
           <P>Administrative practice and procedure, Inventions and patents, Lawyers.</P>
         </LSTSUB>
-        
+
         <P>For the reasons set forth in the preamble, 37 CFR parts 1 and 41 are amended to read as follows:</P>
         <REGTEXT PART="1" TITLE="37">
           <PART>
@@ -148,7 +148,7 @@
             <HD SOURCE="HED">Authority:</HD>
             <P>35 U.S.C. 2(b)(2).</P>
           </AUTH>
-          
+
           <AMDPAR>2. Section 1.17 is revised to read as follows:</AMDPAR>
           <SECTION>
             <SECTNO>§ 1.17 </SECTNO>
@@ -446,13 +446,15 @@
             </GPOTABLE>
             <P>§ 1.217—for  processing a redacted copy of a paper submitted in the file of an application in which a redacted copy was submitted for the patent application publication.</P>
             <P>§ 1.221—for  requesting voluntary publication or republication of an application.</P>
-            <P>(j) [Reserved]</P>
             <GPOTABLE CDEF="s50,10" COLS="2" OPTS="L0,tp0,p0,7/8,g1,t1,i1">
               <TTITLE> </TTITLE>
               <BOXHD>
                 <CHED H="1"> </CHED>
                 <CHED H="1"> </CHED>
               </BOXHD>
+              <ROW>
+                <ENT>(j) [Reserved]</ENT>
+              </ROW>
               <ROW>
                 <ENT I="22">(k) For filing a request for expedited examination under § 1.155(a):</ENT>
               </ROW>
@@ -1049,7 +1051,7 @@
             <P> 35 U.S.C. 2(b)(2), 3(a)(2)(A), 21, 23, 32, 41, 134, 135, and Pub. L. 112-29.</P>
           </AUTH>
         </REGTEXT>
-        
+
         <REGTEXT PART="41" TITLE="37">
           <AMDPAR>7. Section 41.37 is amended by revising paragraphs (a) and (b) to read as follows:</AMDPAR>
           <SECTION>
